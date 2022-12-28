@@ -1,0 +1,1590 @@
+News private String text,Newss html a jwcid my OrderColumn orderProperties text,1
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html li jwcid errors Foreach element li source ognl page delegate allErrors class error,1
+Division private String shortcut,Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,1
+Employee private String password,Employee html td class input span jwcid password size maxlength td,1
+Division private String nameCz,Division hbm xml property name nameCz column name,1
+HomeServiceImpl protected NewsDao newsDao,applicationContext xml property name newsDao ref local newsDao property,1
+CrudPage private String submitTag,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,1
+Employee private Boolean active,Employee html td class label span jwcid FieldLabel field ognl components active displayName message Active td,1
+CrudPage private String submitTag,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,1
+Employee private String password,Employee hbm xml property name password column passwd,1
+Employee private String lastName,Newss html a jwcid my OrderColumn orderProperties author lastName,1
+Employee private String phone,Employees html td span jwcid Insert value ognl item phone span td,1
+Employee private String email,Employee html td class label span jwcid FieldLabel field ognl components email displayName Email Email span td,1
+CrudPage private String submitTag,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,1
+Employee private Date birthDate,Employee hbm xml property name birthDate column birth date type date,1
+Employee private Date birthDate,Employee hbm xml property name birthDate column birth date type date,1
+Employee private String email,Employees html a jwcid my OrderColumn orderProperties email,1
+CrudPage public static final String DO CREATE DO CREATE,CrudPage html tag ognl hispacta tapestry page CrudPage DO CREATE type submit value Create new,1
+CrudPage public static final String DO SAVE DO SAVE,CrudPage html tag ognl hispacta tapestry page CrudPage DO SAVE type submit value Insert,1
+Division private String nameEn,Divisions html a jwcid my OrderColumn orderProperties nameEn,1
+CrudPage private String submitTag,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,1
+Employee private String username,Employee html td class input span jwcid username TextField value ognl item username size maxlength td,1
+News private Date inserted,News html td class readOnly span jwcid Insert value ognl item inserted format ognl dateTimeFormat td,1
+News private Date inserted,Newss html a jwcid my OrderColumn orderProperties inserted,1
+News private String text,News html td class label span jwcid FieldLabel field ognl components text displayName Text Text span td,1
+News private String text,News html td class readOnly span jwcid InsertText value ognl item text Text of this news span td,1
+Employee private String lastName,Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,1
+News private Employee author,News html a jwcid my ItemLink itemPage Employee item ognl item author,1
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Conditional condition ognl page delegate hasErrors,1
+CrudPage public static final String DO EDIT DO EDIT,CrudPage html tag ognl hispacta tapestry page CrudPage DO EDIT type submit value Edit,1
+Division private String shortcut,Division html td class input input jwcid shortcut size maxlength td,1
+Employee private String phone,Employee hbm xml property name phone,1
+Employee private Boolean active,Employee hbm xml property name active,1
+Employee private String title,Employee hbm xml property name title,1
+Division private String shortcut,Divisions html a jwcid my OrderColumn orderProperties shortcut,1
+CrudPage private boolean editing,CrudPage html span jwcid Hidden value ognl page editing,1
+CrudPage public static final String DO SAVE DO SAVE,CrudPage html tag ognl hispacta tapestry page CrudPage DO SAVE type submit value Update,1
+Employee private String firstName,Employee html td class input input jwcid firstName size maxlength td,1
+Employee private Set roles,Employee hbm xml set name roles table employee role cascade delete lazy true,1
+Employee private Boolean active,Employee hbm xml property name active,1
+Employee private String phone,Employees html a jwcid my OrderColumn orderProperties phone,1
+BasePage private Format dayMonthFormat,Employee html td class readOnly span jwcid Insert value ognl item birthDate format ognl dayMonthFormat nbsp td,1
+Employee private Division division,Employees html td span jwcid Insert value ognl item division shortcut MD span td,1
+Employee private String email,Employee html td class input span jwcid email size maxlength td,1
+News private String text,Home html span jwcid Insert value ognl hispacta util Utils shortenStr item text,1
+Employee private Boolean active,Employee html span jwcid Conditional condition ognl item active span key Yes span,1
+CrudPage private boolean editing,CrudPage html span jwcid Conditional condition ognl page editing page canModify,1
+Division private String nameEn,Division html td class readOnly span jwcid Insert value ognl item nameEn Division of Virtual Instrumentation span td,1
+News private String text,News hbm xml property name text,1
+Employee private String lastName,Employee hbm xml property name lastName column last name,1
+Employee private Division division,Employee html td class label span jwcid FieldLabel field ognl components division displayName message Division td,1
+Employee private String lastName,Employee hbm xml property name lastName column last name,1
+Employee private String password,Employee hbm xml property name password column passwd,1
+Division private String shortcut,Division hbm xml property name shortcut,1
+CrudPage private String submitTag,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,1
+Division private String nameCz,Divisions html td span jwcid Insert value ognl item nameCz Divize Virtualni Instrumentace span td,1
+Employee private String firstName,Employee hbm xml property name firstName column first name,1
+Division private String nameEn,Division html td class input input jwcid nameEn size maxlength td,1
+Division private String nameCz,Divisions html a jwcid my OrderColumn orderProperties nameCz,1
+Employee private Division division,Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,1
+News private Date inserted,News hbm xml property name inserted,1
+Employee private Date birthDate,Employee html td class readOnly span jwcid Insert value ognl item birthDate format ognl dayMonthFormat nbsp td,1
+Division private String nameEn,Division hbm xml property name nameEn column name en,1
+Employee private String lastName,Employee html td class readOnly span jwcid Insert value ognl item lastName Miarka span td,1
+News private Employee author,News hbm xml many to one name author class Employee column employee id,1
+CrudPage private String submitTag,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,1
+Employee private String lastName,Employee html td class label span jwcid FieldLabel field ognl components lastName Last Name span td,1
+Employee private Division division,Employee html td class readOnly a jwcid my ItemLink itemPage Division item ognl item division My Division a td,1
+BasePage private Format dateTimeFormat,News html td class readOnly span jwcid Insert value ognl item inserted format ognl dateTimeFormat td,1
+Division private String shortcut,Division hbm xml property name shortcut,1
+News private Employee author,Newss html a jwcid my OrderColumn orderProperties author lastName,1
+Employee private String firstName,Employee html td class readOnly span jwcid Insert value ognl item firstName Karel span td,1
+News private String text,Newss html td span jwcid Insert value ognl hispacta util Utils shortenStr item text td,1
+BasePage private Format dateTimeFormat,Newss html td align right nowrap nowrap span jwcid Insert value ognl item inserted format ognl dateTimeFormat td,1
+Employee private String email,Employee hbm xml property name email,1
+PersonnelServiceImpl protected EhCacheBasedUserCache userCache,applicationContext xml property name userCache ref bean userCache property,1
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml property name employeeDao ref local employeeDao property,1
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html form jwcid detailForm Form id detailForm delegate ognl page delegate listener ognl page listeners formSubmit,1
+News private Date inserted,Newss html td align right nowrap nowrap span jwcid Insert value ognl item inserted format ognl dateTimeFormat td,1
+CrudPage public static final String DO SAVE DO SAVE,CrudPage html tag ognl hispacta tapestry page CrudPage DO SAVE type submit value Update,1
+Division private String nameCz,Division hbm xml property name nameCz column name,1
+CrudPage public static final String DO DELETE DO DELETE,CrudPage html tag ognl hispacta tapestry page CrudPage DO DELETE type submit value Delete onclick return confirm Do you really want to delete this item,1
+Employee private String phone,Employee html td class input input jwcid TextField value ognl item phone size maxlength td,1
+Employee private Date birthDate,Employee html td class input input jwcid birthDate DatePicker value ognl item birthDate td,1
+News private Date inserted,News hbm xml property name inserted,1
+Employee private int version,Employee hbm xml version name version,1
+Division private String shortcut,Divisions html td span jwcid Insert value ognl item shortcut DVI span td,1
+Employee private String title,Employee hbm xml property name title,1
+Employee private String firstName,Employee hbm xml property name firstName column first name,1
+Employee private Division division,Employee html td class input select jwcid division td,1
+CrudPage private String submitTag,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,1
+CrudPage private boolean editing,CrudPage html span jwcid Conditional condition ognl page editing page canModify,1
+Employee private Boolean active,Employee html span jwcid Conditional condition ognl item active span key No span,1
+Employee private String lastHost,Employee hbm xml property name lastHost column last host,1
+CrudPage public static final String DO LIST DO LIST,CrudPage html tag ognl hispacta tapestry page CrudPage DO LIST type submit value List items,1
+Employee private Date birthDate,Employee html td class label span jwcid FieldLabel field ognl components birthDate displayName message Employee birthDate Birth Date span td,1
+Employee private String lastName,Employees html a jwcid my OrderColumn orderProperties lastName,1
+CrudPage private String submitTag,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,1
+Division private String shortcut,Division html td class label span jwcid FieldLabel field ognl components shortcut Shortcut span td,1
+CrudPage private boolean editing,CrudPage html span jwcid Conditional condition ognl page editing,1
+CrudPage private Integer syncId,CrudPage html span jwcid Hidden value ognl page syncId listener ognl page listeners synchronizeItem,1
+CrudPage private String submitTag,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,1
+Employee private Division division,Employee hbm xml many to one name division class Division column division id,1
+CrudPage private String submitTag,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,1
+Employee private String password,Employee html td class label span jwcid FieldLabel field ognl components password displayName message Employee password td,1
+Division private String shortcut,Division html td class readOnly span jwcid Insert value ognl item shortcut DVI span td,1
+Employee private String phone,Employee hbm xml property name phone,1
+Employee private Boolean active,Employee hbm xml column name active sql type NUMERIC,1
+News private Employee author,Newss html td nowrap nowrap a jwcid my ItemLink itemPage Employee item ognl item author td,1
+CrudPage private String submitTag,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,1
+Employee private Date lastLogin,Employee hbm xml property name lastLogin column last login,1
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Conditional condition ognl page delegate hasErrors,1
+CrudPage public static final String DO SAVE DO SAVE,CrudPage html tag ognl hispacta tapestry page CrudPage DO SAVE type submit value Insert,1
+Employee private Date lastLogin,Employee hbm xml property name lastLogin column last login,1
+Employee private String username,Employee hbm xml property name username column login,1
+CrudPage private String submitTag,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,1
+Division private String nameCz,Division html td class input input jwcid nameCz size maxlength td,1
+Employee private int version,Employee hbm xml version name version,1
+CrudPage public static final String DO EDIT DO EDIT,CrudPage html tag ognl hispacta tapestry page CrudPage DO EDIT type submit value Edit,1
+Division private String nameCz,Division html td class readOnly span jwcid Insert value ognl item nameCz Divize virtualni instrumentace span td,1
+Division private String nameEn,Division html td class label span jwcid FieldLabel field ognl components nameEn English Name span td,1
+Employee private String username,Employee hbm xml property name username column login,1
+CrudPage private boolean editing,CrudPage html span jwcid Hidden value ognl page editing,1
+Division private String shortcut,Employees html td span jwcid Insert value ognl item division shortcut MD span td,1
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html form jwcid detailForm Form id detailForm delegate ognl page delegate listener ognl page listeners formSubmit,1
+Employee private String lastHost,Employee hbm xml property name lastHost column last host,1
+Employee private Division division,Employee hbm xml many to one name division class Division column division id,1
+News private Employee author,News hbm xml many to one name author class Employee column employee id,1
+CrudPage private boolean editing,CrudPage html span jwcid Conditional condition ognl page editing,1
+Employee private Boolean active,Employee hbm xml column name active sql type NUMERIC,1
+News private Employee author,Home html td valign top nowrap span jwcid Insert value ognl item author fullName td,1
+CrudPage public static final String DO DELETE DO DELETE,CrudPage html tag ognl hispacta tapestry page CrudPage DO DELETE type submit value Delete onclick return confirm Do you really want to delete this item,1
+Employee private Boolean active,Employee html td class input input type checkbox jwcid active Checkbox selected ognl item active td,1
+Division private String nameEn,Divisions html td span jwcid Insert value ognl item nameEn Division of Virtual Instrumentation span td,1
+CrudPage public static final String DO LIST DO LIST,CrudPage html tag ognl hispacta tapestry page CrudPage DO LIST type submit value List items,1
+Employee private Set roles,Employee hbm xml set name roles table employee role cascade delete lazy true,1
+News private Date inserted,Home html td valign top nowrap span jwcid Insert value ognl item inserted format ognl dateFormat td,1
+Employee private String email,Employee hbm xml property name email,1
+Division private String nameCz,Division html td class label span jwcid FieldLabel field ognl components nameCz Czech Name span td,1
+Employee private String phone,Employee html td class readOnly span jwcid Insert value ognl item phone span nbsp td,1
+Employee private String lastName,Employee html td class input input jwcid lastName size maxlength td,1
+CrudPage public static final String DO CREATE DO CREATE,CrudPage html tag ognl hispacta tapestry page CrudPage DO CREATE type submit value Create new,1
+News private String text,News hbm xml property name text,1
+CrudPage private Integer syncId,CrudPage html span jwcid Hidden value ognl page syncId listener ognl page listeners synchronizeItem,1
+Division private String nameEn,Division hbm xml property name nameEn column name en,1
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html li jwcid errors Foreach element li source ognl page delegate allErrors class error,1
+Employee private String firstName,Employee html td class label span jwcid FieldLabel field ognl components firstName First Name span td,1
+PersonnelServiceImpl protected DivisionDao divisionDao,applicationContext xml property name divisionDao ref local divisionDao property,1
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties email,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties email,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties email,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties email,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties email,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties email,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties email,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameCz,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameCz,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameCz,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameCz,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameCz,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameCz,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameCz,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties lastName,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties inserted,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties inserted,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties inserted,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties inserted,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties inserted,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties inserted,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties inserted,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties shortcut,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties shortcut,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties shortcut,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties shortcut,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties shortcut,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties shortcut,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties shortcut,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameEn,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameEn,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameEn,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameEn,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameEn,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameEn,0
+PagingAndSorting private String orderProperties,Divisions html a jwcid my OrderColumn orderProperties nameEn,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties phone,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties phone,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties phone,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties phone,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties phone,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties phone,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties phone,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties text,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties text,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties text,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties text,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties text,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties text,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties text,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,0
+PagingAndSorting private String orderProperties,Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties author lastName,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties author lastName,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties author lastName,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties author lastName,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties author lastName,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties author lastName,0
+PagingAndSorting private String orderProperties,Newss html a jwcid my OrderColumn orderProperties author lastName,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+PagingAndSorting private String orderProperties,OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml id name id column division id unsaved value null,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private Division division,Division hbm xml class name Division table division,0
+Employee private String password,applicationContext xml prop key hibernate connection password root prop,0
+Employee private String password,applicationContext xml prop key hibernate connection password root prop,0
+Employee private String password,applicationContext xml prop key hibernate connection password root prop,0
+Employee private String password,applicationContext xml prop key hibernate connection password root prop,0
+Employee private String password,applicationContext xml prop key hibernate connection password root prop,0
+Employee private String password,applicationContext xml prop key hibernate connection password root prop,0
+Employee private String password,applicationContext xml prop key hibernate connection password root prop,0
+Employee private String password,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String password,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String password,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String password,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String password,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String password,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String password,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String password,Login html td class input input type password name j password size td,0
+Employee private String password,Login html td class input input type password name j password size td,0
+Employee private String password,Login html td class input input type password name j password size td,0
+Employee private String password,Login html td class input input type password name j password size td,0
+Employee private String password,Login html td class input input type password name j password size td,0
+Employee private String password,Login html td class input input type password name j password size td,0
+Employee private String password,Login html td class input input type password name j password size td,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,Divisions html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Divisions html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Divisions html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Divisions html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Divisions html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Divisions html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Divisions html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Login html td class input input type text name j username size td,0
+News private String text,Login html td class input input type text name j username size td,0
+News private String text,Login html td class input input type text name j username size td,0
+News private String text,Login html td class input input type text name j username size td,0
+News private String text,Login html td class input input type text name j username size td,0
+News private String text,Login html td class input input type text name j username size td,0
+News private String text,Login html td class input input type text name j username size td,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,Divisions html link rel stylesheet type text css href css base css,0
+News private String text,Divisions html link rel stylesheet type text css href css base css,0
+News private String text,Divisions html link rel stylesheet type text css href css base css,0
+News private String text,Divisions html link rel stylesheet type text css href css base css,0
+News private String text,Divisions html link rel stylesheet type text css href css base css,0
+News private String text,Divisions html link rel stylesheet type text css href css base css,0
+News private String text,Divisions html link rel stylesheet type text css href css base css,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,Division html link rel stylesheet type text css href css base css,0
+News private String text,Division html link rel stylesheet type text css href css base css,0
+News private String text,Division html link rel stylesheet type text css href css base css,0
+News private String text,Division html link rel stylesheet type text css href css base css,0
+News private String text,Division html link rel stylesheet type text css href css base css,0
+News private String text,Division html link rel stylesheet type text css href css base css,0
+News private String text,Division html link rel stylesheet type text css href css base css,0
+News private String text,Division html meta http equiv Content Type content text html charset UTF,0
+News private String text,Division html meta http equiv Content Type content text html charset UTF,0
+News private String text,Division html meta http equiv Content Type content text html charset UTF,0
+News private String text,Division html meta http equiv Content Type content text html charset UTF,0
+News private String text,Division html meta http equiv Content Type content text html charset UTF,0
+News private String text,Division html meta http equiv Content Type content text html charset UTF,0
+News private String text,Division html meta http equiv Content Type content text html charset UTF,0
+News private String text,Division html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Division html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Division html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Division html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Division html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Division html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Division html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,workspace xml provider selected true editor type id text editor,0
+News private String text,index html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,index html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,index html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,index html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,index html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,index html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,index html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+News private String text,Home html if jwcid Conditional condition ognl item text length,0
+News private String text,Home html if jwcid Conditional condition ognl item text length,0
+News private String text,Home html if jwcid Conditional condition ognl item text length,0
+News private String text,Home html if jwcid Conditional condition ognl item text length,0
+News private String text,Home html if jwcid Conditional condition ognl item text length,0
+News private String text,Home html if jwcid Conditional condition ognl item text length,0
+News private String text,Home html if jwcid Conditional condition ognl item text length,0
+News private String text,Border html body jwcid Body bgcolor FFFFFF text leftmargin topmargin marginwidth marginheight,0
+News private String text,Border html body jwcid Body bgcolor FFFFFF text leftmargin topmargin marginwidth marginheight,0
+News private String text,Border html body jwcid Body bgcolor FFFFFF text leftmargin topmargin marginwidth marginheight,0
+News private String text,Border html body jwcid Body bgcolor FFFFFF text leftmargin topmargin marginwidth marginheight,0
+News private String text,Border html body jwcid Body bgcolor FFFFFF text leftmargin topmargin marginwidth marginheight,0
+News private String text,Border html body jwcid Body bgcolor FFFFFF text leftmargin topmargin marginwidth marginheight,0
+News private String text,Border html body jwcid Body bgcolor FFFFFF text leftmargin topmargin marginwidth marginheight,0
+News private String text,Divisions html meta http equiv Content Type content text html charset UTF,0
+News private String text,Divisions html meta http equiv Content Type content text html charset UTF,0
+News private String text,Divisions html meta http equiv Content Type content text html charset UTF,0
+News private String text,Divisions html meta http equiv Content Type content text html charset UTF,0
+News private String text,Divisions html meta http equiv Content Type content text html charset UTF,0
+News private String text,Divisions html meta http equiv Content Type content text html charset UTF,0
+News private String text,Divisions html meta http equiv Content Type content text html charset UTF,0
+Employee private Boolean active,workspace xml task active true id Default summary Default task,0
+Employee private Boolean active,workspace xml task active true id Default summary Default task,0
+Employee private Boolean active,workspace xml task active true id Default summary Default task,0
+Employee private Boolean active,workspace xml task active true id Default summary Default task,0
+Employee private Boolean active,workspace xml task active true id Default summary Default task,0
+Employee private Boolean active,workspace xml task active true id Default summary Default task,0
+Employee private Boolean active,workspace xml task active true id Default summary Default task,0
+Employee private Boolean active,workspace xml editor active true,0
+Employee private Boolean active,workspace xml editor active true,0
+Employee private Boolean active,workspace xml editor active true,0
+Employee private Boolean active,workspace xml editor active true,0
+Employee private Boolean active,workspace xml editor active true,0
+Employee private Boolean active,workspace xml editor active true,0
+Employee private Boolean active,workspace xml editor active true,0
+Division private String nameEn,Divisions html span key Division nameEn English Name span,0
+Division private String nameEn,Divisions html span key Division nameEn English Name span,0
+Division private String nameEn,Divisions html span key Division nameEn English Name span,0
+Division private String nameEn,Divisions html span key Division nameEn English Name span,0
+Division private String nameEn,Divisions html span key Division nameEn English Name span,0
+Division private String nameEn,Divisions html span key Division nameEn English Name span,0
+Division private String nameEn,Divisions html span key Division nameEn English Name span,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,misc xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,workspace xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,applicationContext xml list,0
+SelectableModel protected List list,workspace xml list default true id c f d c b b b b b name Default Changelist comment,0
+SelectableModel protected List list,workspace xml list default true id c f d c b b b b b name Default Changelist comment,0
+SelectableModel protected List list,workspace xml list default true id c f d c b b b b b name Default Changelist comment,0
+SelectableModel protected List list,workspace xml list default true id c f d c b b b b b name Default Changelist comment,0
+SelectableModel protected List list,workspace xml list default true id c f d c b b b b b name Default Changelist comment,0
+SelectableModel protected List list,workspace xml list default true id c f d c b b b b b name Default Changelist comment,0
+SelectableModel protected List list,workspace xml list default true id c f d c b b b b b name Default Changelist comment,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,Border html xml version encoding UTF,0
+Employee private int version,Border html xml version encoding UTF,0
+Employee private int version,Border html xml version encoding UTF,0
+Employee private int version,Border html xml version encoding UTF,0
+Employee private int version,Border html xml version encoding UTF,0
+Employee private int version,Border html xml version encoding UTF,0
+Employee private int version,Border html xml version encoding UTF,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,pom xml version hispacta version,0
+Employee private int version,pom xml version hispacta version,0
+Employee private int version,pom xml version hispacta version,0
+Employee private int version,pom xml version hispacta version,0
+Employee private int version,pom xml version hispacta version,0
+Employee private int version,pom xml version hispacta version,0
+Employee private int version,pom xml version hispacta version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version aug r dev version,0
+Employee private int version,pom xml version aug r dev version,0
+Employee private int version,pom xml version aug r dev version,0
+Employee private int version,pom xml version aug r dev version,0
+Employee private int version,pom xml version aug r dev version,0
+Employee private int version,pom xml version aug r dev version,0
+Employee private int version,pom xml version aug r dev version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,misc xml xml version encoding UTF,0
+Employee private int version,misc xml xml version encoding UTF,0
+Employee private int version,misc xml xml version encoding UTF,0
+Employee private int version,misc xml xml version encoding UTF,0
+Employee private int version,misc xml xml version encoding UTF,0
+Employee private int version,misc xml xml version encoding UTF,0
+Employee private int version,misc xml xml version encoding UTF,0
+Employee private int version,vcs xml xml version encoding UTF,0
+Employee private int version,vcs xml xml version encoding UTF,0
+Employee private int version,vcs xml xml version encoding UTF,0
+Employee private int version,vcs xml xml version encoding UTF,0
+Employee private int version,vcs xml xml version encoding UTF,0
+Employee private int version,vcs xml xml version encoding UTF,0
+Employee private int version,vcs xml xml version encoding UTF,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version R RC version,0
+Employee private int version,pom xml version R RC version,0
+Employee private int version,pom xml version R RC version,0
+Employee private int version,pom xml version R RC version,0
+Employee private int version,pom xml version R RC version,0
+Employee private int version,pom xml version R RC version,0
+Employee private int version,pom xml version R RC version,0
+Employee private int version,compiler xml project version,0
+Employee private int version,compiler xml project version,0
+Employee private int version,compiler xml project version,0
+Employee private int version,compiler xml project version,0
+Employee private int version,compiler xml project version,0
+Employee private int version,compiler xml project version,0
+Employee private int version,compiler xml project version,0
+Employee private int version,workspace xml xml version encoding UTF,0
+Employee private int version,workspace xml xml version encoding UTF,0
+Employee private int version,workspace xml xml version encoding UTF,0
+Employee private int version,workspace xml xml version encoding UTF,0
+Employee private int version,workspace xml xml version encoding UTF,0
+Employee private int version,workspace xml xml version encoding UTF,0
+Employee private int version,workspace xml xml version encoding UTF,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,workspace xml navigator proportions version,0
+Employee private int version,workspace xml navigator proportions version,0
+Employee private int version,workspace xml navigator proportions version,0
+Employee private int version,workspace xml navigator proportions version,0
+Employee private int version,workspace xml navigator proportions version,0
+Employee private int version,workspace xml navigator proportions version,0
+Employee private int version,workspace xml navigator proportions version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,pom xml version b version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,News hbm xml xml version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,misc xml project version,0
+Employee private int version,misc xml project version,0
+Employee private int version,misc xml project version,0
+Employee private int version,misc xml project version,0
+Employee private int version,misc xml project version,0
+Employee private int version,misc xml project version,0
+Employee private int version,misc xml project version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,vcs xml project version,0
+Employee private int version,vcs xml project version,0
+Employee private int version,vcs xml project version,0
+Employee private int version,vcs xml project version,0
+Employee private int version,vcs xml project version,0
+Employee private int version,vcs xml project version,0
+Employee private int version,vcs xml project version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,Division html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Division html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Division html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Division html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Division html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Division html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Division html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Employee hbm xml xml version,0
+Employee private int version,Divisions html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Divisions html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Divisions html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Divisions html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Divisions html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Divisions html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,Divisions html meta name generator content Tapestry Application Framework version rc,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,web xml xml version encoding UTF,0
+Employee private int version,web xml xml version encoding UTF,0
+Employee private int version,web xml xml version encoding UTF,0
+Employee private int version,web xml xml version encoding UTF,0
+Employee private int version,web xml xml version encoding UTF,0
+Employee private int version,web xml xml version encoding UTF,0
+Employee private int version,web xml xml version encoding UTF,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,workspace xml option name version value,0
+Employee private int version,workspace xml option name version value,0
+Employee private int version,workspace xml option name version value,0
+Employee private int version,workspace xml option name version value,0
+Employee private int version,workspace xml option name version value,0
+Employee private int version,workspace xml option name version value,0
+Employee private int version,workspace xml option name version value,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,pom xml version version,0
+Employee private int version,misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+Employee private int version,misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+Employee private int version,misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+Employee private int version,misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+Employee private int version,misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+Employee private int version,misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+Employee private int version,misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+Employee private int version,workspace xml project version,0
+Employee private int version,workspace xml project version,0
+Employee private int version,workspace xml project version,0
+Employee private int version,workspace xml project version,0
+Employee private int version,workspace xml project version,0
+Employee private int version,workspace xml project version,0
+Employee private int version,workspace xml project version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,Division hbm xml xml version,0
+Employee private int version,applicationContext xml xml version encoding UTF,0
+Employee private int version,applicationContext xml xml version encoding UTF,0
+Employee private int version,applicationContext xml xml version encoding UTF,0
+Employee private int version,applicationContext xml xml version encoding UTF,0
+Employee private int version,applicationContext xml xml version encoding UTF,0
+Employee private int version,applicationContext xml xml version encoding UTF,0
+Employee private int version,applicationContext xml xml version encoding UTF,0
+Employee private int version,compiler xml xml version encoding UTF,0
+Employee private int version,compiler xml xml version encoding UTF,0
+Employee private int version,compiler xml xml version encoding UTF,0
+Employee private int version,compiler xml xml version encoding UTF,0
+Employee private int version,compiler xml xml version encoding UTF,0
+Employee private int version,compiler xml xml version encoding UTF,0
+Employee private int version,compiler xml xml version encoding UTF,0
+HomeServiceImpl protected NewsDao newsDao,applicationContext xml bean id newsDao class hispacta dao impl hibernate NewsDaoImpl,0
+HomeServiceImpl protected NewsDao newsDao,applicationContext xml bean id newsDao class hispacta dao impl hibernate NewsDaoImpl,0
+HomeServiceImpl protected NewsDao newsDao,applicationContext xml bean id newsDao class hispacta dao impl hibernate NewsDaoImpl,0
+HomeServiceImpl protected NewsDao newsDao,applicationContext xml bean id newsDao class hispacta dao impl hibernate NewsDaoImpl,0
+HomeServiceImpl protected NewsDao newsDao,applicationContext xml bean id newsDao class hispacta dao impl hibernate NewsDaoImpl,0
+HomeServiceImpl protected NewsDao newsDao,applicationContext xml bean id newsDao class hispacta dao impl hibernate NewsDaoImpl,0
+HomeServiceImpl protected NewsDao newsDao,applicationContext xml bean id newsDao class hispacta dao impl hibernate NewsDaoImpl,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml groupId log j groupId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml groupId log j groupId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml groupId log j groupId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml groupId log j groupId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml groupId log j groupId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml groupId log j groupId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml groupId log j groupId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,Home html It is a simple intranet like application with possibility to log in publish news and see user details,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,Home html It is a simple intranet like application with possibility to log in publish news and see user details,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,Home html It is a simple intranet like application with possibility to log in publish news and see user details,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,Home html It is a simple intranet like application with possibility to log in publish news and see user details,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,Home html It is a simple intranet like application with possibility to log in publish news and see user details,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,Home html It is a simple intranet like application with possibility to log in publish news and see user details,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,Home html It is a simple intranet like application with possibility to log in publish news and see user details,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml artifactId log j artifactId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml artifactId log j artifactId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml artifactId log j artifactId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml artifactId log j artifactId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml artifactId log j artifactId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml artifactId log j artifactId,0
+UserIsSecurityVoter private Log log LogFactory getLog UserIsSecurityVoter class,pom xml artifactId log j artifactId,0
+Employee private String title,Division html title HISPACTA Division title,0
+Employee private String title,Division html title HISPACTA Division title,0
+Employee private String title,Division html title HISPACTA Division title,0
+Employee private String title,Division html title HISPACTA Division title,0
+Employee private String title,Division html title HISPACTA Division title,0
+Employee private String title,Division html title HISPACTA Division title,0
+Employee private String title,Division html title HISPACTA Division title,0
+Employee private String title,index html title HISPACTA title,0
+Employee private String title,index html title HISPACTA title,0
+Employee private String title,index html title HISPACTA title,0
+Employee private String title,index html title HISPACTA title,0
+Employee private String title,index html title HISPACTA title,0
+Employee private String title,index html title HISPACTA title,0
+Employee private String title,index html title HISPACTA title,0
+Employee private String title,Divisions html title HISPACTA Divisions title,0
+Employee private String title,Divisions html title HISPACTA Divisions title,0
+Employee private String title,Divisions html title HISPACTA Divisions title,0
+Employee private String title,Divisions html title HISPACTA Divisions title,0
+Employee private String title,Divisions html title HISPACTA Divisions title,0
+Employee private String title,Divisions html title HISPACTA Divisions title,0
+Employee private String title,Divisions html title HISPACTA Divisions title,0
+Employee private String title,Border html Headline page title,0
+Employee private String title,Border html Headline page title,0
+Employee private String title,Border html Headline page title,0
+Employee private String title,Border html Headline page title,0
+Employee private String title,Border html Headline page title,0
+Employee private String title,Border html Headline page title,0
+Employee private String title,Border html Headline page title,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+SelectableModel private Locale locale,ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+BasePage protected IValidationDelegate delegate protected for mocking,CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+Division private String shortcut,Divisions html span key Division shortcut Shortcut span,0
+Division private String shortcut,Divisions html span key Division shortcut Shortcut span,0
+Division private String shortcut,Divisions html span key Division shortcut Shortcut span,0
+Division private String shortcut,Divisions html span key Division shortcut Shortcut span,0
+Division private String shortcut,Divisions html span key Division shortcut Shortcut span,0
+Division private String shortcut,Divisions html span key Division shortcut Shortcut span,0
+Division private String shortcut,Divisions html span key Division shortcut Shortcut span,0
+Division private String nameCz,Divisions html span key Division nameCz Czech Name span,0
+Division private String nameCz,Divisions html span key Division nameCz Czech Name span,0
+Division private String nameCz,Divisions html span key Division nameCz Czech Name span,0
+Division private String nameCz,Divisions html span key Division nameCz Czech Name span,0
+Division private String nameCz,Divisions html span key Division nameCz Czech Name span,0
+Division private String nameCz,Divisions html span key Division nameCz Czech Name span,0
+Division private String nameCz,Divisions html span key Division nameCz Czech Name span,0
+PersonnelServiceImpl protected EhCacheBasedUserCache userCache,applicationContext xml bean id userCache class net sf acegisecurity providers dao cache EhCacheBasedUserCache,0
+PersonnelServiceImpl protected EhCacheBasedUserCache userCache,applicationContext xml bean id userCache class net sf acegisecurity providers dao cache EhCacheBasedUserCache,0
+PersonnelServiceImpl protected EhCacheBasedUserCache userCache,applicationContext xml bean id userCache class net sf acegisecurity providers dao cache EhCacheBasedUserCache,0
+PersonnelServiceImpl protected EhCacheBasedUserCache userCache,applicationContext xml bean id userCache class net sf acegisecurity providers dao cache EhCacheBasedUserCache,0
+PersonnelServiceImpl protected EhCacheBasedUserCache userCache,applicationContext xml bean id userCache class net sf acegisecurity providers dao cache EhCacheBasedUserCache,0
+PersonnelServiceImpl protected EhCacheBasedUserCache userCache,applicationContext xml bean id userCache class net sf acegisecurity providers dao cache EhCacheBasedUserCache,0
+PersonnelServiceImpl protected EhCacheBasedUserCache userCache,applicationContext xml bean id userCache class net sf acegisecurity providers dao cache EhCacheBasedUserCache,0
+PersonnelServiceImpl protected DivisionDao divisionDao,applicationContext xml bean id divisionDao class hispacta dao impl hibernate DivisionDaoImpl,0
+PersonnelServiceImpl protected DivisionDao divisionDao,applicationContext xml bean id divisionDao class hispacta dao impl hibernate DivisionDaoImpl,0
+PersonnelServiceImpl protected DivisionDao divisionDao,applicationContext xml bean id divisionDao class hispacta dao impl hibernate DivisionDaoImpl,0
+PersonnelServiceImpl protected DivisionDao divisionDao,applicationContext xml bean id divisionDao class hispacta dao impl hibernate DivisionDaoImpl,0
+PersonnelServiceImpl protected DivisionDao divisionDao,applicationContext xml bean id divisionDao class hispacta dao impl hibernate DivisionDaoImpl,0
+PersonnelServiceImpl protected DivisionDao divisionDao,applicationContext xml bean id divisionDao class hispacta dao impl hibernate DivisionDaoImpl,0
+PersonnelServiceImpl protected DivisionDao divisionDao,applicationContext xml bean id divisionDao class hispacta dao impl hibernate DivisionDaoImpl,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,Employee html td class label span key Username Username span td,0
+SelectableItem private String label,Employee html td class label span key Username Username span td,0
+SelectableItem private String label,Employee html td class label span key Username Username span td,0
+SelectableItem private String label,Employee html td class label span key Username Username span td,0
+SelectableItem private String label,Employee html td class label span key Username Username span td,0
+SelectableItem private String label,Employee html td class label span key Username Username span td,0
+SelectableItem private String label,Employee html td class label span key Username Username span td,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,Employees html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Employees html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Employees html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Employees html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Employees html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Employees html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Employees html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components division displayName message Division td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components division displayName message Division td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components division displayName message Division td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components division displayName message Division td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components division displayName message Division td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components division displayName message Division td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components division displayName message Division td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components firstName First Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components firstName First Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components firstName First Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components firstName First Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components firstName First Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components firstName First Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components firstName First Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components password displayName message Employee password td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components password displayName message Employee password td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components password displayName message Employee password td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components password displayName message Employee password td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components password displayName message Employee password td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components password displayName message Employee password td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components password displayName message Employee password td,0
+SelectableItem private String label,Login html td class label span key Username Username span td,0
+SelectableItem private String label,Login html td class label span key Username Username span td,0
+SelectableItem private String label,Login html td class label span key Username Username span td,0
+SelectableItem private String label,Login html td class label span key Username Username span td,0
+SelectableItem private String label,Login html td class label span key Username Username span td,0
+SelectableItem private String label,Login html td class label span key Username Username span td,0
+SelectableItem private String label,Login html td class label span key Username Username span td,0
+SelectableItem private String label,Divisions html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Divisions html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Divisions html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Divisions html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Divisions html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Divisions html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Divisions html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Newss html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Newss html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Newss html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Newss html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Newss html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Newss html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,Newss html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components email displayName Email Email span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components email displayName Email Email span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components email displayName Email Email span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components email displayName Email Email span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components email displayName Email Email span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components email displayName Email Email span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components email displayName Email Email span td,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,0
+SelectableItem private String label,News html td class label span jwcid FieldLabel field ognl components text displayName Text Text span td,0
+SelectableItem private String label,News html td class label span jwcid FieldLabel field ognl components text displayName Text Text span td,0
+SelectableItem private String label,News html td class label span jwcid FieldLabel field ognl components text displayName Text Text span td,0
+SelectableItem private String label,News html td class label span jwcid FieldLabel field ognl components text displayName Text Text span td,0
+SelectableItem private String label,News html td class label span jwcid FieldLabel field ognl components text displayName Text Text span td,0
+SelectableItem private String label,News html td class label span jwcid FieldLabel field ognl components text displayName Text Text span td,0
+SelectableItem private String label,News html td class label span jwcid FieldLabel field ognl components text displayName Text Text span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components passwordAgain displayName message Employee passwordAgain td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components passwordAgain displayName message Employee passwordAgain td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components passwordAgain displayName message Employee passwordAgain td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components passwordAgain displayName message Employee passwordAgain td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components passwordAgain displayName message Employee passwordAgain td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components passwordAgain displayName message Employee passwordAgain td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components passwordAgain displayName message Employee passwordAgain td,0
+SelectableItem private String label,Login html td class label span key Password Password span td,0
+SelectableItem private String label,Login html td class label span key Password Password span td,0
+SelectableItem private String label,Login html td class label span key Password Password span td,0
+SelectableItem private String label,Login html td class label span key Password Password span td,0
+SelectableItem private String label,Login html td class label span key Password Password span td,0
+SelectableItem private String label,Login html td class label span key Password Password span td,0
+SelectableItem private String label,Login html td class label span key Password Password span td,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,0
+SelectableItem private String label,News html td class label span key Author td,0
+SelectableItem private String label,News html td class label span key Author td,0
+SelectableItem private String label,News html td class label span key Author td,0
+SelectableItem private String label,News html td class label span key Author td,0
+SelectableItem private String label,News html td class label span key Author td,0
+SelectableItem private String label,News html td class label span key Author td,0
+SelectableItem private String label,News html td class label span key Author td,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,0
+SelectableItem private String label,Employee html td class label span key Phone Phone span td,0
+SelectableItem private String label,Employee html td class label span key Phone Phone span td,0
+SelectableItem private String label,Employee html td class label span key Phone Phone span td,0
+SelectableItem private String label,Employee html td class label span key Phone Phone span td,0
+SelectableItem private String label,Employee html td class label span key Phone Phone span td,0
+SelectableItem private String label,Employee html td class label span key Phone Phone span td,0
+SelectableItem private String label,Employee html td class label span key Phone Phone span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components lastName Last Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components lastName Last Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components lastName Last Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components lastName Last Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components lastName Last Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components lastName Last Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components lastName Last Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameCz Czech Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameCz Czech Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameCz Czech Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameCz Czech Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameCz Czech Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameCz Czech Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameCz Czech Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameEn English Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameEn English Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameEn English Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameEn English Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameEn English Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameEn English Name span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components nameEn English Name span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components active displayName message Active td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components active displayName message Active td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components active displayName message Active td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components active displayName message Active td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components active displayName message Active td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components active displayName message Active td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components active displayName message Active td,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,News html td class label span key Inserted td,0
+SelectableItem private String label,News html td class label span key Inserted td,0
+SelectableItem private String label,News html td class label span key Inserted td,0
+SelectableItem private String label,News html td class label span key Inserted td,0
+SelectableItem private String label,News html td class label span key Inserted td,0
+SelectableItem private String label,News html td class label span key Inserted td,0
+SelectableItem private String label,News html td class label span key Inserted td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components birthDate displayName message Employee birthDate Birth Date span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components birthDate displayName message Employee birthDate Birth Date span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components birthDate displayName message Employee birthDate Birth Date span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components birthDate displayName message Employee birthDate Birth Date span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components birthDate displayName message Employee birthDate Birth Date span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components birthDate displayName message Employee birthDate Birth Date span td,0
+SelectableItem private String label,Employee html td class label span jwcid FieldLabel field ognl components birthDate displayName message Employee birthDate Birth Date span td,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components shortcut Shortcut span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components shortcut Shortcut span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components shortcut Shortcut span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components shortcut Shortcut span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components shortcut Shortcut span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components shortcut Shortcut span td,0
+SelectableItem private String label,Division html td class label span jwcid FieldLabel field ognl components shortcut Shortcut span td,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+SelectableItem private String label,CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Employee html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,News html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+CrudPage private boolean editing,Division html span jwcid Conditional condition ognl editing,0
+Employee private String username,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String username,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String username,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String username,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String username,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String username,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String username,Login html li class error span key InvalidLogin Invalid username or password span li,0
+Employee private String username,Login html td class input input type text name j username size td,0
+Employee private String username,Login html td class input input type text name j username size td,0
+Employee private String username,Login html td class input input type text name j username size td,0
+Employee private String username,Login html td class input input type text name j username size td,0
+Employee private String username,Login html td class input input type text name j username size td,0
+Employee private String username,Login html td class input input type text name j username size td,0
+Employee private String username,Login html td class input input type text name j username size td,0
+Employee private String username,applicationContext xml prop key hibernate connection username root prop,0
+Employee private String username,applicationContext xml prop key hibernate connection username root prop,0
+Employee private String username,applicationContext xml prop key hibernate connection username root prop,0
+Employee private String username,applicationContext xml prop key hibernate connection username root prop,0
+Employee private String username,applicationContext xml prop key hibernate connection username root prop,0
+Employee private String username,applicationContext xml prop key hibernate connection username root prop,0
+Employee private String username,applicationContext xml prop key hibernate connection username root prop,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml property name authenticationDao ref bean employeeDao property,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml property name authenticationDao ref bean employeeDao property,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml property name authenticationDao ref bean employeeDao property,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml property name authenticationDao ref bean employeeDao property,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml property name authenticationDao ref bean employeeDao property,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml property name authenticationDao ref bean employeeDao property,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml property name authenticationDao ref bean employeeDao property,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml bean id employeeDao class hispacta dao impl hibernate EmployeeDaoImpl,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml bean id employeeDao class hispacta dao impl hibernate EmployeeDaoImpl,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml bean id employeeDao class hispacta dao impl hibernate EmployeeDaoImpl,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml bean id employeeDao class hispacta dao impl hibernate EmployeeDaoImpl,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml bean id employeeDao class hispacta dao impl hibernate EmployeeDaoImpl,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml bean id employeeDao class hispacta dao impl hibernate EmployeeDaoImpl,0
+PersonnelServiceImpl protected EmployeeDao employeeDao,applicationContext xml bean id employeeDao class hispacta dao impl hibernate EmployeeDaoImpl,0

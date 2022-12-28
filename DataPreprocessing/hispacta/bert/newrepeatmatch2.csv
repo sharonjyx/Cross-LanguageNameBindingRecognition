@@ -1,0 +1,74 @@
+News hbm xml id name id column news id unsaved value null,1
+News hbm xml id name id column news id unsaved value null,1
+Division hbm xml id name id column division id unsaved value null,1
+Division hbm xml id name id column division id unsaved value null,1
+Employee hbm xml id name id column employee id unsaved value null,1
+Employee hbm xml id name id column employee id unsaved value null,1
+applicationContext xml bean id passwordEncoder class hispacta util MysqlPasswordEncoder,0
+workspace xml window info anchor right content ui combo id Hierarchy order 2 weight 0 25,0
+applicationContext xml bean id transactionManager class org springframework orm hibernate HibernateTransactionManager,0
+workspace xml window info anchor right id Palette 9 order 5,0
+Employee hbm xml many to one name division class Division column division id,0
+applicationContext xml bean id employeeDao class hispacta dao impl hibernate EmployeeDaoImpl,0
+News hbm xml id,0
+applicationContext xml bean id accessDecisionManager class net sf acegisecurity vote AffirmativeBased,0
+applicationContext xml bean id daoAuthenticationProvider class net sf acegisecurity providers dao DaoAuthenticationProvider,0
+Newss html form id listingFilterForm jwcid Form method get,0
+applicationContext xml bean id authenticationProcessingFilter class net sf acegisecurity ui webapp AuthenticationProcessingFilter,0
+workspace xml task active true id Default summary Default task,0
+workspace xml window info anchor bottom id TODO order 6,0
+Divisions html table id listingTable border 0,0
+workspace xml list default true id 300c1f91 d14c 4b0b b033 2b06462b5808 name Default Changelist comment,0
+workspace xml window info content ui combo id Project order 0 weight 0 4029018,0
+workspace xml window info anchor bottom id Event Log order 11 side tool true,0
+Division hbm xml id,0
+workspace xml window info anchor bottom id Database Changes order 10,0
+workspace xml window info id Web order 2 side tool true,0
+applicationContext xml bean id nameMatchTxInterceptor class org springframework transaction interceptor TransactionInterceptor,0
+workspace xml window info anchor right id Commander internal type SLIDING order 0 type SLIDING weight 0 4,0
+workspace xml window info anchor bottom id Log Analyzer order 15,0
+applicationContext xml bean id divisionDao class hispacta dao impl hibernate DivisionDaoImpl,0
+workspace xml window info anchor right id Maven order 4,0
+workspace xml window info anchor bottom id Terminal order 13,0
+applicationContext xml bean id personnelService class org springframework aop framework ProxyFactoryBean,0
+Employees html form id listingFilterForm jwcid Form method get,0
+workspace xml window info anchor bottom id Version Control order 8,0
+applicationContext xml bean id homeService class org springframework aop framework ProxyFactoryBean,0
+Login html form id loginForm action j acegi security check method post,0
+Divisions html div id bDiv style position absolute visibility hide z index 1000 div,0
+workspace xml window info anchor right id Database order 3,0
+applicationContext xml bean id autoTxProxyCreator class org springframework aop framework autoproxy BeanNameAutoProxyCreator,0
+workspace xml window info anchor bottom id Inspection order 5 weight 0 4,0
+workspace xml window info anchor bottom id SOQL Query order 14,0
+workspace xml window info anchor bottom id Anonymous Apex order 16,0
+workspace xml window info id Favorites order 4 side tool true,0
+Border html div id bDiv style position absolute visibility hide z index 1000 div,0
+applicationContext xml bean id authenticationManager class net sf acegisecurity providers ProviderManager,0
+workspace xml window info id Structure order 1 side tool true weight 0 25,0
+applicationContext xml bean id homeSecurity class net sf acegisecurity intercept method MethodSecurityInterceptor,0
+workspace xml window info anchor bottom id Docker order 7 show stripe button false,0
+workspace xml window info anchor bottom id Spring order 9,0
+applicationContext xml bean id personnelServiceTarget class hispacta service impl PersonnelServiceImpl,0
+applicationContext xml bean id newsDao class hispacta dao impl hibernate NewsDaoImpl,0
+applicationContext xml bean id userCache class net sf acegisecurity providers dao cache EhCacheBasedUserCache,0
+applicationContext xml bean id homeServiceTarget class hispacta service impl HomeServiceImpl,0
+News hbm xml many to one name author class Employee column employee id,0
+workspace xml window info anchor bottom id Message order 0,0
+Division html div id bDiv style position absolute visibility hide z index 1000 div,0
+CrudPage html span jwcid Conditional condition ognl page editing page canModify,0
+applicationContext xml bean id sessionFactory class org springframework orm hibernate LocalSessionFactoryBean,0
+applicationContext xml bean id roleVoter class net sf acegisecurity vote RoleVoter,0
+workspace xml window info anchor bottom id Run order 2,0
+Employee hbm xml key column employee id,0
+applicationContext xml bean id userIsSecurityVoter class hispacta util UserIsSecurityVoter,0
+workspace xml window info id Designer order 3,0
+workspace xml window info anchor bottom id Find order 1 weight 0 32990867,0
+applicationContext xml bean id personnelSecurity class net sf acegisecurity intercept method MethodSecurityInterceptor,0
+workspace xml window info anchor bottom id Java Enterprise order 12,0
+workspace xml window info anchor bottom id Debug order 3 weight 0 4,0
+Employees html table id listingTable border 0,0
+Employee hbm xml id,0
+workspace xml window info anchor right id Ant Build order 1 weight 0 25,0
+DetailLinks html span jwcid Conditional condition ognl page canModify,0
+workspace xml window info anchor bottom id Cvs order 4 weight 0 25,0
+Newss html table id listingTable border 0,0

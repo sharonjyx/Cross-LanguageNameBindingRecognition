@@ -1,0 +1,24 @@
+hispacta bo Division Integer id String nameCz nameEn shortcut
+hispacta bo Employee Integer id int version String username password firstName lastName Date birthDate Division division title phone email lastLogin lastHost Set roles Boolean active GrantedAuthority authorities
+hispacta bo News Integer id Employee author Date inserted String text
+hispacta tapestry util SelectableItem Integer id String label
+hispacta bo Division Integer id String nameCz nameEn shortcut
+hispacta bo Employee Integer id int version String username password firstName lastName Date birthDate Division division title phone email lastLogin lastHost Set roles Boolean active GrantedAuthority authorities
+hispacta bo News Integer id Employee author Date inserted String text
+hispacta tapestry util SelectableItem Integer id String label
+hispacta bo Division Integer id String nameCz nameEn shortcut
+hispacta bo Employee Integer id int version String username password firstName lastName Date birthDate Division division title phone email lastLogin lastHost Set roles Boolean active GrantedAuthority authorities
+hispacta bo News Integer id Employee author Date inserted String text
+hispacta tapestry util SelectableItem Integer id String label
+hispacta bo Division Integer id String nameCz nameEn shortcut
+hispacta bo Employee Integer id int version String username password firstName lastName Date birthDate Division division title phone email lastLogin lastHost Set roles Boolean active GrantedAuthority authorities
+hispacta bo News Integer id Employee author Date inserted String text
+hispacta tapestry util SelectableItem Integer id String label
+hispacta bo Division Integer id String nameCz nameEn shortcut
+hispacta bo Employee Integer id int version String username password firstName lastName Date birthDate Division division title phone email lastLogin lastHost Set roles Boolean active GrantedAuthority authorities
+hispacta bo News Integer id Employee author Date inserted String text
+hispacta tapestry util SelectableItem Integer id String label
+hispacta bo Division Integer id String nameCz nameEn shortcut
+hispacta bo Employee Integer id int version String username password firstName lastName Date birthDate Division division title phone email lastLogin lastHost Set roles Boolean active GrantedAuthority authorities
+hispacta bo News Integer id Employee author Date inserted String text
+hispacta tapestry util SelectableItem Integer id String label

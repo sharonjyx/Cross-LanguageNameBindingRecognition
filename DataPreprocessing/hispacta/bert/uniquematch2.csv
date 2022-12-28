@@ -1,0 +1,268 @@
+Newss html a jwcid my OrderColumn orderProperties text,1
+CrudPage html li jwcid errors Foreach element li source ognl page delegate allErrors class error,1
+Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,1
+Employee html td class input span jwcid password size maxlength td,1
+Division hbm xml property name nameCz column name,1
+applicationContext xml property name newsDao ref local newsDao property,1
+CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,1
+Employee html td class label span jwcid FieldLabel field ognl components active displayName message Active td,1
+CrudPage html input jwcid btCreate Submit label message Create selected ognl page submitTag,1
+Employee hbm xml property name password column passwd,1
+Newss html a jwcid my OrderColumn orderProperties author lastName,1
+Employees html td span jwcid Insert value ognl item phone span td,1
+Employee html td class label span jwcid FieldLabel field ognl components email displayName Email Email span td,1
+CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,1
+Employee hbm xml property name birthDate column birth date type date,1
+Employee hbm xml property name birthDate column birth date type date,1
+Employees html a jwcid my OrderColumn orderProperties email,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO CREATE type submit value Create new,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO SAVE type submit value Insert,1
+Divisions html a jwcid my OrderColumn orderProperties nameEn,1
+CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,1
+Employee html td class input span jwcid username TextField value ognl item username size maxlength td,1
+News html td class readOnly span jwcid Insert value ognl item inserted format ognl dateTimeFormat td,1
+Newss html a jwcid my OrderColumn orderProperties inserted,1
+News html td class label span jwcid FieldLabel field ognl components text displayName Text Text span td,1
+News html td class readOnly span jwcid InsertText value ognl item text Text of this news span td,1
+Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,1
+News html a jwcid my ItemLink itemPage Employee item ognl item author,1
+CrudPage html span jwcid Conditional condition ognl page delegate hasErrors,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO EDIT type submit value Edit,1
+Division html td class input input jwcid shortcut size maxlength td,1
+Employee hbm xml property name phone,1
+Employee hbm xml property name active,1
+Employee hbm xml property name title,1
+Divisions html a jwcid my OrderColumn orderProperties shortcut,1
+CrudPage html span jwcid Hidden value ognl page editing,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO SAVE type submit value Update,1
+Employee html td class input input jwcid firstName size maxlength td,1
+Employee hbm xml set name roles table employee role cascade delete lazy true,1
+Employee hbm xml property name active,1
+Employees html a jwcid my OrderColumn orderProperties phone,1
+Employee html td class readOnly span jwcid Insert value ognl item birthDate format ognl dayMonthFormat nbsp td,1
+Employees html td span jwcid Insert value ognl item division shortcut MD span td,1
+Employee html td class input span jwcid email size maxlength td,1
+Home html span jwcid Insert value ognl hispacta util Utils shortenStr item text,1
+Employee html span jwcid Conditional condition ognl item active span key Yes span,1
+CrudPage html span jwcid Conditional condition ognl page editing page canModify,1
+Division html td class readOnly span jwcid Insert value ognl item nameEn Division of Virtual Instrumentation span td,1
+News hbm xml property name text,1
+Employee hbm xml property name lastName column last name,1
+Employee html td class label span jwcid FieldLabel field ognl components division displayName message Division td,1
+Employee hbm xml property name lastName column last name,1
+Employee hbm xml property name password column passwd,1
+Division hbm xml property name shortcut,1
+CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,1
+Divisions html td span jwcid Insert value ognl item nameCz Divize Virtualni Instrumentace span td,1
+Employee hbm xml property name firstName column first name,1
+Division html td class input input jwcid nameEn size maxlength td,1
+Divisions html a jwcid my OrderColumn orderProperties nameCz,1
+Employees html a jwcid my OrderColumn orderProperties division shortcut lastName,1
+News hbm xml property name inserted,1
+Employee html td class readOnly span jwcid Insert value ognl item birthDate format ognl dayMonthFormat nbsp td,1
+Division hbm xml property name nameEn column name en,1
+Employee html td class readOnly span jwcid Insert value ognl item lastName Miarka span td,1
+News hbm xml many to one name author class Employee column employee id,1
+CrudPage html input jwcid btEdit Submit label message Edit selected ognl page submitTag,1
+Employee html td class label span jwcid FieldLabel field ognl components lastName Last Name span td,1
+Employee html td class readOnly a jwcid my ItemLink itemPage Division item ognl item division My Division a td,1
+News html td class readOnly span jwcid Insert value ognl item inserted format ognl dateTimeFormat td,1
+Division hbm xml property name shortcut,1
+Newss html a jwcid my OrderColumn orderProperties author lastName,1
+Employee html td class readOnly span jwcid Insert value ognl item firstName Karel span td,1
+Newss html td span jwcid Insert value ognl hispacta util Utils shortenStr item text td,1
+Newss html td align right nowrap nowrap span jwcid Insert value ognl item inserted format ognl dateTimeFormat td,1
+Employee hbm xml property name email,1
+applicationContext xml property name userCache ref bean userCache property,1
+applicationContext xml property name employeeDao ref local employeeDao property,1
+CrudPage html form jwcid detailForm Form id detailForm delegate ognl page delegate listener ognl page listeners formSubmit,1
+Newss html td align right nowrap nowrap span jwcid Insert value ognl item inserted format ognl dateTimeFormat td,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO SAVE type submit value Update,1
+Division hbm xml property name nameCz column name,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO DELETE type submit value Delete onclick return confirm Do you really want to delete this item,1
+Employee html td class input input jwcid TextField value ognl item phone size maxlength td,1
+Employee html td class input input jwcid birthDate DatePicker value ognl item birthDate td,1
+News hbm xml property name inserted,1
+Employee hbm xml version name version,1
+Divisions html td span jwcid Insert value ognl item shortcut DVI span td,1
+Employee hbm xml property name title,1
+Employee hbm xml property name firstName column first name,1
+Employee html td class input select jwcid division td,1
+CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,1
+CrudPage html span jwcid Conditional condition ognl page editing page canModify,1
+Employee html span jwcid Conditional condition ognl item active span key No span,1
+Employee hbm xml property name lastHost column last host,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO LIST type submit value List items,1
+Employee html td class label span jwcid FieldLabel field ognl components birthDate displayName message Employee birthDate Birth Date span td,1
+Employees html a jwcid my OrderColumn orderProperties lastName,1
+CrudPage html input jwcid btList Submit label message ListItems selected ognl page submitTag,1
+Division html td class label span jwcid FieldLabel field ognl components shortcut Shortcut span td,1
+CrudPage html span jwcid Conditional condition ognl page editing,1
+CrudPage html span jwcid Hidden value ognl page syncId listener ognl page listeners synchronizeItem,1
+CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,1
+Employee hbm xml many to one name division class Division column division id,1
+CrudPage html input jwcid btInsert Submit label message Insert selected ognl page submitTag,1
+Employee html td class label span jwcid FieldLabel field ognl components password displayName message Employee password td,1
+Division html td class readOnly span jwcid Insert value ognl item shortcut DVI span td,1
+Employee hbm xml property name phone,1
+Employee hbm xml column name active sql type NUMERIC,1
+Newss html td nowrap nowrap a jwcid my ItemLink itemPage Employee item ognl item author td,1
+CrudPage html input jwcid btUpdate Submit label message Update selected ognl page submitTag,1
+Employee hbm xml property name lastLogin column last login,1
+CrudPage html span jwcid Conditional condition ognl page delegate hasErrors,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO SAVE type submit value Insert,1
+Employee hbm xml property name lastLogin column last login,1
+Employee hbm xml property name username column login,1
+CrudPage html input jwcid btDelete Submit label message Delete selected ognl page submitTag,1
+Division html td class input input jwcid nameCz size maxlength td,1
+Employee hbm xml version name version,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO EDIT type submit value Edit,1
+Division html td class readOnly span jwcid Insert value ognl item nameCz Divize virtualni instrumentace span td,1
+Division html td class label span jwcid FieldLabel field ognl components nameEn English Name span td,1
+Employee hbm xml property name username column login,1
+CrudPage html span jwcid Hidden value ognl page editing,1
+Employees html td span jwcid Insert value ognl item division shortcut MD span td,1
+CrudPage html form jwcid detailForm Form id detailForm delegate ognl page delegate listener ognl page listeners formSubmit,1
+Employee hbm xml property name lastHost column last host,1
+Employee hbm xml many to one name division class Division column division id,1
+News hbm xml many to one name author class Employee column employee id,1
+CrudPage html span jwcid Conditional condition ognl page editing,1
+Employee hbm xml column name active sql type NUMERIC,1
+Home html td valign top nowrap span jwcid Insert value ognl item author fullName td,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO DELETE type submit value Delete onclick return confirm Do you really want to delete this item,1
+Employee html td class input input type checkbox jwcid active Checkbox selected ognl item active td,1
+Divisions html td span jwcid Insert value ognl item nameEn Division of Virtual Instrumentation span td,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO LIST type submit value List items,1
+Employee hbm xml set name roles table employee role cascade delete lazy true,1
+Home html td valign top nowrap span jwcid Insert value ognl item inserted format ognl dateFormat td,1
+Employee hbm xml property name email,1
+Division html td class label span jwcid FieldLabel field ognl components nameCz Czech Name span td,1
+Employee html td class readOnly span jwcid Insert value ognl item phone span nbsp td,1
+Employee html td class input input jwcid lastName size maxlength td,1
+CrudPage html tag ognl hispacta tapestry page CrudPage DO CREATE type submit value Create new,1
+News hbm xml property name text,1
+CrudPage html span jwcid Hidden value ognl page syncId listener ognl page listeners synchronizeItem,1
+Division hbm xml property name nameEn column name en,1
+CrudPage html li jwcid errors Foreach element li source ognl page delegate allErrors class error,1
+Employee html td class label span jwcid FieldLabel field ognl components firstName First Name span td,1
+applicationContext xml property name divisionDao ref local divisionDao property,1
+OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+OrderColumn html a jwcid DirectLink listener ognl listeners changeOrderColumn parameters ognl orderProperties,0
+Division hbm xml class name Division table division,0
+Division hbm xml id name id column division id unsaved value null,0
+Division hbm xml class name Division table division,0
+applicationContext xml prop key hibernate connection password root prop,0
+Login html li class error span key InvalidLogin Invalid username or password span li,0
+Login html td class input input type password name j password size td,0
+workspace xml provider selected true editor type id text editor,0
+Divisions html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+Login html td class input input type text name j username size td,0
+workspace xml provider selected true editor type id text editor,0
+Divisions html link rel stylesheet type text css href css base css,0
+workspace xml provider selected true editor type id text editor,0
+Division html link rel stylesheet type text css href css base css,0
+Division html meta http equiv Content Type content text html charset UTF,0
+Division html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+workspace xml provider selected true editor type id text editor,0
+workspace xml provider selected true editor type id text editor,0
+index html body marginwidth bgcolor FFFFFF marginheight text topmargin leftmargin,0
+Home html if jwcid Conditional condition ognl item text length,0
+Border html body jwcid Body bgcolor FFFFFF text leftmargin topmargin marginwidth marginheight,0
+Divisions html meta http equiv Content Type content text html charset UTF,0
+workspace xml task active true id Default summary Default task,0
+workspace xml editor active true,0
+Divisions html span key Division nameEn English Name span,0
+workspace xml list,0
+applicationContext xml list,0
+misc xml list,0
+workspace xml list,0
+applicationContext xml list,0
+misc xml list,0
+applicationContext xml list,0
+workspace xml list,0
+applicationContext xml list,0
+workspace xml list default true id c f d c b b b b b name Default Changelist comment,0
+pom xml version version,0
+Border html xml version encoding UTF,0
+pom xml version version,0
+News hbm xml xml version,0
+pom xml version hispacta version,0
+pom xml version version,0
+pom xml version aug r dev version,0
+pom xml version version,0
+pom xml version b version,0
+Employee hbm xml xml version,0
+misc xml xml version encoding UTF,0
+vcs xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version R RC version,0
+compiler xml project version,0
+workspace xml xml version encoding UTF,0
+pom xml version version,0
+Division hbm xml xml version,0
+workspace xml navigator proportions version,0
+pom xml version b version,0
+News hbm xml xml version,0
+pom xml version version,0
+misc xml project version,0
+pom xml version version,0
+pom xml version version,0
+pom xml version version,0
+vcs xml project version,0
+pom xml version version,0
+pom xml version version,0
+Division html meta name generator content Tapestry Application Framework version rc,0
+pom xml version version,0
+Employee hbm xml xml version,0
+Divisions html meta name generator content Tapestry Application Framework version rc,0
+pom xml version version,0
+web xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version version,0
+pom xml version version,0
+workspace xml option name version value,0
+pom xml version version,0
+misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+workspace xml project version,0
+Division hbm xml xml version,0
+applicationContext xml xml version encoding UTF,0
+compiler xml xml version encoding UTF,0
+applicationContext xml bean id newsDao class hispacta dao impl hibernate NewsDaoImpl,0
+pom xml groupId log j groupId,0
+Home html It is a simple intranet like application with possibility to log in publish news and see user details,0
+pom xml artifactId log j artifactId,0
+Division html title HISPACTA Division title,0
+index html title HISPACTA title,0
+Divisions html title HISPACTA Divisions title,0
+Border html Headline page title,0
+ItemLink html span jwcid Insert value ognl item getDisplayLabel page locale,0
+CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+CrudPage html span jwcid Delegator delegate ognl components errors value Error message span,0
+Divisions html span key Division shortcut Shortcut span,0
+Divisions html span key Division nameCz Czech Name span,0
+applicationContext xml bean id userCache class net sf acegisecurity providers dao cache EhCacheBasedUserCache,0
+applicationContext xml bean id divisionDao class hispacta dao impl hibernate DivisionDaoImpl,0
+Employee html td class label span key Username Username span td,0
+Employees html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+Login html td class label span key Username Username span td,0
+Divisions html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+Newss html input jwcid btCreate Submit listener ognl listeners createButtonSubmit label message Create type submit value Create new,0
+Employee html td class label span jwcid FieldLabel field ognl components passwordAgain displayName message Employee passwordAgain td,0
+Login html td class label span key Password Password span td,0
+News html td class label span key Author td,0
+Employee html td class label span key Phone Phone span td,0
+News html td class label span key Inserted td,0
+Employee html span jwcid Conditional condition ognl editing,0
+News html span jwcid Conditional condition ognl editing,0
+Employee html span jwcid Conditional condition ognl editing,0
+Division html span jwcid Conditional condition ognl editing,0
+Division html span jwcid Conditional condition ognl editing,0
+Employee html span jwcid Conditional condition ognl editing,0
+Division html span jwcid Conditional condition ognl editing,0
+Division html span jwcid Conditional condition ognl editing,0
+News html span jwcid Conditional condition ognl editing,0
+Division html span jwcid Conditional condition ognl editing,0
+Login html li class error span key InvalidLogin Invalid username or password span li,0
+Login html td class input input type text name j username size td,0
+applicationContext xml prop key hibernate connection username root prop,0
+applicationContext xml property name authenticationDao ref bean employeeDao property,0

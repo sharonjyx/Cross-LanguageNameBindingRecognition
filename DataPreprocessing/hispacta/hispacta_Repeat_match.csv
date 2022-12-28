@@ -1,0 +1,6 @@
+﻿id,News.java,hispacta\\src\\main\\java\\hispacta\\bo\\News.java,"<id name=""id"" column=""news_id"" unsaved-value=""null"">",10,News.hbm.xml,hispacta\src\main\java\hispacta\dao\impl\hibernate\mapping\News.hbm.xml
+﻿id,News.java,hispacta\\src\\main\\java\\hispacta\\bo\\News.java,"<id name=""id"" column=""news_id"" unsaved-value=""null"">",10,News.hbm.xml,hispacta\src\main\resources\hispacta\dao\impl\hibernate\mapping\News.hbm.xml
+id,Division.java,hispacta\\src\\main\\java\\hispacta\\bo\\Division.java,"<id name=""id"" column=""division_id"" unsaved-value=""null"">",10,Division.hbm.xml,hispacta\src\main\java\hispacta\dao\impl\hibernate\mapping\Division.hbm.xml
+id,Division.java,hispacta\\src\\main\\java\\hispacta\\bo\\Division.java,"<id name=""id"" column=""division_id"" unsaved-value=""null"">",10,Division.hbm.xml,hispacta\src\main\resources\hispacta\dao\impl\hibernate\mapping\Division.hbm.xml
+id,Employee.java,hispacta\\src\\main\\java\\hispacta\\bo\\Employee.java,"<id name=""id"" column=""employee_id"" unsaved-value=""null"">",10,Employee.hbm.xml,hispacta\src\main\java\hispacta\dao\impl\hibernate\mapping\Employee.hbm.xml
+id,Employee.java,hispacta\\src\\main\\java\\hispacta\\bo\\Employee.java,"<id name=""id"" column=""employee_id"" unsaved-value=""null"">",10,Employee.hbm.xml,hispacta\src\main\resources\hispacta\dao\impl\hibernate\mapping\Employee.hbm.xml
