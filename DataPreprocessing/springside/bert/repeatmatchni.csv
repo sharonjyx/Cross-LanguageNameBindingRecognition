@@ -1,0 +1,1108 @@
+UserAction private Page User page new Page User 5 5,user jsp s if test page hasNext a href javascript jumpPage page nextPage a s if,1
+UserAction private Page User page new Page User 5 5,user jsp a href javascript jumpPage page totalPages a,1
+UserAction private Page User page new Page User 5 5,user jsp input type hidden name page pageNo id pageNo value symbol dollar page pageNo,1
+UserAction private Page User page new Page User 5 5,user jsp s if test page hasPre a href javascript jumpPage symbol dollar page prePage a s if,1
+UserAction private Page User page new Page User 5 5,user jsp a href javascript jumpPage symbol dollar page totalPages a,1
+UserAction private Page User page new Page User 5 5,user jsp input type hidden name page pageNo id pageNo value page pageNo,1
+UserAction private Page User page new Page User 5 5,user jsp s iterator value page result,1
+UserAction private Page User page new Page User 5 5,user jsp input type hidden name page order id order value symbol dollar page order,1
+UserAction private Page User page new Page User 5 5,user jsp s iterator value page result,1
+UserAction private Page User page new Page User 5 5,user jsp s if test page hasPre a href javascript jumpPage page prePage a s if,1
+UserAction private Page User page new Page User 5 5,user jsp input type hidden name page orderBy id orderBy value symbol dollar page orderBy,1
+UserAction private Page User page new Page User 5 5,user jsp input type hidden name page orderBy id orderBy value page orderBy,1
+UserAction private Page User page new Page User 5 5,user jsp input type hidden name page order id order value page order,1
+UserAction private Page User page new Page User 5 5,user jsp s if test page hasNext a href javascript jumpPage symbol dollar page nextPage a s if,1
+SpringSecurityInInterceptor private UserDetailsService userDetailsService,applicationContext cxf server xml property name userDetailsService ref userDetailsService,1
+AdvancedNotifyMessageProducer private Destination notifyQueue,applicationContext jms advanced xml property name notifyQueue ref advancedNotifyQueue,1
+NotifyMessageProducer private Destination notifyQueue,applicationContext jms simple xml property name notifyQueue ref notifyQueue,1
+ServerConfig private AtomicBoolean notificationMailEnabled new AtomicBoolean true,applicationContext jmx server xml property name notificationMailEnabled value true,1
+JmxClientAction private boolean notificationMailEnabled,jmx client jsp value notificationMailEnabled list true false theme simple,1
+NotifyMessageProducer private Destination notifyTopic,applicationContext jms simple xml property name notifyTopic ref notifyTopic,1
+AdvancedNotifyMessageProducer private Destination notifyTopic,applicationContext jms advanced xml property name notifyTopic ref advancedNotifyTopic,1
+ServerConfig private String nodeName,applicationContext jmx server xml property name nodeName value server node name,1
+JmxClientAction private String nodeName,jmx client jsp td input id nodeName name nodeName value nodeName td,1
+User private List Role roleList Lists newArrayList,ehcache hibernate local xml cache name org springside examples miniweb entity account User roleList maxElementsInMemory 10000,1
+User private List Role roleList Lists newArrayList,ehcache hibernate local xml cache name org springside examples miniservice entity account User roleList maxElementsInMemory 10000,1
+SimpleMailService private JavaMailSender mailSender,applicationContext email xml property name mailSender ref mailSender,1
+MimeMailService private JavaMailSender mailSender,applicationContext email xml property name mailSender ref mailSender,1
+NotifyMessageProducer private JmsTemplate jmsTemplate,applicationContext jms simple xml property name jmsTemplate ref jmsTemplate,1
+AdvancedNotifyMessageProducer private JmsTemplate jmsTemplate,applicationContext jms advanced xml property name jmsTemplate ref advancedJmsTemplate,1
+SpringCronJob private int shutdownTimeout Integer MAX VALUE,applicationContext executor xml property name shutdownTimeout value 20,1
+JdkExecutorJob private int shutdownTimeout Integer MAX VALUE,applicationContext executor xml property name shutdownTimeout value 20,1
+JdkExecutorJob private int period 0,applicationContext executor xml property name period value 60,1
+SpyMemcachedClient private String memcachedNodes localhost 11211,applicationContext memcached xml property name memcachedNodes value localhost 11211,1
+User private String plainPassword,user input jsp td input type password name plainPassword size 40 value plainPassword td,1
+AuditableEntity protected Date createTime,user input jsp td createBy fmt formatDate value createTime type both td,1
+User private String status,user jsp td status nbsp td,1
+SpyMemcachedClient private long operationTimeout 1000 default value in Spy is 1000ms,applicationContext memcached xml property name operationTimeout value 200,1
+JdbcLogWriter protected int batchSize 10,applicationContext log xml property name batchSize value 10,1
+UserAction private Page User page new Page User 5 5,applicationContext security xml s form login login page security login action default target url authentication failure url security login action error 1,0
+BaseFunctionalTestCase protected static Server server,applicationContext xml value file var mini service application server properties value,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource cache applicationContext ehcache xml,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource cache applicationContext ehcache xml,0
+RoleAction private Role entity,applicationContext xml property name packagesToScan value org springside examples showcase common entity,0
+Post protected User user,default data xml acct user ID 2 EMAIL user springside org cn LOGIN NAME user NAME User PASSWORD user,0
+SimpleHibernateDao protected SessionFactory sessionFactory,applicationContext test xml property name sessionFactory ref sessionFactory,0
+GetUserResult private UserDTO user,applicationContext security xml s intercept url pattern common user access isAuthenticated,0
+WSResult private String code SUCCESS,report2 settings xml text color hex color code,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource log applicationContext log xml,0
+MimeMailService private static Logger logger LoggerFactory getLogger MimeMailService class,index jsp li logger 10 LOGS li,0
+WSResult private String message,activemq network broker xml Use VM cursor for better latency For more information see http activemq apache org message cursors html,0
+Post protected User user,urlrewrite xml to type forward common user input action id 1 to,0
+GetUserResult private UserDTO user,user jsp a href user delete action id id a,0
+WSResult private String code SUCCESS,build xml project name hibernate tools default generate code xmlns artifact antlib org apache maven artifact ant,0
+RemoteContentServlet private static Logger logger LoggerFactory getLogger RemoteContentServlet class,index jsp li logger 10 LOGS li,0
+UserWebServiceImpl private DozerBeanMapper dozer,applicationContext ws server xml dozer DTO,0
+UserDTO private String email,pom xml email begin,0
+SpringContextHolder private static ApplicationContext applicationContext null,web xml classpath applicationContext xml,0
+User private String loginName,showcase soapui project xml xs element minOccurs 0 name loginName type xs string,0
+WSResult private String code SUCCESS,report2 settings xml 000000 hex color code color of guide line,0
+User private String password,applicationContext test functional xml property name password value jdbc password,0
+BaseFunctionalTestCase private static Server server,applicationContext xml value file var showcase application server properties value,0
+WSResult private String code SUCCESS,report2 settings xml CDATA title value series percents start difference total You can format any data label title will be replaced with real title value with value and so on You can add your own text or html code too,0
+SimpleHibernateDao protected SessionFactory sessionFactory,applicationContext core test xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+WSResult private String code SUCCESS,cleanup profile xml setting id cleanup format source code changes only value false,0
+JdkExecutorJob private int period 0,report2 settings xml No data for selected period text if data is missing this message will be displayed,0
+GetUserResult private UserDTO user,report2 settings xml filename if you set filename here context menu then user right clicks on flash movie Export as image will appear This will allow user to export chart as an image Collected image data will be posted to this file name use amcolumn export php or amcolumn export aspx,0
+UserAction private Page User page new Page User 5 5,login jsp page import org springframework security web WebAttributes,0
+SpringTxTestCase protected DataSource dataSource,applicationContext core test xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+DbUnitUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+RoleAction private Role entity,applicationContext xml property name packagesToScan value org springside examples miniweb entity account,0
+User private String password,hibernate cfg xml property name hibernate connection password miniservice property,0
+HibernateDaoTest private SessionFactory sessionFactory,applicationContext test functional xml property name sessionFactory ref sessionFactory,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource jms applicationContext jms simple xml,0
+UserResourceClient private WebResource client,jmx client jsp get jmx client saveConfig action form serialize function data,0
+SpyTokyotyrantClient private static Logger logger LoggerFactory getLogger SpyTokyotyrantClient class,log4j perf4j xml logger,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource jmx applicationContext jmx client xml,0
+User private String email,applicationContext email xml bean id mimeMailService class org springside examples showcase email MimeMailService,0
+User private String password,applicationContext core test xml property name password value,0
+WSResult private String message,activemq xml Configure message persistence for the broker The default persistence mechanism is the KahaDB store identified by,0
+UserAction private Page User page new Page User 5 5,user jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+UserResourceClient private WebResource client,left jsp a href ctx jmx jmx client action JMX a,0
+Post protected User user,report2 settings xml function name specifies JavaScript function which will be called when user clicks on this menu You can pass variables for example function name alert something,0
+BaseFunctionalTestCase protected static Server server,jetty plugin xml server name Jetty version 6 x,0
+UserAction private Page User page new Page User 5 5,left jsp page language java pageEncoding UTF 8,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource schedule applicationContext quartz timer cluster xml,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml jdbc driver artifactId h2 jdbc driver artifactId,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext xml,0
+AutoLoginFilter private UserDetailsService userDetailsService,applicationContext cxf server xml property name userDetailsService ref userDetailsService,0
+HibernateMappingTest private static Logger logger LoggerFactory getLogger HibernateMappingTest class,log4j perf4j xml logger,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml groupId jdbc driver groupId groupId,0
+GetUserResult private UserDTO user,login jsp div b admin admin b b user user b div,0
+UserDTO private String email,applicationContext showcase xml import resource email applicationContext email xml,0
+RoleAction private Role entity,hibernate reveng xml table filter match schema match name SS package org springside examples showcase common entity,0
+UserDTO private String loginName,user input jsp remote user checkLoginName action oldLoginName encodeURIComponent symbol dollar loginName,0
+AutoLoginFilter private UserDetailsService userDetailsService,applicationContext security xml bean id userDetailsService class org springside examples showcase security UserDetailsServiceImpl,0
+AdvancedNotifyMessageProducer private JmsTemplate jmsTemplate,applicationContext jms simple xml bean id jmsTemplate class org springframework jms core JmsTemplate,0
+User private String password,build xml dbunit driver jdbc driver url jdbc url userid jdbc username password jdbc password,0
+GetUserResult private UserDTO user,default data xml acct user role USER ID 3 ROLE ID 2,0
+PropertiesUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+PageTest private Page Object page,jmx client jsp page contentType text html charset UTF 8 pageEncoding UTF 8,0
+User private String email,user jsp value symbol dollar param filter LIKES name OR email size 9,0
+AuditListener private static Logger logger LoggerFactory getLogger AuditListener class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+AuditListener private static Logger logger LoggerFactory getLogger AuditListener class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+TraceUtilsTest Logger logger LoggerFactory getLogger TraceUtilsTest class,index jsp li logger 10 LOGS li,0
+UserAction private User entity,ehcache hibernate local xml cache name org springside examples miniweb entity account Resource maxElementsInMemory 10000,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext xml property name dataSource ref quartzDataSource,0
+RemoteContentServlet private static Logger logger LoggerFactory getLogger RemoteContentServlet class,500 jsp logger error ex getMessage ex,0
+RoleAction private Role entity,ehcache hibernate local xml cache name org springside examples miniweb entity account Authority maxElementsInMemory 10000,0
+SimpleHibernateDao protected SessionFactory sessionFactory,applicationContext test functional xml property name sessionFactory ref sessionFactory,0
+AdvancedNotifyMessageListener private static Logger logger LoggerFactory getLogger AdvancedNotifyMessageListener class,index jsp li logger AOp showcase trace log li,0
+User private String password,showcase soapui project xml soapenv Envelope con request con credentials con username admin con username con password admin con password con credentials con wsaConfig mustUnderstand NONE version 200508 action http showcase examples springside org UserService getAllUser con call con operation con interface con interface xsi type con WsdlInterface wsaVersion NONE name LittleImageServiceSoapBinding type wsdl bindingName http showcase examples springside org LittleImageServiceSoapBinding soapVersion 1 1 anonymous optional definition http localhost 8080 showcase services LittleImageService wsdl xmlns xsi http www w3 org 2001 XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost 8080 showcase services LittleImageService wsdl con part con url http localhost 8080 showcase services LittleImageService wsdl con url con content CDATA wsdl definitions name LittleImageService targetNamespace http showcase examples springside org xmlns ns1 http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w3 org 2001 XMLSchema,0
+GetUserResult private UserDTO user,user jsp a href user input action a,0
+PageTest private Page Object page,role jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+PageTest private Page Object page,user jsp input type hidden name page order id order value page order,0
+WsConstants public static final String NS http showcase examples springside org,sonar 2 2 backup xml key CDATA NS DANGEROUS NON SHORT CIRCUIT key,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource jmx applicationContext jmx server xml,0
+PageTest private Page Object page,user jsp page contentType text html charset UTF 8,0
+BaseFunctionalTestCase private static Server server,applicationContext cxf server xml bean id digestPasswordCallback class org springside examples showcase ws server impl security DigestPasswordCallback,0
+SimpleHibernateDaoTest private SessionFactory sessionFactory,applicationContext xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+GetUserResult private UserDTO user,applicationContext cxf client xml entry key user value admin,0
+QueueConsumer protected Logger logger LoggerFactory getLogger getClass,index jsp li logger 10 LOGS li,0
+BaseFunctionalTestCase protected static Server server,applicationContext xml value file var showcase application server properties value,0
+HibernateDaoTest private SessionFactory sessionFactory,applicationContext test xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+Post protected User user,user jsp a href user delete action id symbol dollar id a,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext quartz cron local xml,0
+SpyTokyotyrantClient private MemcachedClient client,applicationContext cxf client xml jaxws client id userServiceWithPlainPassword serviceClass org springside examples showcase ws server UserWebService,0
+Post protected User user,user input jsp remote user checkLoginName action oldLoginName encodeURIComponent loginName,0
+BaseFunctionalTestCase protected static Server server,applicationContext email xml gmail smtp server,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml description ShowCase applicationContext description,0
+UserDTO private String email,user jsp th a href javascript sort email asc a th,0
+UserAction private User entity,ehcache hibernate local xml cache name package entity account Role authorityList maxElementsInMemory 10000,0
+JmxClientAction private static Logger logger LoggerFactory getLogger JmxClientAction class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+PageTest private Page Object page,login jsp page contentType text html charset UTF 8,0
+User private String loginName,user jsp input type text name filter EQS loginName value param filter EQS loginName size 9,0
+JmxClientService private static Logger logger LoggerFactory getLogger JmxClientService class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+UserResourceService private DozerBeanMapper dozer,applicationContext ws server xml dozer DTO,0
+User private String loginName,user input jsp remote user checkLoginName action oldLoginName encodeURIComponent symbol dollar loginName,0
+UserJdbcDao private static Logger logger LoggerFactory getLogger UserJdbcDao class,500 jsp logger error ex getMessage ex,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext test xml,0
+BaseFunctionalTestCase private static Server server,applicationContext jmx client xml property name host value server addr,0
+SpringTxTestCase protected DataSource dataSource,applicationContext test xml property name dataSource ref quartzDataSource,0
+UserAction private User entity,ehcache hibernate local xml cache name org springside examples miniweb entity account Authority maxElementsInMemory 10000,0
+WSResult private String code SUCCESS,report2 settings xml BBBB00 hex color code background color of Collecting data text,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext executor xml,0
+QueueConsumer protected Logger logger LoggerFactory getLogger getClass,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource jmx applicationContext jmx server xml,0
+UserDTO private String loginName,user jsp th a href javascript sort loginName asc a th,0
+RoleAction private Role entity,ehcache hibernate local xml cache name package entity account Resource authorityList maxElementsInMemory 10000,0
+SpyTokyotyrantClient private MemcachedClient client,index jsp li a href ctx ajax mashup mashup client action Mashup a JSONP Ajax li,0
+UserAction private User entity,applicationContext test functional xml property name packagesToScan value org springside examples showcase common entity,0
+UserAction private Page User page new Page User 5 5,web xml error page,0
+SimpleMailService private static Logger logger LoggerFactory getLogger SimpleMailService class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+WSResult private String message,report2 settings xml Number Number Number x position of error message If not set will be aligned to the center,0
+UserAction private Page User page new Page User 5 5,500 jsp page import org slf4j Logger org slf4j LoggerFactory,0
+PageTest private Page Object page,user jsp page import org springside examples showcase security OperatorDetails,0
+HibernateDaoTest private HibernateDao User Long dao,applicationContext jdbc xml bean id userJdbcDao class org springside examples showcase common dao UserJdbcDao,0
+NotifyMessageProducer private Destination notifyTopic,applicationContext jms simple xml bean id notifyTopic class org apache activemq command ActiveMQTopic,0
+RemoteContentServlet private static Logger logger LoggerFactory getLogger RemoteContentServlet class,index jsp li logger AOp showcase trace log li,0
+UserWebServiceTest private UserWebService userWebService,applicationContext ws server xml bean id userWebService class org springside examples miniservice ws impl UserWebServiceImpl,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml description ShowCase applicationContext description,0
+SecurityWebServiceTest private ApplicationContext applicationContext,web xml classpath applicationContext showcase xml,0
+User private String loginName,user input jsp td input type text name loginName size 40 id loginName value symbol dollar loginName td,0
+UserResourceServiceTest private static UserResourceClient client,jmx client jsp get jmx client stopTrace action,0
+BaseFunctionalTestCase protected static WebDriver driver,hibernate cfg xml property name hibernate connection driver class com mysql jdbc Driver property,0
+UserDTO private String loginName,user jsp td symbol dollar loginName nbsp td,0
+User private String password,applicationContext test functional xml property name password value quartz jdbc password,0
+UserAction private Page User page new Page User 5 5,index jsp page import org springside modules utils encode EncodeUtils,0
+User private String password,hibernate cfg xml property name hibernate connection password property,0
+UserDetailsServiceImplTest private IMocksControl control EasyMock createControl,activemq network broker xml information see http activemq apache org producer flow control html,0
+BaseFunctionalTestCase protected static Server server,applicationContext xml value file var artifactId application server properties value,0
+PageTest private Page Object page,user jsp a href javascript jumpPage page totalPages a,0
+HibernateMappingTest private static Logger logger LoggerFactory getLogger HibernateMappingTest class,500 jsp logger error ex getMessage ex,0
+WSResult private String code SUCCESS,report2 settings xml text color hex color code button text color,0
+GetUserResult private UserDTO user,applicationContext security xml s intercept url pattern account user delete access hasAnyRole ROLE,0
+SpyMemcachedClient private static Logger logger LoggerFactory getLogger SpyMemcachedClient class,log4j perf4j xml logger,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext core test xml property name dataSource ref dataSource,0
+User private String password,build xml dbunit driver symbol dollar jdbc driver url symbol dollar jdbc url userid symbol dollar jdbc username password symbol dollar jdbc password,0
+User private String email,pom xml email begin,0
+Post protected User user,default data xml acct user ID 6 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PASSWORD user5,0
+AdvancedNotifyMessageListener private static Logger logger LoggerFactory getLogger AdvancedNotifyMessageListener class,500 jsp logger error ex getMessage ex,0
+Post protected User user,default data xml acct user role USER ID 1 ROLE ID 1,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml description ShowCase applicationContext description,0
+BaseFunctionalTestCase private static Server server,applicationContext jmx server xml property name nodeName value server node name,0
+UserAction private User entity,hibernate reveng xml table filter match schema match name ACCT package package entity account,0
+GetUserResult private UserDTO user,default data xml acct user role USER ID 6 ROLE ID 2,0
+UserDTO private String email,applicationContext email xml bean id simpleMailService class org springside examples showcase email SimpleMailService,0
+Post protected User user,test data xml SS USER ID 5 CREATE TIME 2009 07 11 08 52 25 805 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PLAIN PASSWORD user4 STATUS enabled,0
+UserDetailsServiceImplTest private IMocksControl control EasyMock createControl,applicationContext security xml s concurrency control max sessions 1 error if maximum exceeded false,0
+Post protected User user,default data xml acct user role USER ID 1 ROLE ID 2,0
+WSResult private String message,report2 settings xml true true false In case you don t use any flash JavaScript communication you shuold set this setting to false this will save some CPU and will disable the security warning message which appears when opening the chart from hard drive,0
+SpyTokyotyrantClient private MemcachedClient client,applicationContext jmx client xml bean id jmxClient class org springside examples showcase jmx client JmxClientService,0
+WsConstants public static final String NS http showcase examples springside org,sonar 2 2 backup xml key CDATA NS NON SHORT CIRCUIT key,0
+AccountManagerTest private IMocksControl control EasyMock createControl,activemq xml flow control For more information see http activemq apache org producer flow control html,0
+WSResult private String message,report2 settings xml BBBB00 hex color code background color of error message Separate color codes with comas for gradient,0
+WSResult private String message,applicationContext log xml values thread name logger name log time level message,0
+GetUserResult private UserDTO user,header jsp li a href ctx account user action a li,0
+Post protected User user,user jsp form id mainForm action user disableUsers action method post,0
+BaseFunctionalTestCase private static Server server,jetty xml bean id sec class org eclipse jetty server handler HandlerCollection,0
+PageTest private Page Object page,web xml error page,0
+AutoLoginFilter private UserDetailsService userDetailsService,applicationContext security xml bean id userDetailsService class org springside examples miniweb service account UserDetailsServiceImpl,0
+User private String password,build xml sql driver symbol dollar jdbc driver url symbol dollar jdbc url userid symbol dollar jdbc username password symbol dollar jdbc password src symbol dollar sql dir schema sql onerror continue,0
+ReflectionUtils private static Logger logger LoggerFactory getLogger ReflectionUtils class,index jsp li logger AOp showcase trace log li,0
+SpyTokyotyrantClient private static Logger logger LoggerFactory getLogger SpyTokyotyrantClient class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+PageTest private Page Object page,500 jsp page contentType text html charset UTF 8 isErrorPage true,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource jms applicationContext jms advanced xml,0
+SmallImageWebServiceImpl private static Logger logger LoggerFactory getLogger SmallImageWebServiceImpl class,index jsp li logger 10 LOGS li,0
+CrudActionSupport protected Logger logger LoggerFactory getLogger getClass,log4j perf4j xml logger,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext xml property name dataSource ref dataSource,0
+UserAction private Page User page new Page User 5 5,500 jsp page contentType text html charset UTF 8 isErrorPage true,0
+UserResourceServiceTest private static UserResourceClient client,applicationContext jmx client xml bean id jmxClient class org springside examples showcase jmx client JmxClientService,0
+PageTest private Page Object page,role input jsp page contentType text html charset UTF 8,0
+User private String password,user input jsp td input type password id passwordConfirm name passwordConfirm size 40 value symbol dollar password,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext executor xml,0
+SpringContextHolder private static ApplicationContext applicationContext null,web xml classpath applicationContext ws server xml,0
+WSResult private String code SUCCESS,web xml error code 403 error code,0
+SimpleHibernateDaoTest private SessionFactory sessionFactory,applicationContext xml property name sessionFactory ref sessionFactory,0
+UserDTO private String email,user input jsp td input type text id email name email size 40 value email td,0
+Post protected User user,user jsp a href user input action id symbol dollar id a nbsp,0
+SmallImageResult private byte imageData,showcase soapui project xml xs element minOccurs 0 name imageData ns1 expectedContentTypes application octet stream type xs base64Binary xmlns ns1 http www w3 org 2005 05 xmlmime,0
+User private String password,applicationContext test xml property name password value symbol dollar jdbc password,0
+UserResourceClient private WebResource client,applicationContext cxf client xml jaxws client id userServiceWithPlainPassword serviceClass org springside examples showcase ws server UserWebService,0
+SpringCronJob private static Logger logger LoggerFactory getLogger SpringCronJob class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+SpyTokyotyrantClientPool private static Logger logger LoggerFactory getLogger SpyTokyotyrantClientPool class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+SpringTxTestCase protected DataSource dataSource,applicationContext test xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+SpringTxTestCase protected DataSource dataSource,applicationContext xml jee jndi lookup id dataSource jndi name java comp env jdbc ExampleDB,0
+GetUserResult private UserDTO user,default data xml acct user ID 1 EMAIL admin springside org cn LOGIN NAME admin NAME Admin PASSWORD admin,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource cache applicationContext memcached xml,0
+PageTest private Page Object page,user jsp page pageNo page totalPages,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext test xml property name dataSource ref quartzDataSource,0
+PageTest private Page Object page,user jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+QuartzClusterableJob private ApplicationContext applicationContext,web xml classpath applicationContext test xml,0
+OperatorDetails private List Role roleList,ehcache hibernate local xml cache name org springside examples miniservice entity account User roleList maxElementsInMemory 10000,0
+QueueConsumer protected Logger logger LoggerFactory getLogger getClass,log4j perf4j xml logger,0
+UserDTO private String email,user jsp value param filter LIKES name OR email size 9,0
+SpyTokyotyrantClient private MemcachedClient client,jmx client jsp getJSON jmx client refreshConfig action function data,0
+BaseFunctionalTestCase private static Server server,applicationContext xml value file var artifactId application server properties value,0
+BaseFunctionalTestCase protected static WebDriver driver,build xml sql driver symbol dollar jdbc driver url symbol dollar jdbc url userid symbol dollar jdbc username password symbol dollar jdbc password src symbol dollar sql dir schema sql onerror continue,0
+UserDTO private String email,user jsp td email nbsp td,0
+WSResult private String message,showcase soapui project xml wsdl output message tns getAllUserResponse name getAllUserResponse wsdl output,0
+SpyTokyotyrantClient private MemcachedClient client,index jsp li a href ctx jmx jmx client action Ajax a JMX html json li,0
+UserAction private User entity,applicationContext xml property name packagesToScan value org springside examples miniweb entity account,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext test functional xml property name dataSource ref dataSource,0
+UserAction private User entity,hibernate reveng xml table filter match schema match name ACCT package org springside examples miniweb entity account,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml artifactId selenium ie driver artifactId,0
+HibernateDaoTest private SessionFactory sessionFactory,applicationContext xml property name sessionFactory ref sessionFactory,0
+UserWebServiceTest private IMocksControl control EasyMock createControl,activemq xml information see http activemq apache org producer flow control html,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml artifactId selenium htmlunit driver artifactId,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource jmx applicationContext jmx server xml,0
+WSResult private String message,report2 settings xml Number Number Number y position of error message If not set will be aligned to the center,0
+UserAction private Page User page new Page User 5 5,role jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+CrudActionSupport protected Logger logger LoggerFactory getLogger getClass,index jsp li logger 10 LOGS li,0
+PageTest private Page Object page,index jsp page import org springside modules utils encode EncodeUtils,0
+SpringContextHolder private static Logger logger LoggerFactory getLogger SpringContextHolder class,log4j perf4j xml logger,0
+UserResourceClient private WebResource client,applicationContext cxf client xml bean id passwordCallback class org springside examples showcase ws client PasswordCallback,0
+JmxClientAction private boolean notificationMailEnabled,jmx client jsp input radio name notificationMailEnabled val data notificationMailEnabled,0
+UserResourceService private static Logger logger LoggerFactory getLogger UserResourceService class,log4j perf4j xml logger,0
+PageTest private Page Object page,user jsp s if test page hasNext a href javascript jumpPage page nextPage a s if,0
+BaseFunctionalTestCase protected static Server server,jetty xml bean id Server class org eclipse jetty server Server init method start,0
+UserWebServiceImpl private static Logger logger LoggerFactory getLogger UserWebServiceImpl class,log4j perf4j xml logger,0
+Post protected User user,applicationContext security xml s intercept url pattern account user save access hasAnyRole ROLE,0
+AccountManager private static Logger logger LoggerFactory getLogger AccountManager class,index jsp li logger AOp showcase trace log li,0
+UserAction private Page User page new Page User 5 5,applicationContext security xml s form login login page login action default target url authentication failure url login action error true,0
+UserAction private User entity,ehcache hibernate local xml cache name package entity account Role maxElementsInMemory 10000,0
+WSResult private String code SUCCESS,report2 settings xml balloon color hex color code leave empty to use the same color as graph,0
+NotifyMessageListener private static Logger logger LoggerFactory getLogger NotifyMessageListener class,log4j perf4j xml logger,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource jms applicationContext jms simple xml,0
+GetUserResult private UserDTO user,test data xml SS USER ID 3 CREATE TIME 2009 07 11 08 52 25 805 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PLAIN PASSWORD user2 STATUS enabled,0
+UserDTO private String loginName,user jsp input type text name filter EQS loginName value symbol dollar param filter EQS loginName size 9,0
+WSResult private String code SUCCESS,formatter profile xml setting id org eclipse jdt core formatter comment format source code value true,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext test xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+SimpleHibernateDao protected SessionFactory sessionFactory,applicationContext test functional xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource jmx applicationContext jmx server xml,0
+BaseFunctionalTestCase protected static Server server,jetty plugin xml server,0
+JCaptchaFilter private static Logger logger LoggerFactory getLogger JCaptchaFilter class,500 jsp logger error ex getMessage ex,0
+User private String password,user input jsp equalTo symbol pound password,0
+SpringTxTestCase protected DataSource dataSource,applicationContext xml property name dataSource ref dataSource,0
+AdvancedNotifyMessageListener private static Logger logger LoggerFactory getLogger AdvancedNotifyMessageListener class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+QuartzJob private static Logger logger LoggerFactory getLogger QuartzJob class,index jsp li logger AOp showcase trace log li,0
+SpringTxTestCase protected DataSource dataSource,applicationContext test xml property name dataSource ref dataSource,0
+GetUserResult private UserDTO user,applicationContext jms advanced xml property name messageSelector value objectType user,0
+DbUnitUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,index jsp li logger AOp showcase trace log li,0
+AuditListener private static Logger logger LoggerFactory getLogger AuditListener class,index jsp li logger AOp showcase trace log li,0
+SimpleHibernateDao protected Logger logger LoggerFactory getLogger getClass,index jsp li logger 10 LOGS li,0
+UserAction private Page User page new Page User 5 5,403 jsp page contentType text html charset UTF 8,0
+AdvancedNotifyMessageProducer private Destination notifyTopic,applicationContext jms simple xml bean id notifyTopic class org apache activemq command ActiveMQTopic,0
+GetUserResult private UserDTO user,urlrewrite xml from common user 0 9 htm from,0
+HibernateDaoTest private SessionFactory sessionFactory,applicationContext core test xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+QuartzClusterableJob private ApplicationContext applicationContext,web xml classpath applicationContext test functional xml,0
+PageTest private Page Object page,left jsp page language java pageEncoding UTF 8,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext core test xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+UserWebServiceImpl private static Logger logger LoggerFactory getLogger UserWebServiceImpl class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+UserResourceService private DozerBeanMapper dozer,pom xml artifactId dozer artifactId,0
+GetUserResult private UserDTO user,default data xml acct user ID 6 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PASSWORD user5,0
+UserWebServiceTest private IMocksControl control EasyMock createControl,applicationContext security xml s concurrency control max sessions 1 error if maximum exceeded false,0
+AuditListener private static Logger logger LoggerFactory getLogger AuditListener class,log4j perf4j xml logger,0
+GetUserResult private UserDTO user,test data xml SS USER ID 6 CREATE TIME 2009 07 11 08 52 25 805 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PLAIN PASSWORD user5 STATUS enabled,0
+UserDTO private List RoleDTO roleList Lists newArrayList,ehcache hibernate local xml cache name package entity account User roleList maxElementsInMemory 10000,0
+User private String email,user jsp td email nbsp td,0
+Task private Logger logger,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+SeleniumUtils private static Logger logger LoggerFactory getLogger SeleniumUtils class,500 jsp logger error ex getMessage ex,0
+UserDetailsServiceImplTest private UserDetailsServiceImpl userDetailsService,applicationContext security xml bean id userDetailsService class org springside examples showcase security UserDetailsServiceImpl,0
+JdkExecutorJob private static Logger logger LoggerFactory getLogger JdkExecutorJob class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+User private String email,applicationContext showcase xml import resource email applicationContext email xml,0
+WSResult private String code SUCCESS,report2 settings xml FFFFFF hex color code Separate color codes with comas for gradient,0
+SpyMemcachedClient private static Logger logger LoggerFactory getLogger SpyMemcachedClient class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+QuartzClusterableJob private static Logger logger LoggerFactory getLogger QuartzClusterableJob class,500 jsp logger error ex getMessage ex,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource email applicationContext email xml,0
+BaseFunctionalTestCase protected static Server server,index jsp li Tomcat tools tomcat profiles production server xml li,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml artifactId selenium firefox driver artifactId,0
+SpringTxTestCase protected DataSource dataSource,applicationContext test xml jdbc initialize database data source dataSource ignore failures ALL,0
+UserAction private Page User page new Page User 5 5,user jsp page import org springside examples showcase security OperatorDetails,0
+UserWebServiceTest private UserWebServiceImpl userWebService,applicationContext cxf server xml jaxws implementor ref userWebService,0
+Task private Logger logger,500 jsp logger error ex getMessage ex,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext quartz cron local xml,0
+PageTest private Page Object page,applicationContext security xml s form login login page login action default target url authentication failure url login action error true,0
+Post protected User user,default data xml SS USER ID 5 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 822 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PLAIN PASSWORD user4 SHA PASSWORD 06e6eef6adf2e5f54ea6c43c376d6d36605f810e STATUS enabled VERSION 1,0
+SeleniumUtils private static Logger logger LoggerFactory getLogger SeleniumUtils class,index jsp li logger 10 LOGS li,0
+User private String password,showcase soapui project xml soapenv Envelope con request con credentials con username admin con username con password admin con password con credentials con wsaConfig mustUnderstand NONE version 200508 action http showcase examples springside org UserService getAllUser con call con call name RequestWithDigestPassword wssPasswordType PasswordDigest con settings con encoding UTF 8 con encoding con endpoint http localhost 8080 showcase services UserServiceWithDigestPassword con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml jdbc driver version 5 1 13 jdbc driver version,0
+UserResourceService private static Logger logger LoggerFactory getLogger UserResourceService class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+User private String password,applicationContext email xml property name password value demoforyou,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource jmx applicationContext jmx client xml,0
+PageTest private Page Object page,header jsp page language java pageEncoding UTF 8,0
+AdvancedNotifyMessageProducer private Destination notifyQueue,applicationContext jms simple xml bean id notifyQueue class org apache activemq command ActiveMQQueue,0
+Post protected User user,report2 settings xml filename if you set filename here context menu then user right clicks on flash movie Export as image will appear This will allow user to export chart as an image Collected image data will be posted to this file name use amcolumn export php or amcolumn export aspx,0
+AdvancedNotifyMessageListener private static Logger logger LoggerFactory getLogger AdvancedNotifyMessageListener class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+RoleAction private Role entity,ehcache hibernate local xml cache name org springside examples miniweb entity account Resource authorityList maxElementsInMemory 10000,0
+Post protected User user,default data xml ACCT USER ID 2 EMAIL user springside org cn LOGIN NAME user NAME User PASSWORD user,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource email applicationContext email xml,0
+SpringCronJob private static Logger logger LoggerFactory getLogger SpringCronJob class,log4j perf4j xml logger,0
+AuditListener private static Logger logger LoggerFactory getLogger AuditListener class,index jsp li logger 10 LOGS li,0
+Post protected User user,default data xml acct user ID 5 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PASSWORD user4,0
+GetUserResult private UserDTO user,server xml Editable user database that can also be used by,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource cache applicationContext ehcache xml,0
+UserResourceServiceTest private static UserResourceClient client,jmx client jsp get jmx client saveConfig action form serialize function data,0
+UserAction private Page User page new Page User 5 5,header jsp page language java pageEncoding UTF 8,0
+PageTest private Page Object page,user jsp input type hidden name page orderBy id orderBy value page orderBy,0
+SimpleHibernateDaoTest private SessionFactory sessionFactory,applicationContext test functional xml property name sessionFactory ref sessionFactory,0
+RoleAction private Role entity,pom xml exclude entity class exclude,0
+UserWebServiceTest private UserWebServiceImpl userWebService,applicationContext ws server xml jaxws implementor ref userWebService,0
+Post protected User user,applicationContext jms advanced xml property name messageSelector value objectType user,0
+GetUserResult private UserDTO user,user jsp a href user input action id symbol dollar id a nbsp,0
+UserJdbcDao private static Logger logger LoggerFactory getLogger UserJdbcDao class,index jsp li logger 10 LOGS li,0
+Post protected User user,applicationContext jdbc xml FROM ss user,0
+AccountManagerTest private IMocksControl control EasyMock createControl,activemq xml information see http activemq apache org producer flow control html,0
+QuartzJob private static Logger logger LoggerFactory getLogger QuartzJob class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext test functional xml property name dataSource ref quartzDataSource,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource security applicationContext security xml,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext quartz cron local xml,0
+Post protected User user,default data xml acct user ID 4 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PASSWORD user3,0
+JsonBinder private static Logger logger LoggerFactory getLogger JsonBinder class,log4j perf4j xml logger,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource jmx applicationContext jmx server xml,0
+BaseFunctionalTestCase protected static Server server,applicationContext xml value file var mini web application server properties value,0
+GetUserResult private UserDTO user,header jsp li a href symbol dollar ctx account user action a li,0
+UserAction private Page User page new Page User 5 5,report2 drilldown jsp page contentType text html charset UTF 8,0
+GetUserResult private UserDTO user,applicationContext security xml s authentication provider user service ref userDetailsService,0
+UserAction private Page User page new Page User 5 5,role jsp page contentType text html charset UTF 8,0
+RoleAction private Role entity,ehcache hibernate local xml cache name org springside examples miniservice entity account Role maxElementsInMemory 10000,0
+SpyTokyotyrantClientPool private static Logger logger LoggerFactory getLogger SpyTokyotyrantClientPool class,log4j perf4j xml logger,0
+UserAction private User entity,hibernate reveng xml table filter match schema match name ACCT package org springside examples miniservice entity account,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource webservice applicationContext cxf server xml,0
+PageTest private Page Object page,footer jsp page language java pageEncoding UTF 8,0
+SpringTxTestCase protected DataSource dataSource,applicationContext test functional xml property name dataSource ref quartzDataSource,0
+AccountManagerTest private IMocksControl control EasyMock createControl,applicationContext security xml s concurrency control max sessions 1 error if maximum exceeded false,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource jms applicationContext jms advanced xml,0
+BaseFunctionalTestCase private static Server server,applicationContext cxf server xml bean id userWebService class org springside examples showcase ws server impl UserWebServiceImpl,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource cache applicationContext ehcache xml,0
+CrudActionSupport protected Logger logger LoggerFactory getLogger getClass,500 jsp logger error ex getMessage ex,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml description ShowCase applicationContext description,0
+User private String email,left jsp a href ctx email index action a,0
+SpyMemcachedClient private static Logger logger LoggerFactory getLogger SpyMemcachedClient class,index jsp li logger 10 LOGS li,0
+JmxClientService private static Logger logger LoggerFactory getLogger JmxClientService class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+SeleniumUtils private static Logger logger LoggerFactory getLogger SeleniumUtils class,index jsp li logger AOp showcase trace log li,0
+GetUserResult private UserDTO user,user jsp a href user delete action id symbol dollar id a,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext test xml jdbc initialize database data source dataSource ignore failures ALL,0
+UserDTO private String loginName,user jsp input type text name filter EQS loginName value param filter EQS loginName size 9,0
+WSResult private String message,user jsp div id message s actionmessage theme custom cssClass success div,0
+WSResult private String message,showcase soapui project xml wsdl message name getAllUser,0
+SpyTokyotyrantClient private MemcachedClient client,jmx client jsp get jmx client stopTrace action,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext quartz timer cluster xml,0
+SimpleMailService private static Logger logger LoggerFactory getLogger SimpleMailService class,index jsp li logger 10 LOGS li,0
+QuartzClusterableJob private ApplicationContext applicationContext,web xml classpath applicationContext xml,0
+UserResourceClient private WebResource client,applicationContext showcase xml import resource jmx applicationContext jmx client xml,0
+UserDTO private String email,user input jsp email email,0
+UserDetailsServiceImplTest private UserDetailsServiceImpl userDetailsService,applicationContext security xml s authentication provider user service ref userDetailsService,0
+JmxClientAction private static Logger logger LoggerFactory getLogger JmxClientAction class,index jsp li logger AOp showcase trace log li,0
+Post protected User user,server xml Editable user database that can also be used by,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource log applicationContext log xml,0
+GetUserResult private UserDTO user,urlrewrite xml to type forward common user input action id 1 to,0
+SimpleMailService private static Logger logger LoggerFactory getLogger SimpleMailService class,index jsp li logger AOp showcase trace log li,0
+PageTest private Page Object page,resource jsp page contentType text html charset UTF 8,0
+Post protected User user,default data xml SS USER ID 4 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 818 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PLAIN PASSWORD user3 SHA PASSWORD 0b7f849446d3383546d15a480966084442cd2193 STATUS enabled VERSION 1,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource webservice applicationContext cxf server xml,0
+QuartzJob private static Logger logger LoggerFactory getLogger QuartzJob class,index jsp li logger 10 LOGS li,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource cache applicationContext memcached xml,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource log applicationContext log xml,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource jmx applicationContext jmx client xml,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext quartz timer cluster xml property name dataSource ref quartzDataSource,0
+WSResult private String message,showcase soapui project xml wsdl output message tns getImageResponse name getImageResponse wsdl output,0
+Post protected User user,urlrewrite xml to type forward common user action to,0
+PageTest private Page Object page,user jsp input type hidden name page orderBy id orderBy value symbol dollar page orderBy,0
+UserDTO private String email,left jsp a href ctx email index action a,0
+SpyTokyotyrantClient private MemcachedClient client,applicationContext cxf client xml jaxws client,0
+Post protected User user,default data xml ACCT USER ID 4 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PASSWORD user3,0
+UserDTO private String loginName,user input jsp remote user checkLoginName action oldLoginName encodeURIComponent loginName,0
+UserAction private Page User page new Page User 5 5,404 jsp page contentType text html charset UTF 8,0
+WSResult private String code SUCCESS,report2 settings xml hex color code balloon background color If empty slightly darker then current column color will be used,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext test functional xml property name dataSource ref dataSource,0
+UserResourceServiceTest private static UserResourceClient client,jmx client jsp get jmx client startTrace action,0
+UserAction private Page User page new Page User 5 5,resource jsp page contentType text html charset UTF 8,0
+UserDTO private String email,user jsp value symbol dollar param filter LIKES name OR email size 9,0
+WSResult private String code SUCCESS,report2 settings xml CDATA column data labels line data labels title value series percents start difference total You can format any data label title will be replaced with real title value with value and so on You can add your own text or html code too,0
+BaseFunctionalTestCase protected static WebDriver driver,build xml sql driver jdbc driver url jdbc url userid jdbc username password jdbc password src sql dir schema sql onerror continue,0
+BaseFunctionalTestCase private static Server server,jetty plugin xml server name Jetty version 6 x,0
+User private String password,user input jsp td input type password id passwordConfirm name passwordConfirm size 40 value password,0
+UserResourceServiceTest private static UserResourceClient client,left jsp a href ctx jmx jmx client action JMX a,0
+TraceUtilsTest Logger logger LoggerFactory getLogger TraceUtilsTest class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+BaseFunctionalTestCase protected static Server server,activemq network broker xml The managementContext is used to configure how ActiveMQ is exposed in JMX By default ActiveMQ uses the MBean server,0
+SpringCronJob private static Logger logger LoggerFactory getLogger SpringCronJob class,index jsp li logger 10 LOGS li,0
+Post protected User user,default data xml acct user ID 3 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PASSWORD user2,0
+BaseFunctionalTestCase private static Server server,applicationContext cxf server xml bean id largeImageWebService class org springside examples showcase ws server impl LargeImageWebServiceImpl,0
+User private String password,login jsp td input type password size 10 name j password td,0
+UserResourceService private DozerBeanMapper dozer,applicationContext ws server xml bean id dozer class org dozer DozerBeanMapper,0
+SpyMemcachedClient private static Logger logger LoggerFactory getLogger SpyMemcachedClient class,index jsp li logger AOp showcase trace log li,0
+QuartzClusterableJob private ApplicationContext applicationContext,web xml classpath applicationContext security xml,0
+PageTest private Page Object page,403 jsp page contentType text html charset UTF 8,0
+PageTest private Page Object page,index jsp page contentType text html charset UTF 8,0
+BaseFunctionalTestCase private static Server server,server xml JMX Support for the Tomcat server Documentation at docs non existent html,0
+User private String password,login jsp td input type password id j password name j password class required td,0
+RemoteContentServlet private static Logger logger LoggerFactory getLogger RemoteContentServlet class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+SecurityWebServiceTest private ApplicationContext applicationContext,web xml classpath applicationContext xml,0
+StaticContentServlet private ApplicationContext applicationContext,web xml classpath applicationContext test functional xml,0
+QuartzJob private static Logger logger LoggerFactory getLogger QuartzJob class,log4j perf4j xml logger,0
+User private String email,user jsp value param filter LIKES name OR email size 9,0
+UserDTO private String email,pom xml email end,0
+RoleAction private Role entity,applicationContext xml property name packagesToScan value package entity account,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource jms applicationContext jms simple xml,0
+UserResourceClient private WebResource client,jmx client jsp get jmx client stopTrace action,0
+GetUserResult private UserDTO user,test data xml SS USER ID 2 CREATE TIME 2009 07 11 08 52 25 805 EMAIL user springside org cn LOGIN NAME user NAME Calvin PLAIN PASSWORD user STATUS enabled,0
+UserWebServiceImpl private static Logger logger LoggerFactory getLogger UserWebServiceImpl class,index jsp li logger 10 LOGS li,0
+UserDetailsServiceImplTest private UserDetailsServiceImpl userDetailsService,applicationContext security xml bean id userDetailsService class org springside examples miniweb service account UserDetailsServiceImpl,0
+UserResourceClient private WebResource client,applicationContext cxf client xml jaxws client,0
+OperatorDetails private List Role roleList,ehcache hibernate local xml cache name package entity account User roleList maxElementsInMemory 10000,0
+SimpleHibernateDaoTest private SessionFactory sessionFactory,applicationContext test xml property name sessionFactory ref sessionFactory,0
+Post protected User user,user input jsp form id inputForm action user save action method post,0
+HibernateMappingTest private static Logger logger LoggerFactory getLogger HibernateMappingTest class,index jsp li logger AOp showcase trace log li,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext test functional xml jdbc initialize database data source dataSource ignore failures ALL,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml description ShowCase applicationContext description,0
+UserResourceClient private static Logger logger LoggerFactory getLogger UserResourceClient class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+NotifyMessageListener private static Logger logger LoggerFactory getLogger NotifyMessageListener class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+GetUserResult private UserDTO user,default data xml acct user ID 3 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PASSWORD user2,0
+UserJdbcDao private static Logger logger LoggerFactory getLogger UserJdbcDao class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+QuartzClusterableJob private static Logger logger LoggerFactory getLogger QuartzClusterableJob class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+MimeMailService private static Logger logger LoggerFactory getLogger MimeMailService class,log4j perf4j xml logger,0
+WSResult private String code SUCCESS,build xml target name generate code,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext quartz timer cluster xml property name dataSource ref quartzDataSource,0
+SpringContextHolder private static ApplicationContext applicationContext null,web xml classpath applicationContext security xml,0
+UserResourceServiceTest private static UserResourceClient client,applicationContext cxf client xml jaxws client id userServiceWithSpringSecurity serviceClass org springside examples showcase ws server UserWebService,0
+GetUserResult private UserDTO user,user jsp form id mainForm action user disableUsers action method post,0
+User private String password,user input jsp td input type password name plainPassword size 40 value plainPassword td,0
+Post protected User user,default data xml acct user role USER ID 2 ROLE ID 2,0
+WSResult private String message,resource jsp div id message s actionmessage theme custom cssClass success div,0
+UserResourceService private DozerBeanMapper dozer,applicationContext cxf server xml dozer DTO,0
+BaseFunctionalTestCase private static Server server,applicationContext cxf client xml jaxws client id userServiceWithSpringSecurity serviceClass org springside examples showcase ws server UserWebService,0
+BaseFunctionalTestCase private static Server server,index jsp li Tomcat tools tomcat profiles production server xml li,0
+StaticContentServlet private ApplicationContext applicationContext,web xml classpath applicationContext ws server xml,0
+UserWebServiceTest private IMocksControl control EasyMock createControl,jvm jmx metrics xml plugin type control class org hyperic hq product jmx MxControlPlugin,0
+QuartzClusterableJob private static Logger logger LoggerFactory getLogger QuartzClusterableJob class,log4j perf4j xml logger,0
+BaseFunctionalTestCase private static Server server,applicationContext xml value file var mini service application server properties value,0
+QuartzClusterableJob private static Logger logger LoggerFactory getLogger QuartzClusterableJob class,index jsp li logger AOp showcase trace log li,0
+UserDTO private String loginName,user input jsp td input type text name loginName size 40 id loginName value loginName td,0
+UserWebServiceTest private UserWebService userWebService,applicationContext ws server xml jaxws implementor ref userWebService,0
+SpringSecurityInInterceptor private UserDetailsService userDetailsService,applicationContext security xml userDetailsService,0
+UserAction private User entity,ehcache hibernate local xml cache name package entity account User roleList maxElementsInMemory 10000,0
+JmxClientAction private static Logger logger LoggerFactory getLogger JmxClientAction class,500 jsp logger error ex getMessage ex,0
+StaticContentServlet private ApplicationContext applicationContext,web xml classpath applicationContext security xml,0
+User private String password,build xml sql driver quartz jdbc driver url quartz jdbc url userid quartz jdbc username password quartz jdbc password src sql dir quartz sql onerror continue,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext test xml property name dataSource ref dataSource,0
+SpringSecurityInInterceptor private UserDetailsService userDetailsService,applicationContext security xml bean id userDetailsService class org springside examples showcase security UserDetailsServiceImpl,0
+UserWebServiceTest private UserWebServiceImpl userWebService,applicationContext ws server xml bean id userWebService class org springside examples miniservice ws impl UserWebServiceImpl,0
+JmemcachedServer private static Logger logger LoggerFactory getLogger JmemcachedServer class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+RoleAction private Role entity,ehcache hibernate local xml cache name package entity account Resource maxElementsInMemory 10000,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext executor xml,0
+JsonBinder private ObjectMapper mapper,pom xml artifactId jackson mapper asl artifactId,0
+UserResourceClient private WebResource client,pom xml artifactId jersey client artifactId,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext test xml jdbc initialize database data source dataSource ignore failures ALL,0
+JmxClientAction private static Logger logger LoggerFactory getLogger JmxClientAction class,log4j perf4j xml logger,0
+UserResourceClient private WebResource client,jmx client jsp getJSON jmx client refreshConfig action function data,0
+Post protected User user,user jsp a href user delete action id id a,0
+JCaptchaFilter private static Logger logger LoggerFactory getLogger JCaptchaFilter class,index jsp li logger 10 LOGS li,0
+BaseFunctionalTestCase protected static Server server,server xml JMX Support for the Tomcat server Documentation at docs non existent html,0
+SpringTxTestCase protected DataSource dataSource,applicationContext test functional xml property name dataSource ref dataSource,0
+SpringContextHolder private static Logger logger LoggerFactory getLogger SpringContextHolder class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+JCaptchaFilter private static Logger logger LoggerFactory getLogger JCaptchaFilter class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+WSResult private String code SUCCESS,showcase soapui project xml xs element minOccurs 0 name code type xs string,0
+BaseFunctionalTestCase protected static Server server,web xml classpath applicationContext ws server xml,0
+JsonBinder private static Logger logger LoggerFactory getLogger JsonBinder class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+SmallImageWebServiceImpl private static Logger logger LoggerFactory getLogger SmallImageWebServiceImpl class,index jsp li logger AOp showcase trace log li,0
+Post protected User user,applicationContext security xml s authentication provider user service ref userDetailsService,0
+User private String loginName,user jsp th a href javascript sort loginName asc a th,0
+SmallImageWebServiceImpl private static Logger logger LoggerFactory getLogger SmallImageWebServiceImpl class,log4j perf4j xml logger,0
+UserResourceServiceTest private static UserResourceClient client,jmx client jsp getJSON jmx client refreshConfig action function data,0
+AutoLoginFilter private UserDetailsService userDetailsService,applicationContext security xml bean id userDetailsService class package service account UserDetailsServiceImpl,0
+WSResult private String message,showcase soapui project xml xs element minOccurs 0 name message type xs string,0
+Post protected User user,user jsp form id mainForm action user action method get,0
+QuartzJob private static Logger logger LoggerFactory getLogger QuartzJob class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+Post protected User user,default data xml SS USER ID 6 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 827 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PLAIN PASSWORD user5 SHA PASSWORD 7d112681b8dd80723871a87ff506286613fa9cf6 STATUS enabled VERSION 1,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource schedule applicationContext executor xml,0
+Post protected User user,default data xml acct user role USER ID 3 ROLE ID 2,0
+Post protected User user,applicationContext security xml s intercept url pattern common user access isAuthenticated,0
+GetUserResult private UserDTO user,default data xml acct user ID 5 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PASSWORD user4,0
+Post protected User user,user jsp a href user input action id id a nbsp,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext quartz timer cluster xml Job applicationContext,0
+UserAction private User entity,applicationContext xml property name packagesToScan value org springside examples miniservice entity account,0
+SecurityWebServiceTest private ApplicationContext applicationContext,web xml classpath applicationContext test xml,0
+SeleniumUtils private static Logger logger LoggerFactory getLogger SeleniumUtils class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+UserDTO private String email,user input jsp td input type text id email name email size 40 value symbol dollar email td,0
+LargeImageWebServiceImpl private static Logger logger LoggerFactory getLogger LargeImageWebServiceImpl class,log4j perf4j xml logger,0
+UserAction private Page User page new Page User 5 5,user jsp symbol dollar page pageNo symbol dollar page totalPages,0
+AuditListener private static Logger logger LoggerFactory getLogger AuditListener class,500 jsp logger error ex getMessage ex,0
+PageTest private Page Object page,404 jsp page contentType text html charset UTF 8,0
+SpyTokyotyrantClientPool private static Logger logger LoggerFactory getLogger SpyTokyotyrantClientPool class,index jsp li logger 10 LOGS li,0
+WSResult private String code SUCCESS,cleanup profile xml setting id cleanup format source code value true,0
+NotifyMessageProducer private Destination notifyQueue,applicationContext jms simple xml property name destination ref notifyQueue,0
+SpyTokyotyrantClientPool private static Logger logger LoggerFactory getLogger SpyTokyotyrantClientPool class,500 jsp logger error ex getMessage ex,0
+RoleAction private Role entity,applicationContext test functional xml property name packagesToScan value org springside examples showcase common entity,0
+WSResult private String code SUCCESS,report2 settings xml values value color hex color code,0
+WSResult private String message,report2 settings xml No data for selected period text if data is missing this message will be displayed,0
+UserDTO private String email,user jsp Email input type text name filter LIKES name OR email,0
+Post protected User user,default data xml acct user role USER ID 5 ROLE ID 2,0
+CrudActionSupport protected Logger logger LoggerFactory getLogger getClass,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+PropertiesUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,index jsp li logger AOp showcase trace log li,0
+HibernateDaoTest private SessionFactory sessionFactory,applicationContext test functional xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+QueueAppender protected BlockingQueue LoggingEvent queue,activemq network broker xml policyEntry queue producerFlowControl true memoryLimit 20mb,0
+GetUserResult private UserDTO user,test data xml SS USER ID 4 CREATE TIME 2009 07 11 08 52 25 805 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PLAIN PASSWORD user3 STATUS enabled,0
+GetUserResult private UserDTO user,default data xml ACCT USER ID 3 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PASSWORD user2,0
+WSResult private String message,showcase soapui project xml wsdl input message tns getAllUser name getAllUser wsdl input,0
+RoleAction private Role entity,applicationContext test xml property name packagesToScan value org springside examples miniservice entity account,0
+User private String loginName,user input jsp loginName focus,0
+WSResult private String message,showcase soapui project xml wsdl message name getImageResponse,0
+HibernateMappingTest private static Logger logger LoggerFactory getLogger HibernateMappingTest class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+User private String email,user jsp th a href javascript sort email asc a th,0
+User private String loginName,user jsp input type text name filter EQS loginName value symbol dollar param filter EQS loginName size 9,0
+UserAction private User entity,applicationContext test xml property name packagesToScan value org springside examples miniweb entity account,0
+UserAction private User entity,ehcache hibernate local xml cache name package entity account Authority maxElementsInMemory 10000,0
+Post protected User user,default data xml ACCT USER ID 6 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PASSWORD user5,0
+UserAction private User entity,pom xml exclude entity class exclude,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext quartz timer cluster xml Job applicationContext,0
+UserAction private User entity,ehcache hibernate local xml cache name package entity account User maxElementsInMemory 10000,0
+BaseFunctionalTestCase protected static WebDriver driver,hibernate cfg xml property name hibernate connection driver class org h2 Driver property,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext test xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+RoleAction private Role entity,ehcache hibernate local xml cache name org springside examples miniweb entity account User roleList maxElementsInMemory 10000,0
+Post protected User user,default data xml acct user role USER ID 4 ROLE ID 2,0
+JmxClientAction private boolean notificationMailEnabled,applicationContext jmx server xml property name notificationMailEnabled value true,0
+HibernateDaoTest private SessionFactory sessionFactory,applicationContext xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+UserResourceClient private static Logger logger LoggerFactory getLogger UserResourceClient class,log4j perf4j xml logger,0
+ReflectionUtils private static Logger logger LoggerFactory getLogger ReflectionUtils class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+PageTest private Page Object page,role jsp page contentType text html charset UTF 8,0
+BaseFunctionalTestCase protected static Server server,pom xml artifactId jersey server artifactId,0
+MimeMailService private static Logger logger LoggerFactory getLogger MimeMailService class,500 jsp logger error ex getMessage ex,0
+ReflectionUtils private static Logger logger LoggerFactory getLogger ReflectionUtils class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+SimpleHibernateDaoTest private SimpleHibernateDao User Long dao,applicationContext jdbc xml bean id userJdbcDao class org springside examples showcase common dao UserJdbcDao,0
+QueueConsumer protected Logger logger LoggerFactory getLogger getClass,500 jsp logger error ex getMessage ex,0
+UserAction private User entity,ehcache hibernate local xml cache name org springside examples miniweb entity account Role authorityList maxElementsInMemory 10000,0
+AutoLoginFilter private UserDetailsService userDetailsService,applicationContext security xml userDetailsService,0
+SpyTokyotyrantClient private static Logger logger LoggerFactory getLogger SpyTokyotyrantClient class,index jsp li logger AOp showcase trace log li,0
+User private String password,server xml username sa password driverClassName org h2 Driver,0
+DbUnitUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+ServerConfig private AtomicBoolean notificationMailEnabled new AtomicBoolean true,jmx client jsp input radio name notificationMailEnabled val data notificationMailEnabled,0
+UserDTO private String email,applicationContext email xml bean id mimeMailService class org springside examples showcase email MimeMailService,0
+User private String email,user jsp td symbol dollar email nbsp td,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource jmx applicationContext jmx client xml,0
+QueueConsumer protected BlockingQueue queue,activemq network broker xml policyEntry queue producerFlowControl true memoryLimit 20mb,0
+JmemcachedServer private static Logger logger LoggerFactory getLogger JmemcachedServer class,index jsp li logger 10 LOGS li,0
+SpyMemcachedClient private static Logger logger LoggerFactory getLogger SpyMemcachedClient class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+HibernateMappingTest private SessionFactory sessionFactory,applicationContext core test xml property name sessionFactory ref sessionFactory,0
+TraceUtilsTest Logger logger LoggerFactory getLogger TraceUtilsTest class,index jsp li logger AOp showcase trace log li,0
+PageTest private Page Object page,applicationContext security xml s form login login page security login action default target url authentication failure url security login action error 1,0
+GetUserResult private UserDTO user,default data xml SS USER ID 2 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 809 LAST MODIFY BY admin LAST MODIFY TIME 2009 09 03 23 22 40 625 EMAIL user springside org cn LOGIN NAME user NAME Calvin PLAIN PASSWORD user SHA PASSWORD 12dea96fec20593566ab75692c9949596833adc9 STATUS enabled VERSION 2,0
+NotifyMessageProducer private JmsTemplate jmsTemplate,applicationContext jms advanced xml property name jmsTemplate ref advancedJmsTemplate,0
+WSResult private String message,activemq xml Use VM cursor for better latency For more information see http activemq apache org message cursors html,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext test xml property name dataSource ref dataSource,0
+User private String password,hibernate cfg xml property name hibernate connection password miniweb property,0
+PageTest private Page Object page,login jsp page import org springframework security web WebAttributes,0
+User private String loginName,user input jsp loginName,0
+PageTest private Page Object page,user input jsp page contentType text html charset UTF 8,0
+UserAction private Page User page new Page User 5 5,login jsp page import org springframework security web authentication AbstractAuthenticationProcessingFilter,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext showcase xml,0
+BaseFunctionalTestCase protected static Server server,activemq xml The managementContext is used to configure how ActiveMQ is exposed in JMX By default ActiveMQ uses the MBean server,0
+User private String password,hibernate cfg xml property name hibernate connection password artifactId property,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource security applicationContext security xml,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource jmx applicationContext jmx server xml,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext quartz timer cluster xml,0
+SimpleHibernateDao protected SessionFactory sessionFactory,applicationContext core test xml property name sessionFactory ref sessionFactory,0
+UserWebServiceImpl private static Logger logger LoggerFactory getLogger UserWebServiceImpl class,500 jsp logger error ex getMessage ex,0
+Post protected User user,user input jsp remote user checkLoginName action oldLoginName encodeURIComponent symbol dollar loginName,0
+JsonBinder private static Logger logger LoggerFactory getLogger JsonBinder class,500 jsp logger error ex getMessage ex,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext xml property name dataSource ref dataSource,0
+UserDTO private String loginName,showcase soapui project xml xs element minOccurs 0 name loginName type xs string,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml version jdbc driver version version,0
+PageTest private Page Object page,header jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+User private String loginName,user input jsp td input type text name loginName size 40 value loginName td,0
+UserAction private Page User page new Page User 5 5,user jsp page pageNo page totalPages,0
+HibernateDaoTest private SessionFactory sessionFactory,applicationContext test xml property name sessionFactory ref sessionFactory,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext test functional xml property name dataSource ref quartzDataSource,0
+JCaptchaFilter private static Logger logger LoggerFactory getLogger JCaptchaFilter class,log4j perf4j xml logger,0
+RoleAction private Role entity,ehcache hibernate local xml cache name org springside examples miniweb entity account Role authorityList maxElementsInMemory 10000,0
+PropertiesUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+SimpleHibernateDao protected Logger logger LoggerFactory getLogger getClass,log4j perf4j xml logger,0
+RoleAction private Role entity,ehcache hibernate local xml cache name package entity account User maxElementsInMemory 10000,0
+WSResult private String message,activemq network broker xml http activemq apache org message cursors html Also if your producer is hanging it s probably due to producer,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext quartz cron local xml,0
+BaseFunctionalTestCase private static Server server,applicationContext cxf client xml jaxws client id userServiceWithPlainPassword serviceClass org springside examples showcase ws server UserWebService,0
+BaseFunctionalTestCase private static Server server,applicationContext cxf server xml bean id plainPasswordCallback class org springside examples showcase ws server impl security PlainPasswordCallback,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource jms applicationContext jms simple xml,0
+PageTest private Page Object page,login jsp page import org springframework security web authentication AbstractAuthenticationProcessingFilter,0
+UserWebServiceTest private IMocksControl control EasyMock createControl,activemq network broker xml information see http activemq apache org producer flow control html,0
+WSResult private String code SUCCESS,report2 settings xml 000000 hex color code,0
+UserResourceClient private WebResource client,applicationContext cxf client xml jaxws client id userServiceWithSpringSecurity serviceClass org springside examples showcase ws server UserWebService,0
+BaseFunctionalTestCase protected static Server server,applicationContext jmx client xml property name host value server addr,0
+TraceUtilsTest Logger logger LoggerFactory getLogger TraceUtilsTest class,500 jsp logger error ex getMessage ex,0
+PageTest private Page Object page,user jsp s if test page hasPre a href javascript jumpPage symbol dollar page prePage a s if,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource webservice applicationContext cxf server xml,0
+GetUserResult private UserDTO user,urlrewrite xml to type forward common user action to,0
+UserResourceServiceTest private static UserResourceClient client,index jsp li a href ctx jmx jmx client action Ajax a JMX html json li,0
+JCaptchaFilter private static Logger logger LoggerFactory getLogger JCaptchaFilter class,index jsp li logger AOp showcase trace log li,0
+UserWebServiceImpl private DozerBeanMapper dozer,applicationContext cxf server xml dozer DTO,0
+SpringSecurityInInterceptor private UserDetailsService userDetailsService,applicationContext security xml s authentication provider user service ref userDetailsService,0
+SpyMemcachedClient private static Logger logger LoggerFactory getLogger SpyMemcachedClient class,500 jsp logger error ex getMessage ex,0
+SpringTxTestCase protected DataSource dataSource,applicationContext core test xml property name dataSource ref dataSource,0
+WSResult private String message,jmx client jsp refreshMessage text data message show fadeOut 2000,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource log applicationContext log xml,0
+UserDTO private String loginName,applicationContext jdbc xml AND login name loginName,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource email applicationContext email xml,0
+UserResourceClient private static Logger logger LoggerFactory getLogger UserResourceClient class,500 jsp logger error ex getMessage ex,0
+UserAction private User entity,hibernate reveng xml table filter match schema match name SS package org springside examples showcase common entity,0
+StaticContentServlet private ApplicationContext applicationContext,web xml classpath applicationContext test xml,0
+JmxClientAction private static Logger logger LoggerFactory getLogger JmxClientAction class,index jsp li logger 10 LOGS li,0
+QuartzClusterableJob private static Logger logger LoggerFactory getLogger QuartzClusterableJob class,index jsp li logger 10 LOGS li,0
+SpyTokyotyrantClient private MemcachedClient client,pom xml artifactId jersey client artifactId,0
+Post protected User user,default data xml ACCT USER ID 5 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PASSWORD user4,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource webservice applicationContext cxf server xml,0
+User private String email,user input jsp td input type text id email name email size 40 value symbol dollar email td,0
+User private String email,user input jsp email email,0
+UserResourceClient private static Logger logger LoggerFactory getLogger UserResourceClient class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml jdbc driver groupId mysql jdbc driver groupId,0
+BaseFunctionalTestCase protected static Server server,jetty xml bean id sec class org eclipse jetty server handler HandlerCollection,0
+GetUserResult private UserDTO user,default data xml ACCT USER ID 2 EMAIL user springside org cn LOGIN NAME user NAME User PASSWORD user,0
+Post protected User user,applicationContext security xml s intercept url pattern account user access hasAnyRole ROLE,0
+TraceUtilsTest Logger logger LoggerFactory getLogger TraceUtilsTest class,log4j perf4j xml logger,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource log applicationContext log xml,0
+SpringSecurityInInterceptor private UserDetailsService userDetailsService,applicationContext security xml bean id userDetailsService class package service account UserDetailsServiceImpl,0
+Post protected User user,default data xml acct user role USER ID 6 ROLE ID 2,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml jdbc driver groupId com oracle jdbc driver groupId jdbc driver artifactId ojdbc14 jdbc driver artifactId,0
+SecurityWebServiceTest private ApplicationContext applicationContext,web xml classpath applicationContext test functional xml,0
+HibernateMappingTest private SessionFactory sessionFactory,applicationContext test functional xml property name sessionFactory ref sessionFactory,0
+PageTest private Page Object page,user jsp a href javascript jumpPage symbol dollar page totalPages a,0
+JmemcachedServer private static Logger logger LoggerFactory getLogger JmemcachedServer class,500 jsp logger error ex getMessage ex,0
+AdvancedNotifyMessageListener private static Logger logger LoggerFactory getLogger AdvancedNotifyMessageListener class,index jsp li logger 10 LOGS li,0
+UserDetailsServiceImplTest private IMocksControl control EasyMock createControl,activemq xml flow control For more information see http activemq apache org producer flow control html,0
+PageTest private Page Object page,user jsp input type hidden name page pageNo id pageNo value symbol dollar page pageNo,0
+Post protected User user,default data xml SS USER ID 3 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 814 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PLAIN PASSWORD user2 SHA PASSWORD a1881c06eec96db9901c7bbfe41c42a3f08e9cb4 STATUS enabled VERSION 1,0
+SpringContextHolder private static Logger logger LoggerFactory getLogger SpringContextHolder class,index jsp li logger AOp showcase trace log li,0
+UserAction private User entity,applicationContext test xml property name packagesToScan value package entity account,0
+DbUnitUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,log4j perf4j xml logger,0
+UserResourceClient private WebResource client,index jsp li a href ctx ajax mashup mashup client action Mashup a JSONP Ajax li,0
+SimpleHibernateDaoTest private SessionFactory sessionFactory,applicationContext core test xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+AccountManager private static Logger logger LoggerFactory getLogger AccountManager class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml jdbc driver version 10 2 0 3 0 jdbc driver version,0
+ReflectionUtils private static Logger logger LoggerFactory getLogger ReflectionUtils class,500 jsp logger error ex getMessage ex,0
+SpyTokyotyrantClient private static Logger logger LoggerFactory getLogger SpyTokyotyrantClient class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+SimpleHibernateDaoTest private SessionFactory sessionFactory,applicationContext core test xml property name sessionFactory ref sessionFactory,0
+HibernateMappingTest private static Logger logger LoggerFactory getLogger HibernateMappingTest class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+PageTest private Page Object page,user jsp input type hidden name page order id order value symbol dollar page order,0
+RoleAction private Role entity,build xml hbmtemplate templateprefix pojo template pojo Pojo ftl filepattern entity package name class name java,0
+BaseFunctionalTestCase protected static WebDriver driver,build xml dbunit driver jdbc driver url jdbc url userid jdbc username password jdbc password,0
+UserResourceClient private WebResource client,index jsp li a href ctx jmx jmx client action Ajax a JMX html json li,0
+WSResult private String code SUCCESS,report2 settings xml CDATA series value C Please click for details column line balloon text title value series description percents You can format any balloon text title will be replaced with real title value with value and so on You can add your own text or html code too,0
+BaseFunctionalTestCase protected static Server server,applicationContext cxf server xml bean id smallImageWebService class org springside examples showcase ws server impl SmallImageWebServiceImpl,0
+BaseFunctionalTestCase protected static WebDriver driver,hibernate cfg xml property name hibernate connection driver class oracle jdbc driver OracleDriver property,0
+SimpleHibernateDao protected Logger logger LoggerFactory getLogger getClass,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource email applicationContext email xml,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml jdbc driver version h2 version jdbc driver version,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext xml,0
+UserDTO private String loginName,user jsp td loginName nbsp td,0
+WsConstants public static final String NS http miniservice examples springside org,sonar 2 2 backup xml key CDATA NS DANGEROUS NON SHORT CIRCUIT key,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext xml bean id dataSource class org apache commons dbcp BasicDataSource destroy method close,0
+SpringContextHolder private static ApplicationContext applicationContext null,web xml classpath applicationContext test functional xml,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext quartz timer cluster xml,0
+PropertiesUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,log4j perf4j xml logger,0
+UserDetailsServiceImplTest private IMocksControl control EasyMock createControl,activemq xml information see http activemq apache org producer flow control html,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource jmx applicationContext jmx client xml,0
+BaseFunctionalTestCase private static Server server,jetty xml bean id defaultHandler class org eclipse jetty server handler DefaultHandler,0
+Post protected User user,user jsp td a href user id htm id editLink id a td,0
+BaseFunctionalTestCase protected static Server server,mashup client jsp getJSON remoteUrl ajax mashup mashup server action callback function data,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext quartz timer cluster xml,0
+UserAction private User entity,applicationContext test xml property name packagesToScan value org springside examples miniservice entity account,0
+GetUserResult private UserDTO user,index jsp response sendRedirect account user action,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext xml jee jndi lookup id dataSource jndi name java comp env jdbc ExampleDB,0
+WSResult private String code SUCCESS,report2 settings xml BBBB00 hex color code background color of error message Separate color codes with comas for gradient,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext quartz cron local xml,0
+UserWebServiceImpl private static Logger logger LoggerFactory getLogger UserWebServiceImpl class,index jsp li logger AOp showcase trace log li,0
+NotifyMessageListener private static Logger logger LoggerFactory getLogger NotifyMessageListener class,index jsp li logger 10 LOGS li,0
+JsonBinder private static Logger logger LoggerFactory getLogger JsonBinder class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+SpringCronJob private static Logger logger LoggerFactory getLogger SpringCronJob class,500 jsp logger error ex getMessage ex,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext test functional xml,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext quartz timer cluster xml Job applicationContext,0
+CrudActionSupport protected Logger logger LoggerFactory getLogger getClass,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+User private String email,user input jsp td input type text id email name email size 40 value email td,0
+GetUserResult private UserDTO user,showcase soapui project xml xs element maxOccurs unbounded minOccurs 0 name user type tns User,0
+DbUnitUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,index jsp li logger 10 LOGS li,0
+NotifyMessageProducer private JmsTemplate jmsTemplate,applicationContext jms simple xml bean id jmsTemplate class org springframework jms core JmsTemplate,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource jms applicationContext jms advanced xml,0
+User private String loginName,user input jsp remote user checkLoginName action oldLoginName encodeURIComponent loginName,0
+JmxClientAction private static Logger logger LoggerFactory getLogger JmxClientAction class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+BaseFunctionalTestCase protected static Server server,applicationContext cxf server xml bean id plainPasswordCallback class org springside examples showcase ws server impl security PlainPasswordCallback,0
+Post protected User user,user jsp a href user input action a,0
+UserAction private Page User page new Page User 5 5,login jsp page import org springframework security web authentication UsernamePasswordAuthenticationFilter,0
+UserAction private User entity,ehcache hibernate local xml cache name org springside examples miniweb entity account Role maxElementsInMemory 10000,0
+UserWebServiceImpl private static Logger logger LoggerFactory getLogger UserWebServiceImpl class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+RoleAction private Role entity,hibernate reveng xml table filter match schema match name ACCT package org springside examples miniweb entity account,0
+PageTest private Page Object page,user jsp s if test page hasNext a href javascript jumpPage symbol dollar page nextPage a s if,0
+BaseFunctionalTestCase private static Server server,applicationContext showcase xml import resource webservice applicationContext cxf server xml,0
+Task private Logger logger,log4j perf4j xml logger,0
+User private String loginName,user jsp td symbol dollar loginName nbsp td,0
+User private String password,applicationContext security xml s password encoder hash plaintext,0
+RoleAction private Role entity,ehcache hibernate local xml cache name org springside examples miniweb entity account Role maxElementsInMemory 10000,0
+UserAction private Page User page new Page User 5 5,index jsp page contentType text html charset UTF 8,0
+User private String password,user input jsp equalTo password,0
+User private String loginName,applicationContext jdbc xml AND login name loginName,0
+SpyTokyotyrantClientPool private static Logger logger LoggerFactory getLogger SpyTokyotyrantClientPool class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+SpringContextHolder private static Logger logger LoggerFactory getLogger SpringContextHolder class,500 jsp logger error ex getMessage ex,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource cache applicationContext ehcache xml,0
+HibernateDaoTest private HibernateDao User Long dao,build xml hbmtemplate templateprefix pojo template dao ftl filepattern dao package name class name Dao java,0
+UserWebServiceTest private UserWebService userWebService,applicationContext cxf server xml jaxws implementor ref userWebService,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext executor xml,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource security applicationContext security xml,0
+WsConstants public static final String NS http miniservice examples springside org,sonar 2 2 backup xml key CDATA NS NON SHORT CIRCUIT key,0
+BaseFunctionalTestCase protected static Server server,jetty xml bean id contexts class org eclipse jetty server handler ContextHandlerCollection,0
+SpringContextHolder private static Logger logger LoggerFactory getLogger SpringContextHolder class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+User private String email,user jsp Email input type text name filter LIKES name OR email,0
+UserAction private User entity,ehcache hibernate local xml cache name org springside examples miniweb entity account User maxElementsInMemory 10000,0
+RemoteContentServlet private static Logger logger LoggerFactory getLogger RemoteContentServlet class,log4j perf4j xml logger,0
+SpyTokyotyrantClient private MemcachedClient client,pom xml artifactId selenium remote client artifactId,0
+GetUserResult private UserDTO user,default data xml ACCT USER ID 5 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PASSWORD user4,0
+BaseFunctionalTestCase protected static Server server,applicationContext cxf client xml jaxws client id userServiceWithSpringSecurity serviceClass org springside examples showcase ws server UserWebService,0
+UserResourceService private DozerBeanMapper dozer,applicationContext cxf server xml bean id dozer class org dozer DozerBeanMapper,0
+WSResult private String code SUCCESS,report2 settings xml CDATA Smoothed Anomaly in series value C column line balloon text title value series description percents You can format any balloon text title will be replaced with real title value with value and so on You can add your own text or html code too,0
+WSResult private String code SUCCESS,report2 settings xml balloon color hex color code,0
+StaticContentServlet private ApplicationContext applicationContext,web xml classpath applicationContext xml,0
+JdkExecutorJob private static Logger logger LoggerFactory getLogger JdkExecutorJob class,index jsp li logger AOp showcase trace log li,0
+BaseFunctionalTestCase protected static WebDriver driver,build xml dbunit driver symbol dollar jdbc driver url symbol dollar jdbc url userid symbol dollar jdbc username password symbol dollar jdbc password,0
+HibernateMappingTest private SessionFactory sessionFactory,applicationContext xml property name sessionFactory ref sessionFactory,0
+UserResourceServiceTest private static UserResourceClient client,index jsp li a href ctx ajax mashup mashup client action Mashup a JSONP Ajax li,0
+SimpleMailService private static Logger logger LoggerFactory getLogger SimpleMailService class,500 jsp logger error ex getMessage ex,0
+UserDTO private String loginName,user input jsp td input type text name loginName size 40 id loginName value symbol dollar loginName td,0
+Post protected User user,default data xml ACCT USER ID 3 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PASSWORD user2,0
+Post protected User user,header jsp li a href symbol dollar ctx account user action a li,0
+WSResult private String code SUCCESS,report2 settings xml hex color code the color of the pattern,0
+SpyTokyotyrantClient private MemcachedClient client,applicationContext cxf client xml bean id passwordCallback class org springside examples showcase ws client PasswordCallback,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext test functional xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+AccountManagerTest private IMocksControl control EasyMock createControl,jvm jmx metrics xml plugin type control class org hyperic hq product jmx MxControlPlugin,0
+WSResult private String message,showcase soapui project xml wsdl message name getImage,0
+AdvancedNotifyMessageProducer private Destination notifyQueue,applicationContext jms simple xml property name notifyQueue ref notifyQueue,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext executor xml,0
+PageTest private Page Object page,500 jsp page import org slf4j Logger org slf4j LoggerFactory,0
+SimpleHibernateDaoTest private SessionFactory sessionFactory,applicationContext test xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+RoleAction private Role entity,ehcache hibernate local xml cache name org springside examples miniweb entity account User maxElementsInMemory 10000,0
+UserAction private Page User page new Page User 5 5,role input jsp page contentType text html charset UTF 8,0
+UserWebServiceImpl private DozerBeanMapper dozer,applicationContext ws server xml bean id dozer class org dozer DozerBeanMapper,0
+SpringTxTestCase protected DataSource dataSource,applicationContext xml bean id dataSource class org apache commons dbcp BasicDataSource destroy method close,0
+UserAction private Page User page new Page User 5 5,jmx client jsp page contentType text html charset UTF 8 pageEncoding UTF 8,0
+SpyTokyotyrantClient private MemcachedClient client,jmx client jsp get jmx client saveConfig action form serialize function data,0
+SimpleHibernateDao protected Logger logger LoggerFactory getLogger getClass,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource webservice applicationContext cxf server xml,0
+JmemcachedServer private static Logger logger LoggerFactory getLogger JmemcachedServer class,index jsp li logger AOp showcase trace log li,0
+JmemcachedServer private static Logger logger LoggerFactory getLogger JmemcachedServer class,log4j perf4j xml logger,0
+GetUserResult private UserDTO user,default data xml acct user role USER ID 5 ROLE ID 2,0
+UserDetailsServiceImplTest private UserDetailsServiceImpl userDetailsService,applicationContext security xml userDetailsService,0
+AdvancedNotifyMessageProducer private Destination notifyTopic,applicationContext jms simple xml property name notifyTopic ref notifyTopic,0
+UserResourceClient private WebResource client,applicationContext jmx client xml bean id jmxClient class org springside examples showcase jmx client JmxClientService,0
+LargeImageResult private DataHandler imageData,showcase soapui project xml xs element minOccurs 0 name imageData ns1 expectedContentTypes application octet stream type xs base64Binary xmlns ns1 http www w3 org 2005 05 xmlmime,0
+GetUserResult private UserDTO user,default data xml ACCT USER ID 4 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PASSWORD user3,0
+UserJdbcDao private static Logger logger LoggerFactory getLogger UserJdbcDao class,index jsp li logger AOp showcase trace log li,0
+BaseFunctionalTestCase protected static Server server,jetty xml bean id defaultHandler class org eclipse jetty server handler DefaultHandler,0
+WSResult private String code SUCCESS,report2 settings xml balloon text color hex color code,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext test xml property name dataSource ref quartzDataSource,0
+Post protected User user,user input jsp form id inputForm action ctx common user save action method post,0
+BaseFunctionalTestCase protected static Server server,applicationContext quartz timer cluster xml entry key nodeName value server node name,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource cache applicationContext memcached xml,0
+RoleAction private Role entity,applicationContext test xml property name packagesToScan value org springside examples miniweb entity account,0
+UserDTO private String email,applicationContext email xml property name templateLoaderPath value classpath email,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml jdbc driver,0
+UserWebServiceTest private IMocksControl control EasyMock createControl,activemq xml flow control For more information see http activemq apache org producer flow control html,0
+JmxClientService private static Logger logger LoggerFactory getLogger JmxClientService class,500 jsp logger error ex getMessage ex,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext ws server xml,0
+UserDTO private String loginName,user input jsp symbol dollar symbol pound loginName focus,0
+Post protected User user,test data xml SS USER ID 2 CREATE TIME 2009 07 11 08 52 25 805 EMAIL user springside org cn LOGIN NAME user NAME Calvin PLAIN PASSWORD user STATUS enabled,0
+Task private Logger logger,index jsp li logger 10 LOGS li,0
+Post protected User user,header jsp li a href ctx account user action a li,0
+ReflectionUtils private static Logger logger LoggerFactory getLogger ReflectionUtils class,index jsp li logger 10 LOGS li,0
+BaseFunctionalTestCase private static Server server,server xml Documentation at docs config server html,0
+UserResourceClient private WebResource client,pom xml artifactId selenium remote client artifactId,0
+SimpleHibernateDaoTest private SessionFactory sessionFactory,applicationContext test functional xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+GetUserResult private UserDTO user,default data xml SS USER ID 3 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 814 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PLAIN PASSWORD user2 SHA PASSWORD a1881c06eec96db9901c7bbfe41c42a3f08e9cb4 STATUS enabled VERSION 1,0
+JdkExecutorJob private static Logger logger LoggerFactory getLogger JdkExecutorJob class,index jsp li logger 10 LOGS li,0
+SmallImageWebServiceImpl private static Logger logger LoggerFactory getLogger SmallImageWebServiceImpl class,500 jsp logger error ex getMessage ex,0
+GetUserResult private UserDTO user,user input jsp form id inputForm action ctx common user save action method post,0
+JmxClientAction private String nodeName,applicationContext jmx server xml property name nodeName value server node name,0
+GetUserResult private UserDTO user,report2 settings xml function name specifies JavaScript function which will be called when user clicks on this menu You can pass variables for example function name alert something,0
+WSResult private String code SUCCESS,report2 settings xml FFFFFF hex color code,0
+BaseFunctionalTestCase private static Server server,applicationContext jmx server xml property name serviceUrl value service jmx rmi jndi rmi server addr jmx rmi port jmxrmi,0
+SpringTxTestCase protected DataSource dataSource,applicationContext quartz timer cluster xml property name dataSource ref quartzDataSource,0
+RoleAction private Role entity,ehcache hibernate local xml cache name org springside examples miniweb entity account Resource maxElementsInMemory 10000,0
+ReflectionUtils private static Logger logger LoggerFactory getLogger ReflectionUtils class,log4j perf4j xml logger,0
+UserResourceService private static Logger logger LoggerFactory getLogger UserResourceService class,index jsp li logger AOp showcase trace log li,0
+BaseFunctionalTestCase private static Server server,activemq network broker xml The managementContext is used to configure how ActiveMQ is exposed in JMX By default ActiveMQ uses the MBean server,0
+SpyTokyotyrantClient private MemcachedClient client,jmx client jsp get jmx client startTrace action,0
+BaseFunctionalTestCase protected static Server server,applicationContext cxf client xml jaxws client id userServiceWithPlainPassword serviceClass org springside examples showcase ws server UserWebService,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext test functional xml,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext quartz timer cluster xml Job applicationContext,0
+UserAction private User entity,ehcache hibernate local xml cache name org springside examples miniservice entity account Role maxElementsInMemory 10000,0
+QuartzClusterableJob private ApplicationContext applicationContext,web xml classpath applicationContext ws server xml,0
+UserAction private User entity,ehcache hibernate local xml cache name org springside examples miniservice entity account User roleList maxElementsInMemory 10000,0
+User private String password,build xml sql driver jdbc driver url jdbc url userid jdbc username password jdbc password src sql dir schema sql onerror continue,0
+PageTest private Page Object page,login jsp page import org springframework security web authentication UsernamePasswordAuthenticationFilter,0
+BaseFunctionalTestCase private static Server server,report2 settings xml export as image export as image feature works only on a web server,0
+NotifyMessageListener private static Logger logger LoggerFactory getLogger NotifyMessageListener class,500 jsp logger error ex getMessage ex,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext xml bean id dataSource class org apache commons dbcp BasicDataSource destroy method close,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource security applicationContext security xml,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource schedule applicationContext quartz timer cluster xml,0
+User private String email,pom xml email end,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml description ShowCase applicationContext description,0
+PageTest private Page Object page,mashup client jsp page contentType text html charset UTF 8 pageEncoding UTF 8,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource jms applicationContext jms advanced xml,0
+UserResourceServiceTest private static UserResourceClient client,applicationContext cxf client xml jaxws client,0
+WSResult private String message,showcase soapui project xml wsdl input message tns getImage name getImage wsdl input,0
+AdvancedNotifyMessageListener private static Logger logger LoggerFactory getLogger AdvancedNotifyMessageListener class,log4j perf4j xml logger,0
+UserWebServiceImpl private DozerBeanMapper dozer,pom xml artifactId dozer artifactId,0
+UserAction private Page User page new Page User 5 5,mashup client jsp page contentType text html charset UTF 8 pageEncoding UTF 8,0
+UserResourceServiceTest private static UserResourceClient client,pom xml artifactId selenium remote client artifactId,0
+NotifyMessageListener private static Logger logger LoggerFactory getLogger NotifyMessageListener class,index jsp li logger AOp showcase trace log li,0
+UserAction private User entity,ehcache hibernate local xml cache name org springside examples miniweb entity account Resource authorityList maxElementsInMemory 10000,0
+PageTest private Page Object page,user jsp symbol dollar page pageNo symbol dollar page totalPages,0
+SpyTokyotyrantClient private static Logger logger LoggerFactory getLogger SpyTokyotyrantClient class,index jsp li logger 10 LOGS li,0
+UserAction private User entity,ehcache hibernate local xml cache name package entity account Resource maxElementsInMemory 10000,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext showcase xml,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource webservice applicationContext cxf server xml,0
+BaseFunctionalTestCase protected static Server server,applicationContext showcase xml import resource jmx applicationContext jmx server xml,0
+GetUserResult private UserDTO user,applicationContext security xml s intercept url pattern account user save access hasAnyRole ROLE,0
+BaseFunctionalTestCase protected static Server server,applicationContext jmx server xml property name nodeName value server node name,0
+RoleAction private Role entity,applicationContext xml property name packagesToScan value org springside examples miniservice entity account,0
+JmxClientService private static Logger logger LoggerFactory getLogger JmxClientService class,index jsp li logger 10 LOGS li,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext security xml,0
+User private String password,applicationContext xml property name password value quartz jdbc password,0
+UserResourceServiceTest private static UserResourceClient client,applicationContext cxf client xml bean id passwordCallback class org springside examples showcase ws client PasswordCallback,0
+MimeMailService private static Logger logger LoggerFactory getLogger MimeMailService class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+BaseFunctionalTestCase private static Server server,jetty plugin xml server,0
+UserAction private Page User page new Page User 5 5,login jsp page contentType text html charset UTF 8,0
+SimpleHibernateDao protected Logger logger LoggerFactory getLogger getClass,500 jsp logger error ex getMessage ex,0
+RoleAction private Role entity,ehcache hibernate local xml cache name org springside examples miniservice entity account User maxElementsInMemory 10000,0
+GetUserResult private UserDTO user,user jsp form id mainForm action user action method get,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext test functional xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+SpyTokyotyrantClient private MemcachedClient client,left jsp a href ctx jmx jmx client action JMX a,0
+GetUserResult private UserDTO user,default data xml SS USER ID 6 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 827 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PLAIN PASSWORD user5 SHA PASSWORD 7d112681b8dd80723871a87ff506286613fa9cf6 STATUS enabled VERSION 1,0
+ServerConfig private AtomicBoolean notificationMailEnabled new AtomicBoolean true,jmx client jsp value notificationMailEnabled list true false theme simple,0
+Post protected User user,showcase soapui project xml xs element maxOccurs unbounded minOccurs 0 name user type tns User,0
+AccountManager private static Logger logger LoggerFactory getLogger AccountManager class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+AccountManager private static Logger logger LoggerFactory getLogger AccountManager class,log4j perf4j xml logger,0
+UserAction private User entity,applicationContext test xml property name packagesToScan value org springside examples showcase common entity,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml artifactId jdbc driver artifactId artifactId,0
+UserAction private Page User page new Page User 5 5,resource jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+AutoLoginFilter private UserDetailsService userDetailsService,applicationContext security xml s authentication provider user service ref userDetailsService,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource jms applicationContext jms simple xml,0
+UserDTO private String loginName,user input jsp loginName,0
+NotifyMessageProducer private Destination notifyQueue,applicationContext jms simple xml bean id notifyQueue class org apache activemq command ActiveMQQueue,0
+UserResourceServiceTest private static UserResourceClient client,applicationContext showcase xml import resource jmx applicationContext jmx client xml,0
+PageTest private Page Object page,user jsp s iterator value page result,0
+MimeMailService private static Logger logger LoggerFactory getLogger MimeMailService class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+LargeImageWebServiceImpl private static Logger logger LoggerFactory getLogger LargeImageWebServiceImpl class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+RoleAction private Role entity,ehcache hibernate local xml cache name org springside examples miniservice entity account User roleList maxElementsInMemory 10000,0
+QuartzJob private static Logger logger LoggerFactory getLogger QuartzJob class,500 jsp logger error ex getMessage ex,0
+BaseFunctionalTestCase private static Server server,jetty xml bean id contexts class org eclipse jetty server handler ContextHandlerCollection,0
+UserDTO private List RoleDTO roleList Lists newArrayList,ehcache hibernate local xml cache name org springside examples miniservice entity account User roleList maxElementsInMemory 10000,0
+RoleAction private Role entity,applicationContext test xml property name packagesToScan value package entity account,0
+User private String password,user input jsp td input type password id password name password size 40 value password td,0
+UserAction private User entity,applicationContext xml property name packagesToScan value org springside examples showcase common entity,0
+SimpleHibernateDao protected SessionFactory sessionFactory,applicationContext xml property name sessionFactory ref sessionFactory,0
+Post protected User user,default data xml acct user ID 1 EMAIL admin springside org cn LOGIN NAME admin NAME Admin PASSWORD admin,0
+UserDTO private String email,user jsp td symbol dollar email nbsp td,0
+GetUserResult private UserDTO user,default data xml SS USER ID 4 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 818 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PLAIN PASSWORD user3 SHA PASSWORD 0b7f849446d3383546d15a480966084442cd2193 STATUS enabled VERSION 1,0
+UserResourceServiceTest private static UserResourceClient client,pom xml artifactId jersey client artifactId,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource security applicationContext security xml,0
+RoleAction private Role entity,ehcache hibernate local xml cache name package entity account User roleList maxElementsInMemory 10000,0
+UserResourceService private DozerBeanMapper dozer,pom xml groupId net sf dozer groupId,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext test functional xml jdbc initialize database data source dataSource ignore failures ALL,0
+JmemcachedServer private static Logger logger LoggerFactory getLogger JmemcachedServer class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+UserAction private Page User page new Page User 5 5,footer jsp page language java pageEncoding UTF 8,0
+GetUserResult private UserDTO user,user input jsp form id inputForm action user save action method post,0
+Post protected User user,login jsp span b admin admin b b user user b a href ctx j spring security logout a span,0
+HibernateMappingTest private SessionFactory sessionFactory,applicationContext test functional xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext security xml,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext xml jee jndi lookup id dataSource jndi name java comp env jdbc ExampleDB,0
+RoleAction private Role entity,hibernate reveng xml table filter match schema match name ACCT package org springside examples miniservice entity account,0
+UserDetailsServiceImplTest private UserDetailsServiceImpl userDetailsService,applicationContext cxf server xml property name userDetailsService ref userDetailsService,0
+GetUserResult private UserDTO user,default data xml acct user role USER ID 2 ROLE ID 2,0
+UserWebServiceImpl private DozerBeanMapper dozer,pom xml groupId net sf dozer groupId,0
+UserDetailsServiceImplTest private IMocksControl control EasyMock createControl,jvm jmx metrics xml plugin type control class org hyperic hq product jmx MxControlPlugin,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource security applicationContext security xml,0
+SpringTxTestCase protected DataSource dataSource,applicationContext test functional xml jdbc initialize database data source dataSource ignore failures ALL,0
+UserWebServiceImpl private DozerBeanMapper dozer,applicationContext cxf server xml bean id dozer class org dozer DozerBeanMapper,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource cache applicationContext memcached xml,0
+ServerConfig private String nodeName,jmx client jsp td input id nodeName name nodeName value nodeName td,0
+Post protected User user,applicationContext cxf client xml entry key user value admin,0
+GetUserResult private UserDTO user,default data xml acct user ID 2 EMAIL user springside org cn LOGIN NAME user NAME User PASSWORD user,0
+User private String password,user input jsp td input type password id password name password size 40 value symbol dollar password td,0
+SecurityWebServiceTest private ApplicationContext applicationContext,web xml classpath applicationContext security xml,0
+UserDTO private String loginName,user input jsp loginName focus,0
+User private String password,applicationContext xml property name password value jdbc password,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext test xml,0
+JCaptchaFilter private static Logger logger LoggerFactory getLogger JCaptchaFilter class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+ServerConfig private String nodeName,jmx client jsp nodeName val data nodeName,0
+QuartzClusterableJob private ApplicationContext applicationContext,web xml classpath applicationContext showcase xml,0
+UserJdbcDao private static Logger logger LoggerFactory getLogger UserJdbcDao class,log4j perf4j xml logger,0
+BaseFunctionalTestCase private static Server server,applicationContext xml value file var mini web application server properties value,0
+JdkExecutorJob private static Logger logger LoggerFactory getLogger JdkExecutorJob class,500 jsp logger error ex getMessage ex,0
+User private String password,applicationContext xml property name password value symbol dollar jdbc password,0
+UserAction private Page User page new Page User 5 5,header jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+UserAction private User entity,ehcache hibernate local xml cache name org springside examples miniweb entity account User roleList maxElementsInMemory 10000,0
+BaseFunctionalTestCase protected static Server server,applicationContext cxf server xml bean id digestPasswordCallback class org springside examples showcase ws server impl security DigestPasswordCallback,0
+LargeImageWebServiceImpl private static Logger logger LoggerFactory getLogger LargeImageWebServiceImpl class,index jsp li logger AOp showcase trace log li,0
+WSResult private String code SUCCESS,report2 settings xml hex color code leave empty if you don t want to have border,0
+RoleAction private Role entity,hibernate reveng xml table filter match schema match name ACCT package package entity account,0
+WSResult private String code SUCCESS,report2 settings xml 000000 hex color code main text color Every text color can be set individually in the settings below,0
+GetUserResult private UserDTO user,test data xml SS USER ID 5 CREATE TIME 2009 07 11 08 52 25 805 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PLAIN PASSWORD user4 STATUS enabled,0
+Task private Logger logger,index jsp li logger AOp showcase trace log li,0
+SpringContextHolder private static ApplicationContext applicationContext null,web xml classpath applicationContext test xml,0
+UserAction private User entity,ehcache hibernate local xml cache name package entity account Resource authorityList maxElementsInMemory 10000,0
+GetUserResult private UserDTO user,default data xml SS USER ID 5 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 822 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PLAIN PASSWORD user4 SHA PASSWORD 06e6eef6adf2e5f54ea6c43c376d6d36605f810e STATUS enabled VERSION 1,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml jdbc driver groupId com h2database jdbc driver groupId,0
+Task private Logger logger,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+BaseFunctionalTestCase private static Server server,web xml classpath applicationContext ws server xml,0
+SpyTokyotyrantClient private MemcachedClient client,applicationContext cxf client xml jaxws client id userServiceWithSpringSecurity serviceClass org springside examples showcase ws server UserWebService,0
+QueueConsumer protected int shutdownTimeout Integer MAX VALUE,applicationContext executor xml property name shutdownTimeout value 20,0
+UserAction private Page User page new Page User 5 5,user input jsp page contentType text html charset UTF 8,0
+WSResult private String message,activemq xml http activemq apache org message cursors html Also if your producer is hanging it s probably due to producer,0
+PropertiesUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,500 jsp logger error ex getMessage ex,0
+SecurityWebServiceTest private ApplicationContext applicationContext,web xml classpath applicationContext ws server xml,0
+BaseFunctionalTestCase protected static Server server,applicationContext cxf server xml bean id largeImageWebService class org springside examples showcase ws server impl LargeImageWebServiceImpl,0
+BaseFunctionalTestCase private static Server server,applicationContext quartz timer cluster xml entry key nodeName value server node name,0
+BaseFunctionalTestCase private static Server server,applicationContext showcase xml import resource jmx applicationContext jmx server xml,0
+HibernateDaoTest private SessionFactory sessionFactory,applicationContext core test xml property name sessionFactory ref sessionFactory,0
+JmxClientService private static Logger logger LoggerFactory getLogger JmxClientService class,index jsp li logger AOp showcase trace log li,0
+UserJdbcDao private static Logger logger LoggerFactory getLogger UserJdbcDao class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+RoleAction private Role entity,pom xml include name entity class,0
+SpringContextHolder private static Logger logger LoggerFactory getLogger SpringContextHolder class,index jsp li logger 10 LOGS li,0
+GetUserResult private UserDTO user,default data xml acct user ID 4 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PASSWORD user3,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource jms applicationContext jms advanced xml,0
+JdkExecutorJob private static Logger logger LoggerFactory getLogger JdkExecutorJob class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+GetUserResult private UserDTO user,applicationContext jdbc xml FROM ss user,0
+SpringCronJob private static Logger logger LoggerFactory getLogger SpringCronJob class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+SpyTokyotyrantClientPool private static Logger logger LoggerFactory getLogger SpyTokyotyrantClientPool class,index jsp li logger AOp showcase trace log li,0
+GetUserResult private UserDTO user,applicationContext security xml s intercept url pattern account user access hasAnyRole ROLE,0
+UserResourceService private static Logger logger LoggerFactory getLogger UserResourceService class,index jsp li logger 10 LOGS li,0
+RoleAction private Role entity,ehcache hibernate local xml cache name package entity account Authority maxElementsInMemory 10000,0
+User private String password,applicationContext security xml s password encoder hash sha,0
+SecurityWebServiceTest private ApplicationContext applicationContext,applicationContext showcase xml import resource cache applicationContext memcached xml,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource email applicationContext email xml,0
+RemoteContentServlet private static Logger logger LoggerFactory getLogger RemoteContentServlet class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext xml property name dataSource ref quartzDataSource,0
+SimpleMailService private static Logger logger LoggerFactory getLogger SimpleMailService class,log4j perf4j xml logger,0
+BaseFunctionalTestCase protected static Server server,applicationContext jmx server xml property name serviceUrl value service jmx rmi jndi rmi server addr jmx rmi port jmxrmi,0
+GetUserResult private UserDTO user,user jsp td a href user id htm id editLink id a td,0
+BaseFunctionalTestCase private static Server server,applicationContext cxf server xml bean id smallImageWebService class org springside examples showcase ws server impl SmallImageWebServiceImpl,0
+WSResult private String code SUCCESS,report2 settings xml hex color code bullet color If not defined line color is used,0
+JmxClientService private static Logger logger LoggerFactory getLogger JmxClientService class,log4j perf4j xml logger,0
+GetUserResult private UserDTO user,login jsp span b admin admin b b user user b a href ctx j spring security logout a span,0
+WSResult private String code SUCCESS,report2 settings xml FFFFFF hex color code background color Separate color codes with comas for gradient,0
+BaseFunctionalTestCase private static Server server,jetty xml bean id Server class org eclipse jetty server Server init method start,0
+BaseFunctionalTestCase protected static WebDriver driver,build xml sql driver quartz jdbc driver url quartz jdbc url userid quartz jdbc username password quartz jdbc password src sql dir quartz sql onerror continue,0
+SeleniumUtils private static Logger logger LoggerFactory getLogger SeleniumUtils class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+RoleAction private Role entity,ehcache hibernate local xml cache name package entity account Role authorityList maxElementsInMemory 10000,0
+Post protected User user,test data xml SS USER ID 3 CREATE TIME 2009 07 11 08 52 25 805 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PLAIN PASSWORD user2 STATUS enabled,0
+BaseFunctionalTestCase private static Server server,mashup client jsp getJSON remoteUrl ajax mashup mashup server action callback function data,0
+BaseFunctionalTestCase protected static Server server,applicationContext cxf server xml bean id userWebService class org springside examples showcase ws server impl UserWebServiceImpl,0
+WSResult private String code SUCCESS,web xml error code 500 error code,0
+UserResourceClient private static Logger logger LoggerFactory getLogger UserResourceClient class,index jsp li logger AOp showcase trace log li,0
+LargeImageWebServiceImpl private static Logger logger LoggerFactory getLogger LargeImageWebServiceImpl class,500 jsp logger error ex getMessage ex,0
+User private String loginName,user input jsp symbol dollar symbol pound loginName focus,0
+BaseFunctionalTestCase protected static Server server,report2 settings xml export as image export as image feature works only on a web server,0
+GetUserResult private UserDTO user,default data xml acct user role USER ID 4 ROLE ID 2,0
+User private String loginName,user input jsp td input type text name loginName size 40 id loginName value loginName td,0
+WSResult private String code SUCCESS,report2 settings xml hex color code,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource jms applicationContext jms simple xml,0
+GetUserResult private UserDTO user,user input jsp remote user checkLoginName action oldLoginName encodeURIComponent symbol dollar loginName,0
+Post protected User user,default data xml SS USER ID 2 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 809 LAST MODIFY BY admin LAST MODIFY TIME 2009 09 03 23 22 40 625 EMAIL user springside org cn LOGIN NAME user NAME Calvin PLAIN PASSWORD user SHA PASSWORD 12dea96fec20593566ab75692c9949596833adc9 STATUS enabled VERSION 2,0
+NotifyMessageListener private static Logger logger LoggerFactory getLogger NotifyMessageListener class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+SmallImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource email applicationContext email xml,0
+JsonBinder private static Logger logger LoggerFactory getLogger JsonBinder class,index jsp li logger AOp showcase trace log li,0
+SimpleMailService private static Logger logger LoggerFactory getLogger SimpleMailService class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+HibernateMappingTest private static Logger logger LoggerFactory getLogger HibernateMappingTest class,index jsp li logger 10 LOGS li,0
+UserDetailsServiceImplTest private UserDetailsServiceImpl userDetailsService,applicationContext security xml bean id userDetailsService class package service account UserDetailsServiceImpl,0
+BaseFunctionalTestCase protected static Server server,applicationContext showcase xml import resource webservice applicationContext cxf server xml,0
+Post protected User user,test data xml SS USER ID 6 CREATE TIME 2009 07 11 08 52 25 805 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PLAIN PASSWORD user5 STATUS enabled,0
+Struts2Utils private static ObjectMapper mapper new ObjectMapper,pom xml artifactId jackson mapper asl artifactId,0
+HibernateMappingTest private SessionFactory sessionFactory,applicationContext test xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+UserResourceService private static Logger logger LoggerFactory getLogger UserResourceService class,500 jsp logger error ex getMessage ex,0
+PropertiesUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,index jsp li logger 10 LOGS li,0
+User private String email,applicationContext email xml property name templateLoaderPath value classpath email,0
+LargeImageWebServiceImpl private static Logger logger LoggerFactory getLogger LargeImageWebServiceImpl class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+User private String email,applicationContext email xml bean id simpleMailService class org springside examples showcase email SimpleMailService,0
+SimpleHibernateDao protected Logger logger LoggerFactory getLogger getClass,index jsp li logger AOp showcase trace log li,0
+SpringSecurityInInterceptor private UserDetailsService userDetailsService,applicationContext security xml bean id userDetailsService class org springside examples miniweb service account UserDetailsServiceImpl,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext quartz timer cluster xml Job applicationContext,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource schedule applicationContext quartz cron local xml,0
+WSResult private String message,showcase soapui project xml wsdl message name getAllUserResponse,0
+MimeMailService private static Logger logger LoggerFactory getLogger MimeMailService class,index jsp li logger AOp showcase trace log li,0
+UserAction private User entity,pom xml include name entity class,0
+Post protected User user,login jsp div b admin admin b b user user b div,0
+RoleAction private Role entity,applicationContext test xml property name packagesToScan value org springside examples showcase common entity,0
+BaseFunctionalTestCase protected static WebDriver driver,pom xml jdbc driver artifactId mysql connector java jdbc driver artifactId,0
+Post protected User user,urlrewrite xml from common user 0 9 htm from,0
+CrudActionSupport protected Logger logger LoggerFactory getLogger getClass,index jsp li logger AOp showcase trace log li,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource cache applicationContext memcached xml,0
+JmxClientAction private String nodeName,jmx client jsp nodeName val data nodeName,0
+UserDTO private String loginName,user input jsp td input type text name loginName size 40 value loginName td,0
+HibernateMappingTest private SessionFactory sessionFactory,applicationContext test xml property name sessionFactory ref sessionFactory,0
+SpringContextHolder private static ApplicationContext applicationContext null,applicationContext showcase xml import resource log applicationContext log xml,0
+PageTest private Page Object page,resource jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+WSResult private String code SUCCESS,report2 settings xml guide color hex color code fill color If not defined color of a guide will be used Separate color codes with comas for gradient,0
+AccountManager private static Logger logger LoggerFactory getLogger AccountManager class,index jsp li logger 10 LOGS li,0
+WSResult private String message,activemq network broker xml Configure message persistence for the broker The default persistence mechanism is the KahaDB store identified by,0
+WSResult private String message,role jsp div id message s actionmessage theme custom cssClass success div,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext quartz timer cluster xml Job applicationContext,0
+BaseFunctionalTestCase protected static Server server,jetty xml bean id handlers class org eclipse jetty server handler HandlerCollection,0
+WSResult private String message,showcase soapui project xml wsdl message,0
+SmallImageWebServiceImpl private static Logger logger LoggerFactory getLogger SmallImageWebServiceImpl class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+PeriodConsumer protected int period 0,report2 settings xml No data for selected period text if data is missing this message will be displayed,0
+Post protected User user,applicationContext security xml s intercept url pattern account user delete access hasAnyRole ROLE,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,applicationContext showcase xml import resource cache applicationContext ehcache xml,0
+QueueAppender protected BlockingQueue LoggingEvent queue,activemq xml policyEntry queue producerFlowControl true memoryLimit 20mb,0
+Post protected User user,index jsp response sendRedirect account user action,0
+User private String password,applicationContext test xml property name password value jdbc password,0
+SeleniumUtils private static Logger logger LoggerFactory getLogger SeleniumUtils class,log4j perf4j xml logger,0
+UserWebServiceTest private UserWebServiceImpl userWebService,applicationContext cxf server xml bean id userWebService class org springside examples showcase ws server impl UserWebServiceImpl,0
+SimpleHibernateDao protected SessionFactory sessionFactory,applicationContext xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+User private String loginName,user jsp td loginName nbsp td,0
+User private String password,applicationContext test xml property name password value quartz jdbc password,0
+SmallImageWebServiceImpl private static Logger logger LoggerFactory getLogger SmallImageWebServiceImpl class,log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+PageTest private Page Object page,user jsp input type hidden name page pageNo id pageNo value page pageNo,0
+SpringContextHolder private static ApplicationContext applicationContext null,web xml classpath applicationContext showcase xml,0
+SpyTokyotyrantClient private MemcachedClient client,applicationContext showcase xml import resource jmx applicationContext jmx client xml,0
+AdvancedNotifyMessageProducer private Destination notifyQueue,applicationContext jms simple xml property name destination ref notifyQueue,0
+QueueConsumer protected Logger logger LoggerFactory getLogger getClass,index jsp li logger AOp showcase trace log li,0
+BaseFunctionalTestCase protected static DataSource dataSource,applicationContext core test xml property name dataSource ref dataSource,0
+UserAction private User entity,applicationContext xml property name packagesToScan value package entity account,0
+LargeImageWebServiceImpl private ApplicationContext applicationContext,web xml classpath applicationContext ws server xml,0
+TraceUtilsTest Logger logger LoggerFactory getLogger TraceUtilsTest class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+QuartzClusterableJob private static Logger logger LoggerFactory getLogger QuartzClusterableJob class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+GetUserResult private UserDTO user,user input jsp remote user checkLoginName action oldLoginName encodeURIComponent loginName,0
+AccountManagerTest private IMocksControl control EasyMock createControl,activemq network broker xml information see http activemq apache org producer flow control html,0
+SpringCronJob private static Logger logger LoggerFactory getLogger SpringCronJob class,index jsp li logger AOp showcase trace log li,0
+User private String password,user input jsp password,0
+UserWebServiceTest private UserWebService userWebService,applicationContext cxf server xml bean id userWebService class org springside examples showcase ws server impl UserWebServiceImpl,0
+WSResult private String code SUCCESS,web xml error code 404 error code,0
+BaseFunctionalTestCase private static Server server,applicationContext email xml gmail smtp server,0
+Post protected User user,test data xml SS USER ID 4 CREATE TIME 2009 07 11 08 52 25 805 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PLAIN PASSWORD user3 STATUS enabled,0
+QueueConsumer protected BlockingQueue queue,activemq xml policyEntry queue producerFlowControl true memoryLimit 20mb,0
+User private List Role roleList Lists newArrayList,ehcache hibernate local xml cache name package entity account User roleList maxElementsInMemory 10000,0
+DbUnitUtils private static Logger logger LoggerFactory getLogger PropertiesUtils class,500 jsp logger error ex getMessage ex,0
+PageTest private Page Object page,report2 drilldown jsp page contentType text html charset UTF 8,0
+BaseFunctionalTestCase protected static Server server,server xml Documentation at docs config server html,0
+BaseFunctionalTestCase private static Server server,jetty xml bean class org eclipse jetty server handler ResourceHandler,0
+SpringTxTestCase protected DataSource dataSource,applicationContext test functional xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+HibernateMappingTest private SessionFactory sessionFactory,applicationContext core test xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+SpringTxTestCase protected DataSource dataSource,applicationContext xml property name dataSource ref quartzDataSource,0
+BaseFunctionalTestCase private static DataSource dataSource,applicationContext core test xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+UserResourceServiceTest private static UserResourceClient client,applicationContext cxf client xml jaxws client id userServiceWithPlainPassword serviceClass org springside examples showcase ws server UserWebService,0
+GetUserResult private UserDTO user,default data xml acct user role USER ID 1 ROLE ID 1,0
+RoleAction private Role entity,ehcache hibernate local xml cache name package entity account Role maxElementsInMemory 10000,0
+NotifyMessageProducer private Destination notifyTopic,applicationContext jms advanced xml property name notifyTopic ref advancedNotifyTopic,0
+BaseFunctionalTestCase private static Server server,pom xml artifactId jersey server artifactId,0
+UserAction private User entity,build xml hbmtemplate templateprefix pojo template pojo Pojo ftl filepattern entity package name class name java,0
+JdkExecutorJob private static Logger logger LoggerFactory getLogger JdkExecutorJob class,log4j perf4j xml logger,0
+StaticContentServlet private ApplicationContext applicationContext,web xml classpath applicationContext showcase xml,0
+SimpleHibernateDao protected SessionFactory sessionFactory,applicationContext test xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+BaseFunctionalTestCase private static Server server,jetty xml bean id handlers class org eclipse jetty server handler HandlerCollection,0
+AccountManager private static Logger logger LoggerFactory getLogger AccountManager class,500 jsp logger error ex getMessage ex,0
+GetUserResult private UserDTO user,default data xml ACCT USER ID 6 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PASSWORD user5,0
+UserResourceClient private WebResource client,jmx client jsp get jmx client startTrace action,0
+SpyTokyotyrantClient private static Logger logger LoggerFactory getLogger SpyTokyotyrantClient class,500 jsp logger error ex getMessage ex,0
+BaseFunctionalTestCase private static Server server,activemq xml The managementContext is used to configure how ActiveMQ is exposed in JMX By default ActiveMQ uses the MBean server,0
+QueueConsumer protected Logger logger LoggerFactory getLogger getClass,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+UserResourceClient private static Logger logger LoggerFactory getLogger UserResourceClient class,index jsp li logger 10 LOGS li,0
+LargeImageWebServiceImpl private static Logger logger LoggerFactory getLogger LargeImageWebServiceImpl class,index jsp li logger 10 LOGS li,0
+WSResult private String code SUCCESS,report2 settings xml 000000 hex color code border color,0
+StaticContentServlet private ApplicationContext applicationContext,applicationContext showcase xml import resource jmx applicationContext jmx client xml,0
+SimpleHibernateDaoTest private SimpleHibernateDao User Long dao,build xml hbmtemplate templateprefix pojo template dao ftl filepattern dao package name class name Dao java,0
+UserAction private Page User page new Page User 5 5,user jsp page contentType text html charset UTF 8,0
+JsonBinder private static Logger logger LoggerFactory getLogger JsonBinder class,index jsp li logger 10 LOGS li,0
+HibernateMappingTest private SessionFactory sessionFactory,applicationContext xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+QuartzClusterableJob private ApplicationContext applicationContext,applicationContext showcase xml import resource jms applicationContext jms advanced xml,0
+UserAction private User entity,ehcache hibernate local xml cache name org springside examples miniservice entity account User maxElementsInMemory 10000,0
+UserResourceService private static Logger logger LoggerFactory getLogger UserResourceService class,500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+GetUserResult private UserDTO user,user jsp a href user input action id id a nbsp,0
+BaseFunctionalTestCase protected static Server server,jetty xml bean class org eclipse jetty server handler ResourceHandler,0
+GetUserResult private UserDTO user,default data xml acct user role USER ID 1 ROLE ID 2,0
+PageTest private Page Object page,user jsp s if test page hasPre a href javascript jumpPage page prePage a s if,0

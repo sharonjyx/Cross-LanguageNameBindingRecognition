@@ -1,0 +1,846 @@
+IpToCountry hbm xml id name id type long,1
+SecRole hbm xml id name id type long,1
+Branche hbm xml id name id type long,1
+Order hbm xml id name id type long,1
+HibernateStatistics hbm xml id name id type long column id,1
+SecUserrole hbm xml id name id type long,1
+CountryCode hbm xml id name id type long,1
+YoutubeLink hbm xml id name id type long,1
+SecRight hbm xml id name id type long,1
+SecRolegroup hbm xml id name id type long,1
+Ip2Country hbm xml id name id type long,1
+HibernateEntityStatistics hbm xml id name id type long column id,1
+SecLoginlog hbm xml id name id type long,1
+MyCalendarEvent hbm xml id name id type long,1
+GuestBook hbm xml id name id type long,1
+SecGroupright hbm xml id name id type long,1
+SecUser hbm xml id name id type long,1
+Ip4Country hbm xml id name id type long,1
+SecGroup hbm xml id name id type long,1
+Article hbm xml id name id type long,1
+ApplicationNews hbm xml id name id type long,1
+Office hbm xml id name id type long,1
+Customer hbm xml id name id type long,1
+Orderposition hbm xml id name id type long,1
+YoutubeLink hbm xml version name version column VERSION type integer,1
+Ip2Country hbm xml version name version column VERSION type integer,1
+MyCalendarEvent hbm xml version name version column VERSION type integer,1
+Ip4Country hbm xml version name version column VERSION type integer,1
+Order hbm xml version name version column version type int,1
+SecLoginlog hbm xml version name version column VERSION type integer,1
+SecUser hbm xml version name version column VERSION type integer,1
+SecRolegroup hbm xml version name version column VERSION type integer,1
+Office hbm xml version name version column VERSION type integer,1
+Branche hbm xml version name version column VERSION type integer,1
+Orderposition hbm xml version name version column VERSION type integer,1
+GuestBook hbm xml version name version column VERSION type integer,1
+Article hbm xml version name version column VERSION type integer,1
+SecRight hbm xml version name version column VERSION type integer,1
+IpToCountry hbm xml version name version column VERSION type integer,1
+SecUserrole hbm xml version name version column VERSION type integer,1
+SecRole hbm xml version name version column VERSION type integer,1
+SecGroup hbm xml version name version column VERSION type integer,1
+Customer hbm xml version name version column VERSION type integer,1
+ApplicationNews hbm xml version name version column VERSION type integer,1
+CountryCode hbm xml version name version column VERSION type integer,1
+SecGroupright hbm xml version name version column VERSION type integer,1
+YoutubeLink hbm xml property name url type string,1
+mainmenu xml menuItem id menu Item Documentation zulNavigation WEB INF pages documentation documentation zul,1
+mainmenu xml menuItem id menu Item UserRoles zulNavigation WEB INF pages sec userrole secUserrole zul,1
+applicationContext guiControllers xml property name securityService ref securityService,1
+applicationContext guiControllers xml property name securityService ref securityService,1
+applicationContext guiControllers xml property name securityService ref securityService,1
+applicationContext guiControllers xml property name securityService ref securityService,1
+applicationContext guiControllers xml property name securityService ref securityService,1
+applicationContext guiControllers xml property name securityService ref securityService,1
+applicationContext guiControllers xml property name securityService ref securityService,1
+applicationContext guiControllers xml property name securityService ref securityService,1
+applicationContext guiControllers xml property name securityService ref securityService,1
+applicationContext guiControllers xml property name securityService ref securityService,1
+YoutubeLink hbm xml property name title type string,1
+MyCalendarEvent hbm xml property name title type string,1
+applicationContext guiControllers xml property name brancheService ref brancheService,1
+applicationContext guiControllers xml property name brancheService ref brancheService,1
+applicationContext guiControllers xml property name brancheService ref brancheService,1
+applicationContext guiControllers xml property name brancheService ref brancheService,1
+applicationContext guiControllers xml property name brancheService ref brancheService,1
+applicationContext guiControllers xml property name brancheService ref brancheService,1
+applicationContext guiControllers xml property name brancheService ref brancheService,1
+applicationContext guiControllers xml property name brancheService ref brancheService,1
+applicationContext guiControllers xml property name brancheService ref brancheService,1
+applicationContext guiControllers xml property name customerService ref customerService,1
+applicationContext guiControllers xml property name customerService ref customerService,1
+applicationContext guiControllers xml property name customerService ref customerService,1
+applicationContext guiControllers xml property name customerService ref customerService,1
+applicationContext guiControllers xml property name customerService ref customerService,1
+applicationContext guiControllers xml property name customerService ref customerService,1
+applicationContext guiControllers xml property name customerService ref customerService,1
+applicationContext guiControllers xml property name officeDAO ref officeDAO,1
+applicationContext hibernate xml property name officeDAO ref officeDAO,1
+applicationContext hibernate xml property name officeDAO ref officeDAO,1
+applicationContext hibernate xml property name officeDAO ref officeDAO,1
+applicationContext hibernate xml property name officeDAO ref officeDAO,1
+applicationContext hibernate xml property name officeDAO ref officeDAO,1
+applicationContext hibernate xml property name officeDAO ref officeDAO,1
+applicationContext hibernate xml property name officeDAO ref officeDAO,1
+applicationContext hibernate xml property name sessionFactory ref sessionFactory,1
+performance db logging xml p sessionFactory ref sessionFactory,1
+applicationContext guiControllers xml property name loginLoggingService ref loginLoggingService,1
+applicationContext guiControllers xml property name loginLoggingService ref loginLoggingService,1
+applicationContext guiServices xml property name loginLoggingService ref loginLoggingService,1
+applicationContext guiServices xml property name loginLoggingService ref loginLoggingService,1
+applicationContext guiControllers xml property name loginLoggingService ref loginLoggingService,1
+applicationContext guiControllers xml property name officeService ref officeService,1
+applicationContext guiControllers xml property name officeService ref officeService,1
+applicationContext guiControllers xml property name officeService ref officeService,1
+applicationContext guiControllers xml property name officeService ref officeService,1
+applicationContext guiControllers xml property name officeService ref officeService,1
+applicationContext guiControllers xml property name userService ref userService,1
+applicationContext guiControllers xml property name userService ref userService,1
+applicationContext guiControllers xml property name userService ref userService,1
+springSecurityContext xml beans property name userService ref userService,1
+applicationContext guiControllers xml property name userService ref userService,1
+customize applicationContext xml property name dataSource ref dataSource,1
+applicationContext h2 db test xml property name dataSource ref dataSource,1
+applicationContext guiControllers xml property name orderService ref orderService,1
+applicationContext guiControllers xml property name orderService ref orderService,1
+applicationContext guiControllers xml property name orderService ref orderService,1
+applicationContext guiControllers xml property name orderService ref orderService,1
+Orderposition hbm xml many to one name order class de forsthaus backend model Order,1
+applicationContext hibernate xml property name customerDAO ref customerDAO,1
+applicationContext hibernate xml property name customerDAO ref customerDAO,1
+applicationContext hibernate xml property name customerDAO ref customerDAO,1
+applicationContext guiControllers xml property name customerDAO ref customerDAO,1
+applicationContext hibernate xml property name userDAO ref userDAO,1
+applicationContext hibernate xml property name userDAO ref userDAO,1
+applicationContext hibernate xml property name userDAO ref userDAO,1
+applicationContext hibernate xml property name userDAO ref userDAO,1
+applicationContext guiControllers xml bean name pagedListWrapper class de forsthaus webui util pagging PagedListWrapper p pagedListService ref pagedListService,1
+applicationContext guiControllers xml p pagedListService ref pagedListService scope prototype,1
+applicationContext guiControllers xml bean name pagedGridWrapper class de forsthaus webui util pagging PagedGridWrapper p pagedListService ref pagedListService,1
+applicationContext guiServices xml property name pagedListService ref pagedListService,1
+applicationContext hibernate xml property name secGroupDAO ref secGroupDAO,1
+applicationContext hibernate xml property name secGroupDAO ref secGroupDAO,1
+applicationContext hibernate xml property name secGroupDAO ref secGroupDAO,1
+Orderposition hbm xml many to one name article class de forsthaus backend model Article,1
+applicationContext guiServices xml property name ipToCountryService ref ipToCountryService,1
+applicationContext guiServices xml property name ipToCountryService ref ipToCountryService,1
+Order hbm xml many to one name customer class de forsthaus backend model Customer,1
+applicationContext guiControllers xml property name articleService ref articleService,1
+applicationContext guiControllers xml property name articleService ref articleService,1
+applicationContext guiControllers xml property name articleService ref articleService,1
+applicationContext guiControllers xml property name calendarEventService ref calendarEventService,1
+applicationContext guiControllers xml property name calendarEventService ref calendarEventService,1
+applicationContext guiControllers xml property name calendarEventService ref calendarEventService,1
+applicationContext hibernate xml property name secRoleDAO ref secRoleDAO,1
+applicationContext hibernate xml property name secRoleDAO ref secRoleDAO,1
+applicationContext hibernate xml property name secRoleDAO ref secRoleDAO,1
+applicationContext hibernate xml property name orderDAO ref orderDAO,1
+applicationContext hibernate xml property name orderDAO ref orderDAO,1
+applicationContext guiControllers xml property name orderDAO ref orderDAO,1
+applicationContext hibernate xml property name secRolegroupDAO ref secRolegroupDAO,1
+applicationContext hibernate xml property name secRolegroupDAO ref secRolegroupDAO,1
+applicationContext hibernate xml property name secRolegroupDAO ref secRolegroupDAO,1
+applicationContext hibernate xml property name brancheDAO ref brancheDAO,1
+applicationContext guiControllers xml property name brancheDAO ref brancheDAO,1
+applicationContext hibernate xml property name brancheDAO ref brancheDAO,1
+Customer hbm xml many to one name office class de forsthaus backend model Office,1
+applicationContext hibernate xml property name secUserroleDAO ref secUserroleDAO,1
+applicationContext hibernate xml property name secUserroleDAO ref secUserroleDAO,1
+applicationContext hibernate xml property name secUserroleDAO ref secUserroleDAO,1
+applicationContext hibernate xml property name orderpositionDAO ref orderpositionDAO,1
+applicationContext hibernate xml property name orderpositionDAO ref orderpositionDAO,1
+applicationContext guiControllers xml property name orderpositionDAO ref orderpositionDAO,1
+applicationContext hibernate xml property name secRightDAO ref secRightDAO,1
+applicationContext hibernate xml property name secRightDAO ref secRightDAO,1
+applicationContext hibernate xml property name secRightDAO ref secRightDAO,1
+applicationContext hibernate xml property name articleDAO ref articleDAO,1
+applicationContext hibernate xml property name articleDAO ref articleDAO,1
+applicationContext hibernate xml property name articleDAO ref articleDAO,1
+applicationContext hibernate xml property name countryCodeDAO ref countryCodeDAO,1
+applicationContext hibernate xml property name countryCodeDAO ref countryCodeDAO,1
+applicationContext hibernate xml property name countryCodeDAO ref countryCodeDAO,1
+applicationContext hibernate xml property name secGrouprightDAO ref secGrouprightDAO,1
+applicationContext hibernate xml property name secGrouprightDAO ref secGrouprightDAO,1
+applicationContext hibernate xml property name secGrouprightDAO ref secGrouprightDAO,1
+applicationContext hibernate xml bean id basisDAO abstract true p hibernateTemplate ref hibernateTemplate class de forsthaus backend dao impl BasisDAO,1
+applicationContext hibernate xml bean id nonWebRequestDBAction p hibernateTemplate ref hibernateTemplate,1
+applicationContext hibernate xml property name applicationNewsDAO ref applicationNewsDAO,1
+applicationContext hibernate xml property name applicationNewsDAO ref applicationNewsDAO,1
+applicationContext guiControllers xml property name chartService ref chartService,1
+applicationContext guiControllers xml property name chartService ref chartService,1
+SecRole hbm xml set name secUserroles inverse true,1
+SecRight hbm xml rg secRole secUserroles AS ur,1
+SecUser hbm xml set name secUserroles inverse true,1
+applicationContext guiControllers xml property name guiHibernateStatisticsService ref guiHibernateStatisticsService,1
+applicationContext guiControllers xml property name guiHibernateStatisticsService ref guiHibernateStatisticsService,1
+applicationContext hibernate xml property name ip2CountryDAO ref ip2CountryDAO,1
+applicationContext hibernate xml property name ip2CountryDAO ref ip2CountryDAO,1
+SecGroupright hbm xml many to one name secGroup class de forsthaus backend model SecGroup,1
+SecRight hbm xml JOIN gr secGroup secRolegroups AS rg,1
+SecRolegroup hbm xml many to one name secGroup class de forsthaus backend model SecGroup,1
+applicationContext hibernate xml property name calendarEventDAO ref calendarEventDAO,1
+applicationContext hibernate xml property name calendarEventDAO ref calendarEventDAO,1
+SecGroup hbm xml set name secGrouprights inverse true,1
+SecRight hbm xml set name secGrouprights inverse true,1
+SecRight hbm xml r secGrouprights AS gr,1
+SecRight hbm xml JOIN gr secGroup secRolegroups AS rg,1
+SecGroup hbm xml set name secRolegroups inverse true,1
+SecRole hbm xml set name secRolegroups inverse true,1
+applicationContext guiControllers xml property name guestBookService ref guestBookService,1
+applicationContext guiControllers xml property name guestBookService ref guestBookService,1
+applicationContext guiServices xml property name ip2CountryService ref ip2CountryService,1
+applicationContext guiServices xml property name ip2CountryService ref ip2CountryService,1
+applicationContext guiServices xml property name countryCodeService ref countryCodeService,1
+applicationContext guiServices xml property name countryCodeService ref countryCodeService,1
+SecUserrole hbm xml many to one name secRole class de forsthaus backend model SecRole,1
+SecRight hbm xml rg secRole secUserroles AS ur,1
+SecRolegroup hbm xml many to one name secRole class de forsthaus backend model SecRole,1
+applicationContext hibernate xml property name youtubeLinkDAO ref youtubeLinkDAO,1
+applicationContext hibernate xml property name youtubeLinkDAO ref youtubeLinkDAO,1
+MyCalendarEvent hbm xml many to one name secUser class de forsthaus backend model SecUser,1
+SecUserrole hbm xml many to one name secUser class de forsthaus backend model SecUser,1
+SecRight hbm xml JOIN ur secUser AS u,1
+applicationContext guiControllers xml property name plwOrderpositions ref pagedListWrapper,1
+applicationContext guiControllers xml property name plwOrderpositions ref pagedListWrapper,1
+applicationContext guiControllers xml property name plwOrderpositions ref pagedListWrapper,1
+applicationContext hibernate xml property name guestBookDAO ref guestBookDAO,1
+applicationContext hibernate xml property name guestBookDAO ref guestBookDAO,1
+Customer hbm xml many to one name branche class de forsthaus backend model Branche,1
+applicationContext hibernate xml property name ipToCountryDAO ref ipToCountryDAO,1
+applicationContext hibernate xml property name ipToCountryDAO ref ipToCountryDAO,1
+applicationContext hibernate xml property name secLoginlogDAO ref secLoginlogDAO,1
+applicationContext hibernate xml property name secLoginlogDAO ref secLoginlogDAO,1
+applicationContext hibernate xml property name hibernateStatisticsDao ref hibernateStatisticsDao,1
+applicationContext hibernate xml property name hibernateStatisticsDao ref hibernateStatisticsDao,1
+applicationContext guiControllers xml property name plwSecRights ref pagedListWrapper,1
+applicationContext guiControllers xml property name plwSecRights ref pagedListWrapper,1
+applicationContext guiControllers xml property name guiLoginLoggingService ref guiLoginLoggingService,1
+applicationContext guiControllers xml property name plwSecRoles ref pagedListWrapper,1
+applicationContext guiControllers xml property name plwSecRoles ref pagedListWrapper,1
+Branche hbm xml set name customers inverse true,1
+Office hbm xml set name customers inverse true key column name kun fil id,1
+HibernateEntityStatistics hbm xml property name optimisticFailureCount column optimisticfailurecount,1
+HibernateStatistics hbm xml property name optimisticFailureCount column optimisticfailurecount,1
+applicationContext hibernate xml property name secTypDAO ref secTypDAO,1
+applicationContext guiControllers xml property name plwSecGroups ref pagedListWrapper,1
+applicationContext guiControllers xml property name plwSecGroups ref pagedListWrapper,1
+Article hbm xml set name orderpositions inverse true,1
+Order hbm xml set name orderpositions fetch select inverse true,1
+applicationContext guiControllers xml property name plwCustomers ref pagedListWrapper,1
+applicationContext guiControllers xml property name plwCustomers ref pagedListWrapper,1
+SecRight hbm xml property name rigName type string,1
+SecRole hbm xml property name rolLongdescription type string,1
+SecUser hbm xml property name usrCredentialsnonexpired type boolean,1
+SecUser hbm xml property name usrAccountnonlocked type boolean,1
+SecUser hbm xml property name usrFirstname type string,1
+Customer hbm xml property name kunName1 type string,1
+Customer hbm xml property name kunName2 type string,1
+Order hbm xml property name aufBezeichnung type string,1
+SecUser hbm xml property name usrEmail type string,1
+Article hbm xml property name artNr type string,1
+SecUser hbm xml property name usrAccountnonexpired type boolean,1
+Orderposition hbm xml property name aupMenge type big decimal,1
+SecUser hbm xml property name usrEnabled type boolean,1
+SecUser hbm xml property name usrLastname type string,1
+SecLoginlog hbm xml property name browserType type string,1
+SecRight hbm xml property name rigType type java lang Integer,1
+SecGroup hbm xml property name grpLongdescription type string,1
+SecUser hbm xml property name usrPassword type string,1
+SecUser hbm xml property name usrToken type string,1
+Article hbm xml property name artKurzbezeichnung type string,1
+SecGroup hbm xml property name grpShortdescription type string,1
+Customer hbm xml property name kunMahnsperre type java lang Boolean,1
+Customer hbm xml property name kunOrt type string,1
+Order hbm xml property name aufNr type string,1
+Customer hbm xml property name kunMatchcode type string,1
+SecRole hbm xml property name rolShortdescription type string,1
+HibernateStatistics hbm xml property name finishTime column finishtime type timestamp,1
+Orderposition hbm xml property name aupEinzelwert type big decimal,1
+SecUser hbm xml property name usrLoginname type string,1
+Customer hbm xml property name kunNr type string,1
+Orderposition hbm xml property name aupGesamtwert type big decimal,1
+applicationContext guiControllers xml bean id hibernateStatisticsDetailCtrl class de forsthaus webui debug HibernateStatisticsDetailCtrl scope prototype,0
+mainmenu xml menu id menu Category Administration rightName menuCat Administration,0
+pom xml id JBoss id,0
+Office hbm xml class assigned id,0
+workspace xml window info anchor bottom id Terminal,0
+springSecurityContext xml xmlns beans http www springframework org schema beans xmlns xsi http www w3 org 2001 XMLSchema instance,0
+Ip4Country hbm xml column name i4co id,0
+applicationContext guiControllers xml bean id bBruhnsTestBean class de forsthaus bbruhns BBruhnsTestBean,0
+mainmenu xml menuItem id menu Item Roles zulNavigation WEB INF pages sec role secRoleList zul,0
+Customer hbm xml column name kun bra id,0
+applicationContext hibernate xml bean id secUserroleDAO class de forsthaus backend dao impl SecUserroleDAOImpl parent basisDAO,0
+settings xml id jaspersoft id,0
+ApplicationNews hbm xml xml version 1 0,0
+YoutubeLink hbm xml class assigned id,0
+applicationContext guiControllers xml bean id branchDetailCtrl class de forsthaus webui branch BranchDetailCtrl parent basisCtrl scope prototype,0
+applicationContext guiControllers xml bean id secRightDialogCtrl class de forsthaus webui security right SecRightDialogCtrl parent basisCtrl,0
+Nextidview hbm xml xml version 1 0,0
+Ip2Country hbm xml column name lgl id,0
+workspace xml window info anchor bottom id Debug order 3 weight 0 4,0
+SecLoginlog hbm xml xml version 1 0,0
+applicationContext guiControllers xml bean id basisCtrl abstract true scope prototype class de forsthaus webui util GFCBaseCtrl,0
+YoutubeLink hbm xml id name id type long column name ytb id generator,0
+applicationContext guiControllers xml bean id userListCtrl class de forsthaus webui security user UserListCtrl parent basisCtrl scope prototype,0
+pom xml url http repository springsource com maven bundles milestone url,0
+applicationContext guiControllers xml bean id customerDialogCtrl class de forsthaus webui customer CustomerDialogCtrl parent basisCtrl scope prototype,0
+applicationContext guiControllers xml bean id branchListCtrl class de forsthaus webui branch BranchListCtrl parent basisListCtrl scope prototype,0
+settings xml id jboss public repository id,0
+CountryCode hbm xml set name ip2Countrys inverse true key column name i2c id,0
+pom xml version 0 0 1 SNAPSHOT version,0
+CountryCode hbm xml id name id type long column name ccd id generator,0
+index DE html title zksample2 Help index title,0
+core jsp tld xml version 1 0 encoding UTF 8,0
+pom xml id com springsource repository bundles release id,0
+applicationContext guiServices xml xml version 1 0 encoding UTF 8,0
+pom xml version 3 0 version,0
+workspace xml window info anchor bottom id Run order 2,0
+mainmenu xml menuItem id menu Item Articles zulNavigation WEB INF pages article articleMain zul,0
+applicationContext guiControllers xml bean id articleListCtrl class de forsthaus webui article ArticleListCtrl parent basisListCtrl scope prototype,0
+Order hbm xml column name auf id,0
+Ip2Country hbm xml id,0
+applicationContext hibernate xml bean id secGrouprightDAO class de forsthaus backend dao impl SecGrouprightDAOImpl parent basisDAO,0
+applicationContext guiControllers xml bean id messageBarCtrl class de forsthaus webui util MessageBarCtrl scope prototype,0
+Branche hbm xml column name bra id,0
+MyCalendarEvent hbm xml column name cle id,0
+applicationContext hibernate xml bean id countryCodeDAO class de forsthaus backend dao impl CountryCodeDAOImpl parent basisDAO,0
+SecUserrole hbm xml column name usr id,0
+applicationContext guiControllers xml bean id officeListCtrl class de forsthaus webui office OfficeListCtrl parent basisCtrl scope prototype,0
+Customer hbm xml column name kun id,0
+core dsp tld xml version 1 0 encoding ISO 8859 1,0
+log4j xml xml version 1 0 encoding UTF 8,0
+applicationContext guiServices xml bean id metaMenuFactory,0
+SecGroup hbm xml id name id type long column name grp id generator,0
+workspace xml pane id ProjectPane,0
+Ip2Country hbm xml class assigned id,0
+pom xml id central id,0
+applicationContext guiControllers xml bean id orderDialogCtrl class de forsthaus webui order OrderDialogCtrl parent basisCtrl scope prototype,0
+mainmenu xml menu id menu Category UserRights rightName menuCat UserRights,0
+GuestBook hbm xml id name id type long column name gub id generator,0
+customize applicationContext xml util properties id hibernateProperties,0
+Order hbm xml id name id type long column name auf id generator,0
+workspace xml window info anchor bottom id Find order 1,0
+SecUser hbm xml class assigned id,0
+pom xml maven compiler source version 1 6 maven compiler source version,0
+applicationContext guiControllers xml bean id hibernateStatisticsCtrl class de forsthaus webui debug HibernateStatisticsCtrl parent basisCtrl,0
+MyCalendarEvent hbm xml class assigned id,0
+Branche hbm xml column name kun bra id,0
+pom xml id ZK CE id,0
+Order hbm xml id,0
+customize applicationContext xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+workspace xml window info anchor bottom id Java Enterprise,0
+applicationContext h2 db test xml bean id transactionManager,0
+springSecurityContext xml beans bean id passwordEncoder class de forsthaus policy PasswordEncoderImpl,0
+web xml id WebApp ID version 2 5,0
+index html title Network which provides and promotes Open Source software downloads development discussion and news,0
+SecGroupright hbm xml xml version 1 0,0
+Article hbm xml id name id type long column name art id generator,0
+mainmenu xml menuItem id menu Item Customers zulNavigation WEB INF pages customer customerList zul,0
+applicationContext hibernate xml bean id hibernateSearchSupport class de forsthaus backend dao impl HibernateSearchSupportImpl,0
+mainmenu xml id menu Item SpreadSheet,0
+pom xml jrebel maven plugin version 1 1 3 jrebel maven plugin version,0
+modules xml xml version 1 0 encoding UTF 8,0
+ApplicationNews hbm xml column name anw id,0
+Orderposition hbm xml column name art id,0
+pom xml version 1 1 1 version,0
+pom xml springsecurity version 3 0 2 RELEASE springsecurity version,0
+mainmenu xml menuItem id menu Item Codes zulNavigation WEB INF pages codes codes zul,0
+performance db logging xml aop pointcut id loggingPointcut2,0
+SecGroupright hbm xml column name grp id,0
+performance db logging xml aop pointcut id loggingPointcut1,0
+GuestBook hbm xml class assigned id,0
+SecLoginlog hbm xml id,0
+applicationContext guiControllers xml bean id secUserroleCtrl class de forsthaus webui security userrole SecUserroleCtrl parent basisCtrl scope prototype,0
+mainmenu xml menuItem id menu Item Branches zulNavigation WEB INF pages branch branchMain zul,0
+SecUserrole hbm xml id name id type long column name urr id generator,0
+mainmenu xml menuItem id menu Item Groups zulNavigation WEB INF pages sec group secGroupList zul,0
+pom xml version h2database version version 1 3 165,0
+workspace xml window info anchor right id Commander internal type SLIDING order 0 type SLIDING weight 0 4,0
+applicationContext h2 db test xml bean id propertyConfigurer,0
+SecGroup hbm xml column name grp id,0
+applicationContext guiControllers xml bean id calendarMainCtrl class de forsthaus webui calendar CalendarMainCtrl parent basisCtrl scope prototype,0
+applicationContext hibernate xml bean id orderpositionDAO class de forsthaus backend dao impl OrderpositionDAOImpl parent basisDAO,0
+applicationContext guiControllers xml bean id secGroupDialogCtrl class de forsthaus webui security group SecGroupDialogCtrl parent basisCtrl,0
+applicationContext guiControllers xml bean id branchMainCtrl class de forsthaus webui branch BranchMainCtrl parent basisCtrl scope prototype,0
+applicationContext hibernate xml bean id articleDAO class de forsthaus backend dao impl ArticleDAOImpl parent basisDAO,0
+workspace xml task active true id Default summary Default task,0
+applicationContext guiControllers xml bean id applicationContextProvider class de forsthaus util ApplicationContextProvider bean,0
+mainmenu xml menuItem id menu Item Rights zulNavigation WEB INF pages sec right secRightList zul,0
+pom xml id com springsource repository bundles milestone id,0
+SecUserrole hbm xml column name urr id,0
+applicationContext db xml bean id transactionManager,0
+web xml url pattern dsp url pattern,0
+SecGroup hbm xml class assigned id,0
+applicationContext hibernate xml bean name securityService class de forsthaus backend service impl SecurityServiceImpl,0
+Ip4Country hbm xml id name id type long column name i4co id generator,0
+applicationContext hibernate xml bean id secRoleDAO class de forsthaus backend dao impl SecRoleDAOImpl parent basisDAO,0
+pom xml version 2 4 version,0
+pom xml id zt releases id,0
+pom xml id zkmaven id,0
+CountryCode hbm xml id,0
+Nextidview hbm xml id,0
+workspace xml window info anchor bottom id Docker show stripe button false,0
+IpToCountry hbm xml id name id type long column name ipc id generator,0
+Office hbm xml id,0
+workspace xml window info anchor right id Ant Build order 1 weight 0 25,0
+Ip2Country hbm xml id name id type long column name i2c id generator,0
+Orderposition hbm xml id name id type long column name aup id generator,0
+applicationContext guiControllers xml name brancheService ref brancheService property name ipToCountryService ref ipToCountryService bean,0
+applicationContext hibernate xml bean id officeDAO class de forsthaus backend dao impl OfficeDAOImpl parent basisDAO,0
+mainmenu xml xml version 1 0 encoding UTF 8 standalone yes,0
+GuestBook hbm xml column name gub id,0
+Order hbm xml column name auf kun id not null true,0
+applicationContext hibernate xml bean id customerDAO class de forsthaus backend dao impl CustomerDAOImpl parent basisDAO,0
+workspace xml window info anchor right id Palette 9,0
+settings xml id jboss public repository group id,0
+CountryCode hbm xml class assigned id,0
+applicationContext hibernate xml bean id secRightDAO class de forsthaus backend dao impl SecRightDAOImpl parent basisDAO,0
+applicationContext guiControllers xml bean id officeMainCtrl class de forsthaus webui office OfficeMainCtrl parent basisCtrl scope prototype,0
+pom xml version 1 5 2 version,0
+applicationContext h2 db test xml xml version 1 0 encoding UTF 8,0
+Ip2Country hbm xml column name i2c id,0
+pom xml version 2 0b4 version,0
+SecUser hbm xml column name usr id,0
+Ip4Country hbm xml class assigned id,0
+applicationContext hibernate xml bean id languageDAO class de forsthaus backend dao impl LanguageDAOImpl,0
+springSecurityContext xml xml version 1 0 encoding UTF 8,0
+SecLoginlog hbm xml column name lgl status id not null true,0
+pom xml project xmlns http maven apache org POM 4 0 0 xmlns xsi http www w3 org 2001 XMLSchema instance,0
+customize applicationContext xml xml version 1 0 encoding UTF 8,0
+pom xml id Standard Maven repository id,0
+YoutubeLink hbm xml column name ytb id,0
+workspace xml pane id PackagesPane,0
+Article hbm xml column name art id,0
+Article hbm xml id,0
+pom xml version maven resources plugin version version,0
+applicationContext hibernate xml bean name chartService class de forsthaus backend service impl ChartServiceImpl,0
+pom xml dependency groupId fi jawsy jawwa groupId artifactId jawwa zk gritter artifactId version 0 4 1 version,0
+Customer hbm xml xml version 1 0,0
+workspace xml list default true id e3bc8b02 82b2 41d0 910c bccb70baed83 name Default Changelist comment,0
+GuestBook hbm xml id,0
+Customer hbm xml class assigned id,0
+applicationContext guiControllers xml bean id secLoginlogStatisticCtrl class de forsthaus webui logging loginlog SecLoginlogStatisticCtrl parent basisCtrl,0
+applicationContext hibernate xml bean id secRolegroupDAO class de forsthaus backend dao impl SecRolegroupDAOImpl parent basisDAO,0
+performance db logging xml tx advice id loggingAdvice transaction manager transactionManager,0
+workspace xml window info anchor bottom id Cvs order 4 weight 0 25,0
+HibernateEntityStatistics hbm xml xml version 1 0,0
+Article hbm xml xml version 1 0,0
+pom xml id attach sources id,0
+Order hbm xml class assigned id,0
+workspace xml project version 4,0
+pom xml url http sourceforge net projects zksample2 url,0
+pom xml h2database version 1 3 148 h2database version,0
+customize applicationContext xml bean id dataSource class org springframework jndi JndiObjectFactoryBean property name jndiName value java comp env jdbc toledo,0
+applicationContext guiControllers xml bean id secGrouprightCtrl class de forsthaus webui security groupright SecGrouprightCtrl parent basisCtrl,0
+YoutubeLink hbm xml column name ytb title length 50,0
+springSecurityContext xml aop pointcut id authPointcut,0
+SecRolegroup hbm xml column name rlg id,0
+pom xml id ZK EVAL id,0
+HibernateEntityStatistics hbm xml id,0
+pom xml version 1 0 0 version,0
+SecRole hbm xml id,0
+pom xml version 1 2 14 version,0
+workspace xml window info content ui combo id Project order 0 weight 0 24964938,0
+mainmenu xml menuItem id menu Item RoleGroups zulNavigation WEB INF pages sec rolegroup secRolegroup zul,0
+applicationContext guiControllers xml bean id indexCtrl class de forsthaus webui index IndexCtrl parent basisCtrl scope prototype,0
+applicationContext guiControllers xml bean id orderPositionDialogCtrl class de forsthaus webui order OrderPositionDialogCtrl parent basisCtrl,0
+settings xml id default id,0
+workspace xml window info anchor bottom id Inspection order 5 weight 0 4,0
+SecLoginlog hbm xml column name lgl id,0
+pom xml id s3 com springsource repository bundles external id,0
+pom xml version 1 8 2 version 1 5 4,0
+applicationContext guiControllers xml bean id secRightListCtrl class de forsthaus webui security right SecRightListCtrl parent basisCtrl scope prototype,0
+SecGroupright hbm xml id,0
+SecRole hbm xml class assigned id,0
+mainmenu xml menuItem id menu Item Guestbook zulNavigation WEB INF pages guestbook guestBookList zul,0
+SecUserrole hbm xml column name rol id,0
+Ip2Country hbm xml param name sequence log ip2country seq param,0
+workspace xml xml version 1 0 encoding UTF 8,0
+web xml url pattern zkau url pattern,0
+pom xml maven source plugin version 2 4 maven source plugin version 2 2 1,0
+SecRight hbm xml id name id type long column name rig id generator,0
+applicationContext hibernate xml bean id secLoginlogDAO class de forsthaus backend dao impl SecLoginlogDAOImpl parent basisDAO,0
+applicationContext guiControllers xml bean id codesCtrl class de forsthaus webui codes CodesCtrl parent basisCtrl scope prototype,0
+applicationContext hibernate xml bean id hibernateEntityStatisticsDao class de forsthaus backend dao impl HibernateEntityStatisticsDaoImpl,0
+workspace xml option name version value 1,0
+mainmenu xml menuItem id menu Item Offices zulNavigation WEB INF pages office officeMain zul,0
+pom xml id s3 com springsource repository bundles milestone id,0
+lib1 xml root url jar PROJECT DIR spring hibernate backend src lib SuperCSV with src 1 52 jar,0
+applicationContext guiControllers xml bean id userWorkspace class de forsthaus UserWorkspace scope session,0
+applicationContext guiControllers xml bean id orderListCtrl class de forsthaus webui order OrderListCtrl parent basisCtrl scope prototype,0
+pom xml version 1 2 1 version,0
+pom xml version 1 0 version,0
+SecRight hbm xml column name rig id,0
+workspace xml window info anchor bottom id Event Log side tool true,0
+applicationContext guiControllers xml bean id customerChartCtrl class de forsthaus webui customer CustomerChartCtrl parent basisCtrl scope prototype,0
+SecUser hbm xml id,0
+applicationContext hibernate xml bean id calendarEventDAO class de forsthaus backend dao impl MyCalendarEventDAOImpl parent basisDAO,0
+springSecurityContext xml beans bean id myUserDetailsService class de forsthaus policy model PolicyManager,0
+applicationContext h2 db test xml bean id dataSource,0
+lang addon xml xml version 1 0 encoding UTF 8,0
+index html src http sflogo sourceforge net sflogo php group id amp type 3,0
+applicationContext db xml xml version 1 0 encoding UTF 8,0
+applicationContext guiControllers xml bean id testCtrl class de forsthaus example TestCtrl scope prototype,0
+pom xml version 2 3 version,0
+SecLoginlog hbm xml column name i2c id,0
+pom xml version maven jar plugin version version,0
+index html a href http zksample2 sourceforge net img src http sourceforge net sflogo php group id 297404 alt sourceforge net width 88 height 31 a,0
+applicationContext guiControllers xml bean id articleDetailCtrl class de forsthaus webui article ArticleDetailCtrl parent basisCtrl scope prototype,0
+html dsp tld xml version 1 0 encoding UTF 8,0
+pom xml dependency groupId postgresql groupId artifactId postgresql artifactId version 9 0 801 jdbc4 version dependency,0
+applicationContext guiControllers xml bean id helpWindowCtrl class de forsthaus webui util HelpWindowCtrl scope prototype,0
+IpToCountry hbm xml xml version 1 0,0
+applicationContext h2 db test xml property name url value jdbc url,0
+applicationContext guiControllers xml bean id mainMenuCtrl class de forsthaus common menu MainMenuCtrl scope prototype parent basisCtrl,0
+applicationContext guiControllers xml bean id secGroupListCtrl class de forsthaus webui security group SecGroupListCtrl parent basisListCtrl,0
+SecRolegroup hbm xml column name grp id,0
+pom xml version 4 0 0 version,0
+workspace xml pane id Scope,0
+mainmenu xml menuItem id menu Item GroupRights,0
+Customer hbm xml column name auf kun id not null true,0
+springSecurityContext xml beans bean id LoginLoggingPolicyService,0
+pom xml id s3 com springsource repository bundles release id,0
+web xml url pattern url pattern,0
+SecGroupright hbm xml id name id type long column name gri id generator,0
+index html div id fad script type text javascript,0
+pom xml version 2 3 2 version,0
+applicationContext guiControllers xml bean id documentationCtrl class de forsthaus webui documentation DocumentationCtrl parent basisCtrl scope prototype,0
+SecRolegroup hbm xml id,0
+applicationContext hibernate xml bean id applicationNewsDAO class de forsthaus backend dao impl ApplicationNewsDAOImpl parent basisDAO,0
+applicationContext db xml aop pointcut id guiServiceMethods,0
+Orderposition hbm xml column name aup id,0
+pom xml maven compiler plugin version 3 1 maven compiler plugin version,0
+Article hbm xml class assigned id,0
+pom xml JRebel PLUGIN version,0
+applicationContext guiControllers xml bean id articleMainCtrl class de forsthaus webui article ArticleMainCtrl parent basisCtrl scope prototype,0
+applicationContext hibernate xml bean id sessionFactory class org springframework orm hibernate3 LocalSessionFactoryBean name sessionFactory,0
+Orderposition hbm xml id,0
+workspace xml window info anchor bottom id Message order 0,0
+CountryCode hbm xml column name ccd id,0
+applicationContext hibernate xml bean id userDAO class de forsthaus backend dao impl UserDAOImpl parent basisDAO,0
+pom xml source maven compiler source version source,0
+mainmenu xml menuItem id menu Item LoginsLog,0
+pom xml version 4 5 version,0
+web xml xml version 1 0 encoding UTF 8,0
+pom xml version 3 2 1 version,0
+HibernateStatistics hbm xml xml version 1 0,0
+pom xml version 3 4 GA version,0
+springSecurityContext xml aop aspect id LoginLoggingAspect ref LoginLoggingPolicyService,0
+core dsp tld xml version 1 0 encoding UTF 8,0
+SecGroupright hbm xml class assigned id,0
+mainmenu xml menu id menu Category ReadMe rightName open true,0
+workspace xml window info anchor right content ui combo id Hierarchy order 2 weight 0 25,0
+index DE html href http www forsthaus de zkoss zksample2 help pages order DE html,0
+performance db logging xml aop pointcut id loggingPointcut,0
+applicationContext hibernate xml bean id hibernateTemplate class org springframework orm hibernate3 HibernateTemplate,0
+Ip4Country hbm xml param name sequence sys ip4country seq param,0
+workspace xml window info id Structure order 1 side tool true weight 0 25,0
+pom xml version 2 0 version,0
+zk xml xml version 1 0 encoding UTF 8,0
+Orderposition hbm xml class assigned id,0
+applicationContext hibernate xml bean id ip2CountryDAO class de forsthaus backend dao impl Ip2CountryDAOImpl parent basisDAO,0
+pom xml maven clean plugin version 2 5 maven clean plugin version,0
+workspace xml window info id Designer,0
+pom xml name project artifactId project version name,0
+pom xml version 2 1 0 version,0
+applicationContext guiServices xml bean id guiHibernateStatisticsService,0
+mainmenu xml menuItem id menu Item Blog zulNavigation WEB INF pages blog blog zul,0
+Customer hbm xml column name kun fil id not null true,0
+applicationContext hibernate xml bean id orderDAO class de forsthaus backend dao impl OrderDAOImpl parent basisDAO,0
+applicationContext guiControllers xml bean id basisListCtrl abstract true scope prototype class de forsthaus webui util GFCBaseListCtrl parent basisCtrl,0
+index html href http sourceforge net project project donations php group id 297404,0
+SecRight hbm xml id,0
+applicationContext h2 db test xml util properties id hibernateProperties,0
+pom xml dependency groupId com trg groupId artifactId trg search hibernate artifactId version 0 5 1 version dependency,0
+SecUser hbm xml xml version 1 0,0
+SecRolegroup hbm xml class assigned id,0
+Customer hbm xml id,0
+applicationContext guiControllers xml bean id djReportStyles class de forsthaus webui reports template DJReportStyles scope prototype,0
+core jsp tld version 2 0,0
+applicationContext guiControllers xml bean id editEventCtrl class de forsthaus webui calendar CalendarEditEventCtrl parent basisCtrl scope prototype,0
+mainmenu xml menuItem id menu Item Orders zulNavigation WEB INF pages order orderList zul,0
+pom xml version maven clean plugin version version,0
+Ip2Country hbm xml column name ccd id,0
+mainmenu xml menu id menu Category OfficeData rightName menuCat OfficeData,0
+applicationContext db xml aop pointcut id daoMethods,0
+applicationContext guiServices xml bean id guiLoginLoggingPolicService,0
+workspace xml window info anchor right id Database,0
+IpToCountry hbm xml id,0
+vcs xml project version 4,0
+Office hbm xml xml version 1 0,0
+index html xml version 1 0 encoding UTF 8,0
+pom xml version 1 1 0 version,0
+SecGroupright hbm xml column name rig id,0
+pom xml repository id jawsy releases id url http oss jawsy fi maven2 releases url repository,0
+IpToCountry hbm xml column name ipc id,0
+mainmenu xml zulNavigation WEB INF pages sec groupright secGroupright zul,0
+applicationContext guiControllers xml bean id statusBarCtrl class de forsthaus webui util StatusBarCtrl scope prototype,0
+workspace xml window info anchor right id Maven,0
+SecRole hbm xml id name id type long column name rol id generator,0
+workspace xml window info id Favorites side tool true,0
+HibernateStatistics hbm xml id,0
+applicationContext guiControllers xml bean id guestBookDialogCtrl class de forsthaus webui guestbook GuestBookDialogCtrl parent basisCtrl scope prototype,0
+SecUser hbm xml id name id type long column name usr id generator,0
+SecUserrole hbm xml xml version 1 0,0
+Office hbm xml id name id type long column name fil id generator,0
+applicationContext db xml tx advice id serviceTxAdvice transaction manager transactionManager,0
+applicationContext hibernate xml bean id hibernateStatisticsDao class de forsthaus backend dao impl HibernateStatisticsDaoImpl parent basisDAO,0
+mainmenu xml menuItem id menu Item HibernateStatistics zulNavigation WEB INF pages debug HibernateStatistics zul,0
+applicationContext guiControllers xml bean id secRoleDialogCtrl class de forsthaus webui security role SecRoleDialogCtrl parent basisCtrl scope prototype,0
+mainmenu xml menu a parent menu that have child nodes,0
+workspace xml changelist id e3bc8b02 82b2 41d0 910c bccb70baed83 name Default Changelist comment,0
+pom xml version 3 1 2 version,0
+applicationContext guiControllers xml bean id secRolegroupCtrl class de forsthaus webui security rolegroup SecRolegroupCtrl parent basisCtrl,0
+applicationContext guiControllers xml bean id officeDetailCtrl class de forsthaus webui office OfficeDetailCtrl parent basisCtrl scope prototype,0
+SecGroup hbm xml id,0
+pom xml url https sourceforge net tracker group id 297404 url,0
+performance db logging xml bean id serviceLogging scope request,0
+pom xml maven jar plugin version 2 4 maven jar plugin version,0
+applicationContext guiControllers xml bean id secLoginlogListCtrl class de forsthaus webui logging loginlog SecLoginlogListCtrl parent basisCtrl,0
+applicationContext guiControllers xml bean id spreadsheetMainCtrl class de forsthaus webui spreadsheet SpreadsheetMainCtrl parent basisCtrl scope prototype,0
+pom xml maven compiler target version 1 6 maven compiler target version,0
+Branche hbm xml xml version 1 0,0
+pom xml version 1 5 8 version,0
+SecRight hbm xml WHERE u id,0
+pom xml version maven compiler plugin version version,0
+log4j xml filter class org apache log4j varia LevelRangeFilter,0
+Branche hbm xml class assigned id,0
+SecUserrole hbm xml class assigned id,0
+pom xml version 8 4 701 jdbc4 version,0
+applicationContext guiServices xml bean id guiLoginLoggingService,0
+context xml xml version 1 0 encoding UTF 8,0
+Orderposition hbm xml column name aup auf id not null true,0
+pom xml spring version 3 0 2 RELEASE spring version,0
+pom xml version 0 0 5 version,0
+SecGroup hbm xml xml version 1 0,0
+SecUserrole hbm xml id,0
+applicationContext guiControllers xml bean id guestBookListCtrl class de forsthaus webui guestbook GuestBookListCtrl parent basisCtrl scope prototype,0
+mainmenu xml menuItem id menu Item Calendar zulNavigation WEB INF pages calendar calendar zul,0
+applicationContext guiControllers xml Init Application bean id initApplication class de forsthaus webui InitApplication parent basisCtrl scope prototype,0
+applicationContext hibernate xml bean id ipToCountryDAO class de forsthaus backend dao impl IpToCountryDAOImpl parent basisDAO,0
+pom xml id trg dao repo id,0
+Office hbm xml column name fil id,0
+SecRolegroup hbm xml id name id type long column name rlg id generator,0
+applicationContext db xml aop pointcut id serviceMethods,0
+Ip4Country hbm xml column name i4co ccd id,0
+SecLoginlog hbm xml class assigned id,0
+pom xml id com springsource repository bundles external id,0
+MyCalendarEvent hbm xml id name id type long column name cle id generator,0
+pom xml Java version Source Encoding,0
+SecLoginlog hbm xml id name id type long column name lgl id generator,0
+pom xml id snapshots id,0
+pom xml version 2 5 version,0
+applicationContext guiControllers xml bean id secRoleListCtrl class de forsthaus webui security role SecRoleListCtrl parent basisCtrl scope prototype,0
+SecRolegroup hbm xml column name rol id,0
+applicationContext guiControllers xml beans xmlns http www springframework org schema beans xmlns xsi http www w3 org 2001 XMLSchema instance,0
+MyCalendarEvent hbm xml xml version 1 0,0
+applicationContext guiControllers xml Login Dialog bean id zkLoginDialogCtrl class de forsthaus webui login ZkLoginDialogCtrl parent basisCtrl scope prototype,0
+Orderposition hbm xml xml version 1 0,0
+applicationContext guiControllers xml bean id userBarCtrl class de forsthaus webui util UserBarCtrl scope prototype,0
+applicationContext hibernate xml bean id youtubeLinkDAO class de forsthaus backend dao impl YoutubeLinkDAOImpl parent basisDAO,0
+ApplicationNews hbm xml id,0
+Order hbm xml column name aup auf id not null true,0
+index html div id ft,0
+applicationContext guiControllers xml bean id blogCtrl class de forsthaus webui blog BlogCtrl parent basisCtrl scope prototype,0
+pom xml id fdvsolution public id,0
+IpToCountry hbm xml class assigned id,0
+YoutubeLink hbm xml xml version 1 0,0
+applicationContext guiControllers xml bean id userDialogCtrl class de forsthaus webui security user UserDialogCtrl parent basisCtrl scope prototype,0
+mainmenu xml menu id menu Category MainData rightName menuCat MainData,0
+workspace xml window info anchor bottom id Database Changes,0
+pom xml version maven source plugin version version,0
+springSecurityContext xml intercept url pattern WEB INF pages access IS AUTHENTICATED REMEMBERED,0
+index html class donate title Donate to this project Donate money a strong p,0
+MyCalendarEvent hbm xml column name cle title length 20,0
+springSecurityContext xml logout url is a action url,0
+applicationContext hibernate xml xml version 1 0 encoding UTF 8,0
+misc xml project version 4,0
+index html href http www forsthaus de zkoss zksample2 help pages article DE html,0
+pom xml version spring version version,0
+workspace xml window info anchor bottom id TODO order 6,0
+pom xml version 1 0 SNAPSHOT version,0
+applicationContext guiControllers xml xml version 1 0 encoding UTF 8,0
+applicationContext guiControllers xml bean id customerListCtrl class de forsthaus webui customer CustomerListCtrl parent basisListCtrl scope prototype,0
+HibernateStatistics hbm xml order by id asc,0
+pom xml version 1 0 9 version,0
+MyCalendarEvent hbm xml column name cle usr id,0
+applicationContext hibernate xml bean id secTypDAO class de forsthaus backend dao impl SecTypDAOImpl,0
+applicationContext guiControllers xml bean id customerSearchCtrl class de forsthaus webui customer CustomerSearchCtrl parent basisCtrl scope prototype,0
+SecRight hbm xml class assigned id,0
+zk xml log,0
+performance db logging xml aop pointcut id loggingMethods,0
+vcs xml xml version 1 0 encoding UTF 8,0
+Ip4Country hbm xml xml version 1 0,0
+index html href http www forsthaus de zkoss zksample2 help pages customer DE html,0
+workspace xml find securityService find,0
+pom xml version 4 0 3 version,0
+applicationContext guiControllers xml bean id secLoginlogMainCtrl class de forsthaus webui logging loginlog SecLoginlogMainCtrl parent basisCtrl,0
+Nextidview hbm xml id name nextval type java lang Long,0
+core dsp tld when it is placed inside of hbox vbox,0
+workspace xml window info id Web side tool true,0
+misc xml component name ProjectRootManager version 2 languageLevel JDK 1 8 project jdk name 1 8 project jdk type JavaSDK,0
+applicationContext guiControllers xml bean id dashboardMainCtrl class de forsthaus webui dashboard DashboardMainCtrl parent basisCtrl scope prototype,0
+index html div right,0
+misc xml output url file PROJECT DIR out,0
+core jsp tld tlib version 1 1 tlib version,0
+performance db logging xml xml version 1 0 encoding UTF 8,0
+Ip2Country hbm xml xml version 1 0,0
+applicationContext guiControllers xml bean id createEventCtrl class de forsthaus webui calendar CalendarCreateEventCtrl parent basisCtrl scope prototype,0
+index html style background image url border jpg background repeat repeat x,0
+IpToCountry hbm xml column name ipc country name length 50,0
+Branche hbm xml id,0
+applicationContext hibernate xml bean id brancheDAO class de forsthaus backend dao impl BrancheDAOImpl parent basisDAO,0
+Customer hbm xml id name id type long column name kun id generator,0
+MyCalendarEvent hbm xml id,0
+pom xml maven resources plugin version 2 6 maven resources plugin version,0
+pom xml target maven compiler target version target,0
+applicationContext hibernate xml bean id ip4CountryDAO class de forsthaus backend dao impl Ip4CountryDAOImpl parent basisDAO,0
+pom xml version jrebel maven plugin version version,0
+SecGroupright hbm xml column name gri id,0
+index html div id projectinfo,0
+Branche hbm xml class name de forsthaus backend model Branche table branche,0
+IpToCountry hbm xml column name ipc country code2 length 2,0
+applicationContext guiControllers xml bean id myUserSettingsCtrl class de forsthaus webui security user MyUserSettingsCtrl parent basisCtrl,0
+index html Software title,0
+springSecurityContext xml intercept url pattern access IS AUTHENTICATED ANONYMOUSLY,0
+GuestBook hbm xml xml version 1 0,0
+Branche hbm xml id name id type long column name bra id generator,0
+index html div class top table border 0 cellpadding 0 cellspacing 0 width 100 style background image url border jpg background repeat repeat x tr td align right img alt src computer jpg width 500 height 250 td tr table div,0
+settings xml xmlns xsi http www w3 org 2001 XMLSchema instance,0
+applicationContext hibernate xml bean id chartDataDAO class de forsthaus backend dao impl ChartDataDAOImpl,0
+pom xml version 1 5 4 version,0
+applicationContext guiServices xml bean id treeMenuFactory class de forsthaus common menu tree ZkossTreeMenuFactory,0
+modules xml project version 4,0
+IpToCountry hbm xml column name ipc country code3 length 3,0
+applicationContext db xml xmlns xsi http www w3 org 2001 XMLSchema instance xmlns aop http www springframework org schema aop,0
+CountryCode hbm xml xml version 1 0,0
+SecRolegroup hbm xml xml version 1 0,0
+pom xml zkoss version 5 0 11 zkoss version,0
+pom xml version springsecurity version version,0
+pom xml version zkoss version version,0
+applicationContext hibernate xml bean id guestBookDAO class de forsthaus backend dao impl GuestBookDAOImpl parent basisDAO,0
+mainmenu xml menuItem id menu Item Users iconName images icons user group 16x16 png,0
+pom xml url http hibernate generic dao googlecode com svn trunk maven repo,0
+applicationContext guiServices xml bean id dropDownMenuFactory class de forsthaus common menu dropdown ZkossDropDownMenuFactory,0
+index html title SourceForge net Project Web Hosting Open Source,0
+SecRight hbm xml xml version 1 0,0
+performance db logging xml scope request p hibernateTemplate ref hibernateTemplate,0
+index html title ZkSample2 title,0
+pom xml version 3 3 1 GA version,0
+applicationContext guiControllers xml bean id addGrouprightDialogCtrl class de forsthaus webui security groupright AddGrouprightDialogCtrl parent basisCtrl,0
+Order hbm xml xml version 1 0,0
+pom xml url https zksample2 svn sourceforge net svnroot zksample2 url,0
+index html td align right img alt src computer jpg width 500,0
+log4j xml log4j configuration,0
+YoutubeLink hbm xml id,0
+workspace xml window info anchor bottom id Version Control,0
+customize applicationContext xml property name url value jdbc url,0
+pom xml url http repository springsource com s3 amazonaws com maven bundles milestone url,0
+SecRole hbm xml xml version 1 0,0
+mainmenu xml menuItem id menu Item Home zulNavigation WEB INF pages dashboard zul,0
+applicationContext db xml bean id propertyConfigurer,0
+springSecurityContext xml authentication failure url zkloginDialog zul login error 1,0
+applicationContext h2 db test xml xmlns xsi http www w3 org 2001 XMLSchema instance xmlns aop http www springframework org schema aop,0
+applicationContext guiControllers xml property name customerService ref customerService property name filialeService ref filialeService property,0
+applicationContext hibernate xml bean name pagedListService class de forsthaus backend service impl PagedListServiceImpl,0
+index html href http www forsthaus de zkoss zksample2 help pages order DE html,0
+applicationContext hibernate xml bean name ipToCountryService class de forsthaus backend service impl IpToCountryServiceImpl,0
+index DE html href http www forsthaus de zkoss zksample2 help pages customer DE html Kunden a,0
+workspace xml list,0
+SecGroup hbm xml param name sequence sec group seq param,0
+applicationContext hibernate xml bean id secGroupDAO class de forsthaus backend dao impl SecGroupDAOImpl parent basisDAO,0
+pom xml version 1 1 version,0
+pom xml version 2 2 version,0
+mainmenu xml zulNavigation WEB INF pages sec user userList zul rightName menuItem Administration Users,0
+index html div class right,0
+SecRole hbm xml column name rol id,0
+applicationContext hibernate xml bean name brancheService class de forsthaus backend service impl BrancheServiceImpl,0
+springSecurityContext xml zksp intercept event path window BranchesList listBoxBranch,0
+pom xml url http repository springsource com maven bundles external url,0
+web xml web app xmlns xsi http www w3 org 2001 XMLSchema instance xmlns http java sun com xml ns javaee,0
+Branche hbm xml param name sequence branche seq param,0
+index html href http www forsthaus de zkoss zksample2 help pages office DE html,0
+applicationContext db xml setMaxResults 10 setFirstResult 10 list,0
+index html title zksample2 Help index title,0
+pom xml id generate rebel xml id,0
+CountryCode hbm xml set name ip2Countries inverse true table log ip2country,0
+Ip4Country hbm xml id,0
+workspace xml navigator proportions version 1,0
+core dsp tld The parameter could be either a string class name or a Class instance,0
+pom xml artifactId log4j artifactId,0
+applicationContext db xml sessionFactory getCurrentSession createQuery FROM User,0
+IpToCountry hbm xml param name sequence ipc ip2country seq param,0
+core jsp tld jsp version 2 0 jsp version,0
+YoutubeLink hbm xml column name ytb url length 300 not null true unique true,0
+applicationContext hibernate xml bean name officeService class de forsthaus backend service impl OfficeServiceImpl,0
+lib1 xml root url jar PROJECT DIR spring hibernate backend src lib spiffy with source all 0 05 jar,0
+lib xml root url jar PROJECT DIR zkoss src main webapp WEB INF lib calendar jar,0
+index html background url prweb sidebar png top left fixed no repeat,0
+log4j xml appender name STDERR class org apache log4j ConsoleAppender,0
+core dsp tld language and or country,0
+index DE html href http www forsthaus de zkoss zksample2 help pages office DE html,0
+zk xml click filter delay 390 click filter delay,0
+applicationContext h2 db test xml property name sessionFactory ref sessionFactory,0
+pom xml url http hibernate generic dao googlecode com svn trunk maven repo url,0
+pom xml url http repo1 maven org maven2 url,0
+mainmenu xml zulNavigation WEB INF pages sec loginlog secLoginLogMain zul,0
+core dsp tld Returns the label of the specified key,0
+core jsp tld xmlns xsi http www w3 org 2001 XMLSchema instance,0
+pom xml url http mavensync zkoss org eval url,0
+log4j xml log4j configuration xmlns log4j http jakarta apache org log4j debug false,0
+zk xml log base org zkoss log base,0
+SecGroup hbm xml class name de forsthaus backend model SecGroup table sec group,0
+pom xml url http repository springsource com maven bundles release url,0
+core dsp tld If empty it means no country code at all,0
+settings xml url https repository jboss org nexus content groups public jboss url,0
+pom xml groupId log4j groupId,0
+pom xml url http repository jboss org nexus content groups public url,0
+applicationContext hibernate xml parent basisDAO,0
+mainmenu xml zulNavigation WEB INF pages spreadsheet spreadsheet zul,0
+lib xml root url jar PROJECT DIR zkoss src main webapp WEB INF lib SuperCSV with src 1 52 jar,0
+index DE html href http www forsthaus de zkoss zksample2 help pages article DE html,0
+lib xml root url jar PROJECT DIR zkoss src main webapp WEB INF lib spiffy with source all 0 05 jar,0
+web xml url pattern zul url pattern,0
+applicationContext guiServices xml xmlns xsi http www w3 org 2001 XMLSchema instance xmlns aop http www springframework org schema aop,0
+core dsp tld param country the country code e g US Ignored if null,0
+log4j xml appender name STDOUT class org apache log4j ConsoleAppender,0
+pom xml url,0
+applicationContext hibernate xml beans xmlns http www springframework org schema beans xmlns xsi http www w3 org 2001 XMLSchema instance,0
+SecRight hbm xml class name de forsthaus backend model SecRight table sec right,0
+applicationContext db xml property name sessionFactory ref sessionFactory,0
+lib xml root url jar PROJECT DIR zkoss src main webapp WEB INF lib silvergray jar,0
+applicationContext hibernate xml bean name loginLoggingService class de forsthaus backend service impl LoginLoggingServiceImpl,0
+pom xml url http archiva fdvs com ar repository public1 url,0
+log4j xml log4j configuration xmlns log4j http jakarta apache org log4j,0
+applicationContext hibernate xml bean name ip2CountryService class de forsthaus backend service impl Ip2CountryServiceImpl,0
+applicationContext hibernate xml list,0
+pom xml url dav http repos zeroturnaround com nexus content repositories zt releases url,0
+mainmenu xml zulNavigation the path and name of the zul file,0
+SecRight hbm xml param name sequence sec right seq param,0
+customize applicationContext xml beans xmlns http www springframework org schema beans xmlns xsi http www w3 org 2001 XMLSchema instance,0
+web xml url pattern zhtml url pattern,0
+springSecurityContext xml intercept url pattern pages access IS AUTHENTICATED REMEMBERED,0
+applicationContext hibernate xml bean name countryCodeService class de forsthaus backend service impl CountryCodeServiceImpl,0
+core dsp tld The first parameter could be either a string class name or a Class instance,0
+springSecurityContext xml default target url pages index zul,0
+log4j xml appender name FILE class org apache log4j RollingFileAppender,0
+pom xml artifactId slf4j log4j12 artifactId,0
+springSecurityContext xml logout logout url j spring logout logout success url index zul,0
+web xml welcome file list,0
+pom xml url http repository springsource com s3 amazonaws com maven bundles external url,0
+pom xml url http snapshots maven codehaus org maven2 url,0
+IpToCountry hbm xml class name de forsthaus backend model IpToCountry table ipc ip2country,0
+index html right 1em,0
+applicationContext hibernate xml property name dataSource ref dataSource,0
+log4j xml layout class org apache log4j PatternLayout,0
+web xml Must Specifies URI of the update engine DHtmlUpdateServlet It must be the same as url pattern for the update,0
+performance db logging xml xmlns xsi http www w3 org 2001 XMLSchema instance xmlns aop http www springframework org schema aop,0
+applicationContext hibernate xml constructor arg ref sessionFactory,0
+settings xml url http jasperforge org maven2 url,0
+log4j xml DOCTYPE log4j configuration SYSTEM log4j dtd,0
+log4j xml param name File value out log txt,0
+zk xml processing prompt delay 1 processing prompt delay,0
+Ip4Country hbm xml class name de forsthaus backend model Ip4Country table sys ip4country,0
+pom xml url http repository springsource com s3 amazonaws com maven bundles release url,0
+pom xml url http mavensync zkoss org maven2 url,0

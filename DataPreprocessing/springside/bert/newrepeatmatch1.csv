@@ -1,0 +1,1482 @@
+user jsp s if test page hasNext a href javascript jumpPage page nextPage a s if,1
+user jsp a href javascript jumpPage page totalPages a,1
+user jsp input type hidden name page pageNo id pageNo value symbol dollar page pageNo,1
+user jsp s if test page hasPre a href javascript jumpPage symbol dollar page prePage a s if,1
+user jsp a href javascript jumpPage symbol dollar page totalPages a,1
+user jsp input type hidden name page pageNo id pageNo value page pageNo,1
+user jsp s iterator value page result,1
+user jsp input type hidden name page order id order value symbol dollar page order,1
+user jsp s iterator value page result,1
+user jsp s if test page hasPre a href javascript jumpPage page prePage a s if,1
+user jsp input type hidden name page orderBy id orderBy value symbol dollar page orderBy,1
+user jsp input type hidden name page orderBy id orderBy value page orderBy,1
+user jsp input type hidden name page order id order value page order,1
+user jsp s if test page hasNext a href javascript jumpPage symbol dollar page nextPage a s if,1
+applicationContext cxf server xml property name userDetailsService ref userDetailsService,1
+applicationContext jms advanced xml property name notifyQueue ref advancedNotifyQueue,1
+applicationContext jms simple xml property name notifyQueue ref notifyQueue,1
+applicationContext jmx server xml property name notificationMailEnabled value true,1
+jmx client jsp value notificationMailEnabled list true false theme simple,1
+applicationContext jms simple xml property name notifyTopic ref notifyTopic,1
+applicationContext jms advanced xml property name notifyTopic ref advancedNotifyTopic,1
+applicationContext jmx server xml property name nodeName value server node name,1
+jmx client jsp td input id nodeName name nodeName value nodeName td,1
+ehcache hibernate local xml cache name org springside examples miniweb entity account User roleList maxElementsInMemory 10000,1
+ehcache hibernate local xml cache name org springside examples miniservice entity account User roleList maxElementsInMemory 10000,1
+applicationContext email xml property name mailSender ref mailSender,1
+applicationContext email xml property name mailSender ref mailSender,1
+applicationContext jms simple xml property name jmsTemplate ref jmsTemplate,1
+applicationContext jms advanced xml property name jmsTemplate ref advancedJmsTemplate,1
+applicationContext executor xml property name shutdownTimeout value 20,1
+applicationContext executor xml property name shutdownTimeout value 20,1
+applicationContext executor xml property name period value 60,1
+applicationContext memcached xml property name memcachedNodes value localhost 11211,1
+user input jsp td input type password name plainPassword size 40 value plainPassword td,1
+user input jsp td createBy fmt formatDate value createTime type both td,1
+user jsp td status nbsp td,1
+applicationContext memcached xml property name operationTimeout value 200,1
+applicationContext log xml property name batchSize value 10,1
+hibernate reveng xml table filter match schema match name exclude true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in constructor declaration parameters value insert,0
+jetty xml SystemProperty name jetty host,0
+formatter profile xml setting id org eclipse jdt core formatter comment line length value 80,0
+server xml Resource name UserDatabase auth Container,0
+applicationContext showcase xml import resource cache applicationContext ehcache xml,0
+user jsp div id message s actionmessage theme custom cssClass success div,0
+applicationContext email xml bean id simpleMailService class org springside examples showcase email SimpleMailService,0
+default data xml acct user ID 2 EMAIL user springside org cn LOGIN NAME user NAME User PASSWORD user,0
+role input jsp h2 s if test id null s if s else s else h2,0
+cleanup profile xml setting id cleanup add default serial version id value false,0
+applicationContext jms simple xml bean id notifyTopic class org apache activemq command ActiveMQTopic,0
+jetty plugin xml filter name template value OBJECT NAME alias,0
+applicationContext xml property name username value quartz jdbc username,0
+report2 settings xml text color hex color code,0
+applicationContext jms simple xml property name messageListener ref notifyMessageListener,0
+applicationContext test xml property name packagesToScan value package entity account,0
+compiler xml module name mini web,0
+applicationContext jmx client xml property name host value server addr,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line in empty enum constant value insert,0
+cleanup profile xml setting id cleanup add generated serial version id value true,0
+index jsp li logger 10 LOGS li,0
+applicationContext xml bean id quartzDataSource class org springframework jdbc datasource DriverManagerDataSource,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for expressions in array initializer value 16,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for arguments in qualified allocation expression value 16,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in enum constant arguments value insert,0
+user jsp a href user delete action id symbol dollar id a,0
+user jsp value param filter LIKES name OR email size 9,0
+jetty xml property name port value 8161,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in type parameters value insert,0
+applicationContext test functional xml property name password value jdbc password,0
+report2 settings xml 000000 hex color code color of guide line,0
+jetty xml bean id securityConstraintMapping class org eclipse jetty security ConstraintMapping,0
+role input jsp name focus,0
+jarRepositories xml option name name value Maven Official Repository,0
+role jsp a href role input action id id id editLink name a nbsp,0
+jetty xml SystemProperty name jetty port default 8080,0
+jarRepositories xml option name name value Jboss Repository,0
+user input jsp div id doc3,0
+report2 settings xml No data for selected period text if data is missing this message will be displayed,0
+mashup client jsp div id bd,0
+checkstyle springside xml property name packageAllowed value false,0
+encodings xml component name Encoding,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in synchronized value do not insert,0
+jarRepositories xml option name id value nexus,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after colon in conditional value insert,0
+build xml property name dbunit datatype value org dbunit ext mysql MySqlDataTypeFactory,0
+jetty xml bean id securityLoginService class org eclipse jetty security HashLoginService,0
+applicationContext quartz timer cluster xml util map id timerJobConfig,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before parenthesized expression in return value insert,0
+applicationContext security xml property name minGuarantedStorageDelayInSeconds value 180,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in type parameters value do not insert,0
+pom xml name H2 start Script name,0
+workspace xml option name version value 3,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for throws clause in constructor declaration value 16,0
+hibernate cfg xml property name dialect org hibernate dialect Oracle10gDialect property,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for arguments in explicit constructor call value 16,0
+formatter profile xml setting id org eclipse jdt core formatter indent statements compare to block value true,0
+report2 settings xml function name specifies JavaScript function which will be called when user clicks on this menu You can pass variables for example function name alert something,0
+formatter profile xml setting id org eclipse jdt core formatter insert space between empty parens in annotation type member declaration value do not insert,0
+jvm jmx metrics xml metric name Daemon Thread Count category UTILIZATION indicator true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening brace in type declaration value insert,0
+build xml property name sql dir value src main resources sql symbol dollar sql type,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in for increments value do not insert,0
+checkstyle springside xml module name SimplifyBooleanExpression,0
+formatter profile xml setting id org eclipse jdt core formatter comment indent root tags value true,0
+applicationContext jms simple xml bean id notifyMessageProducer class org springside examples showcase jms simple NotifyMessageProducer,0
+web xml display name mini web display name,0
+applicationContext cxf client xml jaxws client id userServiceWithSpringSecurity serviceClass org springside examples showcase ws server UserWebService,0
+build xml property name sql type value oracle,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for assignment value 0,0
+jarRepositories xml option name name value SpringSide Additional Repository,0
+checkstyle springside xml module name FinalClass,0
+formatter profile xml setting id org eclipse jdt core formatter indent empty lines value false,0
+checkstyle springside xml module name StaticVariableName,0
+showcase soapui project xml wsdl service name LittleImageService,0
+pom xml name SpringSide s Mini Web Archetype name,0
+user input jsp name required,0
+user input jsp form id inputForm action user save action method post,0
+jetty xml bean id sec class org eclipse jetty server handler HandlerCollection,0
+sonar 2 2 backup xml name CDATA Sun checks name,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in constructor declaration value do not insert,0
+build xml property name sql type value mysql,0
+user jsp form id mainForm action user action method get,0
+left jsp a href ctx jmx jmx client action JMX a,0
+applicationContext extension test security xml property name minGuarantedStorageDelayInSeconds value 180,0
+checkstyle springside xml module name SimplifyBooleanReturn,0
+formatter profile xml setting id org eclipse jdt core formatter indent body declarations compare to enum constant header value true,0
+applicationContext test functional xml property name dataSource ref quartzDataSource,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening brace in method declaration value insert,0
+struts xml default interceptor ref name crudStack,0
+applicationContext jms advanced xml bean id advancedTopicContainer class org springframework jms listener DefaultMessageListenerContainer,0
+formatter profile xml setting id org eclipse jdt core formatter keep imple if on one line value false,0
+jetty plugin xml server name Jetty version 6 x,0
+jetty xml property name resourceBase value activemq base webapps admin,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in parameterized type reference value insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after binary operator value insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after and in type parameter value insert,0
+build xml property name dbunit data dir value src test resources data,0
+checkstyle springside xml module name ModifiedControlVariable,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line after opening brace in array initializer value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after colon in case value insert,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for superinterfaces in type declaration value 16,0
+showcase soapui project xml wsdl input name getImage,0
+applicationContext showcase xml import resource email applicationContext email xml,0
+login jsp div b admin admin b b user user b div,0
+checkstyle springside xml module name AvoidNestedBlocks,0
+formatter profile xml setting id org eclipse jdt core formatter indent statements compare to body value true,0
+applicationContext test functional xml property name ignoreResourceNotFound value true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after colon in assert value insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in parenthesized expression value do not insert,0
+applicationContext jms simple xml bean id jmsTemplate class org springframework jms core JmsTemplate,0
+activemq xml property name locations,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before semicolon in for value do not insert,0
+applicationContext xml bean id quartzTransactionManager class org springframework jdbc datasource DataSourceTransactionManager,0
+login jsp form id loginForm action symbol dollar ctx j spring security check method post style margin top 1em,0
+report2 drilldown jsp p Integer parseInt request getParameter id 1970 AmCharts DrillDown p,0
+workspace xml changelist id 82b6220a 26da 4332 b921 f2f5fc03982b name Default Changelist comment,0
+hibernate cfg xml property name hibernate connection url jdbc h2 tcp localhost mini service property,0
+applicationContext test functional xml property name driverClassName value jdbc driver,0
+cleanup profile xml setting id cleanup qualify static member accesses through instances with declaring class value true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening angle bracket in type parameters value do not insert,0
+header jsp div id title,0
+showcase soapui project xml xs element name getAllUser type tns getAllUser,0
+jetty plugin xml metric name Jetty Idle Threads alias idleThreads category THROUGHPUT indicator false,0
+role jsp div id message s actionmessage theme custom cssClass success div,0
+jetty jmx xml Get id Container name container,0
+jetty xml Set name port,0
+cleanup profile xml setting id cleanup qualify static member accesses with declaring class value true,0
+showcase soapui project xml xs element minOccurs 0 name imageData ns1 expectedContentTypes application octet stream type xs base64Binary xmlns ns1 http www w3 org 2005 05 xmlmime,0
+role jsp div id filter SpringSecurityUtils getCurrentUserName div,0
+user jsp a href user input action a,0
+formatter profile xml setting id org eclipse jdt core formatter number of empty lines to preserve value 1,0
+user input jsp td input type text id name name name size 40 value symbol dollar name td,0
+pom xml name Springside3 Mini Web Example name,0
+role input jsp s checkboxlist name checkedAuthIds list allAuthorityList listKey id,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in for inits value insert,0
+cleanup profile xml setting id cleanup qualify static method accesses with declaring class value false,0
+formatter profile xml setting id org eclipse jdt core formatter insert space between empty brackets in array allocation expression value do not insert,0
+applicationContext test xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+applicationContext cxf server xml bean id userWebService class org springside examples showcase ws server impl UserWebServiceImpl,0
+login jsp td input type password id j password name j password class required td,0
+applicationContext core test xml property name sessionFactory ref sessionFactory,0
+applicationContext core test xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in array initializer value do not insert,0
+applicationContext quartz cron local xml property name startupDelay value 3,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in type arguments value insert,0
+applicationContext jdbc xml if name,0
+log4j perf4j xml logger name org perf4j TimingLogger additivity false,0
+applicationContext xml property name timeBetweenEvictionRunsMillis value 3600000,0
+applicationContext test functional xml property name url value jdbc url,0
+applicationContext jmx server xml bean id serverConnector class org springframework jmx support ConnectorServerFactoryBean lazy init false,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening brace in array initializer value insert,0
+user input jsp td input type password id password name password size 40 value symbol dollar password td,0
+user input jsp td input type password id passwordConfirm name passwordConfirm size 40 value symbol dollar password,0
+sonar 2 2 backup xml name CDATA Sonar way with Findbugs name,0
+applicationContext jmx server xml bean id rmiRegistry class org springframework remoting rmi RmiRegistryFactoryBean lazy init false,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for superinterfaces in enum declaration value 16,0
+workspace xml component name TaskManager,0
+applicationContext xml property name sessionFactory ref sessionFactory,0
+applicationContext xml property name url value symbol dollar jdbc url,0
+applicationContext jms advanced xml property name brokerURL value jms broker url,0
+checkstyle springside xml property name allowUnchecked value true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in parenthesized expression value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in switch value do not insert,0
+workspace xml window info anchor bottom id Cvs order 4 weight 0 25,0
+pom xml name Springside3 s Project name,0
+jetty xml Set name handler,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before postfix operator value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line in empty method body value insert,0
+checkstyle springside xml module name MethodLength,0
+workspace xml window info anchor bottom id Anonymous Apex,0
+formatter profile xml setting id org eclipse jdt core formatter indentation size value 4,0
+workspace xml window info anchor right id Ant Build order 1 weight 0 25,0
+workspace xml window info anchor bottom id Inspection order 5 weight 0 4,0
+applicationContext security xml bean id autoLoginFilter class org springside examples showcase security AutoLoginFilter,0
+checkstyle springside xml module name RedundantModifier,0
+struts xml constant name struts convention package locators basePackage value org springside examples miniweb,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in method declaration value do not insert,0
+applicationContext showcase xml import resource jmx applicationContext jmx server xml,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in method invocation value do not insert,0
+jetty plugin xml property name OBJECT NAME value domain type id,0
+cleanup profile xml setting id cleanup use blocks only for return and throw value false,0
+role input jsp div id bd,0
+checkstyle springside xml module name ModifierOrder,0
+user jsp value symbol dollar param filter LIKES name OR email size 9,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for array initializer value end of line,0
+cleanup profile xml setting id cleanup make private fields final value false,0
+workspace xml option name SHOW DIALOG value false,0
+formatter profile xml profile kind CodeFormatterProfile name springside3 version 11,0
+jetty plugin xml metric name Connections Duration Ave alias connectionsDurationAve category THROUGHPUT units ms,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after colon in labeled statement value insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before prefix operator value do not insert,0
+index jsp li logger AOp showcase trace log li,0
+workspace xml window info anchor bottom id TODO order 6,0
+cleanup profile xml setting id cleanup always use this for non static field access value false,0
+applicationContext core test xml property name packagesToScan value org springside modules unit orm hibernate data,0
+applicationContext email xml property name freemarkerConfiguration ref freemarkerConfiguration property,0
+pom xml name Maven Official Repository name,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in annotation value do not insert,0
+applicationContext executor xml property name initialDelay value 2,0
+formatter profile xml setting id org eclipse jdt core compiler source value 1 5,0
+jetty xml Set name SpawnOrShrinkAt 2 Set,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for superclass in type declaration value 16,0
+formatter profile xml setting id org eclipse jdt core formatter keep empty array initializer on one line value false,0
+applicationContext test functional xml property name password value quartz jdbc password,0
+applicationContext test xml property name password value jdbc password,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before colon in for value insert,0
+applicationContext email xml property name textTemplate,0
+pom xml name Team Nexus Release Repository name,0
+applicationContext core test xml property name dataSource ref dataSource,0
+jetty xml Set name statsOn false Set,0
+applicationContext jms advanced xml bean id advancedJmsTemplate class org springframework jms core JmsTemplate,0
+applicationContext cxf server xml jaxws endpoint id userServiceWithPlainPasswordEP address UserServiceWithPlainPassword,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for block value end of line,0
+jetty xml property name pathSpec value,0
+applicationContext jms advanced xml property name deliveryPersistent value false,0
+user jsp div id doc3 class yui t2,0
+formatter profile xml setting id org eclipse jdt core formatter never indent line comments on first column value false,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in constructor declaration parameters value do not insert,0
+web xml servlet name CXFServlet servlet name,0
+applicationContext quartz timer cluster xml bean id clusterQuartzScheduler class org springframework scheduling quartz SchedulerFactoryBean,0
+web xml param name encoding param name,0
+jetty plugin xml metric name Requests alias requests category THROUGHPUT collectionType trendsup rate 1s indicator true,0
+workspace xml list default true id 82b6220a 26da 4332 b921 f2f5fc03982b name Default Changelist comment,0
+applicationContext security xml s concurrency control max sessions 1 error if maximum exceeded false,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in multiple field declarations value insert,0
+checkstyle springside xml property name protectedAllowed value true,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines before first class body declaration value 0,0
+struts xml constant name struts convention package locators basePackage value package,0
+applicationContext quartz timer cluster xml property name jobDetail ref timerJobDetail,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line in empty block value insert,0
+struts xml interceptor ref name paramsPrepareParamsStack,0
+ehcache hibernate local xml cache name package entity account Authority maxElementsInMemory 10000,0
+user input jsp td input type text name loginName size 40 id loginName value loginName td,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in parenthesized expression value do not insert,0
+applicationContext cxf server xml bean id dozer class org dozer DozerBeanMapper,0
+checkstyle springside xml property name ignoreSetter value true,0
+context xml ResourceLink name jdbc ExampleDB global jdbc ExampleDB type javax sql DataSource,0
+hibernate cfg xml property name hibernate connection url jdbc mysql localhost mini service useUnicode true amp characterEncoding utf 8 property,0
+showcase soapui project xml xs element minOccurs 0 name imageData type xs base64Binary,0
+jetty plugin xml property name domain value org mortbay jetty nio,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in cast value do not insert,0
+pom xml name SpringSide name,0
+workspace xml component name masterDetails,0
+applicationContext log xml bean id log4jConfigurer class org springframework beans factory config MethodInvokingFactoryBean,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line after annotation on local variable value insert,0
+applicationContext test xml property name password value symbol dollar jdbc password,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after semicolon in for value insert,0
+applicationContext xml property name username value symbol dollar jdbc username,0
+mashup client jsp div id yui main,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before unary operator value do not insert,0
+applicationContext test xml bean id defaultTransactionManager class org springframework orm hibernate3 HibernateTransactionManager,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for multiple fields value 16,0
+ehcache hibernate local xml cache name package entity account Role authorityList maxElementsInMemory 10000,0
+default data xml acct user ID 1 EMAIL admin springside org cn LOGIN NAME admin NAME Admin PASSWORD admin,0
+cleanup profile xml setting id cleanup remove unnecessary nls tags value false,0
+workspace xml property name aspect path notification shown value true,0
+user jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+workspace xml window info anchor right id Maven,0
+cleanup profile xml setting id cleanup remove unused imports value true,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for arguments in enum constant value 16,0
+applicationContext jms simple xml bean id topicContainer class org springframework jms listener DefaultMessageListenerContainer,0
+jetty xml Set name contextPath project context path Set,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for parameters in constructor declaration value 16,0
+jetty xml property name constraint ref securityConstraint,0
+jmx client jsp div id doc3 class yui t2,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for arguments in allocation expression value 16,0
+web xml filter name struts2CleanupFilter filter name,0
+applicationContext quartz timer cluster xml property name requestsRecovery value true,0
+applicationContext jms advanced xml property name targetConnectionFactory ref advancedConnectionFactory,0
+applicationContext test functional xml property name username value jdbc username,0
+applicationContext xml property name packagesToScan value org springside examples miniweb entity account,0
+formatter profile xml setting id org eclipse jdt core formatter comment insert new line for parameter value insert,0
+applicationContext test xml property name dataSource ref dataSource,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line in empty anonymous type declaration value insert,0
+cleanup profile xml setting id cleanup format source code value true,0
+formatter profile xml setting id org eclipse jdt core formatter put empty statement on new line value true,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line in empty enum declaration value insert,0
+pom xml artifactId selenium htmlunit driver artifactId,0
+user jsp a href user delete action id id a,0
+applicationContext xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+compiler xml component name CompilerConfiguration,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in synchronized value insert,0
+jarRepositories xml option name id value jboss,0
+applicationContext core test xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+applicationContext quartz cron local xml property name cronExpression value 0 0 30 9 17 MON FRI,0
+log4j perf4j xml logger,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in for inits value do not insert,0
+showcase soapui project xml wsdl output message tns getAllUserResponse name getAllUserResponse wsdl output,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in enum constant arguments value do not insert,0
+index jsp div id report1Content div,0
+ehcache hibernate local xml cache name package entity account Role maxElementsInMemory 10000,0
+jetty plugin xml metric name Connections Requests Ave alias connectionsRequestsAve category THROUGHPUT indicator true,0
+checkstyle springside xml module name IllegalInstantiation,0
+showcase soapui project xml wsdl input message tns getAllUser name getAllUser wsdl input,0
+workspace xml option name stateVersion value 1,0
+formatter profile xml setting id org eclipse jdt core formatter insert space between brackets in array type reference value do not insert,0
+applicationContext quartz timer cluster xml property name repeatInterval value 300000,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for block in case value end of line,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines after imports value 1,0
+user jsp a href user input action id id a nbsp,0
+hibernate cfg xml property name hibernate connection driver class org h2 Driver property,0
+workspace xml option name x value 8,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line before else in if statement value do not insert,0
+jetty plugin xml server,0
+cleanup profile xml setting id cleanup use this for non static method access only if necessary value true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening bracket in array reference value do not insert,0
+applicationContext jms simple xml bean id notifyQueue class org apache activemq command ActiveMQQueue,0
+jvm jmx metrics xml property name OBJECT NAME gc value java lang type Memory,0
+build xml property name dbunit datatype value org dbunit ext h2 H2DataTypeFactory,0
+jetty jmx xml Call id MBeanServer class java lang management ManagementFactory name getPlatformMBeanServer,0
+hibernate cfg xml property name hibernate connection username miniweb property,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in for increments value insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before colon in case value do not insert,0
+hibernate reveng xml table filter match schema match name ACCT package org springside examples miniweb entity account,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line after annotation on member value insert,0
+showcase soapui project xml xs complexType name GetLittleImageResult,0
+cleanup profile xml setting id cleanup always use blocks value true,0
+pom xml id springside id,0
+jarRepositories xml option name url value http springside googlecode com svn repository,0
+applicationContext ws server xml bean id dozer class org dozer DozerBeanMapper,0
+workspace xml window info anchor bottom id Version Control,0
+checkstyle springside xml module name InnerAssignment,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening bracket in array type reference value do not insert,0
+jetty xml property name authenticator,0
+default data xml acct user ID 6 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PASSWORD user5,0
+cleanup profile xml setting id cleanup correct indentation value false,0
+applicationContext xml jee jndi lookup id dataSource jndi name java comp env jdbc ExampleDB,0
+web xml param name autoPassValue param name,0
+formatter profile xml setting id org eclipse jdt core formatter insert space between empty braces in array initializer value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter continuation indentation value 2,0
+user input jsp s checkboxlist name checkedRoleIds list allRoleList listKey id listValue name theme custom,0
+ehcache hibernate local xml cache name package entity account User roleList maxElementsInMemory 10000,0
+500 jsp logger error ex getMessage ex,0
+workspace xml window info anchor bottom id Docker show stripe button false,0
+applicationContext security xml bean id userDetailsService class org springside examples showcase security UserDetailsServiceImpl,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing angle bracket in parameterized type reference value do not insert,0
+jetty plugin xml metric name Jetty Queue Size alias queueSize category THROUGHPUT indicator false,0
+user jsp td input type checkbox name checkedUserIds value id td,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing bracket in array reference value do not insert,0
+showcase soapui project xml wsdl port binding tns LittleImageServiceSoapBinding name LittleImageServicePort,0
+applicationContext quartz cron local xml property name concurrent value true,0
+checkstyle springside xml module name IllegalThrows,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in superinterfaces value insert,0
+applicationContext test xml jdbc initialize database data source dataSource ignore failures ALL,0
+jetty xml property name config value activemq base conf jetty realm properties,0
+applicationContext showcase xml import resource schedule applicationContext quartz cron local xml,0
+applicationContext test xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+formatter profile xml setting id org eclipse jdt core formatter keep then statement on same line value false,0
+showcase soapui project xml soapenv Envelope con request con credentials con username admin con username con password admin con password con credentials con wsaConfig mustUnderstand NONE version 200508 action http showcase examples springside org UserService getAllUser con call con call name RequestWithDigestPassword wssPasswordType PasswordDigest con settings con encoding UTF 8 con encoding con endpoint http localhost 8080 showcase services UserServiceWithDigestPassword con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line after annotation on parameter value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening brace in switch value insert,0
+applicationContext test xml property name packagesToScan value org springside examples miniservice entity account,0
+compiler xml profile name Maven default annotation processors profile enabled true,0
+jarRepositories xml option name id value central,0
+role input jsp symbol dollar symbol pound name focus,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after question in wildcard value do not insert,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Resource authorityList maxElementsInMemory 10000,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in method declaration parameters value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space between empty parens in enum constant value do not insert,0
+jarRepositories xml option name id value springside,0
+archetype metadata xml archetype descriptor xsi schemaLocation http maven apache org plugins maven archetype plugin archetype descriptor 1 0 0 http maven apache org xsd archetype descriptor 1 0 0 xsd name mini web,0
+index jsp div id report2Content div,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before colon in labeled statement value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in annotation value do not insert,0
+showcase soapui project xml wsdl definitions con content con type http schemas xmlsoap org wsdl con type con part con definitionCache con endpoints con endpoint http localhost 8080 showcase services LittleImageService con endpoint con endpoints con operation isOneWay false action name getImage bindingOperationName getImage type Request Response outputName getImageResponse inputName getImage receivesAttachments false sendsAttachments false anonymous optional con settings con call name Request 1 con settings con encoding UTF 8 con encoding con endpoint http localhost 8080 showcase services LittleImageService con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+applicationContext security xml property name enabled value security autologin enabled,0
+ehcache hibernate local xml cache name package entity account User maxElementsInMemory 10000,0
+workspace xml component name ProjectLevelVcsManager settingsEditedManually true,0
+user input jsp td input type text id email name email size 40 value email td,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in switch value insert,0
+applicationContext ws server xml jaxws implementor ref userWebService,0
+applicationContext xml property name url value quartz jdbc url,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after question in conditional value insert,0
+applicationContext jdbc xml SELECT id name login name,0
+checkstyle springside xml property name ignoreAbstractMethods value true,0
+workspace xml component name ProjectConfigurationFiles,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in method declaration throws value insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in method invocation value do not insert,0
+report2 drilldown jsp page contentType text html charset UTF 8,0
+hibernate cfg xml property name hibernate connection url jdbc oracle thin 127 0 0 1 1521 XE property,0
+web xml param name forceEncoding param name,0
+formatter profile xml setting id org eclipse jdt core formatter wrap before binary operator value true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in annotation value do not insert,0
+applicationContext memcached xml bean id jmemcached class org springside modules memcached JmemcachedServer lazy init false,0
+formatter profile xml setting id org eclipse jdt core formatter indent body declarations compare to annotation declaration header value true,0
+jetty jmx xml Configure id Server class org mortbay jetty Server,0
+cleanup profile xml setting id cleanup remove unused private types value true,0
+struts xml package name crud default extends convention default,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in synchronized value do not insert,0
+user input jsp td input type text name loginName size 40 value loginName td,0
+applicationContext core test xml property name username value sa,0
+showcase soapui project xml xs element name getImage type tns getImage,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in constructor declaration throws value do not insert,0
+user input jsp div id bd,0
+activemq network broker xml property name locations,0
+applicationContext showcase xml description ShowCase applicationContext description,0
+jetty xml Set name war path to project war file or webapp dir Set,0
+formatter profile xml setting id org eclipse jdt core compiler problem assertIdentifier value error,0
+jarRepositories xml option name url value https repo1 maven org maven2,0
+applicationContext ws server xml bean id userWebService class org springside examples miniservice ws impl UserWebServiceImpl,0
+role jsp div id yui main,0
+pom xml name Springside3 s Core Module name,0
+checkstyle springside xml module name MemberName,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in if value do not insert,0
+applicationContext quartz timer cluster xml property name configLocation value classpath schedule quartz cluster properties,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening brace in array initializer value insert,0
+log4j perf4j xml appender name perfFile class org apache log4j FileAppender,0
+applicationContext test functional xml property name sessionFactory ref sessionFactory,0
+workspace xml option name totallyTimeSpent value 1389000,0
+showcase soapui project xml wsdl message name getAllUser,0
+jetty plugin xml property name domain value Jetty,0
+applicationContext jms simple xml property name destination ref notifyQueue,0
+workspace xml window info id Designer,0
+applicationContext showcase xml import resource webservice applicationContext cxf server xml,0
+default data xml SS USER ID 4 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 818 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PLAIN PASSWORD user3 SHA PASSWORD 0b7f849446d3383546d15a480966084442cd2193 STATUS enabled VERSION 1,0
+applicationContext showcase xml import resource log applicationContext log xml,0
+applicationContext showcase xml import resource jmx applicationContext jmx client xml,0
+urlrewrite xml to type forward common user action to,0
+applicationContext jms advanced xml property name messageListener ref advancedNotifyMessageListener,0
+left jsp a href ctx email index action a,0
+404 jsp page contentType text html charset UTF 8,0
+workspace xml window info anchor right content ui combo id Hierarchy order 2 weight 0 25,0
+cleanup profile xml setting id cleanup add missing annotations value true,0
+applicationContext xml property name maxIdle value symbol dollar dbcp maxIdle,0
+applicationContext xml property name minEvictableIdleTimeMillis value 3600000,0
+build xml sql driver jdbc driver url jdbc url userid jdbc username password jdbc password src sql dir schema sql onerror continue,0
+formatter profile xml setting id org eclipse jdt core formatter comment clear blank lines in block comment value false,0
+applicationContext security xml bean id userDetailsService class org springside examples miniweb service account UserDetailsServiceImpl,0
+misc xml option name originalFiles,0
+applicationContext test functional xml bean id quartzDataSource class org springframework jdbc datasource DriverManagerDataSource,0
+activemq network broker xml The managementContext is used to configure how ActiveMQ is exposed in JMX By default ActiveMQ uses the MBean server,0
+formatter profile xml setting id org eclipse jdt core formatter indent switchstatements compare to cases value true,0
+applicationContext test functional xml bean id quartzTransactionManager class org springframework jdbc datasource DataSourceTransactionManager,0
+jetty xml Set name war webapp Set,0
+workspace xml option name hideEmptyMiddlePackages value true,0
+default data xml acct user ID 3 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PASSWORD user2,0
+compiler xml sourceOutputDir name target generated sources annotations,0
+pom xml id instrument hibernate entity id,0
+pom xml name Team Nexus Repository name,0
+applicationContext test xml bean id quartzTransactionManager class org springframework jdbc datasource DataSourceTransactionManager,0
+workspace xml option name vmOptionsForImporter value Xmx768m,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening angle bracket in type parameters value do not insert,0
+log4j perf4j xml appender name rollingFile class org apache log4j DailyRollingFileAppender,0
+workspace xml option name generalSettings,0
+checkstyle springside xml module name FileContentsHolder,0
+jarRepositories xml option name url value http localhost 8081 nexus content groups public,0
+applicationContext jms advanced xml property name sessionAcknowledgeModeName value CLIENT ACKNOWLEDGE,0
+workspace xml option name userSettingsFile value D apache maven 3 6 1 conf settings xml,0
+applicationContext test functional xml property name eventListeners,0
+showcase soapui project xml xs complexType name WSResult,0
+applicationContext log xml property name queueName value dblog,0
+web xml param name contextConfigLocation param name,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening angle bracket in parameterized type reference value do not insert,0
+applicationContext email xml bean id freemarkerConfiguration class org springframework ui freemarker FreeMarkerConfigurationFactoryBean,0
+applicationContext jmx server xml bean id serverConfig class org springside examples showcase jmx server ServerConfig,0
+applicationContext core test xml bean id transactionManager class org springframework orm hibernate3 HibernateTransactionManager,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in for value insert,0
+jarRepositories xml option name name value Java net Repository,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for type declaration value end of line,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening brace in anonymous type declaration value insert,0
+applicationContext quartz timer cluster xml property name dataSource ref quartzDataSource,0
+applicationContext jms advanced xml bean id advancedNotifyTopic class org apache activemq command ActiveMQTopic,0
+index jsp li Tomcat tools tomcat profiles production server xml li,0
+applicationContext quartz cron local xml property name triggers,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for enum constant value end of line,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for enum declaration value end of line,0
+build xml hbmtemplate templateprefix pojo template manager ftl filepattern manager package name class name Manager java,0
+applicationContext xml property name packagesToScan value package entity account,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in method declaration value do not insert,0
+checkstyle springside xml property name max value 1,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after unary operator value do not insert,0
+checkstyle springside xml property name max value 2,0
+vcs xml component name VcsDirectoryMappings,0
+applicationContext cxf client xml property name properties,0
+checkstyle springside xml property name max value 5,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in if value do not insert,0
+applicationContext jmx server xml property name serviceUrl value service jmx rmi jndi rmi server addr jmx rmi port jmxrmi,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in constructor declaration throws value insert,0
+applicationContext executor xml bean id jdkExecutorJob class org springside examples showcase schedule JdkExecutorJob lazy init false,0
+pom xml id nexus id,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Resource maxElementsInMemory 10000,0
+pom xml artifactId jackson mapper asl artifactId,0
+hibernate reveng xml table filter match schema match name ACCT package package entity account,0
+jmx client jsp getJSON jmx client refreshConfig action function data,0
+applicationContext test functional xml property name dataSource ref dataSource,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before parenthesized expression in throw value insert,0
+jetty plugin xml help name Jetty 6 x include Jetty,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines after package value 1,0
+applicationContext xml property name driverClassName value jdbc driver,0
+jarRepositories xml option name url value http maven aliyun com nexus content groups public,0
+applicationContext xml property name ignoreResourceNotFound value true,0
+formatter profile xml setting id org eclipse jdt core formatter comment format source code value true,0
+jetty jmx xml Ref id MBeanServer,0
+resource jsp div id bd,0
+applicationContext test xml property name dataSource ref quartzDataSource,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in allocation expression value do not insert,0
+showcase soapui project xml xs element minOccurs 0 name id type xs long,0
+jetty plugin xml metric name Jetty Max Threads alias maxThreads category THROUGHPUT collectionType static indicator false,0
+applicationContext test xml bean id transactionManager class org springframework orm hibernate3 HibernateTransactionManager,0
+login jsp form id loginForm action ctx j spring security check method post style margin top 1em,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening brace in enum declaration value insert,0
+formatter profile xml setting id org eclipse jdt core formatter indent body declarations compare to type header value true,0
+showcase soapui project xml xs complexType name User,0
+applicationContext jmx client xml bean id jmxClient class org springside examples showcase jmx client JmxClientService,0
+checkstyle springside xml module name LocalVariableName,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after closing angle bracket in type arguments value insert,0
+left jsp div id leftbar class yui b,0
+role jsp a href role input action id id a nbsp,0
+applicationContext jms advanced xml property name sessionCacheSize value 10,0
+role jsp div id doc3,0
+checkstyle springside xml module name UnusedImports,0
+formatter profile xml setting id org eclipse jdt core formatter use tabs only for leading indentations value false,0
+applicationContext core test xml property name url value jdbc h2 mem springside core test,0
+user jsp symbol dollar page pageNo symbol dollar page totalPages,0
+hibernate cfg xml property name dialect org hibernate dialect H2Dialect property,0
+applicationContext cxf server xml bean id largeImageWebService class org springside examples showcase ws server impl LargeImageWebServiceImpl,0
+applicationContext cxf server xml jaxws endpoint id largeimageServiceEP address LargeImageService,0
+showcase soapui project xml xs complexType name getAllUser,0
+resource jsp div id filter SpringSecurityUtils getCurrentUserName div,0
+struts xml constant name struts convention package locators value showcase,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for annotation type declaration value end of line,0
+applicationContext jms advanced xml bean id advancedNotifyQueue class org apache activemq command ActiveMQQueue,0
+applicationContext jms simple xml bean id cachingConnectionFactory class org springframework jms connection CachingConnectionFactory,0
+applicationContext xml property name hibernateProperties,0
+checkstyle springside xml module name EmptyStatement,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in enum declarations value do not insert,0
+applicationContext quartz cron local xml bean id cronJobDetail class org springframework scheduling quartz MethodInvokingJobDetailFactoryBean,0
+footer jsp div id ft,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in enum constant value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in enum declarations value insert,0
+applicationContext quartz cron local xml bean id cronTrigger class org springframework scheduling quartz CronTriggerBean,0
+user input jsp loginName focus,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for throws clause in method declaration value 16,0
+struts xml interceptor ref name store,0
+workspace xml property name nodejs npm path reset for default project value true,0
+workspace xml option name RECENT GIT ROOT PATH value PROJECT DIR,0
+cleanup profile xml setting id cleanup add missing override annotations value true,0
+user jsp td a href user id htm id editLink id a td,0
+pom xml name Team Nexus Snapshot Repository name,0
+workspace xml option name presentableId value Default,0
+checkstyle springside xml module name StringLiteralEquality,0
+workspace xml task active true id Default summary Default task,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in annotation value do not insert,0
+applicationContext security xml property name captchaEngine,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in while value do not insert,0
+jetty xml property name welcomeFiles,0
+hibernate cfg xml property name hibernate connection driver class com mysql jdbc Driver property,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line before while in do statement value do not insert,0
+user input jsp input type hidden name id value id,0
+applicationContext jms simple xml property name connectionFactory ref connectionFactory,0
+checkstyle springside xml property name severity value info,0
+workspace xml window info anchor bottom id Terminal,0
+jarRepositories xml option name id value java net,0
+hibernate cfg xml property name hibernate connection password property,0
+applicationContext xml property name driverClassName value symbol dollar jdbc driver,0
+activemq network broker xml policyEntry queue producerFlowControl true memoryLimit 20mb,0
+formatter profile xml setting id org eclipse jdt core formatter insert space between empty parens in constructor declaration value do not insert,0
+cleanup profile xml setting id cleanup make parameters final value true,0
+jetty plugin xml help name Jetty,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in catch value insert,0
+web xml servlet name userHessianServiceExporter servlet name,0
+workspace xml window info anchor right id Palette 9,0
+hibernate cfg xml property name hibernate connection password miniweb property,0
+formatter profile xml setting id org eclipse jdt core formatter comment format header value false,0
+formatter profile xml setting id org eclipse jdt core formatter format guardian clause on one line value false,0
+jetty plugin xml property name HAS BUILTIN SERVICES value true,0
+user input jsp td input type password id passwordConfirm name passwordConfirm size 40 value password,0
+formatter profile xml setting id org eclipse jdt core formatter lineSplit value 120,0
+applicationContext test xml property name driverClassName value symbol dollar jdbc driver,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before colon in default value do not insert,0
+applicationContext quartz cron local xml bean id localQuartzScheduler class org springframework scheduling quartz SchedulerFactoryBean lazy init false,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before question in conditional value insert,0
+cleanup profile xml setting id cleanup sort members all value false,0
+applicationContext xml property name namingStrategy,0
+applicationContext jms advanced xml bean id advancedNotifyMessageProducer class org springside examples showcase jms advanced AdvancedNotifyMessageProducer,0
+applicationContext xml property name dataSource ref dataSource,0
+applicationContext jms advanced xml property name connectionFactory ref advancedTopicConnectionFactory,0
+jetty plugin xml service name Jetty IO,0
+workspace xml component name editorHistoryManager,0
+formatter profile xml setting id org eclipse jdt core compiler problem enumIdentifier value error,0
+jarRepositories xml option name id value jboss community,0
+jvm jmx metrics xml property name OBJECT NAME value java lang type Threading,0
+index jsp div id demoContent,0
+applicationContext cxf server xml bean id plainPasswordCallback class org springside examples showcase ws server impl security PlainPasswordCallback,0
+login jsp div id bd,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in method invocation arguments value insert,0
+applicationContext showcase xml import resource jms applicationContext jms simple xml,0
+applicationContext xml property name dataSource ref quartzDataSource,0
+applicationContext extension test security xml property name captchaEngine,0
+activemq network broker xml information see http activemq apache org producer flow control html,0
+cleanup profile xml profile kind CleanUpProfile name springside3 version 2,0
+jetty xml property name contextPath value admin,0
+applicationContext xml property name packagesToScan value org springside examples miniservice entity account,0
+cleanup profile xml setting id cleanup remove unused private members value false,0
+role jsp a href role delete action id symbol dollar id id deleteLink symbol dollar name a,0
+cleanup profile xml setting id cleanup use this for non static field access only if necessary value true,0
+misc xml component name ProjectRootManager version 2 languageLevel JDK 1 8 project jdk name 1 8 project jdk type JavaSDK,0
+applicationContext security xml s authentication provider user service ref userDetailsService,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for anonymous type declaration value end of line,0
+workspace xml pane id ProjectPane,0
+checkstyle springside xml property name ignoreConstructorParameter value true,0
+build client binding xml jxb javaType name java util Date xmlType xs dateTime,0
+applicationContext jdbc xml ORDER BY id,0
+pom xml name Java net Repository name,0
+cleanup profile xml setting id cleanup convert to enhanced for loop value true,0
+jetty xml property name handlers,0
+applicationContext jms advanced xml bean id advancedConnectionFactory class org apache activemq ActiveMQConnectionFactory,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after postfix operator value do not insert,0
+applicationContext security xml bean id userDetailsService class package service account UserDetailsServiceImpl,0
+default data xml acct user role USER ID 6 ROLE ID 2,0
+login jsp td input type text id j username name j username class required,0
+build xml hbmtemplate templateprefix pojo template dao ftl filepattern dao package name class name Dao java,0
+applicationContext jms advanced xml bean id advancedCachingConnectionFactory class org springframework jms connection CachingConnectionFactory,0
+applicationContext cxf client xml bean id passwordCallback class org springside examples showcase ws client PasswordCallback,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after at in annotation type declaration value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before and in type parameter value insert,0
+jarRepositories xml option name id value offical,0
+checkstyle springside xml module name BooleanExpressionComplexity,0
+jetty xml Set name maxThreads 200 Set,0
+build xml dbunit driver jdbc driver url jdbc url userid jdbc username password jdbc password,0
+jetty xml bean id Connector class org eclipse jetty server nio SelectChannelConnector,0
+showcase soapui project xml wsdl definitions con content con type http schemas xmlsoap org wsdl con type con part con definitionCache con endpoints con endpoint http localhost 8080 showcase services UserServiceWithPlainPassword con endpoint con endpoint http localhost 8080 showcase services UserServiceWithDigestPassword con endpoint con endpoints con operation isOneWay false action name getAllUser bindingOperationName getAllUser type Request Response outputName getAllUserResponse inputName getAllUser receivesAttachments false sendsAttachments false anonymous optional con settings con call name RequestWithPlainPassword wssPasswordType PasswordText con settings con encoding UTF 8 con encoding con endpoint http localhost 8080 showcase services UserServiceWithPlainPassword con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+index jsp li a href ctx jmx jmx client action Ajax a JMX html json li,0
+cleanup profile xml setting id cleanup add serial version id value false,0
+cleanup profile xml setting id cleanup qualify static field accesses with declaring class value false,0
+hibernate cfg xml property name hibernate connection driver class oracle jdbc driver OracleDriver property,0
+applicationContext jms simple xml property name destination ref notifyTopic,0
+jetty xml property name directoriesListed value false,0
+applicationContext xml property name systemPropertiesModeName value SYSTEM PROPERTIES MODE OVERRIDE,0
+jetty xml Set name host,0
+applicationContext quartz timer cluster xml bean id timerTrigger class org springframework scheduling quartz SimpleTriggerBean,0
+applicationContext quartz timer cluster xml property name applicationContextSchedulerContextKey value applicationContext,0
+user input jsp h2 s if test id null s if s else s else h2,0
+build xml property name sql type value h2,0
+workspace xml component name ProjectViewState,0
+jetty plugin xml include name pdk lib mx4j,0
+workspace xml option name showLibraryContents value true,0
+applicationContext email xml bean id mailSender class org springframework mail javamail JavaMailSenderImpl,0
+save wsdl build xml property name wsdlfile value src main webapp wsdl mini service wsdl,0
+login jsp input type text name j username size 10,0
+formatter profile xml setting id org eclipse jdt core formatter comment insert new line before root tags value insert,0
+jmx client jsp div id bd,0
+report2 settings xml BBBB00 hex color code background color of error message Separate color codes with comas for gradient,0
+applicationContext jdbc xml AND name name,0
+showcase soapui project xml wsdl binding name UserServiceSoapBinding type tns UserService,0
+applicationContext test xml property name systemPropertiesModeName value SYSTEM PROPERTIES MODE OVERRIDE,0
+checkstyle springside xml property name severity value error,0
+applicationContext core test xml bean id springContextHolder class org springside modules utils spring SpringContextHolder lazy init false,0
+formatter profile xml setting id org eclipse jdt core formatter comment format javadoc comments value false,0
+applicationContext test functional xml bean id sessionFactory class org springframework orm hibernate3 annotation AnnotationSessionFactoryBean,0
+web xml servlet name RemoteContentServlet servlet name,0
+applicationContext showcase xml import resource jms applicationContext jms advanced xml,0
+ehcache hibernate local xml cache name org springside examples miniservice entity account User maxElementsInMemory 10000,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in while value do not insert,0
+server xml Executor name tomcatThreadPool namePrefix catalina exec,0
+applicationContext log xml bean id log4jMBean class org springside modules log Log4jMBean,0
+checkstyle springside xml module name VisibilityModifier,0
+build xml target name convert mysql to h2 description convert mysql sql to h2 for testing,0
+checkstyle springside xml module name RedundantThrows,0
+cleanup profile xml setting id cleanup format source code changes only value false,0
+showcase soapui project xml xs element minOccurs 0 name return type tns LargeImageResult,0
+pom xml id java net id,0
+applicationContext cxf server xml bean id smallImageWebService class org springside examples showcase ws server impl SmallImageWebServiceImpl,0
+jvm jmx metrics xml service name Garbage Collector,0
+applicationContext test xml bean id quartzDataSource class org springframework jdbc datasource DriverManagerDataSource,0
+showcase soapui project xml wsdl operation name getImage,0
+workspace xml option name HIGHLIGHT NON ACTIVE CHANGELIST value false,0
+workspace xml component name ProjectId id 2AFECJcpW8QhqnVgKaZSPkNbpP0,0
+user jsp Email input type text name filter LIKES name OR email,0
+resource jsp div id content,0
+cleanup profile xml setting id cleanup always use this for non static method access value false,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml classpath applicationContext xml,0
+pom xml id package bin id,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening bracket in array reference value do not insert,0
+hibernate cfg xml property name hibernate connection url jdbc h2 tcp localhost showcase property,0
+jarRepositories xml option name url value http download java net maven 2,0
+user input jsp td input type password id password name password size 40 value password td,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account User maxElementsInMemory 10000,0
+applicationContext email xml property name password value demoforyou,0
+workspace xml option name importingSettings,0
+workspace xml option name HIGHLIGHT CONFLICTS value true,0
+role input jsp page contentType text html charset UTF 8,0
+applicationContext jmx server xml bean id traceMBean class org springside examples showcase log trace TraceMBean,0
+formatter profile xml setting id org eclipse jdt core formatter compact else if value true,0
+applicationContext xml bean id dataSource class org apache commons dbcp BasicDataSource destroy method close,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in array initializer value insert,0
+user jsp div id content,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for conditional expression value 80,0
+jetty xml bean id Server class org eclipse jetty server Server init method start,0
+workspace xml window info anchor bottom id Log Analyzer,0
+login jsp td colspan 3 input type checkbox name spring security remember me,0
+showcase soapui project xml wsdl output name getAllUserResponse,0
+applicationContext jms simple xml property name connectionFactory ref cachingConnectionFactory,0
+showcase soapui project xml wsdl port binding tns UserServiceSoapBinding name UserServicePort,0
+applicationContext quartz cron local xml property name targetMethod value execute,0
+applicationContext test functional xml property name packagesToScan value org springside examples showcase common entity,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening brace in block value insert,0
+workspace xml property name WebServerToolWindowFactoryState value false,0
+formatter profile xml setting id org eclipse jdt core formatter comment indent parameter description value true,0
+showcase soapui project xml wsdl part element tns getAllUserResponse name parameters wsdl part,0
+applicationContext quartz timer cluster xml entry key nodeName value server node name,0
+formatter profile xml setting id org eclipse jdt core formatter indent breaks compare to cases value true,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for method declaration value end of line,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for parameters in method declaration value 16,0
+activemq xml flow control For more information see http activemq apache org producer flow control html,0
+applicationContext xml property name driverClassName value quartz jdbc driver,0
+applicationContext jms simple xml property name sessionCacheSize value 10,0
+cleanup profile xml setting id cleanup remove unused local variables value false,0
+showcase soapui project xml xs element maxOccurs unbounded minOccurs 0 name user type tns User,0
+pom xml id attach sources id,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after colon in for value insert,0
+ehcache xml cache name contentInfoCache overflowToDisk false eternal false diskPersistent false timeToLiveSeconds 3600 timeToIdleSeconds 3600 maxElementsInMemory 10000 memoryStoreEvictionPolicy LRU,0
+jetty xml Set name contextPath showcase Set,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for selector in method invocation value 16,0
+compiler xml module name mini service,0
+cleanup profile xml setting id cleanup make variable declarations final value false,0
+showcase soapui project xml xs complexType name LargeImageResult,0
+checkstyle springside xml module name FileLength,0
+build xml property name hibernatetools templates path value tools hibernatetools,0
+applicationContext test xml property name driverClassName value quartz jdbc driver,0
+formatter profile xml setting id org eclipse jdt core formatter indent switchstatements compare to switch value false,0
+user input jsp td input type text id name name name size 40 value name td,0
+workspace xml window info anchor bottom id Event Log side tool true,0
+applicationContext executor xml property name cronExpression value 15 9 17 MON FRI,0
+web xml servlet name StaticContentServlet servlet name,0
+formatter profile xml setting id org eclipse jdt core formatter number of blank lines at beginning of method body value 0,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in explicitconstructorcall arguments value insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line before closing brace in array initializer value do not insert,0
+report2 settings xml export as image export as image feature works only on a web server,0
+jetty plugin xml metric name Connections alias connections category THROUGHPUT collectionType trendsup rate 1s,0
+build xml taskdef name hibernatetool classname org hibernate tool ant HibernateToolTask classpathref toolslib,0
+pom xml email end,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in cast value do not insert,0
+role jsp a href role input action id symbol dollar id id editLink symbol dollar name a nbsp,0
+applicationContext jmx client xml property name port value jmx rmi port,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after at in annotation value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in annotation value insert,0
+urlrewrite xml to type forward common user input action id 1 to,0
+jmx client jsp Trace span id traceStatus traceStarted span br,0
+role jsp div id content,0
+log4j perf4j xml param name File value logs showcase log,0
+pom xml taskdef name instrument classname org hibernate tool instrument javassist InstrumentTask,0
+log4j perf4j xml appender name console class org apache log4j ConsoleAppender,0
+applicationContext security xml s intercept url pattern account user save access hasAnyRole ROLE,0
+build xml include name sql,0
+hibernate cfg xml property name hibernate connection url jdbc h2 tcp localhost mini web property,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after closing angle bracket in type parameters value insert,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for switch value end of line,0
+500 jsp Logger logger LoggerFactory getLogger 500 jsp,0
+applicationContext email xml property name username value springside3 demo,0
+struts xml interceptor stack name crudStack,0
+checkstyle springside xml property name tokens value VARIABLE DEF,0
+jetty xml Set name sendDateHeader true Set,0
+cleanup profile xml setting id cleanup make local variable final value false,0
+report2 drilldown jsp div id yui main,0
+jetty xml property name handler,0
+cleanup profile xml setting id cleanup add missing methods value false,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after prefix operator value do not insert,0
+user jsp div id yui main,0
+workspace xml window info anchor bottom id Database Changes,0
+user input jsp form id inputForm action ctx common user save action method post,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before question in wildcard value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in while value insert,0
+checkstyle springside xml module name EqualsAvoidNull,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines before imports value 1,0
+showcase soapui project xml wsdl operation name getAllUser,0
+pom xml artifactId jersey client artifactId,0
+showcase soapui project xml con soapui project name showcase resourceRoot soapui version 2 5 1 xmlns con http eviware com soapui config con settings con setting id ProjectSettings projectRoot C Users ehuaxio Documents Springside3 examples showcase src test soapui con setting con settings con interface xsi type con WsdlInterface wsaVersion NONE name UserServiceSoapBinding type wsdl bindingName http showcase examples springside org UserServiceSoapBinding soapVersion 1 1 anonymous optional definition http localhost 8080 showcase services UserServiceWithDigestPassword wsdl xmlns xsi http www w3 org 2001 XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost 8080 showcase services UserServiceWithDigestPassword wsdl con part con url http localhost 8080 showcase services UserServiceWithDigestPassword wsdl con url con content CDATA wsdl definitions name UserService targetNamespace http showcase examples springside org xmlns ns1 http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w3 org 2001 XMLSchema,0
+jarRepositories xml option name name value Maven Central repository,0
+jmx client jsp div id yui main,0
+jetty xml Set name maxIdleTime 30000 Set,0
+showcase soapui project xml xs element minOccurs 0 name message type xs string,0
+applicationContext email xml bean id mimeMailService class org springside examples showcase email MimeMailService,0
+formatter profile xml setting id org eclipse jdt core formatter comment format html value true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in multiple local declarations value insert,0
+checkstyle springside xml module name NestedTryDepth,0
+workspace xml option name jdkForImporter value 1 8,0
+cleanup profile xml setting id cleanup never use blocks value false,0
+report2 drilldown jsp div id bd,0
+checkstyle springside xml property name severity value warning,0
+web xml display name mini service display name,0
+jetty xml Set name stopAtShutdown true Set,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Role maxElementsInMemory 10000,0
+mashup client jsp div id doc3 class yui t2,0
+cleanup profile xml setting id cleanup add missing nls tags value false,0
+role input jsp td input type text id name name name size 40 value symbol dollar name class required td,0
+header jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+role input jsp listValue name theme custom,0
+web xml filter name jcaptchaFilter filter name,0
+applicationContext xml property name eventListeners,0
+report2 settings xml 000000 hex color code main text color Every text color can be set individually in the settings below,0
+showcase soapui project xml wsdl part element tns getImage name parameters wsdl part,0
+workspace xml window info anchor bottom id Find order 1,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines between type declarations value 1,0
+ehcache hibernate local xml cache name package entity account Resource maxElementsInMemory 10000,0
+misc xml component name MavenProjectsManager,0
+applicationContext cxf client xml jaxws client id userServiceWithPlainPassword serviceClass org springside examples showcase ws server UserWebService,0
+workspace xml option name height value 1056,0
+resource jsp div id yui main,0
+workspace xml pane id PackagesPane,0
+workspace xml component name ProjectView,0
+applicationContext xml property name maxActive value dbcp maxActive,0
+pom xml id jboss id,0
+web xml filter name springSecurityFilterChain filter name,0
+index jsp div id yui main,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening brace in annotation type declaration value insert,0
+user input jsp td input type text name loginName size 40 id loginName value symbol dollar loginName td,0
+user input jsp symbol dollar symbol pound loginName focus,0
+user input jsp div id doc3 class yui t2,0
+applicationContext xml bean id defaultTransactionManager class org springframework orm hibernate3 HibernateTransactionManager,0
+user input jsp remote user checkLoginName action oldLoginName encodeURIComponent symbol dollar loginName,0
+workspace xml option name mavenHome value D apache maven 3 6 1,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before colon in conditional value insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in multiple field declarations value do not insert,0
+applicationContext jms advanced xml bean id advancedQueueContainer class org springframework jms listener DefaultMessageListenerContainer,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in allocation expression value insert,0
+jvm jmx metrics xml property name OBJECT NAME value java lang type Memory,0
+applicationContext log xml bean id jdbcLogWriter class org springside examples showcase log appender JdbcLogWriter,0
+applicationContext test functional xml bean id defaultTransactionManager class org springframework orm hibernate3 HibernateTransactionManager,0
+jarRepositories xml option name url value http repo1 maven org maven2,0
+pom xml include name entity class,0
+checkstyle springside xml module name CyclomaticComplexity,0
+applicationContext memcached xml bean id spyMemcachedClient class org springside modules memcached SpyMemcachedClient depends on jmemcached,0
+workspace xml component name TimeTrackingManager,0
+user jsp form id mainForm action user disableUsers action method post,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines before field value 0,0
+applicationContext cxf server xml jaxws endpoint id userServiceWithSpringSecurityEP address UserServiceWithSpringSecurity,0
+showcase soapui project xml xs element name getImageResponse type tns getImageResponse,0
+jetty xml bean id securityHandler class org eclipse jetty security ConstraintSecurityHandler,0
+jvm jmx metrics xml metric name Thread Count category UTILIZATION indicator true,0
+showcase soapui project xml soapenv Envelope con request con wsaConfig mustUnderstand NONE version 200508 action http showcase examples springside org LittleImageWebService getImage con call con operation con interface con interface xsi type con WsdlInterface wsaVersion NONE name LargeImageServiceSoapBinding type wsdl bindingName http showcase examples springside org LargeImageServiceSoapBinding soapVersion 1 1 anonymous optional definition http localhost 8080 showcase services LargeImageService wsdl xmlns xsi http www w3 org 2001 XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost 8080 showcase services LargeImageService wsdl con part con url http localhost 8080 showcase services LargeImageService wsdl con url con content CDATA wsdl definitions name LargeImageService targetNamespace http showcase examples springside org xmlns ns1 http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w3 org 2001 XMLSchema,0
+hibernate cfg xml property name hibernate connection url jdbc h2 tcp localhost artifactId property,0
+workspace xml window info anchor bottom id SOQL Query,0
+showcase soapui project xml xs complexType name getImageResponse,0
+build xml target name generate code,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after ellipsis value insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in enum constant value do not insert,0
+login jsp form id loginForm action ctx j spring security check method post,0
+report2 settings xml Arial font name use device fonts such as Arial Times New Roman Tahoma Verdana,0
+applicationContext xml property name password value jdbc password,0
+activemq xml policyEntry queue producerFlowControl true memoryLimit 20mb,0
+applicationContext jms simple xml bean id notifyMessageListener class org springside examples showcase jms simple NotifyMessageListener,0
+formatter profile xml setting id org eclipse jdt core formatter continuation indentation for array initializer value 2,0
+checkstyle springside xml property name countEmpty value false,0
+workspace xml window info anchor bottom id Run order 2,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in enum constant value do not insert,0
+workspace xml option name y value 8,0
+showcase soapui project xml wsdl service name LargeImageService,0
+applicationContext log xml property name queueSize value 1000,0
+applicationContext test xml property name namingStrategy,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in constructor declaration value do not insert,0
+applicationContext jms simple xml property name concurrentConsumers value 10,0
+workspace xml component name MarkdownSettingsMigration,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after closing brace in block value insert,0
+applicationContext jms advanced xml property name concurrentConsumers value 5,0
+login jsp td rowspan 3 img id captchaImg src ctx security jcaptcha jpg td,0
+showcase soapui project xml wsdl message name getImage,0
+applicationContext test functional xml property name username value quartz jdbc username,0
+applicationContext jms advanced xml property name connectionFactory ref advancedCachingConnectionFactory,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening bracket in array allocation expression value do not insert,0
+applicationContext jms advanced xml bean id advancedTopicConnectionFactory class org apache activemq ActiveMQConnectionFactory,0
+jetty xml property name resourceBase value activemq base webapps,0
+showcase soapui project xml wsdl binding name LargeImageServiceSoapBinding type tns LargeImageWebService,0
+role input jsp td input type text id name name name size 40 value name class required td,0
+build xml taskdef name dbunit classname org dbunit ant DbUnitTask classpathref project lib,0
+applicationContext test functional xml property name locations,0
+web xml param name failureUrl param name,0
+showcase soapui project xml xs element minOccurs 0 name return type tns GetAllUserResult,0
+role jsp table id contentTable,0
+compiler xml sourceTestOutputDir name target generated test sources test annotations,0
+applicationContext jms advanced xml property name subscriptionDurable value true,0
+jarRepositories xml option name name value Team Nexus Repository,0
+applicationContext jms simple xml bean id queueContainer class org springframework jms listener DefaultMessageListenerContainer,0
+jetty xml property name constraintMappings,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in method declaration throws value do not insert,0
+cleanup profile xml setting id cleanup organize imports value true,0
+applicationContext test xml property name username value symbol dollar jdbc username,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening angle bracket in parameterized type reference value do not insert,0
+hibernate cfg xml property name hibernate connection username miniservice property,0
+applicationContext core test xml property name namingStrategy,0
+build xml project name hibernate tools default generate code xmlns artifact antlib org apache maven artifact ant,0
+formatter profile xml setting id org eclipse jdt core formatter never indent block comments on first column value false,0
+applicationContext jmx server xml property name port value jmx rmi port,0
+jetty jmx xml Call name addEventListener,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line in empty type declaration value insert,0
+misc xml component name FrameworkDetectionExcludesConfiguration,0
+workspace xml window info id Web side tool true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening angle bracket in type arguments value do not insert,0
+applicationContext core test xml property name hibernateProperties,0
+showcase soapui project xml wsdl input message tns getImage name getImage wsdl input,0
+ehcache hibernate local xml cache name org springside examples miniservice entity account Role maxElementsInMemory 10000,0
+workspace xml component name SvnConfiguration,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in catch value do not insert,0
+cleanup profile xml setting id cleanup remove private constructors value true,0
+jetty xml property name logUrlOnStart value true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after closing paren in cast value insert,0
+hibernate reveng xml table filter match schema match name SS package org springside examples showcase common entity,0
+workspace xml window info anchor right id Database,0
+user jsp div id doc3,0
+jetty xml bean id defaultHandler class org eclipse jetty server handler DefaultHandler,0
+workspace xml option name delegatedBuild value true,0
+user input jsp input type hidden name id value symbol dollar id,0
+checkstyle springside xml module name PackageName,0
+cleanup profile xml setting id cleanup sort members value false,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in switch value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in if value insert,0
+applicationContext test xml property name eventListeners,0
+applicationContext test xml property name url value symbol dollar jdbc url,0
+cleanup profile xml setting id cleanup never use parentheses in expressions value true,0
+applicationContext test xml property name url value jdbc url,0
+applicationContext xml value file var showcase application server properties value,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for binary expression value 16,0
+user input jsp remote user checkLoginName action oldLoginName encodeURIComponent loginName,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before ellipsis value do not insert,0
+login jsp div id yui main,0
+formatter profile xml setting id org eclipse jdt core formatter insert space between empty parens in method declaration value do not insert,0
+workspace xml component name SpellCheckerSettings RuntimeDictionaries 0 Folders 0 CustomDictionaries 0 DefaultDictionary application level UseSingleDictionary true transferred true,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for compact if value 16,0
+applicationContext security xml bean id captchaService class com octo captcha service image DefaultManageableImageCaptchaService,0
+cleanup profile xml setting id cleanup add missing deprecated annotations value false,0
+jetty plugin xml property name DEFAULT PROGRAM value bin jetty sh,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines before package value 0,0
+applicationContext showcase xml import resource schedule applicationContext executor xml,0
+workspace xml option name autoReloadType value SELECTIVE,0
+user input jsp td input type text id email name email size 40 value symbol dollar email td,0
+applicationContext xml property name locations,0
+index jsp li a href ctx ajax mashup mashup client action Mashup a JSONP Ajax li,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for arguments in method invocation value 16,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening paren in for value do not insert,0
+checkstyle springside xml module name Checker,0
+log4j perf4j xml param name TimeSlice value 60000,0
+applicationContext test xml property name packagesToScan value org springside examples miniweb entity account,0
+applicationContext log xml property name targetClass value org springframework util Log4jConfigurer,0
+index jsp page import org springside modules utils encode EncodeUtils,0
+pom xml name SpringSide Additional Repository name,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines before method value 1,0
+formatter profile xml setting id org eclipse jdt core formatter tabulation char value tab,0
+jmx client jsp td s radio id notificationMailEnabled name notificationMailEnabled,0
+checkstyle springside xml module name SuppressionCommentFilter,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line before catch in try statement value do not insert,0
+log4j perf4j xml param name ConversionPattern value d t 5p 40 40c m n,0
+workspace xml component name MavenImportPreferences,0
+server xml Engine name Catalina defaultHost localhost jvmRoute cluster1,0
+formatter profile xml setting id org eclipse jdt core formatter keep else statement on same line value false,0
+checkstyle springside xml module name AnonInnerLength,0
+role jsp a href role delete action id id id deleteLink name a,0
+applicationContext log xml values thread name logger name log time level message,0
+header jsp li a href ctx account user action a li,0
+applicationContext email xml property name host value smtp gmail com,0
+formatter profile xml setting id org eclipse jdt core compiler codegen inlineJsrBytecode value enabled,0
+role jsp div id bd,0
+role input jsp input type hidden name id value symbol dollar id,0
+applicationContext email xml property name templateLoaderPath value classpath email,0
+user jsp input type text name filter EQS loginName value symbol dollar param filter EQS loginName size 9,0
+workspace xml option name number value Default,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in for value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before assignment operator value insert,0
+sonar 2 2 backup xml name CDATA Sonar way name,0
+assembly xml id package classifier id,0
+sonar 2 2 backup xml key CDATA sonar core id key,0
+build xml sql driver symbol dollar jdbc driver url symbol dollar jdbc url userid symbol dollar jdbc username password symbol dollar jdbc password src symbol dollar sql dir schema sql onerror continue,0
+showcase soapui project xml xs element minOccurs 0 name loginName type xs string,0
+applicationContext security xml property name defaultUserName value admin,0
+compiler xml module name springside3 extension,0
+report2 settings xml Number Number Number y position of error message If not set will be aligned to the center,0
+applicationContext test functional xml property name url value quartz jdbc url,0
+build xml property name dbunit datatype value org dbunit ext oracle Oracle10DataTypeFactory,0
+applicationContext xml property name defaultAutoCommit value false,0
+showcase soapui project xml wsdl portType name LargeImageWebService,0
+applicationContext jms advanced xml property name explicitQosEnabled value true,0
+user jsp th a href javascript sort name asc a th,0
+checkstyle springside xml module name ParameterNumber,0
+urlrewrite xml from common user 0 9 htm from,0
+user jsp a href user input action id symbol dollar id a nbsp,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after opening angle bracket in type arguments value do not insert,0
+struts xml constant name struts convention package locators value web,0
+report2 settings xml menu function name printChart title Print chart menu,0
+user jsp table id contentTable,0
+cleanup profile xml setting id cleanup remove unused private fields value true,0
+jvm jmx metrics xml metric name Heap Memory Used units B indicator true alias Composite HeapMemoryUsage used,0
+jetty xml bean id contexts class org eclipse jetty server handler ContextHandlerCollection,0
+showcase soapui project xml xs element minOccurs 0 name userList,0
+showcase soapui project xml wsdl message name getAllUserResponse,0
+role jsp a href role input action id symbol dollar id a nbsp,0
+workspace xml window info id Favorites side tool true,0
+server xml Editable user database that can also be used by,0
+workspace xml component name PropertiesComponent,0
+pom xml name Springside3 s Extension Module name,0
+pom xml exclude entity class exclude,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening brace in enum constant value insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing angle bracket in type arguments value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in multiple local declarations value do not insert,0
+applicationContext jdbc xml FROM ss user,0
+default data xml acct user ID 4 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PASSWORD user3,0
+applicationContext ehcache xml bean id ehcacheManager class org springframework cache ehcache EhCacheManagerFactoryBean,0
+jetty xml property name authenticate value false,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before semicolon value do not insert,0
+applicationContext cxf server xml bean id digestPasswordCallback class org springside examples showcase ws server impl security DigestPasswordCallback,0
+jetty xml Set name minThreads 10 Set,0
+jvm jmx metrics xml filter name template value OBJECT NAME alias,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in superinterfaces value do not insert,0
+pom xml name Springside3 Mini Service Example name,0
+jmx client jsp get jmx client stopTrace action,0
+showcase soapui project xml wsdl binding name LittleImageServiceSoapBinding type tns LittleImageWebService,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in type arguments value do not insert,0
+workspace xml property name nodejs interpreter path stuck in default project value undefined stuck path,0
+applicationContext test xml property name driverClassName value jdbc driver,0
+resource jsp page contentType text html charset UTF 8,0
+workspace xml option name LAST RESOLUTION value IGNORE,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Authority maxElementsInMemory 10000,0
+user jsp div id filter,0
+showcase soapui project xml wsdl portType name LittleImageWebService,0
+403 jsp page contentType text html charset UTF 8,0
+test data xml SS USER ID 2 CREATE TIME 2009 07 11 08 52 25 805 EMAIL user springside org cn LOGIN NAME user NAME Calvin PLAIN PASSWORD user STATUS enabled,0
+workspace xml pane id Scope,0
+web xml classpath applicationContext security xml,0
+applicationContext quartz cron local xml bean id cronJob class org springside examples showcase schedule QuartzJob,0
+resource jsp div id message s actionmessage theme custom cssClass success div,0
+mashup client jsp div id mashupContent style display none,0
+workspace xml option name proportions,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in method invocation value do not insert,0
+applicationContext xml value file var mini service application server properties value,0
+jetty xml Set name gracefulShutdown 5000 Set,0
+formatter profile xml setting id org eclipse jdt core formatter indent body declarations compare to enum declaration header value true,0
+applicationContext jms advanced xml property name destination ref advancedNotifyQueue,0
+workspace xml component name AutoImportSettings,0
+pom xml id offical id,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Role authorityList maxElementsInMemory 10000,0
+applicationContext test xml property name username value quartz jdbc username,0
+applicationContext jms advanced xml bean id advancedNotifyMessageListener class org springside examples showcase jms advanced AdvancedNotifyMessageListener,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing bracket in array allocation expression value do not insert,0
+save wsdl build xml project name save wsdl default save wsdl,0
+web xml servlet name JerseyServlet servlet name,0
+showcase soapui project xml xs complexType name getImage,0
+applicationContext xml property name packagesToScan value org springside examples showcase common entity,0
+hibernate cfg xml property name hibernate connection password miniservice property,0
+jarRepositories xml component name RemoteRepositoriesConfiguration,0
+web xml filter name cacheControlHeaderFilter filter name,0
+web xml filter name encodingFilter filter name,0
+server xml Host name localhost appBase webapps,0
+applicationContext log xml property name targetMethod value initLogging,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before binary operator value insert,0
+applicationContext jms advanced xml property name useAsyncSend value true,0
+user jsp td symbol dollar name nbsp td,0
+applicationContext quartz cron local xml property name targetObject ref cronJob,0
+applicationContext executor xml bean id springCronJob class org springside examples showcase schedule SpringCronJob lazy init false,0
+jetty xml bean id handlers class org eclipse jetty server handler HandlerCollection,0
+user input jsp td input type text name name size 40 value name td,0
+save wsdl build xml target name save wsdl,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in method declaration value do not insert,0
+applicationContext test functional xml property name systemPropertiesModeName value SYSTEM PROPERTIES MODE OVERRIDE,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing angle bracket in type parameters value do not insert,0
+applicationContext test xml property name sessionFactory ref sessionFactory,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in method invocation arguments value do not insert,0
+formatter profile xml setting id org eclipse jdt core formatter comment format block comments value false,0
+role input jsp input type hidden name id value id,0
+login jsp td input type text name j captcha size 5 td,0
+formatter profile xml setting id org eclipse jdt core formatter tabulation size value 4,0
+activemq network broker xml transportConnector name openwire uri tcp 0 0 0 0 61616 discoveryUri multicast 239 255 2 3 6155 group springside,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines before new chunk value 1,0
+log4j perf4j xml appender name coalescingStatistics class org perf4j log4j AsyncCoalescingStatisticsAppender,0
+cleanup profile xml setting id cleanup remove trailing whitespaces ignore empty value true,0
+cleanup profile xml setting id cleanup use this for non static method access value false,0
+jetty plugin xml metric name Connections Open alias connectionsOpen category THROUGHPUT indicator true,0
+build xml project name artifactId default init db xmlns artifact antlib org apache maven artifact ant,0
+applicationContext xml property name maxActive value symbol dollar dbcp maxActive,0
+showcase soapui project xml xs complexType name GetAllUserResult,0
+jvm jmx metrics xml property name OBJECT NAME value java lang type GarbageCollector name,0
+applicationContext security xml s form login login page security login action default target url authentication failure url security login action error 1,0
+activemq xml Use VM cursor for better latency For more information see http activemq apache org message cursors html,0
+workspace xml window info anchor bottom id Spring,0
+misc xml component name ExternalStorageConfigurationManager enabled true,0
+pom xml name Jboss Repository name,0
+log4j perf4j xml param name ConversionPattern value m n,0
+login jsp page import org springframework security web WebAttributes,0
+login jsp div id doc3,0
+formatter profile xml setting id org eclipse jdt core formatter brace position for constructor declaration value end of line,0
+activemq xml The managementContext is used to configure how ActiveMQ is exposed in JMX By default ActiveMQ uses the MBean server,0
+showcase soapui project xml xs element name getAllUserResponse type tns getAllUserResponse,0
+applicationContext extension test security xml bean id captchaService class com octo captcha service image DefaultManageableImageCaptchaService,0
+web xml filter name urlRewriteFilter filter name,0
+jetty xml property name loginService ref securityLoginService,0
+activemq network broker xml http activemq apache org message cursors html Also if your producer is hanging it s probably due to producer,0
+applicationContext test xml property name hibernateProperties,0
+log4j perf4j xml param name File value logs perfStats log,0
+jmx client jsp form id configForm,0
+jvm jmx metrics xml metric name Collection Time indicator false category THROUGHPUT collectionType trendsup units ms,0
+jetty xml property name serveIcon value false,0
+applicationContext quartz cron local xml property name jobDetail ref cronJobDetail,0
+pom xml jdbc driver groupId com oracle jdbc driver groupId jdbc driver artifactId ojdbc14 jdbc driver artifactId,0
+login jsp div id doc3 class yui t2,0
+resource jsp div id doc3,0
+applicationContext jms simple xml bean id connectionFactory class org apache activemq ActiveMQConnectionFactory,0
+applicationContext jms simple xml property name targetConnectionFactory ref connectionFactory,0
+hibernate cfg xml property name hibernate connection username sa property,0
+cleanup profile xml setting id cleanup remove trailing whitespaces value true,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in explicitconstructorcall arguments value do not insert,0
+checkstyle springside xml module name ParameterName,0
+web xml classpath applicationContext test functional xml,0
+hibernate cfg xml property name dialect org hibernate dialect MySQL5InnoDBDialect property,0
+applicationContext showcase xml import resource schedule applicationContext quartz timer cluster xml,0
+cleanup profile xml setting id cleanup remove unused private methods value true,0
+sonar 2 2 backup xml name CDATA Springside way name,0
+applicationContext xml bean id transactionManager class org springframework orm hibernate3 HibernateTransactionManager,0
+showcase soapui project xml wsdl part element tns getImageResponse name parameters wsdl part,0
+hibernate cfg xml property name hibernate connection username artifactId property,0
+jmx client jsp span id saveMessage span span id refreshMessage span,0
+jvm jmx metrics xml metric name Heap Memory Max units B collectionType static alias Composite HeapMemoryUsage max,0
+showcase soapui project xml wsdl message name getImageResponse,0
+report2 settings xml CDATA Smoothed Anomaly in series value C column line balloon text title value series description percents You can format any balloon text title will be replaced with real title value with value and so on You can add your own text or html code too,0
+applicationContext cxf server xml jaxws endpoint id userServiceWithDigestPasswordEP address UserServiceWithDigestPassword,0
+applicationContext jms simple xml property name brokerURL value jms broker url,0
+applicationContext test xml property name password value quartz jdbc password,0
+default data xml acct user role USER ID 5 ROLE ID 2,0
+workspace xml component name DefaultGradleProjectSettings,0
+jetty jmx xml Call name start,0
+showcase soapui project xml xs element minOccurs 0 name name type xs string,0
+applicationContext test xml bean id springContextHolder class org springside modules utils spring SpringContextHolder lazy init false,0
+web xml filter name struts2Filter filter name,0
+compiler xml module name springside3 core,0
+applicationContext ehcache xml property name configLocation value classpath cache ehcache xml,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening paren in annotation type member declaration value do not insert,0
+pom xml name package classifier name,0
+checkstyle springside xml module name DoubleCheckedLocking,0
+applicationContext test xml property name username value jdbc username,0
+user jsp div id bd,0
+build xml hbmtemplate templateprefix pojo template pojo Pojo ftl filepattern entity package name class name java,0
+cleanup profile xml setting id cleanup make type abstract if missing method value false,0
+struts xml constant name struts convention package locators basePackage value org springside examples showcase,0
+struts xml constant name struts convention default parent package value crud default,0
+pom xml artifactId dozer artifactId,0
+workspace xml property name settings editor selected configurable value reference settings project maven importing,0
+showcase soapui project xml wsdl input name getAllUser,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines before member type value 1,0
+role jsp td name td,0
+checkstyle springside xml module name LocalFinalVariableName,0
+showcase soapui project xml wsdl service name UserService,0
+applicationContext xml property name url value jdbc url,0
+applicationContext test functional xml bean id dataSource class org springframework jdbc datasource DriverManagerDataSource,0
+build xml property name datatypeFactory value symbol dollar dbunit datatype,0
+applicationContext test xml property name url value quartz jdbc url,0
+struts xml param name operationMode AUTOMATIC param,0
+build xml project name mini web default init db xmlns artifact antlib org apache maven artifact ant,0
+jetty plugin xml property name OBJECT NAME value org mortbay thread type queuedthreadpool id 0,0
+footer jsp page language java pageEncoding UTF 8,0
+pom xml groupId net sf dozer groupId,0
+report2 drilldown jsp div id doc3 class yui t2,0
+jetty plugin xml metric name Jetty Threads alias threads category THROUGHPUT indicator true,0
+header jsp div id hd,0
+applicationContext showcase xml import resource security applicationContext security xml,0
+applicationContext test functional xml jdbc initialize database data source dataSource ignore failures ALL,0
+applicationContext cxf client xml entry key user value admin,0
+formatter profile xml setting id org eclipse jdt core formatter comment format line comments value false,0
+formatter profile xml setting id org eclipse jdt core compiler compliance value 1 5,0
+applicationContext jdbc xml property name searchUserSql,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in constructor declaration value do not insert,0
+jarRepositories xml option name url value https repository jboss org nexus content repositories public,0
+activemq xml transportConnector name openwire uri tcp 0 0 0 0 61616,0
+pom xml name Springside3 Showcase Example name,0
+workspace xml window info anchor bottom id Message order 0,0
+workspace xml component name ProjectFrameBounds extendedState 6,0
+resource jsp table id contentTable,0
+checkstyle springside xml module name ConstantName,0
+jetty xml Set name gracefulShutdown 1000 Set,0
+jetty xml property name name value BASIC,0
+server xml Service name Catalina,0
+applicationContext jdbc xml bean id userJdbcDao class org springside examples showcase common dao UserJdbcDao,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening bracket in array allocation expression value do not insert,0
+showcase soapui project xml wsdl part element tns getAllUser name parameters wsdl part,0
+applicationContext cxf server xml jaxws endpoint id smallImageServiceEP address SmallImageService,0
+checkstyle springside xml module name NestedIfDepth,0
+showcase soapui project xml wsdl portType name UserService,0
+build xml target name init db,0
+applicationContext cxf server xml property name properties,0
+user jsp td loginName nbsp td,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line in empty annotation declaration value insert,0
+cleanup profile xml setting id cleanup always use parentheses in expressions value false,0
+cleanup profile xml setting id cleanup qualify static member accesses through subtypes with declaring class value true,0
+applicationContext xml property name password value quartz jdbc password,0
+workspace xml component name ToolWindowManager,0
+formatter profile xml setting id org eclipse jdt core formatter comment clear blank lines in javadoc comment value false,0
+pom xml artifactId jersey server artifactId,0
+jetty plugin xml metric name Availability template sigar Type ProcState Arg process query State indicator true,0
+applicationContext test xml property name ignoreResourceNotFound value true,0
+workspace xml component name Git Settings,0
+user input jsp div id yui main,0
+report2 settings xml 000000 hex color code border color,0
+compiler xml module name mini web archetype,0
+jetty xml Set name sendServerVersion true Set,0
+jarRepositories xml option name name value JBoss Community repository,0
+applicationContext security xml s intercept url pattern common user access isAuthenticated,0
+showcase soapui project xml wsdl output name getImageResponse,0
+role input jsp div id yui main,0
+index jsp div id bd,0
+jetty plugin xml metrics name Jetty IO,0
+ehcache hibernate local xml cache name package entity account Resource authorityList maxElementsInMemory 10000,0
+header jsp div id menu,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before at in annotation type declaration value insert,0
+compiler xml module name showcase,0
+pom xml groupId jdbc driver groupId groupId,0
+workspace xml window info anchor bottom id Java Enterprise,0
+user jsp th a href javascript sort email asc a th,0
+build xml target name exp db,0
+user jsp input type text name filter EQS loginName value param filter EQS loginName size 9,0
+applicationContext quartz cron local xml property name quartzProperties,0
+user jsp td name nbsp td,0
+checkstyle springside xml module name EqualsHashCode,0
+report2 settings xml BBBB00 hex color code background color of Collecting data text,0
+jetty xml property name connectors,0
+user jsp th a href javascript sort loginName asc a th,0
+500 jsp page import org slf4j Logger org slf4j LoggerFactory,0
+applicationContext core test xml property name password value,0
+web xml display name artifactId display name,0
+jmx client jsp input radio name notificationMailEnabled val data notificationMailEnabled,0
+showcase soapui project xml wsdl output message tns getImageResponse name getImageResponse wsdl output,0
+user jsp td symbol dollar loginName nbsp td,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before comma in parameterized type reference value do not insert,0
+report2 settings xml text color hex color code button text color,0
+applicationContext ws client xml jaxws client id userWebService serviceClass org springside examples miniservice ws UserWebService,0
+test data xml SS USER ID 5 CREATE TIME 2009 07 11 08 52 25 805 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PLAIN PASSWORD user4 STATUS enabled,0
+build xml property name sql dir value src main resources sql sql type,0
+hibernate reveng xml table filter match schema match name ACCT package org springside examples miniservice entity account,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing brace in array initializer value insert,0
+formatter profile xml setting id org eclipse jdt core formatter alignment for enum constants value 0,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after assignment operator value insert,0
+web xml classpath applicationContext test xml,0
+build xml project name mini service default init db xmlns artifact antlib org apache maven artifact ant,0
+user jsp td email nbsp td,0
+jetty plugin xml metrics name Jetty ThreadPool,0
+test data xml SS USER ID 3 CREATE TIME 2009 07 11 08 52 25 805 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PLAIN PASSWORD user2 STATUS enabled,0
+web xml display name showcase display name,0
+applicationContext jms advanced xml property name messageSelector value objectType user,0
+applicationContext log xml property name arguments,0
+left jsp page language java pageEncoding UTF 8,0
+applicationContext jms advanced xml property name maxConcurrentConsumers value 10,0
+report2 settings xml FFFFFF hex color code Separate color codes with comas for gradient,0
+formatter profile xml setting id org eclipse jdt core compiler codegen targetPlatform value 1 5,0
+applicationContext security xml s form login login page login action default target url authentication failure url login action error true,0
+default data xml SS USER ID 5 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 822 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PLAIN PASSWORD user4 SHA PASSWORD 06e6eef6adf2e5f54ea6c43c376d6d36605f810e STATUS enabled VERSION 1,0
+report2 settings xml filename if you set filename here context menu then user right clicks on flash movie Export as image will appear This will allow user to export chart as an image Collected image data will be posted to this file name use amcolumn export php or amcolumn export aspx,0
+jvm jmx metrics xml metric name Availability indicator true,0
+jetty xml Configure id Server class org mortbay jetty Server,0
+jetty xml bean id securityConstraint class org eclipse jetty http security Constraint,0
+jetty xml Set name ThreadPool,0
+applicationContext xml property name password value symbol dollar jdbc password,0
+applicationContext xml value file var mini web application server properties value,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before opening brace in constructor declaration value insert,0
+jetty plugin xml property name VERSION FILE value lib jetty 6 jar,0
+workspace xml component name TypeScriptGeneratedFilesManager,0
+workspace xml component name ChangeListManager,0
+applicationContext cxf client xml jaxws client,0
+workspace xml window info id Structure order 1 side tool true weight 0 25,0
+cleanup profile xml setting id cleanup use parentheses in expressions value false,0
+index jsp page contentType text html charset UTF 8,0
+showcase soapui project xml wsdl definitions con content con type http schemas xmlsoap org wsdl con type con part con definitionCache con endpoints con endpoint http localhost 8080 showcase services LargeImageService con endpoint con endpoints con operation isOneWay false action name getImage bindingOperationName getImage type Request Response outputName getImageResponse inputName getImage receivesAttachments false sendsAttachments false anonymous optional con settings con call name Request 1 con settings con encoding UTF 8 con encoding con endpoint http localhost 8080 showcase services LargeImageService con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+checkstyle springside xml module name TreeWalker,0
+applicationContext xml property name maxIdle value dbcp maxIdle,0
+report2 settings xml values value color hex color code,0
+formatter profile xml setting id org eclipse jdt core formatter insert space after comma in method declaration parameters value insert,0
+user input jsp input type hidden name workingVersion value version,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines between import groups value 1,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before closing paren in catch value do not insert,0
+jetty plugin xml property name PROC HOME PROPERTY value jetty home,0
+checkstyle springside xml module name DeclarationOrder,0
+login jsp page import org springframework security web authentication AbstractAuthenticationProcessingFilter,0
+applicationContext jms advanced xml property name priority value 9,0
+applicationContext jms advanced xml property name clientID value jms clicentId,0
+user jsp page pageNo page totalPages,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line at end of file if missing value do not insert,0
+applicationContext test xml property name locations,0
+jmx client jsp refreshMessage text data message show fadeOut 2000,0
+applicationContext jdbc xml AND login name loginName,0
+user input jsp email email,0
+jarRepositories xml option name url value http repository jboss org nexus content groups public jboss,0
+default data xml SS USER ID 3 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 814 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PLAIN PASSWORD user2 SHA PASSWORD a1881c06eec96db9901c7bbfe41c42a3f08e9cb4 STATUS enabled VERSION 1,0
+server xml Resource name jdbc ExampleDB auth Container type javax sql DataSource,0
+pom xml name Springside3 s Parent pom xml name,0
+index jsp response sendRedirect account user action,0
+workspace xml window info anchor right id Commander internal type SLIDING order 0 type SLIDING weight 0 4,0
+formatter profile xml setting id org eclipse jdt core formatter insert space before colon in assert value insert,0
+showcase soapui project xml xs element minOccurs 0 name return type tns GetLittleImageResult,0
+report2 settings xml balloon color hex color code,0
+jmx client jsp page contentType text html charset UTF 8 pageEncoding UTF 8,0
+applicationContext security xml userDetailsService,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line before finally in try statement value do not insert,0
+login jsp td input type password size 10 name j password td,0
+jmx client jsp get jmx client startTrace action,0
+cleanup profile xml setting id cleanup use this for non static field access value false,0
+index jsp div id doc3 class yui t2,0
+cleanup profile xml setting id cleanup remove trailing whitespaces all value false,0
+workspace xml option name files,0
+applicationContext quartz timer cluster xml property name startupDelay value 2,0
+checkstyle springside xml module name HiddenField,0
+applicationContext jms advanced xml property name connectionFactory ref advancedConnectionFactory,0
+applicationContext test xml property name packagesToScan value org springside examples showcase common entity,0
+jvm jmx metrics xml metric name Collection Count indicator false category THROUGHPUT collectionType trendsup,0
+workspace xml window info active true content ui combo id Project order 0 visible true weight 0 25,0
+applicationContext core test xml property name driverClassName value org h2 Driver,0
+report2 settings xml hex color code leave empty if you don t want to have border,0
+applicationContext quartz timer cluster xml property name triggers,0
+workspace xml option name testRunner value GRADLE,0
+applicationContext test functional xml property name driverClassName value quartz jdbc driver,0
+user input jsp page contentType text html charset UTF 8,0
+web xml classpath applicationContext ws server xml,0
+jarRepositories xml option name name value Central Repository,0
+test data xml SS USER ID 6 CREATE TIME 2009 07 11 08 52 25 805 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PLAIN PASSWORD user5 STATUS enabled,0
+applicationContext quartz timer cluster xml Job applicationContext,0
+showcase soapui project xml wsdl port binding tns LargeImageServiceSoapBinding name LargeImageServicePort,0
+jmx client jsp nodeName val data nodeName,0
+resource jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+jetty plugin xml option name process query description Process Query default State Name eq java Args ct start jar,0
+formatter profile xml setting id org eclipse jdt core formatter align type members on columns value false,0
+jetty plugin xml property name DEFAULT LOG FILE value logs jetty log,0
+hibernate reveng xml table filter match schema match name SS LOG exclude true,0
+web xml classpath applicationContext showcase xml,0
+user input jsp password,0
+footer jsp div id ft div,0
+checkstyle springside xml property name max value 10,0
+applicationContext email xml property name javaMailProperties,0
+activemq xml storeUsage limit 10 gb name foo,0
+checkstyle springside xml module name DefaultComesLast,0
+showcase soapui project xml xs element minOccurs 0 name code type xs string,0
+login jsp input type checkbox name spring security remember me,0
+checkstyle springside xml property name max value 50,0
+applicationContext test functional xml property name namingStrategy,0
+pom xml jdbc driver artifactId h2 jdbc driver artifactId,0
+applicationContext test functional xml property name hibernateProperties,0
+showcase soapui project xml soapenv Envelope con request con credentials con username admin con username con password admin con password con credentials con wsaConfig mustUnderstand NONE version 200508 action http showcase examples springside org UserService getAllUser con call con operation con interface con interface xsi type con WsdlInterface wsaVersion NONE name LittleImageServiceSoapBinding type wsdl bindingName http showcase examples springside org LittleImageServiceSoapBinding soapVersion 1 1 anonymous optional definition http localhost 8080 showcase services LittleImageService wsdl xmlns xsi http www w3 org 2001 XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost 8080 showcase services LittleImageService wsdl con part con url http localhost 8080 showcase services LittleImageService wsdl con url con content CDATA wsdl definitions name LittleImageService targetNamespace http showcase examples springside org xmlns ns1 http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w3 org 2001 XMLSchema,0
+role jsp page import org springside modules security springsecurity SpringSecurityUtils,0
+user jsp page contentType text html charset UTF 8,0
+applicationContext email xml gmail smtp server,0
+applicationContext ws server xml dozer DTO,0
+formatter profile xml setting id org eclipse jdt core formatter insert space between empty parens in method invocation value do not insert,0
+web xml error page,0
+applicationContext xml property name username value jdbc username,0
+user jsp page import org springside examples showcase security OperatorDetails,0
+jetty xml Call name addConnector,0
+build xml dbunit driver symbol dollar jdbc driver url symbol dollar jdbc url userid symbol dollar jdbc username password symbol dollar jdbc password,0
+500 jsp page contentType text html charset UTF 8 isErrorPage true,0
+web xml error code 403 error code,0
+workspace xml option name width value 1936,0
+applicationContext xml value file var artifactId application server properties value,0
+activemq network broker xml storeUsage limit 10 gb name foo,0
+role input jsp div id doc3,0
+checkstyle springside xml module name MethodName,0
+pom xml artifactId selenium firefox driver artifactId,0
+pom xml jdbc driver version 5 1 13 jdbc driver version,0
+header jsp page language java pageEncoding UTF 8,0
+jvm jmx metrics xml plugin type control class org hyperic hq product jmx MxControlPlugin,0
+role jsp td symbol dollar name td,0
+build xml sql driver quartz jdbc driver url quartz jdbc url userid quartz jdbc username password quartz jdbc password src sql dir quartz sql onerror continue,0
+jetty xml property name name value ActiveMQRealm,0
+showcase soapui project xml xs complexType name getAllUserResponse,0
+cleanup profile xml setting id cleanup use blocks value true,0
+pom xml name artifactId name,0
+build xml property name datatypeFactory value dbunit datatype,0
+default data xml acct user role USER ID 4 ROLE ID 2,0
+default data xml SS USER ID 2 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 809 LAST MODIFY BY admin LAST MODIFY TIME 2009 09 03 23 22 40 625 EMAIL user springside org cn LOGIN NAME user NAME Calvin PLAIN PASSWORD user SHA PASSWORD 12dea96fec20593566ab75692c9949596833adc9 STATUS enabled VERSION 2,0
+applicationContext quartz timer cluster xml property name jobClass value org springside examples showcase schedule QuartzClusterableJob,0
+report2 settings xml 000000 hex color code,0
+pom xml artifactId selenium remote client artifactId,0
+jetty xml property name roles value admin,0
+applicationContext jms advanced xml property name destination ref advancedNotifyTopic,0
+applicationContext showcase xml import resource cache applicationContext memcached xml,0
+jetty xml Set name lowThreads 20 Set,0
+mashup client jsp page contentType text html charset UTF 8 pageEncoding UTF 8,0
+report2 settings xml hex color code bullet color If not defined line color is used,0
+applicationContext quartz timer cluster xml bean name timerJobDetail class org springframework scheduling quartz JobDetailBean,0
+server xml Documentation at docs config server html,0
+default data xml ACCT USER ID 6 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PASSWORD user5,0
+hibernate cfg xml property name hibernate connection password artifactId property,0
+jetty xml bean class org eclipse jetty server handler ResourceHandler,0
+report2 settings xml CDATA title value series percents start difference total You can format any data label title will be replaced with real title value with value and so on You can add your own text or html code too,0
+jmx client jsp get jmx client saveConfig action form serialize function data,0
+checkstyle springside xml property name max value 500,0
+applicationContext log xml property name sql,0
+applicationContext security xml s intercept url pattern account user delete access hasAnyRole ROLE,0
+activemq xml information see http activemq apache org producer flow control html,0
+user input jsp equalTo symbol pound password,0
+checkstyle springside xml module name ParameterAssignment,0
+header jsp li a href symbol dollar ctx account user action a li,0
+hibernate cfg xml property name hibernate connection username root property,0
+default data xml SS USER ID 6 CREATE BY admin CREATE TIME 2009 07 11 08 52 25 827 EMAIL ben springside org cn LOGIN NAME user5 NAME Ben PLAIN PASSWORD user5 SHA PASSWORD 7d112681b8dd80723871a87ff506286613fa9cf6 STATUS enabled VERSION 1,0
+jetty xml Set name confidentialPort 8443 Set,0
+user jsp td symbol dollar email nbsp td,0
+user input jsp loginName,0
+pom xml jdbc driver groupId mysql jdbc driver groupId,0
+user input jsp equalTo password,0
+default data xml ACCT USER ID 3 EMAIL jack springside org cn LOGIN NAME user2 NAME Jack PASSWORD user2,0
+report2 settings xml hex color code the color of the pattern,0
+login jsp span b admin admin b b user user b a href ctx j spring security logout a span,0
+activemq xml http activemq apache org message cursors html Also if your producer is hanging it s probably due to producer,0
+mashup client jsp getJSON remoteUrl ajax mashup mashup server action callback function data,0
+activemq network broker xml Configure message persistence for the broker The default persistence mechanism is the KahaDB store identified by,0
+showcase soapui project xml wsdl message,0
+test data xml SS USER ID 4 CREATE TIME 2009 07 11 08 52 25 805 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PLAIN PASSWORD user3 STATUS enabled,0
+login jsp page contentType text html charset UTF 8,0
+report2 settings xml Number Number Number x position of error message If not set will be aligned to the center,0
+role jsp page contentType text html charset UTF 8,0
+default data xml ACCT USER ID 4 EMAIL kate springside org cn LOGIN NAME user3 NAME Kate PASSWORD user3,0
+report2 settings xml hex color code balloon background color If empty slightly darker then current column color will be used,0
+server xml JMX Support for the Tomcat server Documentation at docs non existent html,0
+default data xml acct user role USER ID 3 ROLE ID 2,0
+applicationContext cxf server xml dozer DTO,0
+applicationContext security xml s intercept url pattern account user access hasAnyRole ROLE,0
+sonar 2 2 backup xml key CDATA NS DANGEROUS NON SHORT CIRCUIT key,0
+applicationContext cxf server xml jaxws implementor ref userWebService,0
+sonar 2 2 backup xml key CDATA NS NON SHORT CIRCUIT key,0
+pom xml artifactId jdbc driver artifactId artifactId,0
+cleanup profile xml setting id cleanup remove unnecessary casts value true,0
+applicationContext security xml s password encoder hash sha,0
+report2 settings xml FFFFFF hex color code background color Separate color codes with comas for gradient,0
+report2 settings xml guide color hex color code fill color If not defined color of a guide will be used Separate color codes with comas for gradient,0
+default data xml acct user role USER ID 1 ROLE ID 1,0
+default data xml acct user role USER ID 1 ROLE ID 2,0
+report2 settings xml true true false In case you don t use any flash JavaScript communication you shuold set this setting to false this will save some CPU and will disable the security warning message which appears when opening the chart from hard drive,0
+pom xml artifactId selenium ie driver artifactId,0
+report2 settings xml CDATA column data labels line data labels title value series percents start difference total You can format any data label title will be replaced with real title value with value and so on You can add your own text or html code too,0
+default data xml acct user role USER ID 2 ROLE ID 2,0
+default data xml ACCT USER ID 2 EMAIL user springside org cn LOGIN NAME user NAME User PASSWORD user,0
+report2 settings xml CDATA series value C Please click for details column line balloon text title value series description percents You can format any balloon text title will be replaced with real title value with value and so on You can add your own text or html code too,0
+default data xml ACCT USER ID 5 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PASSWORD user4,0
+pom xml jdbc driver,0
+pom xml jdbc driver groupId com h2database jdbc driver groupId,0
+web xml error code 404 error code,0
+activemq network broker xml Use VM cursor for better latency For more information see http activemq apache org message cursors html,0
+pom xml email begin,0
+activemq xml Configure message persistence for the broker The default persistence mechanism is the KahaDB store identified by,0
+report2 settings xml balloon color hex color code leave empty to use the same color as graph,0
+default data xml acct user ID 5 EMAIL sawyer springside org cn LOGIN NAME user4 NAME Sawyer PASSWORD user4,0
+server xml username sa password driverClassName org h2 Driver,0
+pom xml version jdbc driver version version,0
+pom xml jdbc driver version 10 2 0 3 0 jdbc driver version,0
+pom xml jdbc driver version h2 version jdbc driver version,0
+login jsp page import org springframework security web authentication UsernamePasswordAuthenticationFilter,0
+applicationContext security xml s password encoder hash plaintext,0
+report2 settings xml balloon text color hex color code,0
+report2 settings xml FFFFFF hex color code,0
+web xml error code 500 error code,0
+report2 settings xml hex color code,0
+pom xml jdbc driver artifactId mysql connector java jdbc driver artifactId,0

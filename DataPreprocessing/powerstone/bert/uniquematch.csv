@@ -1,0 +1,941 @@
+User private String userName,User hbm xml select u from User as u where u userName,1
+WorkflowNode private String nodeName,configNodePerformer jsp c out value currNode nodeName,1
+BusinessType private Long typeID new Long,listTaskKinds jsp c out value businessType typeName font color FF id new c out value businessType typeID,1
+WorkflowMeta private BusinessType businessType,FlowTask hbm xml select count from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and task taskState in and bt typeID,1
+FlowDeploy private List flowNodeBindings new ArrayList,FlowDeploy hbm xml name flowNodeBindings,1
+Resource private String resourceID,validation xml field property resourceID depends required mask maxlength minlength,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select count from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and task taskState in and bt typeID,1
+FlowProcTransition private String workflowTransitionID,FlowProcTransition hbm xml name workflowTransitionID,1
+BusinessType private Long typeID new Long,businessTypeForm jsp c if test not empty typeID,1
+WorkflowDriver private String flowDriverName,validation xml field property flowDriverName depends required maxlength,1
+WFDriverOutputParam private List driverOutputParamEnumes new ArrayList,seeDriverDetail jsp c forEach items theOutputParam driverOutputParamEnumes,1
+BusinessType private Long typeID new Long,listAllBusinessTypes jsp a href request getContextPath wf edit bt bt typeID c out value businessType typeID,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select bt typeID count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState in group by bt,1
+BusinessType private List workflowMetas new ArrayList,BusinessType hbm xml name workflowMetas,1
+BusinessType private String typeName,BusinessType hbm xml name typeName,1
+WorkflowMeta private Long flowMetaID new Long,seeFlowMeta jsp request getContextPath wf remove flow meta fm flowMetaID c out value workflowMeta flowMetaID,1
+BusinessType private Long typeID new Long,listBusinessTypesToJoin jsp value c out value businessType typeID,1
+WorkflowMeta private BusinessType businessType,WorkflowMeta hbm xml from WorkflowMeta wm WHERE wm businessType is null,1
+WFDriverOutputParam private Long driverOutputParamID new Long,seeDriverDetail jsp onclick deleteOutputParam c out value theDriver flowDriverID c out value theOutputParam driverOutputParamID,1
+WorkflowMeta private FlowMetaFile flowFileInUse,seeFlowMeta jsp fmt message key flowMeta create time c out value workflowMeta flowFileInUse createdTime,1
+UserToken private String ipAddress,UserToken hbm xml name ipAddress,1
+UserToken private String token,UserToken hbm xml name token,1
+WorkflowMeta private Long flowMetaID new Long,seeFlowMeta jsp onclick window location replace request getContextPath wf preview image form fm flowMetaID c out value workflowMeta flowMetaID,1
+WorkflowDriver private Long flowDriverID new Long,WorkflowDriver hbm xml name flowDriverID,1
+WorkflowMeta private FlowMetaFile flowFileInUse,listAllBusinessTypes jsp c out value flowMeta flowFileInUse flowMetaName,1
+BusinessType private String typeName,listAllBusinessTypes jsp c out value businessType typeName c out value businessType flowMetasNum,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState in and bt typeID,1
+WorkflowMeta private BusinessType businessType,FlowTask hbm xml select count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState in and bt typeID,1
+WorkflowNode private String nodeName,configNodePerformer jsp c out value currNode nodeName,1
+FlowProc private Long flowProcID new Long,FlowTask hbm xml select task from FlowTask task join task flowProcTransaction flowProc flowProc where flowProc flowProcID,1
+FlowNodeBinding private String performerDetail,FlowNodeBinding hbm xml name performerDetail,1
+User private String realName,User hbm xml name realName,1
+WorkflowEngineImpl private WorkflowDriverManager flowDriverManager,workflow engine context xml property name flowDriverManager ref bean workflowDriverManager property,1
+EhCacheBasedResourceCache Cache cache,acegi context xml property name cache,1
+FlowMetaFileDAOTest FlowMetaFile fmf,FlowMetaFile hbm xml from FlowMetaFile fmf order by fmf flowFileID asc,1
+WorkflowMeta private BusinessType businessType,FlowTask hbm xml select bt typeID count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState in group by bt,1
+FlowTask private Integer sendEmail NEW TASK NOT EMAILED,FlowTask hbm xml name sendEmail,1
+WorkflowNode private String nodeID,listFlowNodes jsp onClick changeColor this deployNode c out value theNode nodeID,1
+FlowProcTransaction private Long transactionID new Long,FlowProcTransaction hbm xml name transactionID,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select task from FlowTask task join task flowNodeBinding node where node nodeBindingID and task taskState,1
+BusinessType private String typeName,listBusinessTypesToJoin jsp td align left c out value businessType typeName td,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select bt typeID count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState group by bt,1
+DaoAuthenticationService private String authoritiesByUsernameQuery,acegi context xml property name authoritiesByUsernameQuery,1
+Group private Long groupID new Long,Group hbm xml select user from User as user left join user groups as groups where groups groupID,1
+DaoAuthenticationService private String loadUsersQuery,acegi context xml property name loadUsersQuery,1
+UserToken private String lastAccessTime,UserToken hbm xml name lastAccessTime,1
+WorkflowMeta private BusinessType businessType,FlowTask hbm xml select bt typeID count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState group by bt,1
+Resource private String actionURL,validation xml field property actionURL depends required mask maxlength,1
+WorkflowMeta private Long flowMetaID new Long,listBusinessTypesToJoin jsp url request getContextPath wf see flow meta fm flowMetaID c out value flowMeta flowMetaID,1
+FlowNodeOutputParamEnumeBinding private WFDriverOutputParamEnume wfDriverOutputParamEnume,FlowNodeOutputParamEnumeBinding hbm xml name wfDriverOutputParamEnume,1
+Group private Long groupID new Long,Group hbm xml select g from Group as g order by g groupID,1
+WorkflowMeta private BusinessType businessType,listBusinessTypesToJoin jsp c if test empty flowMeta businessType,1
+BusinessType private Long typeID new Long,FlowTask hbm xml select count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState in and bt typeID,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select count from FlowTaskAssigner fta join fta flowTask task where fta userID and task taskState in,1
+User private String userName,userForm jsp spring bind path user userName,1
+FlowDeploy private String flowDeployName,flowDeployForm jsp spring bind path flowDeploy flowDeployName,1
+WorkflowMeta private FlowMetaFile flowFileInUse,listAllBusinessTypes jsp c out value flowMeta flowFileInUse flowMetaName,1
+User private String userName,myInfoForm jsp spring bind path user userName,1
+WorkflowDriver private String flowDriverName,WorkflowDriver hbm xml name flowDriverName,1
+FlowDeploy private Long flowDeployID new Long,FlowDeploy hbm xml name flowDeployID,1
+AcegiCacheManager private AuthenticationService authenticationService,acegi context xml property name authenticationService,1
+WorkflowMeta private Long flowMetaID new Long,WorkflowMeta hbm xml name flowMetaID,1
+WorkflowMeta private Long flowMetaID new Long,WorkflowMeta hbm xml from WorkflowMeta wm order by wm flowMetaID asc,1
+FlowNodeBinding private String performerDetail,configNodePerformer jsp c if test empty nodeBinding performerDetail,1
+Group private List childGroups new ArrayList,Group hbm xml name childGroups,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState in and bt typeID,1
+User private String sex,User hbm xml name sex,1
+User private List groups new ArrayList,Group hbm xml select user from User as user left join user groups as groups where groups groupID,1
+WorkflowMeta private BusinessType businessType,WorkflowMeta hbm xml name businessType,1
+WorkflowDriver private java util List wfDriverInputParams new ArrayList,WorkflowDriver hbm xml name wfDriverInputParams,1
+WorkflowMeta private List flowFileVersions new ArrayList,WorkflowMeta hbm xml name flowFileVersions,1
+WFDriverOutputParam private Long driverOutputParamID new Long,driverOutputForm jsp spring bind path driverOutput driverOutputParamID,1
+FlowMetaFile private String flowMetaName,seeFlowMeta jsp fmt message key flowMeta process name c out value workflowMeta flowFileInUse flowMetaName,1
+User private List webModules new ArrayList,User hbm xml name webModules,1
+AcegiCacheManagerFactoryBean String targetBeanName,acegi context xml property name targetBeanName value acegiCacheManagerTarget,1
+WorkflowNode private String nodeID,configNodePerformer jsp option value c out value currNode nodeID,1
+UserToken private String lastAccessTime,UserToken hbm xml select ut from UserToken as ut where ut lastAccessTime,1
+User private String confirmPass,userForm jsp spring bind path user confirmPass,1
+WorkflowMeta private Long flowMetaID new Long,seeFlowMeta jsp img src request getContextPath wf preview flow meta fm flowMetaID c out value workflowMeta flowMetaID,1
+BusinessType private Long typeID new Long,listTaskKinds jsp href request getContextPath list new tasks wl typeID c out value businessType typeID,1
+FlowNodeBinding private String flowNodeID,FlowNodeBinding hbm xml name flowNodeID,1
+User private String userName,validation xml field property userName depends required mask maxlength minlength,1
+WorkflowDriverManagerImpl private WorkflowDriverDAO workflowDriverDAO,workflow service context xml property name workflowDriverDAO,1
+User private String password,User hbm xml name password,1
+WFDriverOutputParam private Long driverOutputParamID new Long,WFDriverOutputParam hbm xml name driverOutputParamID,1
+User private String email,validation xml field property email depends required email,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select task from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and bt typeID and task taskState in order by task createTime desc,1
+Resource private String resourceID,Resource hbm xml name resourceID,1
+UserToken private String ipAddress,UserToken hbm xml select ut from UserToken as ut where ut userID and ut ipAddress,1
+FlowProc private FlowProc linkFlowProc,FlowProc hbm xml name linkFlowProc,1
+FlowDeploy private List flowProcs new ArrayList,FlowDeploy hbm xml name flowProcs,1
+WorkflowDriver private Long flowDriverID new Long,driverForm jsp spring bind path driver flowDriverID,1
+BusinessType private Long typeID new Long,listTaskKinds jsp a target right onclick changeColor exe c out value businessType typeID,1
+BusinessType private Long typeID new Long,listTaskKinds jsp a target right onclick changeColor new c out value businessType typeID,1
+WorkflowDriver private Long flowDriverID new Long,listDriversToDeploy jsp value c out value theDriver flowDriverID,1
+User private String userName,configNodePerformer jsp c out value currUser userName c out value currUser realName,1
+FlowNodeBinding private List flowRolePerformers new ArrayList,FlowNodeBinding hbm xml name flowRolePerformers,1
+User private List groups new ArrayList,User hbm xml name groups,1
+Resource private String resourceName,validation xml field property resourceName depends required maxlength minlength,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select task from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and bt typeID and task taskState in order by task startTime desc,1
+BusinessType private String typeName,listTaskKinds jsp c out value businessType typeName font color FF id new c out value businessType typeID,1
+NewTask private String taskCandidateUserID,FlowTask hbm xml select bt typeID count from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and task taskState in group by bt,1
+BusinessType private Long typeID new Long,listTaskKinds jsp c out value businessType typeName font color FF id exe c out value businessType typeID,1
+User private String password,userForm jsp spring bind path user password,1
+FlowMetaFile private String createdTime,seeFlowMeta jsp fmt message key flowMeta create time c out value workflowMeta flowFileInUse createdTime,1
+FlowTask private List taskUsers new ArrayList,FlowTask hbm xml name taskUsers,1
+WFDriverOutputParam private Long driverOutputParamID new Long,driverOutputEnumeForm jsp input type hidden name driverOutputParamID value c out value driverOutputParamID,1
+FlowTask private Integer sendEmail NEW TASK NOT EMAILED,FlowTask hbm xml select task from FlowTask task where task taskState in and task sendEmail,1
+WFDriverInputParam private Long driverInputParamID new Long,seeDriverDetail jsp onclick deleteInputParam c out value theDriver flowDriverID c out value theInputParam driverInputParamID,1
+WebModule private Long webModuleID new Long,webModuleForm jsp spring bind path webModule webModuleID,1
+WorkflowMeta private Long flowMetaID new Long,listBusinessTypesToJoin jsp input type hidden name flowMetaID value c out value flowMeta flowMetaID,1
+BusinessType private String typeName,validation xml field property typeName depends required maxlength,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml name taskState,1
+User private String confirmPass,userForm jsp spring bind path user confirmPass,1
+WebModule private String webModuleName,webModuleForm jsp spring bind path webModule webModuleName,1
+BusinessType private List workflowMetas new ArrayList,listAllBusinessTypes jsp c forEach items businessType workflowMetas var flowMeta varStatus idee,1
+BusinessType private Long typeID new Long,BusinessType hbm xml from BusinessType bt order by bt typeID asc,1
+BusinessType private Integer tasksNum,listTaskKinds jsp c out value businessType tasksNum font,1
+WorkflowNode private String nodeID,configNodePerformer jsp c if test currNode nodeID eq nodeBinding performerDetail,1
+BusinessType private Long typeID new Long,businessTypeForm jsp spring bind path businessType typeID,1
+Resource private String resourceName,resourceForm jsp spring bind path resource resourceName,1
+BusinessType private Long typeID new Long,FlowTask hbm xml select bt typeID count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState group by bt,1
+WorkflowDriver private java util List wfDriverInputParams new ArrayList,seeDriverDetail jsp c forEach var theInputParam items theDriver wfDriverInputParams,1
+FlowDeploy private Long flowDeployID new Long,FlowProc hbm xml select theFP from FlowProc theFP where theFP flowProcID in select fp flowProcID from FlowTask ft join ft flowProcTransaction flowProc fp where fp flowDeploy flowDeployID and ft taskState not in group by fp having count ft,1
+FlowNodeBinding private String performerDetail,configNodePerformer jsp c if test currNode nodeID eq nodeBinding performerDetail,1
+FlowDeploy private String flowDeployName,validation xml field property flowDeployName depends required maxlength,1
+BusinessType private String typeName,listTaskKinds jsp c out value businessType typeName font color FF id exe c out value businessType typeID,1
+User private String password,userForm jsp spring bind path user password,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select task from FlowTask task where task taskState in and task sendEmail,1
+WorkflowDriver private Long flowDriverID new Long,seeDriverDetail jsp onclick window open request getContextPath wf edit input param fd driverID c out value theDriver flowDriverID width height src request getContextPath img add gif width height td,1
+FlowNodeInputParamBinding private WFDriverInputParam wfDriverInputParam,FlowNodeInputParamBinding hbm xml name wfDriverInputParam,1
+FlowMetaFile private String flowMetaName,listAllBusinessTypes jsp c out value flowMeta flowFileInUse flowMetaName,1
+WorkflowDriver private String writeURL,WorkflowDriver hbm xml from WorkflowDriver wd where wd contextPath and wd writeURL,1
+Resource private String resourceName,Resource hbm xml select rs from Resource as rs where rs resourceName,1
+WFDriverOutputParamEnume private Long driverOutputParamEnumeID new Long,seeDriverDetail jsp option value c out value theOutputParamEnume driverOutputParamEnumeID,1
+WorkflowDriver private String readURL,driverForm jsp spring bind path driver readURL,1
+User private String email,myInfoForm jsp spring bind path user email,1
+BusinessType private Integer tasksNum,listTaskKinds jsp c out value businessType tasksNum font,1
+BusinessType private Long typeID new Long,listBusinessTypesToJoin jsp onclick selectMe c out value businessType typeID td,1
+AuthenticationUtil FilterInvocationDefinitionSource filterInvocationDefinitionSource,acegi context xml property name filterInvocationDefinitionSource ref filterDefinitionSource,1
+RoleRight private Role role,Role hbm xml select rr from RoleRight as rr where rr role roleID and rr resource id and rr privilege,1
+User private String realName,validation xml field property realName depends required maxlength,1
+User private List roles new ArrayList,User hbm xml name roles,1
+BusinessType private Long typeID new Long,listBusinessTypesToJoin jsp c if test flowMeta businessType typeID businessType typeID,1
+FlowMetaManagerImpl private FlowMetaFileDAO flowMetaFileDAO,workflow service context xml property name flowMetaFileDAO,1
+WorkflowMeta private BusinessType businessType,FlowTask hbm xml select task from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and bt typeID and task taskState in order by task overTime desc,1
+WorkflowDriver private java util List wfDriverOutputParams new ArrayList,WorkflowDriver hbm xml name wfDriverOutputParams,1
+FlowProcTransition private String fromNodeID,FlowProcTransition hbm xml name fromNodeID,1
+WFDriverOutputParam private Long driverOutputParamID new Long,driverOutputEnumeForm jsp c if test not empty driverOutputParamID,1
+Group private Long groupID new Long,groupForm jsp spring bind path group groupID,1
+FlowTask private List taskRefuses new ArrayList,FlowTask hbm xml name taskRefuses,1
+FlowDeploy private Long flowDeployID new Long,flowDeployForm jsp spring bind path flowDeploy flowDeployID,1
+FlowNodeBinding private String performerRule FLOW PERFORMER STATIC,FlowNodeBinding hbm xml name performerRule,1
+BusinessType private Integer tasksNum,listTaskKinds jsp c out value businessType tasksNum font,1
+WFDriverInputParam private Long driverInputParamID new Long,driverInputForm jsp spring bind path driverInput driverInputParamID,1
+Resource private String resourceID,resourceForm jsp spring bind path resource resourceID,1
+Role private String roleName,configNodePerformer jsp c out value currRole roleName,1
+FlowDeploy private String flowDeployName,FlowDeploy hbm xml name flowDeployName,1
+Resource private String resourceID,Resource hbm xml select rs from Resource as rs where rs resourceID,1
+FlowNodeOutputParamEnumeBinding private String nodeOutputParamEnume,FlowNodeOutputParamEnumeBinding hbm xml name nodeOutputParamEnume,1
+WorkflowMeta private List flowDeploies new ArrayList,WorkflowMeta hbm xml name flowDeploies,1
+BusinessType private Long typeID new Long,listTaskKinds jsp c out value businessType typeName font color FF id finished c out value businessType typeID,1
+WorkflowMeta private BusinessType businessType,FlowTask hbm xml select bt typeID count from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and task taskState in group by bt,1
+WebModule private Long webModuleID new Long,WebModule hbm xml name webModuleID,1
+FlowTask private List newTasks new ArrayList,FlowTask hbm xml name newTasks,1
+WorkflowMeta private Long flowMetaID new Long,seeFlowMeta jsp href request getContextPath wf preview big fm flowMetaID c out value workflowMeta flowMetaID,1
+WorkflowMeta private FlowMetaFile flowFileInUse,WorkflowMeta hbm xml name flowFileInUse,1
+FlowTask private String taskState TASK STATE FREE,FlowProc hbm xml select theFP from FlowProc theFP where theFP flowProcID in select fp flowProcID from FlowTask ft join ft flowProcTransaction flowProc fp where fp flowDeploy flowDeployID and ft taskState not in group by fp having count ft,1
+FlowMetaFile private String flowMetaName,listAllBusinessTypes jsp c out value flowMeta flowFileInUse flowMetaName,1
+BusinessType private Long typeID new Long,listTaskKinds jsp href request getContextPath list executing tasks wl typeID c out value businessType typeID,1
+WFDriverOutputParamEnume private String driverOutputParamEnumeValue,seeDriverDetail jsp c out value theOutputParamEnume driverOutputParamEnumeValue,1
+NewTask private String taskCandidateUserID,FlowTask hbm xml select count from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and task taskState in and bt typeID,1
+NewTask private String taskCandidateUserID,FlowTask hbm xml select task from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and bt typeID and task taskState in order by task createTime desc,1
+WorkflowDriver private String flowDriverName,driverForm jsp spring bind path driver flowDriverName,1
+Role private String roleName,validation xml field property roleName depends required maxlength,1
+User private String userName,User hbm xml name userName,1
+WFDriverOutputParamEnume private String driverOutputParamEnumeValue,driverOutputEnumeForm jsp spring bind path driverOutputEnume driverOutputParamEnumeValue,1
+Group private Long groupID new Long,Group hbm xml name groupID,1
+WorkflowMeta private Long flowMetaID new Long,listAllBusinessTypes jsp a href onclick changeSonColor other c out value idee count c out value flowMeta flowMetaID,1
+FlowTaskRefuse private String refuseFor,FlowTaskRefuse hbm xml name refuseFor,1
+FlowTask private String overTime,FlowTask hbm xml name overTime,1
+BusinessType private Long typeID new Long,FlowTask hbm xml select bt typeID count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState in group by bt,1
+WorkflowMeta private Long flowMetaID new Long,listAllBusinessTypes jsp a onclick changeSonColor c out value ide count c out value idee count c out value flowMeta flowMetaID,1
+WorkflowNode private String nodeName,listFlowNodes jsp c out value theNode nodeName,1
+FlowProc private java util List flowProcTransactions new ArrayList,FlowProc hbm xml name flowProcTransactions,1
+WorkflowDriver private Long flowDriverID new Long,WorkflowDriver hbm xml from WorkflowDriver wd order by wd flowDriverID asc,1
+WorkflowDriver private String readURL,showExecutingTask jsp src c out value flowDriver contextPath c out value flowDriver readURL c out value taskIDParamName c out value taskID,1
+FlowNodeBinding private List flowUserPerformers new ArrayList,FlowNodeBinding hbm xml name flowUserPerformers,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select task from FlowTaskUser tu join tu flowTask task where task taskState in and tu userID,1
+FlowProcTransaction private List flowTasks new ArrayList,FlowProcTransaction hbm xml name flowTasks,1
+WorkflowDriver private Long flowDriverID new Long,seeDriverDetail jsp action request getContextPath wf remove driver paramenume fd driverID c out value theDriver flowDriverID,1
+FlowNodeBinding private List flowNodeOutputParamBindings new ArrayList,FlowNodeBinding hbm xml name flowNodeOutputParamBindings,1
+WorkflowDriver private String writeURL,WorkflowDriver hbm xml name writeURL,1
+FlowMetaFileDAOJDBC private LobHandler lobHandler,workflow service context xml property name lobHandler,1
+FlowProc private Long flowProcID new Long,FlowTask hbm xml select task from FlowTask task join task flowNodeBinding node join task flowProcTransaction flowProc flowProc where node flowNodeID and flowProc flowProcID,1
+Group private String groupName,Group hbm xml name groupName,1
+FlowProc private java util List linkedFlowProcs new ArrayList,FlowProc hbm xml name linkedFlowProcs,1
+FlowMetaManagerImpl private WorkflowMetaDAO flowMetaDAO,workflow service context xml property name flowMetaDAO,1
+WorkflowDriver private String readURL,WorkflowDriver hbm xml from WorkflowDriver wd where wd contextPath and wd readURL,1
+FlowTask private String overTime,FlowTask hbm xml select task from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and bt typeID and task taskState in order by task overTime desc,1
+WorkflowMeta private Long flowMetaID new Long,seeFlowMeta jsp request getContextPath wf list bt to join bt flowMetaID c out value workflowMeta flowMetaID,1
+DaoAuthenticationService private String authoritiesByResourceQuery,acegi context xml property name authoritiesByResourceQuery,1
+Resource private String actionURL,Resource hbm xml name actionURL,1
+BusinessType private Long typeID new Long,FlowTask hbm xml select task from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and bt typeID and task taskState in order by task overTime desc,1
+BusinessType private Long typeID new Long,FlowTask hbm xml select task from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and bt typeID and task taskState in order by task startTime desc,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select task from FlowTask task where task taskState in,1
+FlowProc private java util List flowProcRelativeDatas new ArrayList,FlowProc hbm xml name flowProcRelativeDatas,1
+WorkflowNode private String nodeID,configNodePerformer jsp option value c out value currNode nodeID,1
+FlowProc private String starterUserID,FlowProc hbm xml name starterUserID,1
+FlowNodeBinding private Long nodeBindingID new Long,FlowTask hbm xml select task from FlowTask task join task flowNodeBinding node where node nodeBindingID and task taskState,1
+UserToken private Long logID new Long,UserToken hbm xml name logID,1
+WorkflowDriver private String writeURL,driverForm jsp spring bind path driver writeURL,1
+WFDriverOutputParamEnume private Long driverOutputParamEnumeID new Long,driverOutputEnumeForm jsp spring bind path driverOutputEnume driverOutputParamEnumeID,1
+WebModule private String webModuleName,validation xml field property webModuleName depends required maxlength,1
+UserToken private String ipAddress,UserToken hbm xml select ut from UserToken as ut where ut token and ut ipAddress,1
+FlowMetaFileStore private java sql Blob workflowFile,FlowMetaFileStore hbm xml name workflowFile,1
+UserToken private String logOnTime,UserToken hbm xml name logOnTime,1
+FlowMetaFile private String createdTime,FlowMetaFile hbm xml name createdTime,1
+FlowTask private List taskAssigners new ArrayList,FlowTask hbm xml name taskAssigners,1
+User private String email,userForm jsp spring bind path user email,1
+WebModule private List resources new ArrayList,WebModule hbm xml name resources,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select bt typeID count from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and task taskState in group by bt,1
+WorkflowMeta private BusinessType businessType,FlowTask hbm xml select task from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and bt typeID and task taskState in order by task startTime desc,1
+WorkflowDriver private java util List wfDriverOutputParams new ArrayList,seeDriverDetail jsp c forEach items theDriver wfDriverOutputParams var theOutputParam,1
+User private String password,userForm jsp input type password class input name c out value status expression,1
+FlowDeploy private String currentState,FlowDeploy hbm xml name currentState,1
+WorkflowMeta private BusinessType businessType,listBusinessTypesToJoin jsp c out value flowMeta businessType typeID,1
+WebModule private Long webModuleID new Long,webModuleForm jsp input type hidden name webModuleID value c out value status value,1
+WebModule private String facePage,WebModule hbm xml name facePage,1
+Resource private String actionURL,resourceForm jsp spring bind path resource actionURL,1
+FlowProcTransaction private String transactionState TRANSACTION STATE ACTIVE,FlowProcTransaction hbm xml name transactionState,1
+FlowMetaFile private String flowMetaName,FlowMetaFile hbm xml name flowMetaName,1
+WebModule private String webModuleName,WebModule hbm xml name webModuleName,1
+WorkflowDriver private Long flowDriverID new Long,seeDriverDetail jsp onclick deleteOutputParam c out value theDriver flowDriverID c out value theOutputParam driverOutputParamID,1
+FlowMetaFileStore private java sql Blob previewImage,FlowMetaFileStore hbm xml name previewImage,1
+WorkflowMeta private BusinessType businessType,FlowTask hbm xml select count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState in and bt typeID,1
+User private String password,userForm jsp input type password class input name c out value status expression value c out value status value,1
+Role private String roleName,roleForm jsp spring bind path role roleName,1
+User private String realName,myInfoForm jsp spring bind path user realName,1
+User private String state USER STATE NORMAL,User hbm xml select u from User as u where u state,1
+WorkflowDriver private String writeURL,validation xml field property writeURL depends required mask,1
+BusinessType private Long typeID new Long,FlowTask hbm xml select count from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and task taskState in and bt typeID,1
+WFDriverOutputParamEnume private Long driverOutputParamEnumeID new Long,WFDriverOutputParamEnume hbm xml name driverOutputParamEnumeID,1
+WorkflowMeta private BusinessType businessType,FlowTask hbm xml select task from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and bt typeID and task taskState in order by task createTime desc,1
+Group private Long groupID new Long,Group hbm xml select gr from GroupRight as gr where gr group groupID and gr resource id and gr privilege,1
+FlowProcRelativeData private String driverParamValue,FlowProcRelativeData hbm xml name driverParamValue,1
+FlowProcTransition private String toNodeID,FlowProcTransition hbm xml name toNodeID,1
+WorkflowDriver private String readURL,WorkflowDriver hbm xml name readURL,1
+Group private String groupName,groupForm jsp spring bind path group groupName,1
+WFDriverOutputParamEnume private String driverOutputParamEnumeValue,validation xml field property driverOutputParamEnumeValue depends required,1
+FlowNodeBinding private String performerDetail,configNodePerformer jsp c if test currNode nodeID eq nodeBinding performerDetail,1
+AcegiCacheManager private ResourceCache resourceCache,acegi context xml property name resourceCache ref resourceCache,1
+BusinessType private Long typeID new Long,FlowTask hbm xml select task from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and bt typeID and task taskState in order by task createTime desc,1
+BusinessType private Long typeID new Long,FlowTask hbm xml select count from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and task taskState in and bt typeID,1
+WorkflowMeta private BusinessType businessType,listBusinessTypesToJoin jsp c if test flowMeta businessType typeID businessType typeID,1
+CacheBaseUrlDefinitionSource private boolean convertUrlToLowercaseBeforeComparison false,acegi context xml property name convertUrlToLowercaseBeforeComparison,1
+BusinessType private String typeName,businessTypeForm jsp spring bind path businessType typeName,1
+DaoAuthenticationService private String loadResourcesQuery,acegi context xml property name loadResourcesQuery,1
+FlowNodeOutputParamBinding private List flowNodeOutputParamEnumeBindings new ArrayList,FlowNodeOutputParamBinding hbm xml name flowNodeOutputParamEnumeBindings,1
+BusinessType private Long typeID new Long,listTaskKinds jsp href request getContextPath list finished tasks wl typeID c out value businessType typeID,1
+User private String realName,userForm jsp spring bind path user realName,1
+BusinessType private Long typeID new Long,BusinessType hbm xml name typeID,1
+WFDriverOutputParam private Long driverOutputParamID new Long,seeDriverDetail jsp td img onclick if confirm fmt message key driver confirm delete enume document select c out value theOutputParam driverOutputParamID submit style cursor hand src request getContextPath img delete gif,1
+Resource private WebModule webModule,Resource hbm xml name webModule,1
+NewTask private String taskCandidateUserID,NewTask hbm xml name taskCandidateUserID,1
+WorkflowMeta private FlowMetaFile flowFileInUse,seeFlowMeta jsp fmt message key flowMeta process name c out value workflowMeta flowFileInUse flowMetaName,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select task from FlowTaskAssigner fta join fta flowTask task where fta userID and task taskState in,1
+RoleRight private Role role,RoleRight hbm xml name role,1
+FlowProc private Long flowProcID new Long,FlowProc hbm xml name flowProcID,1
+User private String email,User hbm xml select u from User as u where u email,1
+CacheBaseUrlDefinitionSource private boolean useAntPath true,acegi context xml property name useAntPath value true,1
+FlowNodeBinding private Long nodeBindingID new Long,configNodePerformer jsp value c out value nodeBinding nodeBindingID,1
+FlowNodeBinding private String flowNodeID,FlowTask hbm xml select task from FlowTask task join task flowNodeBinding node join task flowProcTransaction flowProc flowProc where node flowNodeID and flowProc flowProcID,1
+FlowNodeBinding private String performerDetail,configNodePerformer jsp c if test empty nodeBinding performerDetail,1
+BusinessType private Long typeID new Long,listTaskKinds jsp a target right class tablelinke onclick changeColor finished c out value businessType typeID,1
+FlowTask private String taskState TASK STATE FREE,FlowTask hbm xml select task from FlowTaskUser tu join tu flowTask task join tu flowTask flowNodeBinding flowDeploy workflowMeta businessType bt where tu userID and bt typeID and task taskState in order by task overTime desc,1
+WorkflowDriver private String flowDriverName,listDriversToDeploy jsp c out value theDriver flowDriverName,1
+User private String state USER STATE NORMAL,User hbm xml name state,1
+Resource private String resourceName,Resource hbm xml name resourceName,1
+BusinessType private String typeName,listTaskKinds jsp c out value businessType typeName font color FF id finished c out value businessType typeID,1
+FlowNodeBinding private List flowNodeInputParamBindings new ArrayList,FlowNodeBinding hbm xml name flowNodeInputParamBindings,1
+FlowNodeOutputParamEnumeBinding private Long paramEnumeBindingID new Long,FlowNodeOutputParamEnumeBinding hbm xml name paramEnumeBindingID,1
+User private String email,User hbm xml name email,1
+FlowProcTransaction private List flowProcTransitions new ArrayList,FlowProcTransaction hbm xml name flowProcTransitions,1
+WFDriverOutputParam private List driverOutputParamEnumes new ArrayList,WFDriverOutputParam hbm xml name driverOutputParamEnumes,1
+WorkflowMeta private BusinessType businessType,listBusinessTypesToJoin jsp c if test empty flowMeta businessType,1
+Role private String roleName,Role hbm xml name roleName,1
+UserToken private String token,UserToken hbm xml select ut from UserToken as ut where ut token and ut ipAddress,1
+WorkflowDriver private Long flowDriverID new Long,FlowNodeBinding hbm xml select fnb from FlowNodeBinding fnb inner join fnb workflowDriver wfd where wfd flowDriverID,1
+User private String password,validation xml field property password depends twofields minlength,1
+Group private Group parentGroup,Group hbm xml name parentGroup,1
+FlowProc private Long flowProcID new Long,FlowProc hbm xml select theFP from FlowProc theFP where theFP flowProcID in select fp flowProcID from FlowTask ft join ft flowProcTransaction flowProc fp where fp flowDeploy flowDeployID and ft taskState not in group by fp having count ft,1
+WorkflowDriver private Long flowDriverID new Long,seeDriverDetail jsp onclick deleteInputParam c out value theDriver flowDriverID c out value theInputParam driverInputParamID,1
+WFDriverOutputParam private Long driverOutputParamID new Long,seeDriverDetail jsp form name select c out value theOutputParam driverOutputParamID method POST,1
+BusinessType private Long typeID new Long,FlowTask hbm xml select bt typeID count from NewTask nt join nt flowTask task join task flowNodeBinding flowDeploy workflowMeta businessType bt where nt taskCandidateUserID and task taskState in group by bt,1
+Group private String groupName,validation xml field property groupName depends required maxlength,1
+AuthenticationUtil AccessDecisionVoter accessDecisionVoter,acegi context xml property name accessDecisionVoter ref roleVoter,1
+FlowTask private List taskRoles new ArrayList,FlowTask hbm xml name taskRoles,1
+WorkflowDriver private Long flowDriverID new Long,seeDriverDetail jsp onclick window open request getContextPath wf edit output param fd driverID c out value theDriver flowDriverID width height src request getContextPath img add gif width height td,1
+WorkflowNode private String nodeID,configNodePerformer jsp c if test currNode nodeID eq nodeBinding performerDetail,1
+WFDriverInputParam private Long driverInputParamID new Long,WFDriverInputParam hbm xml name driverInputParamID,1
+BusinessType private Long typeID new Long,listBusinessTypesToJoin jsp c out value flowMeta businessType typeID,1
+WorkflowMeta private BusinessType businessType,listBusinessTypesToJoin jsp c if test empty flowMeta businessType,1
+FlowTaskRefuse private String refuseUser,FlowTaskRefuse hbm xml name refuseUser,1
+WFDriverOutputParamEnume private String driverOutputParamEnumeValue,WFDriverOutputParamEnume hbm xml name driverOutputParamEnumeValue,1
+User private String realName,configNodePerformer jsp c out value currUser userName c out value currUser realName,1
+FlowNodeBinding private Long nodeBindingID new Long,FlowNodeBinding hbm xml name nodeBindingID,1
+HasRightToDoTag protected String alt,powerstone ca tld name alt name,1
+AcegiCacheManager private AuthenticationService authenticationService,acegi context xml ref authenticationService,0
+AcegiCacheManager private AuthenticationService authenticationService,acegi context xml bean id authenticationService,0
+User private String password,build xml reload url tomcat manager url username tomcat manager username password tomcat manager password path webapp name,0
+User private String password,acegi context xml value my run as password value,0
+User private String password,passForm jsp old password label th,0
+User private String password,validator rules xml field type password,0
+User private String password,myPassForm jsp input type password class input name password,0
+User private String password,validation xml arg key password,0
+User private String password,build xml start url tomcat manager url username tomcat manager username password tomcat manager password path webapp name,0
+User private String password,ps hibernate context xml value hibernate connection password value,0
+User private String password,build xml deploy url tomcat manager url username tomcat manager username password tomcat manager password path webapp name war file dist dir webapp name war,0
+User private String password,ps hibernate context xml property name password,0
+User private String password,acegi context xml username expiryTime Md Hex username expiryTime password key,0
+User private String password,passForm jsp input type password class input name password,0
+User private String password,passForm jsp th label for password,0
+User private String password,validator rules xml field type password,0
+User private String password,build xml list url tomcat manager url username tomcat manager username password tomcat manager password,0
+User private String password,build xml undeploy url tomcat manager url username tomcat manager username password tomcat manager password path webapp name,0
+User private String password,userForm jsp password label th,0
+User private String password,ps hibernate context xml property name password,0
+User private String password,acegi context xml value select vc user name vc password vc state from ca user value,0
+User private String password,myPassForm jsp input type password class input name confirmPass,0
+User private String password,myPassForm jsp input type password class input name oldPass,0
+User private String password,build xml stop url tomcat manager url username tomcat manager username password tomcat manager password path webapp name,0
+User private String password,passForm jsp new password label th,0
+User private String password,ps hibernate context xml value hibernate connection password value,0
+User private String password,passForm jsp input type password class input name confirmPass,0
+User private String password,build xml property name hibernate connection password value password,0
+User private String password,myInfoForm jsp input type hidden name password value,0
+User private String password,login jsp input type password class inputLogin name j password,0
+User private String password,passForm jsp input type password class input name oldPass,0
+User private String password,userForm jsp th align right label for password,0
+FlowMetaManagerImpl private FlowMetaFileDAO flowMetaFileDAO,workflow service context xml ref local flowMetaFileDAO,0
+FlowMetaManagerImpl private FlowMetaFileDAO flowMetaFileDAO,workflow service context xml bean id flowMetaFileDAO,0
+User private String state USER STATE NORMAL,workspace xml state,0
+User private String state USER STATE NORMAL,workspace xml state,0
+User private String state USER STATE NORMAL,workspace xml state,0
+User private String state USER STATE NORMAL,workspace xml state,0
+User private String state USER STATE NORMAL,flowMonitor jsp td width fmt message key monitor proc state td,0
+User private String state USER STATE NORMAL,workspace xml state relative caret position,0
+User private String state USER STATE NORMAL,workspace xml state,0
+User private String state USER STATE NORMAL,workspace xml state key ProjectJDKs UI,0
+User private String state USER STATE NORMAL,workspace xml state relative caret position,0
+User private String state USER STATE NORMAL,acegi context xml value select vc user name vc password vc state from ca user value,0
+User private String state USER STATE NORMAL,workspace xml state relative caret position,0
+User private String state USER STATE NORMAL,workspace xml state relative caret position,0
+User private String state USER STATE NORMAL,workspace xml state relative caret position,0
+User private String state USER STATE NORMAL,workspace xml state,0
+User private String state USER STATE NORMAL,workspace xml state,0
+User private String state USER STATE NORMAL,workspace xml state relative caret position,0
+User private String state USER STATE NORMAL,seeFlowMeta jsp td width fmt message key deploy current state td,0
+User private String state USER STATE NORMAL,workspace xml state,0
+User private String state USER STATE NORMAL,workspace xml frame x y width height extended state,0
+User private String state USER STATE NORMAL,workspace xml state relative caret position,0
+User private String state USER STATE NORMAL,workspace xml state relative caret position,0
+User private String state USER STATE NORMAL,workspace xml state,0
+EhCacheBasedResourceCache Cache cache,listFlowNodes jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,listRoleMembers jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,myPassForm jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,listFinishedTasks jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,searchToAssign jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,acegi context xml class org springframework cache ehcache EhCacheFactoryBean,0
+EhCacheBasedResourceCache Cache cache,listBusinessTypesToJoin jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,seeFlowNodeBinding jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,userForm jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,myInfoForm jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listGroupMembers jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,acegi context xml class org powerstone acegi cache AcegiCacheManager,0
+EhCacheBasedResourceCache Cache cache,listMyRefusedTasks jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listUserOrganize jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,ehcache xml cache name resourceCache,0
+EhCacheBasedResourceCache Cache cache,searchToDistribute jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,ehcache xml cache name userCache,0
+EhCacheBasedResourceCache Cache cache,acegi context xml class org powerstone acegi cache AcegiCacheManagerFactoryBean,0
+EhCacheBasedResourceCache Cache cache,passForm jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,searchToAssign jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,seeFlowMeta jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,ehcache xml overflowToDisk Sets whether elements can overflow to disk when the in memory cache,0
+EhCacheBasedResourceCache Cache cache,acegi context xml class org powerstone acegi cache EhCacheBasedResourceCache,0
+EhCacheBasedResourceCache Cache cache,listMembersToAddPerformer jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listWebModuleResources jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,main jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listExecutingTasks jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listNewTasks jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,listDriversToDeploy jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,acegi context xml class org acegisecurity providers dao cache EhCacheBasedUserCache,0
+EhCacheBasedResourceCache Cache cache,listDrivers jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listWebModuleResources jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listMyRefusedTasks jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,listUserOrganize jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,ehcache xml Sets the path to the directory where cache data files are created,0
+EhCacheBasedResourceCache Cache cache,acegi context xml class org springframework cache ehcache EhCacheFactoryBean,0
+EhCacheBasedResourceCache Cache cache,passForm jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,listTaskKinds jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,showExecutingTask jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,showExecutingTask jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listBusinessTypesToJoin jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,resourceForm jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,main jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,listTasksToAssign jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,seeDriverDetail jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,listDriversToDeploy jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listFlowNodes jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,myInfoForm jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,ehcache xml acegi cache,0
+EhCacheBasedResourceCache Cache cache,seeFlowNodeBinding jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,main jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listDrivers jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,listFinishedTasks jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,ehcache xml acegi cache,0
+EhCacheBasedResourceCache Cache cache,listTasksToAssign jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listNewTasks jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,ps hibernate context xml prop key hibernate cache provider class org hibernate cache OSCacheProvider prop,0
+EhCacheBasedResourceCache Cache cache,seeFlowMeta jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,groupForm jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,searchToDistribute jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,webModuleForm jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,listGroupMembers jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,listMembersToAddPerformer jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,acegi context xml cache Url,0
+EhCacheBasedResourceCache Cache cache,ps hibernate context xml prop key hibernate cache use query cache true prop,0
+EhCacheBasedResourceCache Cache cache,acegi context xml class org springframework cache ehcache EhCacheManagerFactoryBean,0
+EhCacheBasedResourceCache Cache cache,main jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,myPassForm jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,userForm jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,webModuleForm jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listTaskKinds jsp response setHeader Pragma No cache,0
+EhCacheBasedResourceCache Cache cache,groupForm jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listRoleMembers jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,resourceForm jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,seeDriverDetail jsp response setHeader Cache Control no cache,0
+EhCacheBasedResourceCache Cache cache,listExecutingTasks jsp response setHeader Pragma No cache,0
+Group private String groupName,listGroupMembers jsp String groupName String request getAttribute groupName,0
+Group private String groupName,groupForm jsp th label for groupName,0
+Group private String groupName,groupForm jsp document forms groupForm elements groupName focus,0
+Group private String groupName,listGroupMembers jsp td class tdTitle fmt message key ca user manage gt gt fmt message key ca group members groupName td,0
+Role private String roleName,roleForm jsp th label for roleName,0
+Role private String roleName,roleForm jsp document forms roleForm elements roleName focus,0
+Role private String roleName,webModuleForm jsp th label for roleName,0
+RoleRight private Role role,flow performer servlet xml prop key wf remove role performer pfm removeRolePerformer prop,0
+RoleRight private Role role,role manage servlet xml prop key role manage remove role role roleManageController prop,0
+RoleRight private Role role,listRoles jsp a href request getContextPath priv manage show role privileges priv roleID currRole getRoleID,0
+RoleRight private Role role,web xml url pattern role url pattern,0
+RoleRight private Role role,privilege manage servlet xml prop key priv manage show role privileges priv showRolePrivileges prop,0
+RoleRight private Role role,role manage servlet xml prop key role manage list roles tree role roleManageController prop,0
+RoleRight private Role role,configNodePerformer jsp function delete role,0
+RoleRight private Role role,listRoleMembers jsp input name cancle type button class button default value fmt message key task last page onclick window open request getContextPath role manage list role members role roleID roleID last currPageNo currPageNo intValue tgrget self nbsp,0
+RoleRight private Role role,struts logic tld name role name,0
+RoleRight private Role role,listRoles jsp url request getContextPath role manage edit role role roleID roleSelected,0
+RoleRight private Role role,web xml servlet name role manage servlet name,0
+RoleRight private Role role,main jsp url role manage amp user group amp priv manage amp wf,0
+RoleRight private Role role,configNodePerformer jsp if targetForm role items value null targetForm role items value,0
+RoleRight private Role role,listRoleMembers jsp request getContextPath role manage remove role members role pageTo currPageNo roleID roleID,0
+RoleRight private Role role,privilege manage servlet xml prop key priv manage update role privileges priv updateRolePrivileges prop,0
+RoleRight private Role role,role manage servlet xml prop key role manage groups tree to add role role groupsTreeToAddRole prop,0
+RoleRight private Role role,configNodePerformer jsp select name role items style width px size,0
+RoleRight private Role role,listRoles jsp url request getContextPath role manage remove role role roleID roleSelected,0
+RoleRight private Role role,validation xml arg key ca role name resource true,0
+RoleRight private Role role,roleForm jsp spring bind path role roleName,0
+RoleRight private Role role,role manage servlet xml property name prefix value WEB INF views role manage value property,0
+RoleRight private Role role,role manage servlet xml prop key role manage add users to role role roleManageController prop,0
+RoleRight private Role role,groupsTreeToAddRole jsp a href request getContextPath role manage group members to add role role roleID request getAttribute roleID,0
+RoleRight private Role role,acegi context xml select r vc role name from ca user u ca role r ca join user role ur,0
+RoleRight private Role role,configNodePerformer jsp request getContextPath wf remove role performer pfm,0
+RoleRight private Role role,configNodePerformer jsp input type button name Submit value onclick delete role,0
+RoleRight private Role role,listRoleMembers jsp url request getContextPath role manage add role members role roleID roleID,0
+RoleRight private Role role,successSubmit jsp parent leftFrame location replace request getContextPath role manage list roles role,0
+RoleRight private Role role,role manage servlet xml prop key role manage list role members role listRoleMembers prop,0
+RoleRight private Role role,roleForm jsp spring bind path role,0
+RoleRight private Role role,role manage servlet xml prop key role manage edit role role roleFormController prop,0
+RoleRight private Role role,web xml servlet name role manage servlet name,0
+RoleRight private Role role,listRoleMembers jsp input name cancle type button class button default value fmt message key task first page onclick window open request getContextPath role manage list role members role roleID roleID first currPageNo tgrget self nbsp nbsp,0
+RoleRight private Role role,addRoleMembers jsp frame src request getContextPath role manage group members to add role role roleID request getAttribute roleID name tree right scrolling yes,0
+RoleRight private Role role,listRoleMembers jsp form action request getContextPath role manage list role members role roleID roleID,0
+RoleRight private Role role,role manage servlet xml prop key role manage group members to add role role roleManageController prop,0
+RoleRight private Role role,listRoleMembers jsp input name cancle type button class button default value fmt message key task end page onclick window open request getContextPath role manage list role members role roleID roleID end currPageNo currPageNo intValue tgrget self nbsp,0
+RoleRight private Role role,role manage servlet xml prop key role manage success submit role successSubmit prop,0
+RoleRight private Role role,role manage servlet xml property name commandName value role value property,0
+RoleRight private Role role,top jsp LI A href onclick MM CLick this request getContextPath role manage list roles role class divNavBarANotSelected A LI,0
+RoleRight private Role role,role manage servlet xml prop key role manage remove role role removeRole prop,0
+RoleRight private Role role,role manage servlet xml property name successView value redirect role manage success submit role,0
+RoleRight private Role role,acegi context xml select r vc role name from ca resource c ca role,0
+RoleRight private Role role,role manage servlet xml prop key role manage list roles tree role listRolesTree prop,0
+RoleRight private Role role,configNodePerformer jsp alert fmt message key performer pls select role to delete,0
+RoleRight private Role role,acegi context xml where u pk id ur fk user id and r pk id ur fk role id and u vc user name,0
+RoleRight private Role role,roleForm jsp spring bind path role memo,0
+RoleRight private Role role,role manage servlet xml prop key role manage group members to add role role groupMembersToAddRole prop,0
+RoleRight private Role role,listRoles jsp url request getContextPath role manage edit role role,0
+RoleRight private Role role,index jsp ca hasRightToDo url role manage,0
+RoleRight private Role role,role manage servlet xml prop key role manage add role members role addRoleMembers prop,0
+RoleRight private Role role,listRoleMembers jsp url request getContextPath role manage add role members role roleID roleID,0
+RoleRight private Role role,flow performer servlet xml prop key wf add role performer pfm addRolePerformer prop,0
+RoleRight private Role role,listRoles jsp src request getContextPath role manage list roles tree role,0
+RoleRight private Role role,roleForm jsp form method post action request getContextPath role manage edit role role,0
+RoleRight private Role role,groupMembersToAddRole jsp request getContextPath role manage add users to role role roleID roleID,0
+RoleRight private Role role,role manage servlet xml prop key role manage list role members role roleManageController prop,0
+RoleRight private Role role,role manage servlet xml prop key role manage add users to role role addUsersToRole prop,0
+RoleRight private Role role,acegi context xml r ca role right rc where c pk id rc fk resource id and r pk id,0
+RoleRight private Role role,listRoleMembers jsp input name cancle type button class button default value fmt message key task next page onclick window open request getContextPath role manage list role members role roleID roleID next currPageNo currPageNo intValue tgrget self nbsp,0
+RoleRight private Role role,roleForm jsp v javascript formName role staticJavascript false xhtml true cdata false,0
+RoleRight private Role role,listRolesTree jsp a href request getContextPath role manage list role members role roleID currRole getRoleID,0
+RoleRight private Role role,struts logic tld name role name,0
+RoleRight private Role role,role manage servlet xml prop key role manage groups tree to add role role roleManageController prop,0
+RoleRight private Role role,role manage servlet xml prop key role manage list roles role listRoles prop,0
+RoleRight private Role role,roleForm jsp spring bind path role roleID,0
+RoleRight private Role role,role manage servlet xml prop key role manage add role members role roleManageController prop,0
+RoleRight private Role role,role manage servlet xml prop key role manage remove role members role roleManageController prop,0
+RoleRight private Role role,acegi context xml rc fk role id and c VC ACTION URL,0
+RoleRight private Role role,showRolePrivileges jsp request getContextPath priv manage update role privileges priv roleID request getAttribute roleID,0
+RoleRight private Role role,validation xml form name role,0
+RoleRight private Role role,role manage servlet xml prop key role manage remove role members role removeRoleMembers prop,0
+RoleRight private Role role,addRoleMembers jsp frame src request getContextPath role manage groups tree to add role role roleID request getAttribute roleID name tree left scrolling yes noresize,0
+RoleRight private Role role,role manage servlet xml prop key role manage success submit role roleManageController prop,0
+RoleRight private Role role,role manage servlet xml prop key role manage list roles role roleManageController prop,0
+AuthenticationUtil FilterInvocationDefinitionSource filterInvocationDefinitionSource,acegi context xml property name filterInvocationDefinitionSource,0
+FlowNodeBinding private String flowNodeID,mainToDeploy jsp String flowNodeID String request getAttribute flowNodeID,0
+FlowNodeBinding private String flowNodeID,seeFlowNodeBinding jsp input type hidden name flowNodeID,0
+FlowNodeBinding private String flowNodeID,listDriversToDeploy jsp input type hidden name flowNodeID value request getAttribute flowNodeID,0
+FlowNodeBinding private String flowNodeID,seeFlowNodeBinding jsp flowNodeID workflowNode getNodeID currentdriverID formValue,0
+FlowNodeBinding private String flowNodeID,mainToDeploy jsp request getContextPath wf list drivers to deploy fd currentdriverID currentdriverID flowDeployID flowDeployID flowNodeID flowNodeID contextPath contextPath,0
+FlowNodeBinding private String flowNodeID,listFlowNodes jsp request getContextPath wf see flow node binding dpl flowDeployID c out value flowDeployID flowNodeID nodeID,0
+FlowNodeBinding private String flowNodeID,mainToDeploy jsp src request getContextPath wf list drivers to deploy fd currentdriverID currentdriverID flowDeployID flowDeployID flowNodeID flowNodeID,0
+FlowNodeBinding private String flowNodeID,listFlowNodes jsp request getContextPath wf see node performer pfm flowDeployID c out value flowDeployID flowNodeID nodeID,0
+WorkflowDriverManagerImpl private WorkflowDriverDAO workflowDriverDAO,workflow service context xml bean id workflowDriverDAO,0
+WorkflowDriverManagerImpl private WorkflowDriverDAO workflowDriverDAO,workflow service context xml ref local workflowDriverDAO,0
+WorkflowMeta private Long flowMetaID new Long,listAllBusinessTypes jsp selectID flowMetaID,0
+WorkflowMeta private Long flowMetaID new Long,listAllBusinessTypes jsp function changeSonColor hrefID flowMetaID,0
+WorkflowMeta private Long flowMetaID new Long,updatePreviewImage jsp action request getContextPath wf update preview image fm flowMetaID c out value flowMetaID,0
+WorkflowMeta private Long flowMetaID new Long,updatePreviewImage jsp onclick window location replace request getContextPath wf see flow meta fm flowMetaID c out value flowMetaID,0
+WorkflowMeta private Long flowMetaID new Long,main jsp request getContextPath wf remove flow meta fm flowMetaID selectID,0
+WorkflowMeta private Long flowMetaID new Long,listAllBusinessTypes jsp request getContextPath wf see flow meta fm flowMetaID flowMetaID,0
+User private String email,validator rules xml oEmail new email,0
+User private String email,validator rules xml validator name email,0
+User private String email,validator rules xml msg errors email,0
+User private String email,listMembersToAddPerformer jsp td width bgcolor F F FF div align center fmt message key performer email div td,0
+User private String email,workspace xml find email find,0
+User private String email,listGroupMembers jsp td width align left fmt message key ca email td,0
+User private String email,myInfoForm jsp email label th,0
+User private String email,groupMembersToAddRole jsp td width align center email td,0
+User private String email,listMembersToAddPerformer jsp nbsp c out value currMember email,0
+User private String email,myPassForm jsp input type hidden name email value email sd fg,0
+User private String email,validation xml arg key email,0
+User private String email,listRoleMembers jsp td width align center email td,0
+User private String email,userForm jsp email label th,0
+User private String email,validator rules xml errors email is an invalid e mail address,0
+User private String email,myInfoForm jsp th label for email,0
+User private String email,userForm jsp th align right label for email,0
+User private String email,listUsersNoGroup jsp td width align left fmt message key ca email td,0
+User private String email,passForm jsp input type hidden name email value email sd fg,0
+Resource private String resourceID,resourceForm jsp document forms resourceForm elements resourceID focus,0
+Resource private String resourceID,resourceForm jsp resourceID label th,0
+Resource private String resourceID,validation xml field property resourceID depends required mask maxlength minlength validwhen,0
+Resource private String resourceID,resourceForm jsp th label for resourceID,0
+User private String confirmPass,userForm jsp confirmPass label th,0
+User private String confirmPass,userForm jsp th align right label for confirmPass,0
+User private String confirmPass,userForm jsp input type hidden id confirmPass name confirmPass,0
+User private String confirmPass,myInfoForm jsp input type hidden name confirmPass value,0
+User private String confirmPass,validation xml arg key confirmPass,0
+User private String confirmPass,passForm jsp confirmPass label th,0
+User private String confirmPass,myPassForm jsp input type password class input name confirmPass,0
+User private String confirmPass,validation xml var value confirmPass var value,0
+User private String confirmPass,passForm jsp th label for confirmPass,0
+User private String confirmPass,passForm jsp input type password class input name confirmPass,0
+WFDriverOutputParam private Long driverOutputParamID new Long,seeDriverDetail jsp onclick window open request getContextPath wf edit param enume fd driverOutputParamID c out value theOutputParam driverOutputParamID width height,0
+Resource private String actionURL,resourceForm jsp actionURL label th,0
+Resource private String actionURL,resourceForm jsp th label for actionURL,0
+WorkflowDriver private String flowDriverName,driverForm jsp document forms workflowDriverForm elements flowDriverName focus,0
+WorkflowNode private String nodeID,listFlowNodes jsp function deployNode nodeID,0
+WorkflowNode private String nodeID,listFlowNodes jsp confirm nodeID,0
+WorkflowNode private String nodeID,listFlowNodes jsp request getContextPath wf see flow node binding dpl flowDeployID c out value flowDeployID flowNodeID nodeID,0
+WorkflowNode private String nodeID,listFlowNodes jsp request getContextPath wf see node performer pfm flowDeployID c out value flowDeployID flowNodeID nodeID,0
+AuthenticateDAOTest UserToken ut null,UserToken hbm xml select ut from UserToken as ut where ut userID and ut ipAddress,0
+AuthenticateDAOTest UserToken ut null,UserToken hbm xml select ut from UserToken as ut where ut token and ut ipAddress,0
+AuthenticateDAOTest UserToken ut null,UserToken hbm xml select ut from UserToken as ut where ut lastAccessTime,0
+Group private Long groupID new Long,listGroupMembers jsp input name cancle type button class button default value fmt message key task next page onclick window open request getContextPath user group list group members ca groupID groupID next currPageNo currPageNo intValue tgrget self nbsp,0
+Group private Long groupID new Long,userForm jsp c if test not empty groupID,0
+Group private Long groupID new Long,listGroupMembers jsp input name cancle type button class button default value fmt message key task first page onclick window open request getContextPath user group list group members ca groupID groupID first currPageNo tgrget self nbsp nbsp,0
+Group private Long groupID new Long,listGroups jsp url request getContextPath user group remove group ca groupID groupSelected,0
+Group private Long groupID new Long,listGroups jsp url request getContextPath user group edit group ca groupID groupSelected,0
+Group private Long groupID new Long,passForm jsp c if test not empty groupID,0
+Group private Long groupID new Long,groupsTreeToAddRole jsp function changeColor hrefID groupID,0
+Group private Long groupID new Long,listGroupMembers jsp request getContextPath user group remove group members ca pageTo currPageNo groupID groupID,0
+Group private Long groupID new Long,listGroupMembers jsp a href request getContextPath user group edit user ca id currUser getId groupID groupID pageTo currPageNo,0
+Group private Long groupID new Long,listGroupMembers jsp input name cancle type button class button default value fmt message key task last page onclick window open request getContextPath user group list group members ca groupID groupID last currPageNo currPageNo intValue tgrget self nbsp,0
+Group private Long groupID new Long,userForm jsp input type hidden name groupID value c out value groupID,0
+Group private Long groupID new Long,listGroupMembers jsp form action request getContextPath user group list group members ca groupID groupID,0
+Group private Long groupID new Long,listGroupsTree jsp groupSelected groupID,0
+Group private Long groupID new Long,groupsTreeToAddRole jsp groupSelected groupID,0
+Group private Long groupID new Long,listGroupMembers jsp url request getContextPath user group edit user ca groupID groupID pageTo currPageNo,0
+Group private Long groupID new Long,userForm jsp onclick window location replace request getContextPath priv manage show user privileges priv userID c out value id groupID c out value groupID pageTo c out value pageTo,0
+Group private Long groupID new Long,listGroupMembers jsp String groupID String request getAttribute groupID,0
+Group private Long groupID new Long,listUsersNoGroup jsp select id groupTree class button default name groupID onchange move,0
+Group private Long groupID new Long,showUserPrivileges jsp c if test not empty groupID,0
+Group private Long groupID new Long,showUserPrivileges jsp input type hidden name groupID value c out value groupID,0
+Group private Long groupID new Long,listUserOrganize jsp groupSelected groupID,0
+Group private Long groupID new Long,passForm jsp input type hidden name groupID value c out value groupID,0
+Group private Long groupID new Long,userForm jsp onclick window location replace request getContextPath user group change pass ca id c out value id groupID c out value groupID pageTo c out value pageTo,0
+Group private Long groupID new Long,listGroupMembers jsp input name cancle type button class button default value fmt message key task end page onclick window open request getContextPath user group list group members ca groupID groupID end currPageNo currPageNo intValue tgrget self nbsp,0
+Group private Long groupID new Long,listUserOrganize jsp function changeColor hrefID groupID,0
+Group private Long groupID new Long,listGroupsTree jsp function changeColor hrefID groupID,0
+FlowTask private List taskRefuses new ArrayList,listMyRefusedTasks jsp ftr FlowTaskRefuse taskRefuses get,0
+FlowTask private List taskRefuses new ArrayList,listMyRefusedTasks jsp if taskRefuses size,0
+FlowTask private List taskRefuses new ArrayList,listMyRefusedTasks jsp List taskRefuses currTask getTaskRefuses,0
+Resource private String resourceName,resourceForm jsp th label for resourceName,0
+Resource private String resourceName,resourceForm jsp resourceName label th,0
+WebModule private Long webModuleID new Long,listWebModuleResources jsp url request getContextPath resource manage edit resource resource webModuleID webModuleID,0
+WebModule private Long webModuleID new Long,listWebModuleResources jsp request getContextPath resource manage remove resource resource webModuleID webModuleID,0
+WebModule private Long webModuleID new Long,listWebModules jsp url request getContextPath resource manage remove web module resource webModuleID webModuleSelected,0
+WebModule private Long webModuleID new Long,resourceForm jsp input type hidden name webModuleID value c out value webModuleID,0
+WebModule private Long webModuleID new Long,listWebModuleResources jsp String webModuleID String request getAttribute webModuleID,0
+WebModule private Long webModuleID new Long,listWebModules jsp url request getContextPath resource manage edit web module resource webModuleID webModuleSelected,0
+WebModule private Long webModuleID new Long,listWebModulesTree jsp a href request getContextPath resource manage list web module resources resource webModuleID currWebModule getWebModuleID,0
+WebModule private Long webModuleID new Long,listWebModuleResources jsp a href request getContextPath resource manage edit resource resource webModuleID webModuleID rsID currResource getId,0
+WebModule private Long webModuleID new Long,resourceForm jsp c if test not empty webModuleID,0
+WebModule private Long webModuleID new Long,web xml param name webModuleID param name,0
+FlowTask private List newTasks new ArrayList,listNewTasks jsp title newTasks title,0
+AcegiCacheManager private ResourceCache resourceCache,ehcache xml cache name resourceCache,0
+AcegiCacheManager private ResourceCache resourceCache,acegi context xml property name cacheName value resourceCache,0
+AcegiCacheManager private ResourceCache resourceCache,acegi context xml bean id resourceCache,0
+User private List roles new ArrayList,top jsp LI A href onclick MM CLick this request getContextPath role manage list roles role class divNavBarANotSelected A LI,0
+User private List roles new ArrayList,privilege manage servlet xml prop key priv manage list roles priv listRoles prop,0
+User private List roles new ArrayList,role manage servlet xml prop key role manage list roles tree role listRolesTree prop,0
+User private List roles new ArrayList,role manage servlet xml prop key role manage list roles role listRoles prop,0
+User private List roles new ArrayList,role manage servlet xml prop key role manage list roles tree role roleManageController prop,0
+User private List roles new ArrayList,successSubmit jsp parent leftFrame location replace request getContextPath role manage list roles role,0
+User private List roles new ArrayList,top jsp LI A href onclick MM CLick this request getContextPath priv manage list roles priv class divNavBarANotSelected A LI,0
+User private List roles new ArrayList,configNodePerformer jsp onClick window open request getContextPath wf list roles pfm nodeBindingID c out value nodeBinding nodeBindingID nbsp,0
+User private List roles new ArrayList,listRoles jsp src request getContextPath role manage list roles tree role,0
+User private List roles new ArrayList,flow performer servlet xml prop key wf list roles pfm listRoles prop,0
+User private List roles new ArrayList,role manage servlet xml prop key role manage list roles role roleManageController prop,0
+User private List roles new ArrayList,listRoles jsp title list roles title,0
+FlowModelDAO private Element root,build xml property name hibernate connection username value root,0
+FlowModelDAO private Element root,log j xml root,0
+FlowModelDAO private Element root,log j xml root,0
+SendTaskQuartzJob private String mailText,workflow quartz context xml entry key mailText,0
+User private String userName,listMembersToAddPerformer jsp nbsp c out value currMember userName,0
+User private String userName,myInfoForm jsp th label for userName,0
+User private String userName,passForm jsp input type hidden name userName value userName,0
+User private String userName,myPassForm jsp input type hidden name userName value userName,0
+User private String userName,userForm jsp document forms userForm elements userName focus,0
+User private String userName,userForm jsp th align right label for userName,0
+User private String userName,validation xml arg key userName,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp c forEach items myNewTasksKinds var businessType,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp c out value businessType tasksNum font,0
+WorkflowMeta private BusinessType businessType,listAllBusinessTypes jsp c forEach var businessType items allBusinessTypes varStatus ide,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp c out value businessType tasksNum font,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp href request getContextPath list executing tasks wl typeID c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,listBusinessTypesToJoin jsp c forEach items allBusinessTypes var businessType,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp a target right class tablelinke onclick changeColor finished c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,businessTypeForm jsp spring bind path businessType typeID,0
+WorkflowMeta private BusinessType businessType,listBusinessTypesToJoin jsp td align left c out value businessType typeName td,0
+WorkflowMeta private BusinessType businessType,listAllBusinessTypes jsp a href request getContextPath wf edit bt bt typeID c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,listBusinessTypesToJoin jsp value c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,businessTypeForm jsp spring bind path businessType typeName,0
+WorkflowMeta private BusinessType businessType,businessTypeForm jsp v javascript formName businessType staticJavascript false xhtml true cdata false,0
+WorkflowMeta private BusinessType businessType,businessTypeForm jsp spring bind path businessType,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp href request getContextPath list finished tasks wl typeID c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp c out value businessType typeName font color FF id finished c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp c forEach items myExecutingTasks var businessType,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp a target right onclick changeColor exe c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp c out value businessType typeName font color FF id new c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,listAllBusinessTypes jsp c forEach items businessType workflowMetas var flowMeta varStatus idee,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp c out value businessType typeName font color FF id exe c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp a target right onclick changeColor new c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,listAllBusinessTypes jsp c if test businessType flowMetasNum,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp href request getContextPath list new tasks wl typeID c out value businessType typeID,0
+WorkflowMeta private BusinessType businessType,listAllBusinessTypes jsp c if test businessType flowMetasNum,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp c forEach items myFinishedTasksKinds var businessType,0
+WorkflowMeta private BusinessType businessType,validation xml form name businessType,0
+WorkflowMeta private BusinessType businessType,listTaskKinds jsp c out value businessType tasksNum font,0
+WorkflowMeta private BusinessType businessType,business type servlet xml property name commandName value businessType value property,0
+WorkflowMeta private BusinessType businessType,listBusinessTypesToJoin jsp onclick selectMe c out value businessType typeID td,0
+WorkflowMeta private BusinessType businessType,listAllBusinessTypes jsp c out value businessType typeName c out value businessType flowMetasNum,0
+ActivityReport private String driverID,seeDriverDetail jsp request getContextPath wf remove driver inputparam fd driverID,0
+ActivityReport private String driverID,driverOutputForm jsp input type hidden name driverID value c out value driverID,0
+ActivityReport private String driverID,seeDriverDetail jsp function deleteInputParam driverID paramID,0
+ActivityReport private String driverID,driverInputForm jsp input type hidden name driverID value c out value driverID,0
+ActivityReport private String driverID,seeDriverDetail jsp driverID paramID paramID,0
+ActivityReport private String driverID,seeDriverDetail jsp onclick window open request getContextPath wf edit input param fd driverID c out value theDriver flowDriverID width height src request getContextPath img add gif width height td,0
+ActivityReport private String driverID,seeDriverDetail jsp driverID paramID paramID,0
+ActivityReport private String driverID,driverInputForm jsp c if test not empty driverID,0
+ActivityReport private String driverID,listDrivers jsp request getContextPath wf see driver detail fd driverID tempi id,0
+ActivityReport private String driverID,driverOutputForm jsp c if test not empty driverID,0
+ActivityReport private String driverID,listDrivers jsp driverID obj id,0
+ActivityReport private String driverID,seeDriverDetail jsp request getContextPath wf remove driver outputparam fd driverID,0
+ActivityReport private String driverID,listDrivers jsp request getContextPath wf edit driver fd driverID driverID,0
+ActivityReport private String driverID,seeDriverDetail jsp function deleteOutputParam driverID paramID,0
+ActivityReport private String driverID,seeDriverDetail jsp action request getContextPath wf remove driver paramenume fd driverID c out value theDriver flowDriverID,0
+ActivityReport private String driverID,seeDriverDetail jsp onclick window open request getContextPath wf edit output param fd driverID c out value theDriver flowDriverID width height src request getContextPath img add gif width height td,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow service context xml ref bean ps sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow service context xml ref bean ps sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,ps hibernate context xml bean id ps sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow ca context xml property name sessionFactory ref bean ps sessionFactory property,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow engine context xml property name sessionFactory ref bean wf sessionFactory property,0
+SendTaskQuartzJob private SessionFactory sessionFactory,ps hibernate context xml ref local ps sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow ca context xml property name sessionFactory ref bean ps sessionFactory property,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow service context xml ref bean ps sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow ca context xml property name sessionFactory ref bean ps sessionFactory property,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow ca context xml property name sessionFactory ref bean ps sessionFactory property,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow quartz context xml ref bean ps sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow ca context xml property name sessionFactory ref bean ps sessionFactory property,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow service context xml property name sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,ps hibernate context xml property name sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow service context xml ref bean ps sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow service context xml ref bean ps sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow service context xml property name sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow engine context xml property name sessionFactory ref bean ps sessionFactory property,0
+SendTaskQuartzJob private SessionFactory sessionFactory,web xml param value ps sessionFactory param value,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow service context xml property name sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow engine context xml property name sessionFactory ref bean ps sessionFactory property,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow quartz context xml entry key sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow service context xml property name sessionFactory,0
+SendTaskQuartzJob private SessionFactory sessionFactory,workflow service context xml property name sessionFactory,0
+BusinessType private Long typeID new Long,listNewTasks jsp input name cancle type button class button default value fmt message key task end page onclick window open request getContextPath list new tasks wl typeID typeID end currPageNo currPageNo intValue tgrget self nbsp,0
+BusinessType private Long typeID new Long,listFinishedTasks jsp input name cancle type button class button default value fmt message key task first page onclick window open request getContextPath list finished tasks wl typeID typeID first currPageNo tgrget self nbsp nbsp,0
+BusinessType private Long typeID new Long,listExecutingTasks jsp input name cancle type button class button default value fmt message key task first page onclick window open request getContextPath list executing tasks wl typeID typeID first currPageNo tgrget self nbsp nbsp,0
+BusinessType private Long typeID new Long,listFinishedTasks jsp input name cancle type button class button default value fmt message key task end page onclick window open request getContextPath list finished tasks wl typeID typeID end currPageNo currPageNo intValue tgrget self nbsp,0
+BusinessType private Long typeID new Long,listFinishedTasks jsp input name cancle type button class button default value fmt message key task last page onclick window open request getContextPath list finished tasks wl typeID typeID last currPageNo currPageNo intValue tgrget self nbsp,0
+BusinessType private Long typeID new Long,listFinishedTasks jsp String typeID String request getAttribute typeID,0
+BusinessType private Long typeID new Long,listNewTasks jsp input name cancle type button class button default value fmt message key task first page onclick window open request getContextPath list new tasks wl typeID typeID first currPageNo tgrget self nbsp nbsp,0
+BusinessType private Long typeID new Long,businessTypeForm jsp input type hidden name typeID value c out value status value,0
+BusinessType private Long typeID new Long,listExecutingTasks jsp String typeID String request getAttribute typeID,0
+BusinessType private Long typeID new Long,listFinishedTasks jsp input name cancle type button class button default value fmt message key task next page onclick window open request getContextPath list finished tasks wl typeID typeID next currPageNo currPageNo intValue tgrget self nbsp,0
+BusinessType private Long typeID new Long,listExecutingTasks jsp input name cancle type button class button default value fmt message key task next page onclick window open request getContextPath list executing tasks wl typeID typeID next currPageNo currPageNo intValue tgrget self nbsp,0
+BusinessType private Long typeID new Long,listNewTasks jsp input name cancle type button class button default value fmt message key task last page onclick window open request getContextPath list new tasks wl typeID typeID last currPageNo currPageNo intValue tgrget self nbsp,0
+BusinessType private Long typeID new Long,listExecutingTasks jsp input name cancle type button class button default value fmt message key task last page onclick window open request getContextPath list executing tasks wl typeID typeID last currPageNo currPageNo intValue tgrget self nbsp,0
+BusinessType private Long typeID new Long,listNewTasks jsp form action request getContextPath list new tasks wl typeID typeID,0
+BusinessType private Long typeID new Long,listExecutingTasks jsp form action request getContextPath list executing tasks wl typeID typeID,0
+BusinessType private Long typeID new Long,listNewTasks jsp String typeID String request getAttribute typeID,0
+BusinessType private Long typeID new Long,listFinishedTasks jsp form action request getContextPath list finished tasks wl typeID typeID,0
+BusinessType private Long typeID new Long,listNewTasks jsp input name cancle type button class button default value fmt message key task next page onclick window open request getContextPath list new tasks wl typeID typeID next currPageNo currPageNo intValue tgrget self nbsp,0
+BusinessType private Long typeID new Long,listExecutingTasks jsp input name cancle type button class button default value fmt message key task end page onclick window open request getContextPath list executing tasks wl typeID typeID end currPageNo currPageNo intValue tgrget self nbsp,0
+User private String oldPass,passForm jsp document forms userForm elements oldPass focus,0
+User private String oldPass,myPassForm jsp document forms userForm elements oldPass focus,0
+User private String oldPass,passForm jsp th label for oldPass,0
+User private String oldPass,myPassForm jsp input type password class input name oldPass,0
+User private String oldPass,passForm jsp input type password class input name oldPass,0
+WebModule private String status,myInfoForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,userForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,userForm jsp input type hidden name c out value status expression,0
+WebModule private String status,driverForm jsp c if test not empty status errorMessages,0
+WebModule private String status,driverForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,driverOutputForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,flowDeployForm jsp c if test not empty status errorMessages,0
+WebModule private String status,myInfoForm jsp c if test not empty status errorMessages,0
+WebModule private String status,userForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,driverInputForm jsp input type hidden name c out value status expression value c out value status value,0
+WebModule private String status,updatePreviewImage jsp c if test not empty status errorMessages,0
+WebModule private String status,myInfoForm jsp value c out value status value,0
+WebModule private String status,groupForm jsp c if test not empty status errorMessages,0
+WebModule private String status,roleForm jsp c if test not empty status errorMessages,0
+WebModule private String status,roleForm jsp input type hidden name roleID value c out value status value,0
+WebModule private String status,userForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,myInfoForm jsp input type text class input name c out value status expression,0
+WebModule private String status,driverOutputEnumeForm jsp c if test not empty status errorMessages,0
+WebModule private String status,resourceForm jsp input type text class input name c out value status expression,0
+WebModule private String status,resourceForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,passForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,userForm jsp input type text class input name c out value status expression,0
+WebModule private String status,myInfoForm jsp value c out value status value,0
+WebModule private String status,flowDeployForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,passForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,myPassForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,driverInputForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,groupForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,passForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,resourceForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,driverInputForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,spring tld name given status name given,0
+WebModule private String status,myInfoForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,flowDeployForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,businessTypeForm jsp input type hidden name typeID value c out value status value,0
+WebModule private String status,updatePreviewImage jsp c forEach var error items status errorMessages,0
+WebModule private String status,resourceForm jsp input type text class input name c out value status expression,0
+WebModule private String status,resourceForm jsp value c out value status value,0
+WebModule private String status,driverForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,myPassForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,userForm jsp value c out value status value,0
+WebModule private String status,driverInputForm jsp c if test not empty status errorMessages,0
+WebModule private String status,driverForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,driverOutputEnumeForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,driverOutputEnumeForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,passForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,driverOutputEnumeForm jsp input type hidden name c out value status expression,0
+WebModule private String status,userForm jsp value c out value status value,0
+WebModule private String status,userForm jsp input type password class input name c out value status expression,0
+WebModule private String status,userForm jsp input type password class input name c out value status expression value c out value status value,0
+WebModule private String status,driverInputForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,seeFlowMeta jsp window showModalDialog url dialogWidth px dialogHeight px status help,0
+WebModule private String status,driverOutputForm jsp input type hidden name c out value status expression value c out value status value,0
+WebModule private String status,myInfoForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,flowDeployForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,driverOutputEnumeForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,driverOutputForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,driverForm jsp input type hidden name c out value status expression value c out value status value,0
+WebModule private String status,driverForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,businessTypeForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,webModuleForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,roleForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,passForm jsp c if test not empty status errorMessages,0
+WebModule private String status,driverOutputForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,driverForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,businessTypeForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,webModuleForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,userForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,driverOutputEnumeForm jsp value c out value status value,0
+WebModule private String status,flowDeployForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,driverForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,groupForm jsp input type hidden name c out value status expression value c out value status value,0
+WebModule private String status,driverOutputForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,userForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,roleForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,WebModule hbm xml name status,0
+WebModule private String status,userForm jsp value c out value status value,0
+WebModule private String status,myPassForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,businessTypeForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,groupForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,driverForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,userForm jsp value c out value status value,0
+WebModule private String status,flowDeployForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,driverForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,myPassForm jsp c if test not empty status errorMessages,0
+WebModule private String status,resourceForm jsp value c out value status value,0
+WebModule private String status,driverOutputForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,groupForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,resourceForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,userForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,userForm jsp value c out value status value,0
+WebModule private String status,roleForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,myInfoForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,businessTypeForm jsp c if test not empty status errorMessages,0
+WebModule private String status,driverForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,myPassForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,driverInputForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,resourceForm jsp c if test not empty status errorMessages,0
+WebModule private String status,webModuleForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,flowDeployForm jsp input type hidden name c out value status expression value c out value status value,0
+WebModule private String status,roleForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,myInfoForm jsp input type text class input name c out value status expression,0
+WebModule private String status,resourceForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,groupForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,driverForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,userForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,userForm jsp input type text class input name c out value status expression,0
+WebModule private String status,webModuleForm jsp input type hidden name webModuleID value c out value status value,0
+WebModule private String status,driverInputForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,userForm jsp c if test not empty status errorMessages,0
+WebModule private String status,webModuleForm jsp c if test not empty status errorMessages,0
+WebModule private String status,roleForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,groupForm jsp c forEach var error items status errorMessages,0
+WebModule private String status,resourceForm jsp span class fieldError c out value status errorMessage span,0
+WebModule private String status,driverForm jsp input type text class input name c out value status expression value c out value status value,0
+WebModule private String status,myInfoForm jsp input readonly readonly disabled disabled type text class input name c out value status expression value c out value status value,0
+WebModule private String status,driverOutputForm jsp c if test not empty status errorMessages,0
+WFDriverOutputParamEnume private String driverOutputParamEnumeValue,driverOutputEnumeForm jsp document forms wFDriverOutputParamEnumeForm elements driverOutputParamEnumeValue focus,0
+FlowDeploy private Long flowDeployID new Long,seeFlowMeta jsp url request getContextPath wf flow monitor moni flowDeployID selectedTR,0
+FlowDeploy private Long flowDeployID new Long,seeFlowNodeBinding jsp input type hidden name flowDeployID,0
+FlowDeploy private Long flowDeployID new Long,mainToDeploy jsp request getContextPath wf list drivers to deploy fd currentdriverID currentdriverID flowDeployID flowDeployID flowNodeID flowNodeID contextPath contextPath,0
+FlowDeploy private Long flowDeployID new Long,listDriversToDeploy jsp input type hidden name flowDeployID value request getAttribute flowDeployID,0
+FlowDeploy private Long flowDeployID new Long,mainToDeploy jsp String flowDeployID String request getAttribute flowDeployID,0
+FlowDeploy private Long flowDeployID new Long,seeFlowMeta jsp url request getContextPath wf see flow deploy dpl flowDeployID selectedTR,0
+FlowDeploy private Long flowDeployID new Long,seeFlowNodeBinding jsp flowDeployID flowDeploy getFlowDeployID,0
+FlowDeploy private Long flowDeployID new Long,seeFlowMeta jsp request getContextPath wf enable flow deploy dpl flowDeployID,0
+FlowDeploy private Long flowDeployID new Long,seeFlowMeta jsp request getContextPath wf remove flow deploy dpl flowDeployID selectedTR,0
+FlowDeploy private Long flowDeployID new Long,listFlowNodes jsp request getContextPath wf see flow node binding dpl flowDeployID c out value flowDeployID flowNodeID nodeID,0
+FlowDeploy private Long flowDeployID new Long,mainToDeploy jsp src request getContextPath wf list drivers to deploy fd currentdriverID currentdriverID flowDeployID flowDeployID flowNodeID flowNodeID,0
+FlowDeploy private Long flowDeployID new Long,listFlowNodes jsp request getContextPath wf see node performer pfm flowDeployID c out value flowDeployID flowNodeID nodeID,0
+FlowDeploy private Long flowDeployID new Long,seeFlowMeta jsp request getContextPath wf disable flow deploy dpl flowDeployID,0
+BusinessType private String typeName,businessTypeForm jsp document forms businessTypeForm elements typeName focus,0
+BusinessType private String typeName,businessTypeForm jsp th label for typeName,0
+FlowNodeBinding private Long nodeBindingID new Long,configNodePerformer jsp input type hidden name nodeBindingID,0
+FlowNodeBinding private Long nodeBindingID new Long,configNodePerformer jsp onClick window open request getContextPath wf list roles pfm nodeBindingID c out value nodeBinding nodeBindingID nbsp,0
+FlowNodeBinding private Long nodeBindingID new Long,listMembersToAddPerformer jsp form action request getContextPath wf add user performer pfm nodeBindingID c out value nodeBindingID,0
+FlowNodeBinding private Long nodeBindingID new Long,userOrganize jsp frame src request getContextPath wf list user organize pfm nodeBindingID c out value nodeBindingID,0
+FlowNodeBinding private Long nodeBindingID new Long,configNodePerformer jsp onClick window open request getContextPath wf user organize pfm nodeBindingID c out value nodeBinding nodeBindingID nbsp,0
+SendTaskQuartzJob private String mailFrom,workflow quartz context xml entry key mailFrom,0
+UserToken private String token,fmt tld Whitespace separated list of colon separated token pairs,0
+UserToken private String token,c tld Whitespace separated list of colon separated token pairs,0
+FlowProc private Long flowProcID new Long,flowMonitor jsp function showProcDetail flowProcID,0
+FlowProc private Long flowProcID new Long,flowDetail jsp request getContextPath monitor remove proc do flowProcID request getParameter flowProcID,0
+FlowProc private Long flowProcID new Long,flowMonitor jsp url request getContextPath wf flow detail moni flowProcID,0
+FlowProc private Long flowProcID new Long,flowMonitor jsp if flowProcID undefined,0
+FlowProc private Long flowProcID new Long,flowMonitor jsp flowProcID id,0
+WorkflowDriver private Long flowDriverID new Long,listDriversToDeploy jsp input type radio name flowDriverID,0
+Resource private WebModule webModule,webModuleForm jsp spring bind path webModule webModuleName,0
+Resource private WebModule webModule,webModuleForm jsp spring bind path webModule webModuleID,0
+Resource private WebModule webModule,webModuleForm jsp spring bind path webModule,0
+Resource private WebModule webModule,webModuleForm jsp v javascript formName webModule staticJavascript false xhtml true cdata false,0
+Resource private WebModule webModule,resource manage servlet xml property name commandName value webModule value property,0
+Resource private WebModule webModule,validation xml form name webModule,0
+HasRightToDoTag protected String alt,jsp alt Emerald Lake Western Canada a,0
+CAFilter private String WEB MODULE ID,WebModule hbm xml column FK WEB MODULE ID,0
+CAFilter private String WEB MODULE ID,WebModule hbm xml column PK WEB MODULE ID,0
+CAFilter private String WEB MODULE ID,WebModule hbm xml column FK WEB MODULE ID,0
+CAFilter private String WEB MODULE ID,User hbm xml column FK WEB MODULE ID,0
+CAFilter private String WEB MODULE ID,Resource hbm xml column FK WEB MODULE ID,0
+FlowDeploy private String flowDeployName,flowDeployForm jsp document forms flowDeployForm elements flowDeployName focus,0
+FlowDeploy private String flowDeployName,flowDeployForm jsp th label for flowDeployName,0
+WorkflowMeta private List flowDeploies new ArrayList,seeFlowMeta jsp logic iterate id theDeploy name flowDeploies indexId ide,0
+SendTaskQuartzJob private JavaMailSender mailSender,workflow quartz context xml entry key mailSender,0
+SendTaskQuartzJob private JavaMailSender mailSender,workflow quartz context xml ref local mailSender,0
+SendTaskQuartzJob private JavaMailSender mailSender,workflow quartz context xml bean id mailSender,0
+SendTaskQuartzJob private String mailTitle,workflow quartz context xml entry key mailTitle,0
+User private List groups new ArrayList,user group servlet xml prop key user group list groups tree ca,0
+User private List groups new ArrayList,main jsp src request getContextPath user group list groups ca,0
+User private List groups new ArrayList,top jsp LI A href onclick MM CLick this request getContextPath user group list groups ca class divNavBarASelected A LI,0
+User private List groups new ArrayList,user group servlet xml prop key user group list groups tree ca,0
+User private List groups new ArrayList,user group servlet xml prop key user group list groups ca listGroups prop,0
+User private List groups new ArrayList,role manage servlet xml prop key role manage groups tree to add role role roleManageController prop,0
+User private List groups new ArrayList,successSubmit jsp parent leftFrame location replace request getContextPath user group list groups ca,0
+User private List groups new ArrayList,listGroups jsp title list groups title,0
+User private List groups new ArrayList,user group servlet xml prop key user group list groups ca,0
+User private List groups new ArrayList,addRoleMembers jsp frame src request getContextPath role manage groups tree to add role role roleID request getAttribute roleID name tree left scrolling yes noresize,0
+User private List groups new ArrayList,listGroups jsp src request getContextPath user group list groups tree ca,0
+User private List groups new ArrayList,role manage servlet xml prop key role manage groups tree to add role role groupsTreeToAddRole prop,0
+WebModule private List resources new ArrayList,resource manage servlet xml property name successView value redirect resource manage list web module resources resource,0
+WebModule private List resources new ArrayList,resource manage servlet xml prop key resource manage list web module resources resource resourceManageController prop,0
+WebModule private List resources new ArrayList,showRolePrivileges jsp for Iterator itr resources iterator itr hasNext ide,0
+WebModule private List resources new ArrayList,listWebModulesTree jsp a href request getContextPath resource manage list web module resources resource webModuleID currWebModule getWebModuleID,0
+WebModule private List resources new ArrayList,showUserPrivileges jsp List resources theWebModule getResources,0
+WebModule private List resources new ArrayList,showUserPrivileges jsp for Iterator itr resources iterator itr hasNext ide,0
+WebModule private List resources new ArrayList,listWebModuleResources jsp logic iterate id currResource name resources indexId ide,0
+WebModule private List resources new ArrayList,resource manage servlet xml prop key resource manage list web module resources resource listWebModuleResources prop,0
+WebModule private List resources new ArrayList,showRolePrivileges jsp List resources theWebModule getResources,0
+User private String realName,validation xml arg key realName,0
+User private String realName,myInfoForm jsp document forms userForm elements realName focus,0
+User private String realName,userForm jsp realName label th,0
+User private String realName,userForm jsp th align right label for realName,0
+User private String realName,myInfoForm jsp realName label th,0
+User private String realName,myPassForm jsp input type hidden name realName value realName,0
+User private String realName,myInfoForm jsp th label for realName,0
+User private String realName,passForm jsp input type hidden name realName value realName,0
+WebModule private String webModuleName,webModuleForm jsp document forms webModuleForm elements webModuleName focus,0

@@ -1,0 +1,1282 @@
+MemberProfile private String jobTitle,show html p data th text jobTitle data th unless strings isEmpty profile jobTitle Rock,1
+ProjectFormInfo public String bootConfigSource,edit info html p class help is danger data th if fields hasErrors bootConfigSource data th errors bootConfigSource,1
+MemberProfile private String lanyrdUsername,edit html input class input data th classappend fields hasErrors lanyrdUsername is danger,1
+Display private String tagLine,index html p class m data th text project display tagLine Very short one line description p,1
+MemberProfile private String jobTitle,edit html input class input data th classappend fields hasErrors jobTitle is danger,1
+Project private Display display new Display,index html img class proj icon data th src project display imagePath images projects spring svg,1
+SpringToolsDownload private String downloadUrl,edit html td input class input type text data th field downloads size downloadUrl td,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html td input class input type text data th field downloads size downloadUrl td,1
+Display private String imagePath,index html img class proj icon data th src project display imagePath images projects spring svg,1
+MemberProfile private String twitterUsername,show html div data th if strings isEmpty profile twitterUsername class twitter handle,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html td input class input type text data th field downloads size label td,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html td input class input type text data th field downloads size version td,1
+MemberProfile private String speakerdeckUsername,edit html data th errors speakerdeckUsername Incorrect Speakerdeck username p,1
+ProjectFormReleases private FormRelease newRelease new FormRelease,edit releases html td input class input type text data th field newRelease apiDocUrl td,1
+ProjectFormMetadata String parentProjectId,edit metadata html input class input data th classappend fields hasErrors parentProjectId is danger,1
+SpringToolsDownload private String variant,edit html td input class input type text data th field downloads downloadStat index variant td,1
+ProjectFormInfo public String bootConfigSource,edit info html data th field bootConfigSource name bootConfigSource rows textarea,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html data th value downloads downloadStat index variant td,1
+Display private String tagLine,index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible p,1
+Project private Display display new Display,project links html a href data th href project display siteUrl class project link,1
+ProjectFormInfo public String overviewSource,edit info html textarea class textarea data th classappend fields hasErrors overviewSource is danger,1
+MemberProfile private String lanyrdUsername,edit html type text data th field lanyrdUsername name lanyrdUsername placeholder username,1
+MemberProfile private String twitterUsername,edit html p class help is danger data th if fields hasErrors twitterUsername,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html td input class input type text data th field downloads downloadStat index label td,1
+Project private Display display new Display,guide html li data th each project projects a data th href project display siteUrl data th text project name Spring Framework a li,1
+GenerationMetadata private LocalDate ossSupportEndDate,show html span data th if generation ossSupportEndDate null data th classappend generation ossSupportEndDate isBefore now past data th text generation ossSupportEndDate Jan span,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html tr data th each download downloadStat platform downloads,1
+Event private ZonedDateTime startTime,list html p class date data th text temporals format event startTime yyyy MM dd p,1
+Display private String imagePath,index html img class proj icon data th src project display imagePath images projects spring svg,1
+SpringToolsDownload private String downloadUrl,list html data th each download theia downloads data th href download downloadUrl strong data th text download label download version Spring Tools strong br span class smaller thin tt none Installation for Theia span a,1
+Display private String tagLine,index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible p,1
+ProjectFormInfo public String overviewSource,edit info html data th field overviewSource name overviewSource rows textarea,1
+SpringToolsDownload private String downloadUrl,edit html td input class input type text data th field downloads downloadStat index downloadUrl td,1
+MemberProfile private String lanyrdUsername,edit html p class help is danger data th if fields hasErrors lanyrdUsername,1
+MemberProfile private String speakerdeckUsername,edit html p class help is danger data th if fields hasErrors speakerdeckUsername,1
+MemberProfile private String twitterUsername,show html data th text profile twitterUsername div,1
+Project private Display display new Display,index html span data th text project display siteUrl projects spring framework span,1
+ProjectFormInfo public String displaySiteUrl,edit info html p class help is danger data th if fields hasErrors displaySiteUrl data th errors displaySiteUrl,1
+ProjectFormGenerations private FormGeneration newGeneration,edit support html p class help is danger data th if fields hasErrors newGeneration initialReleaseDate,1
+GenerationMetadata private LocalDate ossSupportEndDate,show html span data th if generation ossSupportEndDate null class none span,1
+ProjectFormGenerations private FormGeneration newGeneration,edit support html td input class input type text data th field newGeneration commercialSupportEnforcedEndDate placeholder Leave blank to use official policy,1
+MemberProfile private String jobTitle,edit html p class help is danger data th if fields hasErrors jobTitle data th errors name Incorrect,1
+ProjectFormMetadata String parentProjectId,new html p class help is danger data th if fields hasErrors parentProjectId data th errors parentProjectId,1
+ProjectFormMetadata String parentProjectId,new html input class input data th classappend fields hasErrors parentProjectId is danger,1
+ProjectFormInfo public int displaySortOrder,edit info html type number min max data th field displaySortOrder name displaySortOrder,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html td input class input type text data th field downloads size variant td,1
+BlogService private String disqusShortname,index html script id dsq count scr data th src disqusShortname disqus com count js async script,1
+Event private ZonedDateTime startTime,community html p class date data th text temporals format event startTime yyyy MM dd p,1
+Project private Display display new Display,index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you,1
+ProjectFormInfo public String displaySiteUrl,edit info html type text data th field displaySiteUrl name displaySiteUrl placeholder projects spring boot,1
+ProjectFormSamples private FormSample newSample,edit samples html td input class input type number min max data th field newSample sortOrder td,1
+Project private Display display new Display,index html p class m data th text project display tagLine Very short one line description p,1
+MemberProfile private String twitterUsername,show html data th attr data screen name profile twitterUsername data show replies false,1
+MemberProfile private String speakerdeckUsername,edit html data th classappend fields hasErrors speakerdeckUsername is danger,1
+AbstractGuide private String typeLabel,guide html div class content title desktop only data th text guide typeLabel Getting Started div,1
+MemberProfile private String twitterUsername,show html a data th if strings isEmpty profile twitterUsername,1
+ProjectFormInfo public int displaySortOrder,edit info html p class help is danger data th if fields hasErrors displaySortOrder,1
+Project private List Project subProjects new ArrayList,show html li class sidebar child data th each childProject proj subProjects,1
+MemberProfile private String twitterUsername,show html div data th unless strings isEmpty profile twitterUsername class twitter handle,1
+ProjectFormReleases private FormRelease newRelease new FormRelease,edit releases html td input class input type text data th field newRelease version td,1
+FormGeneration private boolean invalidCommercialSupportEndDate,edit support html p class help is danger data th if generation invalidCommercialSupportEndDate Defined end date does not comply with policy p td,1
+SpringToolsDownload private String variant,edit html data th value downloads downloadStat index variant td,1
+Project private ProjectGenerationsInfo generationsInfo new ProjectGenerationsInfo,show html tr data th each generation project generationsInfo generations,1
+ProjectFormInfo public String bootConfigSource,edit info html data th classappend fields hasErrors bootConfigSource is danger,1
+Project private MarkupDocument overview new MarkupDocument,show html div data th utext project overview html div,1
+MemberProfile private String jobTitle,index html p class team member position data th text profile jobTitle Spring team member p,1
+ProjectFormSamples private FormSample newSample,edit samples html td textarea class textarea data th field newSample description textarea td,1
+MemberProfile private String videoEmbeds,show html div class content container wrapper data th unless strings isEmpty profile videoEmbeds,1
+MemberProfile private String twitterUsername,show html div data th if strings isEmpty profile twitterUsername,1
+ProjectFormSamples private FormSample newSample,edit samples html td input class input type text data th field newSample url td,1
+MemberProfile private String twitterUsername,edit html data th errors twitterUsername Incorrect Twitter username p,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html td input class input type text data th field downloads downloadStat index version td,1
+MemberProfile private String lanyrdUsername,edit html data th errors lanyrdUsername Incorrect Lanyrd username p,1
+ProjectFormMetadata String parentProjectId,edit metadata html type text data th field parentProjectId name parentProjectId placeholder Parent project,1
+MemberProfile private String speakerdeckUsername,edit html type text data th field speakerdeckUsername name speakerdeckUsername,1
+MemberProfile private String gravatarEmail,edit html data th errors gravatarEmail Incorrect Gravatar email p,1
+GenerationMetadata private LocalDate commercialSupportEndDate,show html span data th if generation commercialSupportEndDate null class none span,1
+ProjectFormInfo public String displayImagePath,edit info html type text data th field displayImagePath name displayImagePath,1
+Release private boolean isCurrent,show html data th if release isCurrent CURRENT span,1
+Project private MarkupDocument bootConfig new MarkupDocument,show html div data th if project bootConfig html and strings length project bootConfig html and strings length project overview html,1
+ProjectFormInfo public String overviewSource,edit info html p class help is danger data th if fields hasErrors overviewSource data th errors overviewSource,1
+ProjectFormMetadata String parentProjectId,edit metadata html p class help is danger data th if fields hasErrors parentProjectId data th errors parentProjectId,1
+ProjectFormInfo public String displayTagLine,edit info html textarea class textarea data th classappend fields hasErrors displayTagLine is danger,1
+ProjectFormReleases private FormRelease newRelease new FormRelease,edit releases html td input class input type text data th field newRelease refDocUrl td,1
+ProjectFormGenerations private FormGeneration newGeneration,edit support html td input class input type text data th field newGeneration ossSupportEnforcedEndDate placeholder Leave blank to use official policy,1
+ProjectFormInfo public boolean displayFeatured,edit info html input type checkbox data th field displayFeatured name displayFeatured Added to the Featured section on the projects page,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html td input class input type text data th field downloads downloadStat index downloadUrl td,1
+Project private Display display new Display,index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible p,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html td input class input type text data th field downloads downloadStat index variant td,1
+Project private Display display new Display,index html data th href project display siteUrl data th attr data groups project groups name,1
+SpringToolsDownload private String variant,edit html td input class input type text data th field downloads size variant td,1
+ProjectFormGenerations private FormGeneration newGeneration,edit support html data th errors newGeneration name Name must end with x p td,1
+SpringToolsDownload private String downloadUrl,list html data th href download downloadUrl strong data th text download label download version Spring Tools strong br span class smaller thin tt none VSCode Marketplace span a,1
+ProjectFormGenerations private FormGeneration newGeneration,edit support html td input class input type text data th field newGeneration initialReleaseDate placeholder,1
+MemberProfile private String twitterUsername,edit html input class input data th classappend fields hasErrors twitterUsername is danger,1
+Project private Display display new Display,show html a data th href childProject display siteUrl,1
+GenerationMetadata private LocalDate commercialSupportEndDate,show html span data th if generation commercialSupportEndDate null data th classappend generation commercialSupportEndDate isBefore now past data th text generation commercialSupportEndDate Jan span,1
+ProjectFormInfo public String displayImagePath,edit info html data th errors displayImagePath Incorrect path to project icon p,1
+ProjectFormInfo public int displaySortOrder,edit info html input class input data th classappend fields hasErrors displaySortOrder is danger,1
+MemberProfile private String gravatarEmail,edit html data th classappend fields hasErrors gravatarEmail is danger,1
+Project private Display display new Display,index html a data th href project display siteUrl target blank,1
+Project private List Project subProjects new ArrayList,show html i data th if isChildrenOpen proj subProjects null proj subProjects size,1
+ProjectFormSamples private FormSample newSample,edit samples html td input class input type text data th field newSample title value true td,1
+Project private Display display new Display,index html data th href project display siteUrl data th attr data groups project groups name,1
+SpringToolsDownload private String downloadUrl,list html data th href download downloadUrl data th text download version download label v STS Linux bit a,1
+Release private boolean isCurrent,show html data th if release isCurrent CURRENT span,1
+MemberProfile private String twitterUsername,show html data th href https twitter com profile twitterUsername,1
+MemberProfile private String jobTitle,show html meta property og description data th content profile fullName profile jobTitle,1
+MemberProfile private String gravatarEmail,edit html p class help is danger data th if fields hasErrors gravatarEmail,1
+MemberProfile private String videoEmbeds,show html div class embedded video data th utext profile videoEmbeds div,1
+Project private List Project subProjects new ArrayList,show html data th with isChildrenOpen proj equals project or proj equals project getParentProject and proj subProjects and proj subProjects size,1
+MemberProfile private String twitterUsername,member html p class subtitle is has text link span data th text member twitterUsername Twitter span p,1
+Project private List Project subProjects new ArrayList,show html i data th if isChildrenOpen proj subProjects null proj subProjects size,1
+MemberProfile private String gravatarEmail,edit html type text data th field gravatarEmail name gravatarEmail,1
+MemberProfile private String twitterUsername,show html div data th unless strings isEmpty profile twitterUsername,1
+ProjectFormInfo public String displayImagePath,edit info html input class input data th classappend fields hasErrors displayImagePath is danger,1
+ProjectFormMetadata String parentProjectId,new html type text data th field parentProjectId name parentProjectId placeholder Parent project,1
+FormGeneration private boolean invalidOssSupportEndDate,edit support html p class help is danger data th if generation invalidOssSupportEndDate Defined end date does not comply with policy p td,1
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,edit html tr data th with size platform downloads size,1
+ProjectFormInfo public int displaySortOrder,edit info html data th errors displaySortOrder Incorrect display order p,1
+ProjectFormGenerations private FormGeneration newGeneration,edit support html data th errors newGeneration initialReleaseDate Date must use the format p td,1
+MemberProfile private String twitterUsername,show html a data th unless strings isEmpty profile twitterUsername,1
+ProjectFormInfo public String displayTagLine,edit info html data th field displayTagLine name displayTagLine rows textarea,1
+Project private Display display new Display,index html img class proj icon data th src project display imagePath images projects spring svg,1
+Project private MarkupDocument overview new MarkupDocument,show html div data th if project bootConfig html and strings length project bootConfig html and strings length project overview html,1
+Display private String tagLine,index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you,1
+Project private MarkupDocument bootConfig new MarkupDocument,show html div data th utext project bootConfig html div,1
+ProjectFormGenerations private FormGeneration newGeneration,edit support html p class help is danger data th if fields hasErrors newGeneration name,1
+MemberProfile private String twitterUsername,show html data th href https twitter com intent user screen name profile twitterUsername,1
+ProjectFormGenerations private FormGeneration newGeneration,edit support html td input class input type text data th field newGeneration name placeholder x or Name x,1
+ProjectFormInfo public String displayImagePath,edit info html p class help is danger data th if fields hasErrors displayImagePath,1
+ProjectFormInfo public String displayTagLine,edit info html p class help is danger data th if fields hasErrors displayTagLine data th errors displayTagLine,1
+Project private Display display new Display,show html a data th href proj display siteUrl data th text proj getName a,1
+MemberProfile private String twitterUsername,edit html type text data th field twitterUsername name twitterUsername placeholder username,1
+MemberProfile private String jobTitle,edit html type text data th field jobTitle name jobTitle,1
+MemberProfile private String jobTitle,member html span data th text member jobTitle span,1
+Project private Display display new Display,index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible p,1
+Project private Display display new Display,index html data th href project display siteUrl data th attr data groups project groups name,1
+ProjectFormInfo public String displaySiteUrl,edit info html input class input data th classappend fields hasErrors displaySiteUrl is danger,1
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,metropolis bold demo html style type text css,0
+Link String text,edit releases html title data th inline text Admin Edit project id title,0
+Link String text,index html data th text post category Category a,0
+Link String text,index html data th text dates format post publishAt MMMM d yyyy June,0
+Link String text,show html div class content container title data th inline text Blog Posts by profile name,0
+Link String text,edit html type text data th field title name title placeholder Blog post title,0
+Link String text,show html span data th text childProject getName span,0
+Link String text,new html type text data th field repoUrl name repoUrl,0
+Link String text,edit html td input class input type text data th field downloads size version td,0
+Link String text,edit html li class is active a data th href admin tools platform id data th inline text aria current page Edit platform id a li,0
+Link String text,edit samples html td input class input type text data th field newSample title value true td,0
+Link String text,edit info html title data th inline text Admin Edit project id title,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,metropolis bold demo html script type text javascript charset utf,0
+Link String text,edit samples html title data th inline text Admin Edit project id title,0
+Link String text,index html input class input type text placeholder Find a post,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,edit support html td input type text class input data th field generations generationStat index initialReleaseDate autocomplete off td,0
+Link String text,metropolis bold demo html script type text javascript,0
+Link String text,layout html span class icon has text primary,0
+Link String text,posts table html span class tag is primary data th text post category News span,0
+Link String text,index html span class author data th text post author name data th if post author hidden Author span,0
+Link String text,edit info html option data th each group groups data th value group name data th text group label,0
+Link String text,layout html span class icon has text success,0
+Link String text,edit samples html td input class input type text data th field samples sampleStat index url,0
+Link String text,show html data th text guide getTitle strong,0
+Link String text,show html link rel stylesheet type text css media all data th href css project css,0
+Link String text,list html data th href download downloadUrl strong data th text download label download version Spring Tools strong br span class smaller thin tt none VSCode Marketplace span a,0
+Link String text,maintenance html link rel stylesheet type text css media all data th href css maintenance css,0
+Link String text,cloud html div class text,0
+Link String text,edit html type text data th field twitterUsername name twitterUsername placeholder username,0
+Link String text,layout html link rel stylesheet type text css media all data th href css main css,0
+Link String text,edit releases html td input class input type text data th field newRelease version td,0
+Link String text,list html p class date data th text temporals format event startTime yyyy MM dd p,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,edit html input type text data th field publishAt name publishAt,0
+Link String text,new html type text data th field id name id placeholder Project id,0
+Link String text,metropolis extrabold demo html code lt link rel quot stylesheet quot href quot stylesheet css quot type quot text css quot charset quot utf quot gt code,0
+Link String text,metropolis regular demo html code lt link rel quot stylesheet quot href quot stylesheet css quot type quot text css quot charset quot utf quot gt code,0
+Link String text,member html p class subtitle is has text link span data th text member twitterUsername Twitter span p,0
+Link String text,guide html link rel stylesheet type text css data th href css guide css,0
+Link String text,index html div class text,0
+Link String text,member html span data th text member jobTitle span,0
+Link String text,edit html td input class input type text data th field downloads downloadStat index version td,0
+Link String text,list html div class text,0
+Link String text,metropolis extrabold demo html link rel stylesheet href specimen files specimen stylesheet css type text css charset utf,0
+Link String text,index html p class m data th text project display tagLine Very short one line description p,0
+Link String text,index html a data th href post path data th text post title,0
+Link String text,full post html script type text javascript data th inline javascript,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,edit releases html td input class input type text data th field newRelease refDocUrl td,0
+Link String text,microservices html div class text half,0
+Link String text,metropolis regular demo html link rel stylesheet href specimen files specimen stylesheet css type text css charset utf,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,guide html button class copy button github data toggle tooltip data th attr data clipboard text guide cloneUrl button,0
+Link String text,edit metadata html type text data th field stackOverflowTags name stackOverflowTags,0
+Link String text,metropolis regular demo html script type text javascript,0
+Link String text,edit support html td input class input type text data th field newGeneration commercialSupportEnforcedEndDate placeholder Leave blank to use official policy,0
+Link String text,index html span data th text project display siteUrl projects spring framework span,0
+Link String text,index html data th text dates format newestPost publishAt MMMM d yyyy June,0
+Link String text,index html a class guide link bold blue link darken antialiased data th href guides topicals topical name data th text topical title Spring Security Architecture a,0
+Link String text,edit html td input class input type text data th field downloads downloadStat index variant td,0
+Link String text,edit html td input class input type text data th field downloads size label td,0
+Link String text,web applications html div class text,0
+Link String text,show html span data th if generation ossSupportEndDate null data th classappend generation ossSupportEndDate isBefore now past data th text generation ossSupportEndDate Jan span,0
+Link String text,layout html span class icon has text success,0
+Link String text,edit html title data th inline text Admin Team Edit profile fullName title,0
+Link String text,list html div class text,0
+Link String text,layout html span class icon has text danger,0
+Link String text,show html data th text sample getTitle strong,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,metropolis regular demo html style type text css,0
+Link String text,index html p span class author data th text newestPost author name Author Name span,0
+Link String text,show html data th text profile twitterUsername div,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,metropolis regular demo html link rel stylesheet href stylesheet css type text css charset utf,0
+Link String text,index html h class h blue m antialiased data th text project name Spring Boot h,0
+Link String text,list html data th each download theia downloads data th href download downloadUrl strong data th text download label download version Spring Tools strong br span class smaller thin tt none Installation for Theia span a,0
+Link String text,guide html li data th each project projects a data th href project display siteUrl data th text project name Spring Framework a li,0
+Link String text,edit metadata html type text data th field parentProjectId name parentProjectId placeholder Parent project,0
+Link String text,edit releases html td input class input type text,0
+Link String text,show html td span data th text generation initialReleaseDate data th classappend generation initialReleaseDate isBefore now past Aug span td,0
+Link String text,thank you html div class text,0
+Link String text,edit metadata html type text data th field name name name placeholder Name,0
+Link String text,guide html div class content title desktop only data th text guide typeLabel Getting Started div,0
+Link String text,show html h data th text project getName h,0
+Link String text,list html div class text,0
+Link String text,show html h class team member name data th text fullName Member Name h,0
+Link String text,show html a data th href blog category category urlSlug data th text category displayName All,0
+Link String text,edit support html title data th inline text Admin Edit projectFormGenerations id title,0
+Link String text,show html data th text guide getTitle strong,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,layout html link rel stylesheet type text css media all data th href css admin css,0
+Link String text,index html a data th href blog category category urlSlug data th text category displayName All,0
+Link String text,new html type text data th field parentProjectId name parentProjectId placeholder Parent project,0
+Link String text,new html data th text format displayName,0
+Link String text,list html p class location m data th text event location Location p,0
+Link String text,edit html option data th each cat categories data th value cat id data th text cat displayName,0
+Link String text,edit releases html td input class input type text data th field newRelease apiDocUrl td,0
+Link String text,edit releases html td input class input type text,0
+Link String text,show html data th text dates format post publishAt MMMM d yyyy June,0
+Link String text,layout html span class icon has text star,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,guide html input id clone url https readonly readonly type text data th value guide cloneUrl,0
+Link String text,show html data th text sample getDescription span,0
+Link String text,posts table html span class icon has text success,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,index html td a data th href admin tools platform id data th text platform id eclipse a td,0
+Link String text,index html div class text,0
+Link String text,thank you html div class text,0
+Link String text,index html p class team member location data th text profile location Some hometown p,0
+Link String text,member html span data th text member location span,0
+Link String text,show html span data th if generation commercialSupportEndDate null data th classappend generation commercialSupportEndDate isBefore now past data th text generation commercialSupportEndDate Jan span,0
+Link String text,edit html data th text format displayName,0
+Link String text,edit html type text data th field location name location,0
+Link String text,metropolis extrabold demo html meta http equiv Content Type content text html charset utf,0
+Link String text,edit html type text data th field gravatarEmail name gravatarEmail,0
+Link String text,thank you html div class text,0
+Link String text,index html span class author data th text newestPost author name data th if newestPost author hidden Author span,0
+Link String text,index html div class proj text,0
+Link String text,index html p span class author data th text post author name Author Name span,0
+Link String text,index html h class h m antialiased data th text project name Spring Kubernetes h,0
+Link String text,guide html button class copy button github data toggle tooltip data th attr data clipboard text guide sshUrl button,0
+Link String text,why spring html div class text,0
+Link String text,edit metadata html option data th each policy supportPolicies data th value policy data th text policy label,0
+Link String text,cloud html div class text half,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,guide html title data th inline text guide typeLabel guide title title,0
+Link String text,edit html type text data th field jobTitle name jobTitle,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,index html data th text newestPost category Category a,0
+Link String text,thank you html div class text,0
+Link String text,cloud html div class text,0
+Link String text,show html p data th text location data th unless strings isEmpty profile location,0
+Link String text,show html data th text guide getTitle strong,0
+Link String text,index html div class billboard container center text js team map container,0
+Link String text,member html p class title is data th text member name Name p,0
+Link String text,edit html h class title data th inline text Edit platform id platform h,0
+Link String text,edit info html type text data th field displayImagePath name displayImagePath,0
+Link String text,index html td a data th href admin projects project id data th text project name spring framework a td,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,index html p class team member position data th text profile jobTitle Spring team member p,0
+Link String text,event driven html div class text,0
+Link String text,new html type text data th field title name title placeholder Blog post title,0
+Link String text,guide html input id clone url ssh readonly readonly type text data th value guide sshUrl,0
+Link String text,show html title data th inline text Team profile fullName title,0
+Link String text,full post html a class author rel author data th text post author name data th href team post author username data th unless post author hidden Author a,0
+Link String text,show html p data th text jobTitle data th unless strings isEmpty profile jobTitle Rock,0
+Link String text,posts table html td data th text post formattedPublishDate January td,0
+Link String text,edit samples html td input class input type text data th field samples sampleStat index title,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,index html data th href admin blog page element label data th text element label a,0
+Link String text,index html span class tag data th classappend is project status data th text project status label Active span,0
+Link String text,edit html title data th inline text Admin Edit platform id title,0
+Link String text,metropolis bold demo html link rel stylesheet href specimen files specimen stylesheet css type text css charset utf,0
+Link String text,edit html title data th inline text Admin Blog post title title,0
+Link String text,edit metadata html option data th each stat statusList data th value stat data th text stat label,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,edit support html td input type text class input data th field generations generationStat index commercialSupportEnforcedEndDate autocomplete off,0
+Link String text,show html span class release display name data th text release version,0
+Link String text,index html a class author data th text newestPost author name,0
+Link String text,index html li class blue pointer rad border box flex jc between ai center data th each group groups data th attr data group group name data th inline text group label img class filter exit data th src images close svg alt li,0
+Link String text,metropolis extrabold demo html script type text javascript,0
+Link String text,index html div class proj text,0
+Link String text,show html title data th inline text post title title,0
+Link String text,index html div class text,0
+Link String text,thank you html div class text,0
+Link String text,edit releases html td span data th text releases releaseStat index version span td,0
+Link String text,index html data th text dates format newestPost publishAt MMMM d June time,0
+Link String text,microservices html div class text,0
+Link String text,show html data th text guide getDescription span,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,layout html input type text name q id searchheaderinput autocomplete off placeholder Search for documentation guides and posts,0
+Link String text,show html link rel stylesheet type text css media all data th href css profile css,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,show html div class content container title data th inline text Videos by profile name div,0
+Link String text,index html data th text dates format newestPost publishAt MMMM d June time,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,show html data th text post category Category a,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,index html a class guide link bold blue link darken antialiased data th href guides gs guide name data th text guide title Building a RESTful Web Service a,0
+Link String text,edit metadata html type text data th field id name id placeholder Project id,0
+Link String text,index html link rel stylesheet type text css media all data th href css team css,0
+Link String text,metropolis bold demo html meta http equiv Content Type content text html charset utf,0
+Link String text,list html h class h antialiased data th text event summary Event h,0
+Link String text,layout html span data th text authentication principal attributes login springcentral span,0
+Link String text,index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible p,0
+Link String text,posts table html td a data th href post editPath data th text post title This week in Spring a td,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,edit html type text data th field name name name placeholder Name,0
+Link String text,thank you html div class text,0
+Link String text,new html option data th each cat categories data th value cat id data th text cat displayName,0
+Link String text,edit support html td input class input type text data th field newGeneration name placeholder x or Name x,0
+Link String text,edit support html td input class input type text data th field newGeneration ossSupportEnforcedEndDate placeholder Leave blank to use official policy,0
+Link String text,index html a data th href blog page element label data th text element label,0
+Link String text,index html aside class text,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,show html data th text guide getDescription span,0
+Link String text,edit metadata html title data th inline text Admin Edit project id title,0
+Link String text,index html div class text,0
+Link String text,index html p class m data th text tutorial description Learn how to easily build RESTful services with Spring p,0
+Link String text,list html div class text,0
+Link String text,event driven html div class text,0
+Link String text,edit html type text data th field speakerdeckUsername name speakerdeckUsername,0
+Link String text,edit html td input class input type text data th field downloads downloadStat index label td,0
+Link String text,community html p class location m data th text event location Location p,0
+Link String text,index html p class guide description m Designed to be completed in minutes these guides provide quick hands on instructions for building the Hello World of any development task with Spring In most cases the only prerequisites are a JDK and a text editor p,0
+Link String text,thank you html div class text,0
+Link String text,new html type text data th field stackOverflowTags name stackOverflowTags,0
+Link String text,index html div class proj text,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,metropolis regular demo html script src http ajax googleapis com ajax libs jquery jquery min js type text javascript charset utf script,0
+Link String text,edit html type text data th field lanyrdUsername name lanyrdUsername placeholder username,0
+Link String text,index html h class blog title a data th href newestPost path data th text newestPost title Blog post title a h,0
+Link String text,index html a class guide link bold blue link darken antialiased data th href guides tutorials tutorial name data th text tutorial title Building REST services with Spring a,0
+Link String text,batch html div class text,0
+Link String text,full post html span class author data th text post author name data th if post author hidden Author span,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,full post html time class date pubdate data th datetime post publishAt data th text post formattedPublishDate June time,0
+Link String text,index html a class blue h antialiased link darken data th href newestPost path data th text newestPost title Newest blog post title a,0
+Link String text,index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible p,0
+Link String text,edit html td input class input type text data th field downloads size downloadUrl td,0
+Link String text,index html h class h m antialiased data th text project name Spring Boot h,0
+Link String text,community html p class date data th text temporals format event startTime yyyy MM dd p,0
+Link String text,metropolis bold demo html code lt link rel quot stylesheet quot href quot stylesheet css quot type quot text css quot charset quot utf quot gt code,0
+Link String text,new html option data th each stat statusList data th value stat data th text stat,0
+Link String text,edit support html td input class input type text data th field newGeneration initialReleaseDate placeholder,0
+Link String text,show html a data th href proj display siteUrl data th text proj getName a,0
+Link String text,index html a class author data th text post author name,0
+Link String text,edit support html td input type hidden data th field generations generationStat index name span data th text generation name x span td,0
+Link String text,metropolis extrabold demo html script src http ajax googleapis com ajax libs jquery jquery min js type text javascript charset utf script,0
+Link String text,edit html td input class input type text data th field downloads downloadStat index downloadUrl td,0
+Link String text,index html a data th href team profile username class team member name data th text profile name Member,0
+Link String text,show html data th text guide getDescription span,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,layout html span class icon has text tools,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,posts table html span data th text post author name Emily Spring span,0
+Link String text,edit support html td input type text class input data th field generations generationStat index ossSupportEnforcedEndDate autocomplete off,0
+Link String text,metropolis extrabold demo html style type text css,0
+Link String text,full post html a class category data th href blog category category urlSlug data th text post category Category a,0
+Link String text,show html class member post title data th text post title,0
+Link String text,index html p class m data th text guide description Learn how to create a RESTful web service with Spring p,0
+Link String text,show html data th text release version,0
+Link String text,metropolis extrabold demo html script type text javascript charset utf,0
+Link String text,full post html a data th href path data th text title Blog post title a,0
+Link String text,edit html type text data th field geoLocation name geoLocation,0
+Link String text,show html Welcome span data th text authentication principal attributes name Emily Spring span,0
+Link String text,show html td class release data th inline text,0
+Link String text,edit info html type text data th field displaySiteUrl name displaySiteUrl placeholder projects spring boot,0
+Link String text,show html link rel stylesheet type text css data th href css blog css,0
+Link String text,index html p class m data th text topical description Topical guide to Spring Security how the bits fit together and how they interact with Spring Boot p,0
+Link String text,show html title data th text project getName title,0
+Link String text,thank you html div class text,0
+Link String text,metropolis regular demo html script type text javascript charset utf,0
+Link String text,new html type text data th field name name name placeholder Name,0
+Link String text,edit support html p class help data th if generation ossSupportPolicyEndDate data th text Official Policy generation ossSupportPolicyEndDate p,0
+Link String text,metropolis bold demo html script src http ajax googleapis com ajax libs jquery jquery min js type text javascript charset utf script,0
+Link String text,index html a class blue h antialiased link darken data th href post path data th text post title Blog post title a,0
+Link String text,index html h class h m antialiased data th text project name Spring Boot h,0
+Link String text,show html span class release display name data th text release version,0
+Link String text,reactive html div class text,0
+Link String text,edit support html p class help data th if generation commercialSupportPolicyEndDate data th text Official Policy generation commercialSupportPolicyEndDate p,0
+Link String text,new html title data th inline text Admin Project New Project title,0
+Link String text,list html data th href download downloadUrl data th text download version download label v STS Linux bit a,0
+Link String text,edit html type text data th field id name id placeholder Name,0
+Link String text,guide html h class title data th text guide title Building a RESTful Web Service h,0
+Link String text,index html link rel stylesheet type text css data th href css blog css,0
+Link String text,metropolis extrabold demo html link rel stylesheet href stylesheet css type text css charset utf,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,community html h class h antialiased data th text event summary Event h,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,edit html label class label data th text Publication Date timezone Publication Date PST label,0
+Link String text,index html div data th text element label,0
+Link String text,index html div data th text element label data th if element navigable element currentPage,0
+Link String text,edit html data th text profile username username a li,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,metropolis bold demo html link rel stylesheet href stylesheet css type text css charset utf,0
+Link String text,show html div class team member bio data th text bio Subttitle Ligula Risus Tristique,0
+Link String text,edit metadata html type text data th field repoUrl name repoUrl,0
+Link String text,index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you,0
+Link String text,layout html xml version encoding utf Generator Adobe Illustrator SVG Export Plug In SVG Version Build svg version class mobile close pointer id Layer xmlns http www w org svg xmlns xlink http www w org xlink x px y px viewBox style enable background new xml space preserve style type text css st fill none stroke stroke widdata th stroke miterlimit style title close title line class st x y x y line class st x y x y svg,0
+Link String text,workspace xml provider selected true editor type id text editor,0
+Link String text,edit samples html td input class input type text data th field newSample url td,0
+Link String text,edit html td input class input type text data th field downloads size variant td,0
+Link String text,metropolis regular demo html meta http equiv Content Type content text html charset utf,0
+MarkupDocument private String html,shapes html html,0
+MarkupDocument private String html,serverless html html,0
+MarkupDocument private String html,right pane html form getFormElem html p Thank you p,0
+MarkupDocument private String html,list html DOCTYPE html,0
+MarkupDocument private String html,urlrewrite xml https urlrewritefilter googlecode com svn trunk src doc manual index html,0
+MarkupDocument private String html,metropolis extrabold demo html DOCTYPE html PUBLIC W C DTD XHTML Transitional EN,0
+MarkupDocument private String html,maintenance html DOCTYPE html,0
+MarkupDocument private String html,reactive html DOCTYPE html,0
+MarkupDocument private String html,guide html html,0
+MarkupDocument private String html,microservices html DOCTYPE html,0
+MarkupDocument private String html,edit support html DOCTYPE html,0
+MarkupDocument private String html,why spring html html data th replace layout,0
+MarkupDocument private String html,sidebar html DOCTYPE html,0
+MarkupDocument private String html,edit metadata html DOCTYPE html,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates admin team edit html,0
+MarkupDocument private String html,thank you html html data th replace layout,0
+MarkupDocument private String html,full post html DOCTYPE html,0
+MarkupDocument private String html,show html html data th replace layout,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates admin project edit metadata html,0
+MarkupDocument private String html,edit releases html html data th replace admin layout,0
+MarkupDocument private String html,posts table html html,0
+MarkupDocument private String html,index html html data th replace admin layout,0
+MarkupDocument private String html,edit samples html DOCTYPE html,0
+MarkupDocument private String html,list html DOCTYPE html,0
+MarkupDocument private String html,trademarks html html,0
+MarkupDocument private String html,right pane html DOCTYPE html,0
+MarkupDocument private String html,icons html html,0
+MarkupDocument private String html,metropolis bold demo html html xmlns http www w org xhtml xml lang en lang en,0
+MarkupDocument private String html,sidebar html html,0
+MarkupDocument private String html,urlrewrite xml https urlrewritefilter googlecode com svn trunk src doc manual guide html,0
+MarkupDocument private String html,edit html html data th replace admin layout,0
+MarkupDocument private String html,edit html DOCTYPE html,0
+MarkupDocument private String html,batch html html,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates admin blog edit html,0
+MarkupDocument private String html,microservices html html,0
+MarkupDocument private String html,maintenance html html,0
+MarkupDocument private String html,index html DOCTYPE html,0
+MarkupDocument private String html,edit releases html DOCTYPE html,0
+MarkupDocument private String html,full post html html,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates guides index html,0
+MarkupDocument private String html,edit html html,0
+MarkupDocument private String html,metropolis extrabold demo html html,0
+MarkupDocument private String html,microservices html html data th replace layout,0
+MarkupDocument private String html,signin html html,0
+MarkupDocument private String html,maintenance html html,0
+MarkupDocument private String html,index html html,0
+MarkupDocument private String html,posts table html DOCTYPE html,0
+MarkupDocument private String html,show html html,0
+MarkupDocument private String html,layout html html data th fragment layout heads bodyId content lang en,0
+MarkupDocument private String html,training html html data th replace layout,0
+MarkupDocument private String html,list html html,0
+MarkupDocument private String html,project links html html,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates admin project edit samples html,0
+MarkupDocument private String html,edit info html DOCTYPE html,0
+MarkupDocument private String html,icons color html DOCTYPE html,0
+MarkupDocument private String html,layout html html data th fragment layout heads breadcrumbs tabs content xmlns sec http www thymeleaf org extras spring security lang en,0
+MarkupDocument private String html,index html DOCTYPE html,0
+MarkupDocument private String html,training html DOCTYPE html,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates learn index html,0
+MarkupDocument private String html,project links html html,0
+MarkupDocument private String html,index html html,0
+MarkupDocument private String html,project links html DOCTYPE html,0
+MarkupDocument private String html,workspace xml element signature n form n div n body n html n top,0
+MarkupDocument private String html,support html html data th replace layout,0
+MarkupDocument private String html,show html html,0
+MarkupDocument private String html,thank you html DOCTYPE html,0
+MarkupDocument private String html,edit support html html,0
+MarkupDocument private String html,layout html DOCTYPE html,0
+MarkupDocument private String html,metropolis extrabold demo html html xmlns http www w org xhtml xml lang en lang en,0
+MarkupDocument private String html,new html html data th replace admin layout,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates admin show html,0
+MarkupDocument private String html,edit info html html,0
+MarkupDocument private String html,list html html data th replace layout,0
+MarkupDocument private String html,serverless html html data th replace layout,0
+MarkupDocument private String html,new html DOCTYPE html,0
+MarkupDocument private String html,show html html,0
+MarkupDocument private String html,show html DOCTYPE html,0
+MarkupDocument private String html,metropolis extrabold demo html meta http equiv Content Type content text html charset utf,0
+MarkupDocument private String html,index html html data th replace layout,0
+MarkupDocument private String html,show html DOCTYPE html,0
+MarkupDocument private String html,event driven html html data th replace layout,0
+MarkupDocument private String html,index html html,0
+MarkupDocument private String html,reactive html html data th replace layout,0
+MarkupDocument private String html,edit html html,0
+MarkupDocument private String html,icons html html,0
+MarkupDocument private String html,index html DOCTYPE html,0
+MarkupDocument private String html,urlrewrite xml to type temporary redirect last true https assets spring io wp WebSocketBlogPost html to,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates admin team member html,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates pages signin html,0
+MarkupDocument private String html,index html html data th replace admin layout,0
+MarkupDocument private String html,html DOCTYPE html,0
+MarkupDocument private String html,quickstart html DOCTYPE html,0
+MarkupDocument private String html,workspace xml entry file jar APPLICATION HOME DIR lib platform impl jar resources html schema html common rnc,0
+MarkupDocument private String html,trademarks html DOCTYPE html,0
+MarkupDocument private String html,why spring html p Spring s flexible libraries are trusted by developers all over the world Spring delivers delightful experiences to millions of end users every day mdash whether that s a class blue link animate href https medium com netflix techblog netflix oss and spring boot coming full circle a streaming TV a a class blue link animate href https tech target com spring feign html online shopping a or countless other innovative solutions Spring also has contributions from all the big names in tech including Alibaba Amazon Google Microsoft and more p,0
+MarkupDocument private String html,show html html,0
+MarkupDocument private String html,quickstart html html data th replace layout,0
+MarkupDocument private String html,html html,0
+MarkupDocument private String html,member html html,0
+MarkupDocument private String html,index html html,0
+MarkupDocument private String html,member html html,0
+MarkupDocument private String html,metropolis regular demo html DOCTYPE html PUBLIC W C DTD XHTML Transitional EN,0
+MarkupDocument private String html,edit support html html data th replace admin layout,0
+MarkupDocument private String html,quickstart html html,0
+MarkupDocument private String html,edit releases html html,0
+MarkupDocument private String html,web applications html DOCTYPE html,0
+MarkupDocument private String html,workspace xml element signature n div n form n body n html n top,0
+MarkupDocument private String html,reactive html html,0
+MarkupDocument private String html,list html html,0
+MarkupDocument private String html,workspace xml option value PROJECT DIR sagan site src main resources templates admin layout html,0
+MarkupDocument private String html,support html DOCTYPE html,0
+MarkupDocument private String html,batch html a class link animate blue href https docs spring io spring batch x reference html scalability html scalability Scaling Spring Batch a,0
+MarkupDocument private String html,why spring html DOCTYPE html,0
+MarkupDocument private String html,icons color html html,0
+MarkupDocument private String html,metropolis bold demo html DOCTYPE html PUBLIC W C DTD XHTML Transitional EN,0
+MarkupDocument private String html,guide html html data th replace layout,0
+MarkupDocument private String html,html html,0
+MarkupDocument private String html,cloud html DOCTYPE html,0
+MarkupDocument private String html,workspace xml element signature n div n form n body n html n top,0
+MarkupDocument private String html,edit html html data th replace admin layout,0
+MarkupDocument private String html,batch html html data th replace layout,0
+MarkupDocument private String html,index html html data th replace admin layout,0
+MarkupDocument private String html,community html DOCTYPE html,0
+MarkupDocument private String html,index html html data th replace layout,0
+MarkupDocument private String html,index html html,0
+MarkupDocument private String html,community html html,0
+MarkupDocument private String html,workspace xml option value PROJECT DIR sagan site src main resources templates admin show html,0
+MarkupDocument private String html,show html div data th if project bootConfig html and strings length project bootConfig html and strings length project overview html,0
+MarkupDocument private String html,cloud html html,0
+MarkupDocument private String html,event driven html a class link animate blue href https cloud spring io spring cloud static spring cloud stream current reference html spring cloud stream html quick start Getting Started with Stream Processing a,0
+MarkupDocument private String html,new html html,0
+MarkupDocument private String html,html DOCTYPE html,0
+MarkupDocument private String html,edit samples html html data th replace admin layout,0
+MarkupDocument private String html,show html DOCTYPE html,0
+MarkupDocument private String html,index html html data th replace layout,0
+MarkupDocument private String html,guide html DOCTYPE html,0
+MarkupDocument private String html,show html html data th replace layout,0
+MarkupDocument private String html,metropolis bold demo html meta http equiv Content Type content text html charset utf,0
+MarkupDocument private String html,workspace xml change beforePath PROJECT DIR sagan site src main resources templates pages signin html beforeDir false afterPath PROJECT DIR sagan site src main resources templates pages signin html afterDir false,0
+MarkupDocument private String html,metropolis bold demo html html,0
+MarkupDocument private String html,metropolis regular demo html html,0
+MarkupDocument private String html,sagan format xml setting id org eclipse jdt core formatter comment format html value true,0
+MarkupDocument private String html,full post html html,0
+MarkupDocument private String html,thank you html html,0
+MarkupDocument private String html,serverless html DOCTYPE html,0
+MarkupDocument private String html,right pane html html,0
+MarkupDocument private String html,new html html data th replace admin layout,0
+MarkupDocument private String html,new html html,0
+MarkupDocument private String html,edit metadata html html,0
+MarkupDocument private String html,edit html html,0
+MarkupDocument private String html,list html html data th replace layout,0
+MarkupDocument private String html,show html div data th utext project overview html div,0
+MarkupDocument private String html,posts table html html,0
+MarkupDocument private String html,index html html,0
+MarkupDocument private String html,edit samples html html,0
+MarkupDocument private String html,index html DOCTYPE html,0
+MarkupDocument private String html,icons html DOCTYPE html,0
+MarkupDocument private String html,icons color html html,0
+MarkupDocument private String html,edit html html data th replace admin layout,0
+MarkupDocument private String html,right pane html html,0
+MarkupDocument private String html,trademarks html html data th replace layout,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates admin project edit support html,0
+MarkupDocument private String html,training html html,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src test resources sagan site events html event json,0
+MarkupDocument private String html,html html data th replace layout,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates layout html,0
+MarkupDocument private String html,metropolis regular demo html html xmlns http www w org xhtml xml lang en lang en,0
+MarkupDocument private String html,index html html data th replace admin layout,0
+MarkupDocument private String html,html html data th replace layout,0
+MarkupDocument private String html,why spring html html,0
+MarkupDocument private String html,show html html data th replace admin layout,0
+MarkupDocument private String html,community html html data th replace layout,0
+MarkupDocument private String html,why spring html p Our engineers care deeply about performance With Spring you ll notice fast startup fast shutdown and optimized execution by default Increasingly Spring projects also support the a class blue link animate href reactive reactive a nonblocking programming model for even greater efficiency Developer productivity is Spring s superpower Spring Boot helps developers build applications with ease and with far less toil than other competing paradigms Embedded web servers auto configuration and fat jars help you get started quickly and innovations like a class blue link animate href https docs spring io spring boot docs current reference html using spring boot html using boot devtools livereload LiveReload in Spring DevTools a mean developers can iterate faster than ever before You can even start a new Spring project in seconds with the Spring Initializr at a class blue link animate href https start spring io start spring io a p,0
+MarkupDocument private String html,index html DOCTYPE html,0
+MarkupDocument private String html,index html html data th replace layout,0
+MarkupDocument private String html,shapes html html,0
+MarkupDocument private String html,signin html DOCTYPE html,0
+MarkupDocument private String html,layout html html,0
+MarkupDocument private String html,show html div data th utext project bootConfig html div,0
+MarkupDocument private String html,cloud html html data th replace layout,0
+MarkupDocument private String html,index html html,0
+MarkupDocument private String html,batch html DOCTYPE html,0
+MarkupDocument private String html,edit metadata html html data th replace admin layout,0
+MarkupDocument private String html,index html html data th replace layout,0
+MarkupDocument private String html,signin html html data th replace layout,0
+MarkupDocument private String html,workspace xml option value PROJECT DIR sagan site src main resources templates pages signin html,0
+MarkupDocument private String html,index html DOCTYPE html,0
+MarkupDocument private String html,index html DOCTYPE html,0
+MarkupDocument private String html,show html html data th replace layout,0
+MarkupDocument private String html,web applications html html data th replace layout,0
+MarkupDocument private String html,index html html,0
+MarkupDocument private String html,edit html DOCTYPE html,0
+MarkupDocument private String html,layout html document write d getFullYear script a href https www vmware com VMware a Inc or its affiliates a href https www vmware com help legal html Terms of Use a a href https www vmware com help privacy html rel noopener noreferrer Privacy a a href trademarks Trademark Guidelines a span id thank you mobile a href thank you Thank you a span a href https www vmware com help privacy california privacy rights html Your California Privacy Rights a a class ot sdk show settings Cookie Settings a span id teconsent span p,0
+MarkupDocument private String html,support html html,0
+MarkupDocument private String html,index html html,0
+MarkupDocument private String html,sidebar html html,0
+MarkupDocument private String html,edit html DOCTYPE html,0
+MarkupDocument private String html,layout html html,0
+MarkupDocument private String html,index html DOCTYPE html,0
+MarkupDocument private String html,layout html DOCTYPE html,0
+MarkupDocument private String html,member html DOCTYPE html,0
+MarkupDocument private String html,event driven html DOCTYPE html,0
+MarkupDocument private String html,show html DOCTYPE html,0
+MarkupDocument private String html,web applications html html,0
+MarkupDocument private String html,event driven html html,0
+MarkupDocument private String html,index html html data th replace layout,0
+MarkupDocument private String html,workspace xml entry file file PROJECT DIR sagan site src main resources templates admin layout html,0
+MarkupDocument private String html,index html html,0
+MarkupDocument private String html,urlrewrite xml to type temporary redirect last true https www vmware com support policies security response html to,0
+MarkupDocument private String html,index html DOCTYPE html,0
+MarkupDocument private String html,index html DOCTYPE html,0
+MarkupDocument private String html,new html DOCTYPE html,0
+MarkupDocument private String html,shapes html DOCTYPE html,0
+MarkupDocument private String html,batch html a class blue link animate href https docs spring io spring batch docs current reference html index html Check out the docs a,0
+MarkupDocument private String html,metropolis regular demo html meta http equiv Content Type content text html charset utf,0
+MarkupDocument private String html,edit info html html data th replace admin layout,0
+MarkupDocument private String html,right pane html MktoForms setOptions formXDPath rs pivotal images marketo xdframe relative html,0
+Event private URI link,project links html a href data th href project display siteUrl class project link,0
+Event private URI link,quickstart html p class mb Projects created by a href https start spring io class blue link animate start spring io a contain a href projects spring boot class blue link animate Spring Boot a a framework that makes Spring ready to work inside your app but without much code or configuration required Spring Boot is the quickest and most popular way to start Spring projects p,0
+Event private URI link,community html data th href event link class card third shadow hover bg white border box block rel mb,0
+Event private URI link,community html a class blue link darken block mb href https twitter com springdata Spring Data a,0
+Event private URI link,web applications html a class blue link animate href guides gs rest service Try our REST Service Guide a,0
+Event private URI link,why spring html p The a class link animate blue href community Spring community a is enormous global diverse and spans folks of all ages and capabilities from complete beginners to seasoned pros No matter where you are on your journey you can find the support and resources you need to get you to the next level a class link animate blue href quickstart quickstarts a a class link animate blue href guides guides tutorials a a class link animate blue href https www youtube com channel UC yfnfvEUlXUIfm rGLwZdA videos a a class link animate blue href events meetups a a class link animate blue href support support a or even formal a class link animate blue href training training and certification a p,0
+Event private URI link,community html a class blue link darken block mb href https twitter com springone SpringOne a,0
+Event private URI link,batch html a class blue link animate lightbox href https www youtube com watch v t Kwx bXv Y Why move batch to the cloud a,0
+Event private URI link,thank you html p Many thanks to a class link animate blue href https www jetbrains com JetBrains a for,0
+Event private URI link,thank you html a class link animate blue href https repo spring io repo spring io a when working on,0
+Event private URI link,index html a class blue link darken href guides gs accessing data jpa Accessing Data with JPA a,0
+Event private URI link,metropolis extrabold demo html p We ve already gone ahead and generated the code for you All you have to do is link to the stylesheet in your HTML like this p,0
+Event private URI link,batch html a class link animate blue href https dataflow spring io getting started Spring Cloud Data Flow a,0
+Event private URI link,microservices html p Spring Boot s optional instrumentation framework a class link animate blue href https micrometer io Micrometer a sends metrics straight to Prometheus Atlas and more to provide valuable insights This is complemented by a class link animate blue data th href cloud Spring Cloud s a Sleuth and Zipkin projects which offer distributed tracing so that you can follow along with what s happening in real time p,0
+Event private URI link,thank you html the a class link darken blue href https spring io projects Spring portfolio projects a,0
+Event private URI link,quickstart html p class mt mb Popular choices include a class blue link animate href https www jetbrains com idea IntelliJ IDEA a a class blue link animate data th href tools Spring Tools a a class blue link animate href https code visualstudio com docs languages java Visual Studio Code a or a class blue link animate href https www eclipse org downloads packages Eclipse a and many more p,0
+Event private URI link,index html link rel alternate type application atom xml data th href blog atom,0
+Event private URI link,training html a class h link darken blue antialiased href https tanzu vmware com training courses core spring training Core Spring Training a,0
+Event private URI link,show html link rel stylesheet type text css media all data th href css project css,0
+Event private URI link,layout html a href support class mobile link block div class mobile title antialiased Support div a,0
+Event private URI link,metropolis regular demo html p We ve already gone ahead and generated the code for you All you have to do is link to the stylesheet in your HTML like this p,0
+Event private URI link,maintenance html link rel stylesheet type text css media all data th href css maintenance css,0
+Event private URI link,reactive html a class h blue mb inline block link darken href https www youtube com watch v oI xBhAK Spring Tips Debugging Reactive Applications a,0
+Event private URI link,layout html link rel stylesheet type text css media all data th href css main css,0
+Event private URI link,index html a href https spring io blog hello spring graphql class news item blue link animate grow Hello Spring GraphQL a,0
+Event private URI link,batch html a class link animate blue href guides gs service registration and discovery Discovery a,0
+Event private URI link,web applications html a class h blue mb inline block link darken href https content pivotal io ebooks migrating to cloud native application architectures Migrating to Cloud Native Application Architectures a,0
+Event private URI link,show html a data th href project getRepoUrl target blank class link github,0
+Event private URI link,metropolis extrabold demo html code lt link rel quot stylesheet quot href quot stylesheet css quot type quot text css quot charset quot utf quot gt code,0
+Event private URI link,metropolis regular demo html code lt link rel quot stylesheet quot href quot stylesheet css quot type quot text css quot charset quot utf quot gt code,0
+Event private URI link,index html a class blue link animate lightbox href https www youtube com watch v mln o qlBo Watch now a,0
+Event private URI link,quickstart html p class mb Use a class blue link animate href https start spring io start spring io a to create a web project In the Dependencies dialog search for and add the web dependency as shown in the screenshot Hit the Generate button download the zip and unpack it into a folder on your computer p,0
+Event private URI link,member html p class subtitle is has text link span data th text member twitterUsername Twitter span p,0
+Event private URI link,community html a class blue link darken block mb href https twitter com springrestdocs Spring,0
+Event private URI link,guide html link rel stylesheet type text css data th href css guide css,0
+Event private URI link,cloud html p Distributed systems can be unreliable Requests might encounter timeouts or fail completely A circuit breaker can help mitigate these issues and a class blue link animate href projects spring cloud circuitbreaker Spring Cloud Circuit Breaker a gives you the choice of three popular options a class blue link animate href https resilience j readme io docs getting started Resilience J a a class blue link animate href https github com alibaba Sentinel wiki Circuit Breaking Sentinel a or a class blue link animate href https github com Netflix Hystrix wiki Hystrix a p,0
+Event private URI link,metropolis extrabold demo html link rel stylesheet href specimen files specimen stylesheet css type text css charset utf,0
+Event private URI link,reactive html a class h blue mb inline block link darken href https youtube com watch v Tr KiJdAXQ Main Stage Presentation at SpringOne a,0
+Event private URI link,community html also a class link darken blue,0
+Event private URI link,cloud html a class link animate blue href blog getting started with spring cloud gateway Getting Started with Spring Cloud Gateway a,0
+Event private URI link,batch html a class h blue mb inline block link darken href https www youtube com watch v x nBNLoizOc Spring Tips Spring Batch a,0
+Event private URI link,thank you html IDEA a when working on a class link darken blue href https spring io projects Spring,0
+Event private URI link,metropolis regular demo html link rel stylesheet href specimen files specimen stylesheet css type text css charset utf,0
+Event private URI link,batch html a class link animate blue href guides gs batch processing Spring Batch a,0
+Event private URI link,community html a class blue link darken block mb href https twitter com SpringSecurity Spring,0
+Event private URI link,index html a class guide link bold blue link darken antialiased data th href guides topicals topical name data th text topical title Spring Security Architecture a,0
+Event private URI link,reactive html p class mb Project Reactor is a fully non blocking foundation with back pressure support included It s the foundation of the reactive stack in the Spring ecosystem and is featured in projects such as Spring WebFlux Spring Data and Spring Cloud Gateway br br a class blue link animate href https projectreactor io Learn more a p,0
+Event private URI link,serverless html p a class blue link animate href projects spring cloud function Spring Cloud Function a provides capabilities that lets Spring developers take advantage of serverless or FaaS platforms p,0
+Event private URI link,community html a class link animate blue href https gitter im spring projects home Gitter a,0
+Event private URI link,thank you html when working on the a class link darken blue href https spring io projects Spring,0
+Event private URI link,layout html link rel manifest data th href manifest json,0
+Event private URI link,batch html a class h blue mb inline block link darken href https www youtube com watch v Icd s JoAw Cloud Native Batch Processing a,0
+Event private URI link,thank you html p The Spring team uses a class link animate blue href https www jetbrains com idea IntelliJ,0
+Event private URI link,metropolis regular demo html link rel stylesheet href stylesheet css type text css charset utf,0
+Event private URI link,list html a class blue link darken ws nowrap href https github com spring projects sts Find the Code at GitHub a,0
+Event private URI link,cloud html p class mb With so many clients and servers in play it s often helpful to include an API gateway in your cloud architecture A gateway can take care of securing and routing messages hiding services throttling load and many other useful things a class link animate blue href projects spring cloud gateway Spring Cloud Gateway a gives you precise control of your API layer integrating Spring Cloud service discovery and client side load balancing solutions to simplify configuration and maintenance p,0
+Event private URI link,event driven html p a class link animate blue href projects spring amqp Spring AMQP a br a class link animate blue href projects spring kafka Spring for Apache Kafka a p,0
+Event private URI link,cloud html a class h blue mb inline block link darken href https content pivotal io webinars dec introducing azure spring cloud a managed runtime for spring based apps webinar Introducing Azure Spring Cloud a,0
+Event private URI link,batch html a class h blue mb inline block link darken href https www youtube com watch v J IPlfm N w High Performance Batch Processing a,0
+Event private URI link,layout html a href support class blue link animate Learn more a,0
+Event private URI link,index html i class fas fa link i,0
+Event private URI link,why spring html p Spring has a proven track record of dealing with security issues quickly and responsibly The Spring committers work with security professionals to patch and test any reported vulnerabilities Third party dependencies are also monitored closely and regular updates are issued to help keep your data and applications as safe as possible In addition a class blue link animate href projects spring security Spring Security a makes it easier for you to integrate with industry standard security schemes and deliver trustworthy solutions that are secure by default p,0
+Event private URI link,layout html link rel stylesheet type text css media all data th href css admin css,0
+Event private URI link,why spring html p Spring makes programming Java quicker easier and safer for everybody Spring s focus on speed simplicity and productivity has made it the a class blue link animate href https snyk io blog jvm ecosystem report platform application world s most popular a Java framework p,0
+Event private URI link,community html a class link animate blue href https stackoverflow com questions tagged spring Stack,0
+Event private URI link,web applications html a class h blue mb inline block link darken href https www youtube com watch v lhkwLtDIMHI Spring Boot in Less than Minutes a,0
+Event private URI link,thank you html p The Spring team uses a class blue link animate href https asciidoctor org Asciidoctor a,0
+Event private URI link,thank you html p The Spring team uses a class blue link animate href https www structure com Structure a,0
+Event private URI link,layout html li a tabindex href https start spring io Spring Initializr svg class external link icon xmlns http www w org svg viewBox polyline points fill none stroke currentColor stroke miterlimit stroke width polyline points fill none stroke currentColor stroke miterlimit stroke width line x y x y fill none stroke currentColor stroke miterlimit stroke width svg a li,0
+Event private URI link,cloud html a class h blue mb inline block link darken href https content pivotal io ebooks migrating to cloud native application architectures Migrating to Cloud Native Application Architectures a,0
+Event private URI link,layout html a href training class blue link animate Learn more a,0
+Event private URI link,microservices html a class link animate blue href https content pivotal io practitioners getting started with spring cloud stream Get started with Spring Cloud Stream a,0
+Event private URI link,microservices html a class h blue mb inline block link darken href https content pivotal io ebooks thinking architecturally Thinking Architecturally a,0
+Event private URI link,event driven html p Spring Cloud Stream provides a second more specific binder solely for working with Kafka Streams This special binder still focuses on developer productivity but adds support for Kafka specific features like KStream KTable and GlobalKTable As with regular Spring Cloud Stream the binder also takes care of connecting to Kafka as well as creating configuring and maintaining the streams and topics a class blue link animate href https www confluent io blog spring for apache kafka deep dive part apache kafka spring cloud stream Learn more a p,0
+Event private URI link,list html a class blue link darken ws nowrap href https github com spring projects sts issues File Issues at GitHub a,0
+Event private URI link,metropolis regular demo html p class byline By a href link Aenean Lacinia a p,0
+Event private URI link,index html a href https tanzu vmware com content webinars mar getting started with spring authorization server class news item blue link animate grow Mar Getting Started with Spring Authorization Server a,0
+Event private URI link,serverless html a class h blue mb inline block link darken href https www youtube com watch v mPOl R s Serverless Spring a,0
+Event private URI link,index html a class pagination link data th classappend element currentPage is current,0
+Event private URI link,show html a data th href projectStackOverflow target blank class link stackoverflow,0
+Event private URI link,community html a class blue link darken block mb href https twitter com SpringTipsLive Spring Tips,0
+Event private URI link,thank you html Profiler a when working on the a class link darken blue href https spring io projects Spring,0
+Event private URI link,list html including downloads update site URLs references to the new and noteworthy pages and details of how to upgrade to a class blue link lighten href main Spring Tools a p,0
+Event private URI link,layout html a href search class mobile link block div class mobile title antialiased Search div a,0
+Event private URI link,index html p With a class blue link animate href projects spring boot Spring Boot a in your app just a few lines of code is all you need to start building services like a boss p p New to Spring Try our simple a class blue link animate href quickstart quickstart guide a p,0
+Event private URI link,list html p class white Find more information about version of the Spring Tool Suite on the a class blue link lighten href https github com spring projects toolsuite distribution wiki Spring Tool Suite Spring Tool Suite wiki a,0
+Event private URI link,metropolis bold demo html p class byline By a href link Aenean Lacinia a p,0
+Event private URI link,why spring html p Spring s flexible libraries are trusted by developers all over the world Spring delivers delightful experiences to millions of end users every day mdash whether that s a class blue link animate href https medium com netflix techblog netflix oss and spring boot coming full circle a streaming TV a a class blue link animate href https tech target com spring feign html online shopping a or countless other innovative solutions Spring also has contributions from all the big names in tech including Alibaba Amazon Google Microsoft and more p,0
+Event private URI link,reactive html p Accessing and processing data in a reactive way is important MongoDB Redis and Cassandra all have native reactive support in a class blue link animate href projects spring data Spring Data a Many relational databases Postgres Microsoft SQL Server MySQL H and Google Spanner have reactive support via a class blue link animate href https github com r dbc R DBC a In the world of messaging a class blue link animate href projects spring cloud stream Spring Cloud Stream a also supports reactive access to platforms like RabbitMQ and Kafka p,0
+Event private URI link,index html a class blue link darken href guides gs rest service Building a RESTful Web Service a,0
+Event private URI link,show html a class member post title link data th href post path h,0
+Event private URI link,batch html a class link animate blue href http micrometer io Metrics a,0
+Event private URI link,layout html link data th href images favicon ico rel shortcut icon type image vnd microsoft icon,0
+Event private URI link,serverless html p Spring Cloud Function provides adaptors so that you can run your functions on the most common FaaS services including a class blue link animate href https aws amazon com lambda Amazon Lambda a a class blue link animate href https openwhisk apache org Apache OpenWhisk a a class blue link animate href https azure microsoft com en us services functions Microsoft Azure a and a class blue link animate href https projectriff io Project Riff a p,0
+Event private URI link,event driven html a class h blue mb inline block link darken href https www youtube com watch v I CDfHKfNY Kafka Summit Keynote a,0
+Event private URI link,layout html class blue link animate View all a,0
+Event private URI link,community html a class blue link darken block mb href https twitter com springcentral Spring,0
+Event private URI link,thank you html p The Spring team uses a class blue link animate href https gradle com Gradle,0
+Event private URI link,batch html a class link animate blue href https docs spring io spring batch x reference html scalability html scalability Scaling Spring Batch a,0
+Event private URI link,community html a class blue link darken block mb href https twitter com springops Spring Ops a,0
+Event private URI link,index html p class m With the a class blue link animate data th href quickstart Spring Quickstart a guide you ll build a classic Hello World endpoint p,0
+Event private URI link,cloud html p class big Developing distributed systems can be challenging Complexity is moved from the application layer to the network layer and demands greater interaction between services Making your code cloud native means dealing with a class blue link animate href https factor net factor a issues such as external configuration statelessness logging and connecting to backing services The Spring Cloud suite of projects contains many of the services you need to make your applications run in the cloud p,0
+Event private URI link,serverless html a class h blue mb inline block link darken href https www youtube com watch v tOj A jgWg Spring Functions Serverless and You a,0
+Event private URI link,metropolis bold demo html link rel stylesheet href specimen files specimen stylesheet css type text css charset utf,0
+Event private URI link,thank you html p The Spring team uses the a class link animate blue href http yourkit com Yourkit Java,0
+Event private URI link,community html a class blue link darken block mb href https twitter com Springbatch Spring,0
+Event private URI link,metropolis regular demo html p This sounds like you need to work on the plumbing You either did not upload the fonts to the correct directory or you did not link the fonts properly in the CSS If you ve confirmed that all this is correct and you still have a problem take a look at your htaccess file and see if requests are getting intercepted p,0
+Event private URI link,community html a class blue link darken block mb href https twitter com springtools Spring,0
+Event private URI link,layout html li a href https start spring io Spring Initializr svg class external link icon xmlns http www w org svg viewBox polyline points fill none stroke currentColor stroke miterlimit stroke width polyline points fill none stroke currentColor stroke miterlimit stroke width line x y x y fill none stroke currentColor stroke miterlimit stroke width svg a li,0
+Event private URI link,cloud html p a class blue link animate href guides gs contract rest Try this guide to get started a p,0
+Event private URI link,web applications html p Get protection from top a class blue link animate href https www owasp org images OWASP Top en pdf pdf OWASP a attacks such as session fixation clickjacking cross site request forgery and more,0
+Event private URI link,community html a class link animate blue href https github com spring projects Spring Projects on,0
+Event private URI link,community html a class blue link darken block mb href https twitter com springframework Spring,0
+Event private URI link,event driven html p class m half Spring Cloud Data Flow offers developers a range of tools and automation for working with all kinds of data sources and destinations Spring Cloud Data Flow helps you to develop deploy manage and scale high throughput streaming data pipelines across multiple cloud native platforms It also features a rich user interface for building and monitoring your applications br a class blue link animate href https dataflow spring io Learn more a p,0
+Event private URI link,metropolis extrabold demo html p class byline By a href link Aenean Lacinia a p,0
+Event private URI link,quickstart html p class mb The last couple of lines here tell us that Spring has started Spring Boot s embedded Apache Tomcat server is acting as a webserver and is listening for requests on code class no bg localhost code port code class no bg code Open your browser and in the address bar at the top enter a class blue link animate href http localhost hello http localhost hello a You should get a nice friendly response like this p,0
+Event private URI link,show html link rel stylesheet type text css media all data th href css profile css,0
+Event private URI link,event driven html a class link animate blue href https cloud spring io spring cloud static spring cloud stream current reference html spring cloud stream html quick start Getting Started with Stream Processing a,0
+Event private URI link,index html a class guide link bold blue link darken antialiased data th href guides gs guide name data th text guide title Building a RESTful Web Service a,0
+Event private URI link,cloud html p a class blue link animate href projects spring cloud contract Spring Cloud Contract a provides contract based testing support for REST and messaging based APIs with contracts written in Groovy Java or Kotlin p,0
+Event private URI link,cloud html p class mb Debugging distributed applications can be complex and take a long time For any given failure you might need to piece together traces of information from several independent services a class blue link animate href projects spring cloud sleuth Spring Cloud Sleuth a can instrument your applications in a predictable and repeatable way And when used in conjunction with a class blue link animate href https zipkin io Zipkin a you can zero in on any latency problems you might have p,0
+Event private URI link,index html link rel stylesheet type text css media all data th href css team css,0
+Event private URI link,event driven html p class mb Spring Cloud Function enables you to write functions once and run them anywhere AWS Azure etc while continuing to use all the familiar and comprehensive Spring APIs You can chain multiple functions together to create new capabilities Support for multiple inputs and outputs brings merging joining and other more advanced use cases within easy reach a class blue link animate href projects spring cloud function Learn more a p,0
+Event private URI link,list html a class blue link darken ws nowrap href https stackoverflow com questions ask tags spring tools Ask Questions on Stack Overflow a,0
+Event private URI link,thank you html class link animate blue href https www eclipse org Eclipse Foundation a under the a,0
+Event private URI link,web applications html a class blue link darken href guides gs securing web Try our Securing Web Applications Guide a,0
+Event private URI link,why spring html p a class link animate blue href guides gs spring boot Spring Boot a transforms how you approach Java programming tasks radically streamlining your experience Spring Boot combines necessities such as an application context and an auto configured embedded web server to make a class link animate blue href microservices microservice a development a cinch To go even faster you can combine Spring Boot with Spring Cloud s rich set of supporting libraries servers patterns and templates to safely deploy entire microservices based architectures into the a class link animate blue href cloud cloud a in record time p,0
+Event private URI link,web applications html p class mb a class blue link animate href guides gs accessing data jpa Get Started with JPA a or a class blue link animate href guides gs accessing data mongodb Get Started with MongoDB a p,0
+Event private URI link,thank you html class link animate blue href https www eclipse org org documents epl v php Eclipse,0
+Event private URI link,thank you html p The Spring team uses a class blue link animate href https www browserstack com BrowserStack a,0
+Event private URI link,cloud html a class h blue mb inline block link darken href https www youtube com watch v CFLZJSwbYI Spring Tips Zipkin and Distributed Tracing a,0
+Event private URI link,microservices html With several ready to run cloud patterns a class blue link animate data th href cloud Spring Cloud a can help with service discovery load balancing circuit breaking distributed tracing and monitoring It can even act as an API gateway p,0
+Event private URI link,cloud html p a class blue link animate href guides gs circuit breaker Try this guide to get started a p,0
+Event private URI link,metropolis extrabold demo html p This sounds like you need to work on the plumbing You either did not upload the fonts to the correct directory or you did not link the fonts properly in the CSS If you ve confirmed that all this is correct and you still have a problem take a look at your htaccess file and see if requests are getting intercepted p,0
+Event private URI link,community html a class link animate blue href https cloud spring io spring cloud azure Microsoft a,0
+Event private URI link,cloud html a class h blue mb inline block link darken href blog getting started with spring cloud gateway Getting Started With Spring Cloud Gateway a,0
+Event private URI link,cloud html a class link animate blue href guides gs centralized configuration Try it now a,0
+Event private URI link,reactive html a class h blue mb inline block link darken href https youtube com watch v xQEJFUPeQ Reactive Relational Database Connectivity with Spring a,0
+Event private URI link,community html a class link animate blue href projects spring cloud alibaba Alibaba a,0
+Event private URI link,index html a class guide link bold blue link darken antialiased data th href guides tutorials tutorial name data th text tutorial title Building REST services with Spring a,0
+Event private URI link,quickstart html p class m We recommend a class blue link animate href https bell sw com BellSoft Liberica JDK a version or version p,0
+Event private URI link,project links html a href data th href project repoUrl class project link,0
+Event private URI link,index html a class blue h antialiased link darken data th href newestPost path data th text newestPost title Newest blog post title a,0
+Event private URI link,metropolis bold demo html code lt link rel quot stylesheet quot href quot stylesheet css quot type quot text css quot charset quot utf quot gt code,0
+Event private URI link,event driven html a class h blue mb inline block link darken href https content pivotal io content developers getting started with spring cloud stream Getting Started With Spring Cloud Stream a,0
+Event private URI link,why spring html p Our engineers care deeply about performance With Spring you ll notice fast startup fast shutdown and optimized execution by default Increasingly Spring projects also support the a class blue link animate href reactive reactive a nonblocking programming model for even greater efficiency Developer productivity is Spring s superpower Spring Boot helps developers build applications with ease and with far less toil than other competing paradigms Embedded web servers auto configuration and fat jars help you get started quickly and innovations like a class blue link animate href https docs spring io spring boot docs current reference html using spring boot html using boot devtools livereload LiveReload in Spring DevTools a mean developers can iterate faster than ever before You can even start a new Spring project in seconds with the Spring Initializr at a class blue link animate href https start spring io start spring io a p,0
+Event private URI link,cloud html a class link animate blue href guides gs service registration and discovery Get started with this simple guide a,0
+Event private URI link,layout html a href training class mobile link block div class mobile title antialiased Training div a,0
+Event private URI link,microservices html a class link animate blue href https docs spring io spring boot docs current reference htmlsingle production ready metrics Get started with Micrometer on Spring Boot a,0
+Event private URI link,community html a class blue link darken block mb href https twitter com springcloud Spring,0
+Event private URI link,show html link rel stylesheet type text css data th href css blog css,0
+Event private URI link,serverless html p The Spring portfolio provides a robust collection of functionality for use within serverless applications Whether accessing data with a class blue link animate href projects spring data Spring Data a using the enterprise integration patterns with a class blue link animate href projects spring integration Spring Integration a or using the latest in reactive programming with a class blue link animate href projects spring framework Spring Framework a and a class blue link animate href https projectreactor io Project Reactor a Spring lets developers be productive in a serverless environment from day one p,0
+Event private URI link,community html a class blue link darken block mb href https twitter com BootifulPodcast A Bootiful,0
+Event private URI link,web applications html a class h blue mb inline block link darken href https content pivotal io ebooks thinking architecturally Thinking Architecturally a,0
+Event private URI link,community html a class blue link darken block mb href https twitter com springboot Spring Boot a,0
+Event private URI link,microservices html a class h blue mb inline block link darken href https content pivotal io ebooks migrating to cloud native application architectures Migrating to Cloud Native Application Architectures a,0
+Event private URI link,training html a class h link darken blue antialiased href https tanzu vmware com training certification spring professional certification Spring Professional Certification a,0
+Event private URI link,serverless html a class h blue mb inline block link darken href blog spring tips project riff and spring cloud function Spring Tips Project Riff and Spring Cloud Function a,0
+Event private URI link,index html a class blue h antialiased link darken data th href post path data th text post title Blog post title a,0
+Event private URI link,why spring html p Spring s flexible and comprehensive set of extensions and third party libraries let developers build almost any application imaginable At its core Spring Framework s a class blue link animate href https en wikipedia org wiki Inversion of control Inversion of Control IoC a and a class blue link animate href https en wikipedia org wiki Dependency injection Dependency Injection DI a features provide the foundation for a wide ranging set of features and functionality Whether you re building secure reactive cloud based microservices for the web or complex streaming data flows for the enterprise Spring has the tools to help p,0
+Event private URI link,training html a class h link darken blue antialiased href https tanzu vmware com training courses spring boot developer training Spring Boot Developer Training a,0
+Event private URI link,microservices html a class h blue mb inline block link darken href https content pivotal io ebooks cloud native java ebook Cloud Native Java Designing Resilient Systems with Spring Boot Spring Cloud and Cloud Foundry a,0
+Event private URI link,index html link rel stylesheet type text css data th href css blog css,0
+Event private URI link,metropolis extrabold demo html link rel stylesheet href stylesheet css type text css charset utf,0
+Event private URI link,why spring html a class link darken link animate lightbox href https www youtube com watch v J S qP DO Watch now a,0
+Event private URI link,index html a class blue link darken href guides gs consuming rest Consuming a RESTful Web Service a,0
+Event private URI link,batch html a class link animate blue href guides gs centralized configuration Config a,0
+Event private URI link,cloud html p In the cloud configuration can t simply be embedded inside the application The configuration has to be flexible enough to cope with multiple applications environments and service instances as well as deal with dynamic changes without downtime a class blue link animate href projects spring cloud config Spring Cloud Config a is designed to ease these burdens and offers integration with version control systems like Git to help you keep your configuration safe p,0
+Event private URI link,web applications html a class h blue mb inline block link darken href https content pivotal io ebooks cloud native java ebook Cloud Native Java Designing Resilient Systems with Spring Boot Spring Cloud and Cloud Foundry a,0
+Event private URI link,community html a class link animate blue href projects spring cloud gcp Google Cloud Platform a,0
+Event private URI link,metropolis bold demo html link rel stylesheet href stylesheet css type text css charset utf,0
+Event private URI link,event driven html a class h blue mb inline block link darken href https content pivotal io webinars jun boosting microservice performance with kafka rabbitmq and spring webinar Boosting Microservice Performance with Kafka a,0
+Event private URI link,thank you html p The Spring team uses JFrog a class link animate blue,0
+Event private URI link,metropolis bold demo html p We ve already gone ahead and generated the code for you All you have to do is link to the stylesheet in your HTML like this p,0
+Event private URI link,event driven html p a class blue link animate href guides gs integration Get Started with Spring Integration a p,0
+Event private URI link,microservices html p class big Microservice architectures are the new normal Building small self contained ready to run applications can bring great flexibility and added resilience to your code Spring Boot s many purpose built features make it easy to build and run your microservices in production at scale And don t forget no microservice architecture is complete without a class blue link animate data th href cloud Spring Cloud a easing administration and boosting your fault tolerance p,0
+Event private URI link,serverless html p Spring also helps your functions avoid vendor lock in The adapters provided by a class blue link animate href projects spring cloud function Spring Cloud Function a let you decouple from vendor specific APIs when running your code on their platform p,0
+Event private URI link,list html data th href event link class card third shadow hover bg white border box block rel mb,0
+Event private URI link,cloud html p In the cloud applications can t always know the exact location of other services A service registry such as a class blue link animate href https github com Netflix eureka Netflix Eureka a or a sidecar solution such as a class blue link animate href https www consul io HashiCorp Consul a can help Spring Cloud provides code DiscoveryClient code implementations for popular registries such as a class blue link animate href projects spring cloud netflix Eureka a a class blue link animate href projects spring cloud consul Consul a a class blue link animate href projects spring cloud zookeeper Zookeeper a and even a class blue link animate href projects spring cloud kubernetes Kubernetes a built in system There s also a a class blue link animate href guides gs spring cloud loadbalancer Spring Cloud Load Balancer a to help you distribute the load carefully among your service instances p,0
+Event private URI link,community html a class link animate blue href projects spring cloud aws Amazon Web Services a,0
+Event private URI link,metropolis bold demo html p This sounds like you need to work on the plumbing You either did not upload the fonts to the correct directory or you did not link the fonts properly in the CSS If you ve confirmed that all this is correct and you still have a problem take a look at your htaccess file and see if requests are getting intercepted p,0
+Event private URI link,batch html a class blue link animate href https docs spring io spring batch docs current reference html index html Check out the docs a,0
+Event private URI link,maintenance html link data th href images favicon ico rel shortcut icon type image vnd microsoft icon,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,quickstart html p class mb Projects created by a href https start spring io class blue link animate start spring io a contain a href projects spring boot class blue link animate Spring Boot a a framework that makes Spring ready to work inside your app but without much code or configuration required Spring Boot is the quickest and most popular way to start Spring projects p,0
+GoogleCalendarEvent private EventDate start,quickstart html img data th src images icon guides start svg alt,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line selection start line selection end line,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,show html div class guide icon data th insert svg icons,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,quickstart html img data th src images icon guides start svg alt,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,index html div class guide icon data th insert svg icons,0
+GoogleCalendarEvent private EventDate start,icons html Guides start,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,layout html function setGTM w d s l i w l w l w l push gtm start new Date getTime event gtm js var f d getElementsByTagName s j d createElement s dl l dataLayer l l j async true j src https www googletagmanager com gtm js id i dl f parentNode insertBefore j f,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,layout html li a href https start spring io Spring Initializr svg class external link icon xmlns http www w org svg viewBox polyline points fill none stroke currentColor stroke miterlimit stroke width polyline points fill none stroke currentColor stroke miterlimit stroke width line x y x y fill none stroke currentColor stroke miterlimit stroke width svg a li,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,layout html li a tabindex href https start spring io Spring Initializr svg class external link icon xmlns http www w org svg viewBox polyline points fill none stroke currentColor stroke miterlimit stroke width polyline points fill none stroke currentColor stroke miterlimit stroke width line x y x y fill none stroke currentColor stroke miterlimit stroke width svg a li,0
+GoogleCalendarEvent private EventDate start,icons html div data th fragment icon guides start,0
+GoogleCalendarEvent private EventDate start,event driven html a class link animate blue href https cloud spring io spring cloud static spring cloud stream current reference html spring cloud stream html quick start Getting Started with Stream Processing a,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,quickstart html p class mb Use a class blue link animate href https start spring io start spring io a to create a web project In the Dependencies dialog search for and add the web dependency as shown in the screenshot Hit the Generate button download the zip and unpack it into a folder on your computer p,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,batch html a class button animate white uppercase href https start spring io span Start with Spring Initializr span a,0
+GoogleCalendarEvent private EventDate start,icons html class icon guides start,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,quickstart html img id init class mx auto block mb img dark data th src images quick img dark png alt The Spring Initializr start spring io being asked to generate a simple Spring Boot Web project Hitting the generate button will create an archive of a project which you can unpack and use to get started title The Spring Initializr start spring io being asked to generate a simple Spring Boot Web project Hitting the generate button will create an archive of a project which you can unpack and use to get started,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,microservices html p class mb With Spring Boot your microservices can start small and iterate fast That s why it has become the de facto standard for Java microservices Quickstart your project with Spring Initializr and then package as a JAR With Spring Boot s embedded server model you re ready to go in minutes p,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,index html p With a class blue link animate href projects spring boot Spring Boot a in your app just a few lines of code is all you need to start building services like a boss p p New to Spring Try our simple a class blue link animate href quickstart quickstart guide a p,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,layout html div class navbar start,0
+GoogleCalendarEvent private EventDate start,quickstart html img id init class mx auto block mb img light data th src images quick img png alt The Spring Initializr start spring io being asked to generate a simple Spring Boot Web project Hitting the generate button will create an archive of a project which you can unpack and use to get started title The Spring Initializr start spring io being asked to generate a simple Spring Boot Web project Hitting the generate button will create an archive of a project which you can unpack and use to get started,0
+GoogleCalendarEvent private EventDate start,serverless html a class button animate white uppercase href https start spring io span Start with Spring Initializr span a,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,cloud html a class button animate white uppercase antialiased href https start spring io span Start with Spring Initializr span a,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,quickstart html img data th src images icon guides start svg alt,0
+GoogleCalendarEvent private EventDate start,list html p The new generation of Spring Tools is largely built from scratch incorporating modern technologies and developer tooling architectures It runs in separate processes is built with performance in mind from the start and knows about the latest Spring technologies p,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line selection start line selection end line,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,icons html data icon icon guides start,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate start,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line selection start line selection end line,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,layout html div class navbar end,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,layout html div end of main,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,edit support html data th errors newGeneration name Name must end with x p td,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for block in case value end of line,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for enum declaration value end of line,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,edit support html p class help is danger data th if generation invalidCommercialSupportEndDate Defined end date does not comply with policy p td,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for type declaration value end of line,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for anonymous type declaration value end of line,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for switch value end of line,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter insert new line at end of file if missing value do not insert,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for enum constant value end of line,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for annotation type declaration value end of line,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,quickstart html p What should happen if you add code name Amy code to the end of the URL p,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for array initializer value end of line,0
+GoogleCalendarEvent private EventDate end,why spring html p Spring s flexible libraries are trusted by developers all over the world Spring delivers delightful experiences to millions of end users every day mdash whether that s a class blue link animate href https medium com netflix techblog netflix oss and spring boot coming full circle a streaming TV a a class blue link animate href https tech target com spring feign html online shopping a or countless other innovative solutions Spring also has contributions from all the big names in tech including Alibaba Amazon Google Microsoft and more p,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for method declaration value end of line,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line selection start line selection end line,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for block value end of line,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,edit support html p class help months after end of OSS support or months after next generation whichever is last p td,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,edit support html p class help is danger data th if generation invalidOssSupportEndDate Defined end date does not comply with policy p td,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,sagan format xml setting id org eclipse jdt core formatter brace position for constructor declaration value end of line,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column selection start line selection start column selection end line selection end column,0
+GoogleCalendarEvent private EventDate end,workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html input id clone url ssh readonly readonly type text data th value guide sshUrl,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html p class m With the a class blue link animate data th href quickstart Spring Quickstart a guide you ll build a classic Hello World endpoint p,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html div class guide icon data th insert svg icons,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html a data th href guide githubUrl i class fab fa github i Go To Repo a,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html a class github download btn btn black uppercase data th href guide zipUrl Download ZIP a,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html html data th replace layout,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html li data th each guide topicals,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html div data th each tutorial tutorials class guide guide search half border box flex data th attr data filterable tutorial title tutorial description,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,microservices html a class button animate uppercase mb data th href quickstart Try our quickstart guide a,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,list html a class button transparent animate center ws nowrap px mb href https github com spring projects sts wiki strong class uppercase Project Wiki strong br span class smaller thin tt none User guide Installation FAQ etc span a,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html div class guide icon data th insert svg icons,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html p class guide description m Designed to be completed in hours these guides provide deeper in context explorations of enterprise application development topics leaving you ready to implement real world solutions p,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html data th text guide getTitle strong,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html a class ci status desktop only data th href guide ciLatestUrl,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,urlrewrite xml name Support renamed Spring XD guide name,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html data th text guide getDescription span,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html a class guide link bold blue link darken antialiased data th href guides gs guide name data th text guide title Building a RESTful Web Service a,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,urlrewrite xml https urlrewritefilter googlecode com svn trunk src doc manual guide html,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html script data th src js guide js script,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html div id guide search no result class guide search no result No result found div,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html div class article body data th utext guide content Guide content,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html link rel stylesheet type text css data th href css guide css,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html div data th each guide guides class guide guide search half border box flex data th attr data filterable guide title guide description guide projects,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html div class guide icon data th insert svg icons,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html p class guide description m Designed to be read and comprehended in an hour or less providing more wide ranging or subjective content than a getting started guide p,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html data th text guide getDescription span,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html li data th each guide tutorials,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html div id guide search icon data th insert svg icons,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html button class copy button github data toggle tooltip data th attr data clipboard text guide cloneUrl button,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html a class guide link bold blue link darken antialiased data th href guides topicals topical name data th text topical title Spring Security Architecture a,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,urlrewrite xml name Renamed Circuit Breaker guide name,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html p class guide description m Designed to be completed in minutes these guides provide quick hands on instructions for building the Hello World of any development task with Spring In most cases the only prerequisites are a JDK and a text editor p,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html img data th src guide ciStatusImageUrl,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html li data th each guide guides,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html a class guide link bold blue link darken antialiased data th href guides tutorials tutorial name data th text tutorial title Building REST services with Spring a,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html div class guide icon data th insert svg icons,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html div class content title desktop only data th text guide typeLabel Getting Started div,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html div class guide icon data th insert svg icons,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html div data th each topical topicals class guide guide search half border box flex data th attr data filterable topical title topical description,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html data th text guide getTitle strong,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html data th text guide getDescription span,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html p class m data th text guide description Learn how to create a RESTful web service with Spring p,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html input id guide search class border box placeholder Find a guide,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,urlrewrite xml name Support renamed mongodb GS guide name,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html wide ranging or subjective content than a getting started guide,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html p class m data th text topical description Topical guide to Spring Security how the bits fit together and how they interact with Spring Boot p,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html input id clone url https readonly readonly type text data th value guide cloneUrl,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html a class gs guide import data th href guide cloneUrl Import into STS a,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html div class guide icon data th insert svg icons,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html meta property og title data th content guide title,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html div class guide icon data th insert svg icons,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html h class title data th text guide title Building a RESTful Web Service h,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html button class copy button github data toggle tooltip data th attr data clipboard text guide sshUrl button,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html title data th inline text guide typeLabel guide title title,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,index html p With a class blue link animate href projects spring boot Spring Boot a in your app just a few lines of code is all you need to start building services like a boss p p New to Spring Try our simple a class blue link animate href quickstart quickstart guide a p,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,guide html div data th utext guide tableOfContents TOC Content div,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html data th text guide getTitle strong,0
+DefaultGuideHeaderTests private DefaultGuideHeader guide,show html Designed to be completed in strong minutes strong a guide provides,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html meta property og description data th content profile fullName profile jobTitle,0
+PostFormAdapter CreatePostTests private MemberProfile profile,index html a data th href team profile username class team member avatar,0
+PostFormAdapter CreatePostTests private MemberProfile profile,index html p class team member position data th text profile jobTitle Spring team member p,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div class content container title data th inline text Blog Posts by profile name,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html title data th inline text Team profile fullName title,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html p data th text jobTitle data th unless strings isEmpty profile jobTitle Rock,0
+PostFormAdapter CreatePostTests private MemberProfile profile,index html data th href profile twitterLink href data th if profile hasTwitterUsername,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div class content container wrapper data th unless strings isEmpty profile videoEmbeds,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html data th href https twitter com profile twitterUsername,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div class container data th object profile data th attr data member id profile id,0
+PostFormAdapter CreatePostTests private MemberProfile profile,edit html li class is active a data th href admin team profile username aria current page,0
+PostFormAdapter CreatePostTests private MemberProfile profile,signin html this application to access your Github profile before you can use the,0
+PostFormAdapter CreatePostTests private MemberProfile profile,index html a class team member social icon github small rel me data th href profile githubLink href,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div data th unless strings isEmpty profile twitterUsername class twitter handle,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html link rel stylesheet type text css media all data th href css profile css,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html meta property og image data th content profile avatarUrl s s,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div class content container title data th inline text Videos by profile name div,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html script data th src js profile js script,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html data th href profile githubLink href data th if profile hasGithubUsername,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div data th if strings isEmpty profile twitterUsername,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div data th unless strings isEmpty profile twitterUsername,0
+PostFormAdapter CreatePostTests private MemberProfile profile,sagan format xml profile,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html a data th unless strings isEmpty profile twitterUsername,0
+PostFormAdapter CreatePostTests private MemberProfile profile,index html section class team member container data th each profile profiles data member id profile id,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html data th unless strings isEmpty profile avatarUrl,0
+PostFormAdapter CreatePostTests private MemberProfile profile,edit html title data th inline text Admin Team Edit profile fullName title,0
+PostFormAdapter CreatePostTests private MemberProfile profile,index html data th href profile speakerdeckLink href data th if profile hasSpeakerdeckUsername,0
+PostFormAdapter CreatePostTests private MemberProfile profile,edit html form data th action formAction action method post data th object profile,0
+PostFormAdapter CreatePostTests private MemberProfile profile,index html img data th src profile avatarUrl s s,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html data th text profile twitterUsername div,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html meta property og url data th content https www spring io team profile username,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html data th attr data screen name profile twitterUsername data show replies false,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div class member twitter wrapper data th object profile,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div data th if strings isEmpty profile twitterUsername class twitter handle,0
+PostFormAdapter CreatePostTests private MemberProfile profile,index html a data th href team profile username class team member name data th text profile name Member,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html data th href https twitter com intent user screen name profile twitterUsername,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div class embedded video data th utext profile videoEmbeds div,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html meta property og title data th content Spring Team profile fullName,0
+PostFormAdapter CreatePostTests private MemberProfile profile,index html p class team member location data th text profile location Some hometown p,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html data th href profile twitterLink href data th if profile hasTwitterUsername,0
+PostFormAdapter CreatePostTests private MemberProfile profile,sagan format xml profile kind CodeFormatterProfile name sagan version,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html div data th object profile data th attr data member id profile id,0
+PostFormAdapter CreatePostTests private MemberProfile profile,signin html information like passwords from Github only the public profile,0
+PostFormAdapter CreatePostTests private MemberProfile profile,edit html data th text profile username username a li,0
+PostFormAdapter CreatePostTests private MemberProfile profile,index html data th if profile hasGithubUsername,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html p data th text location data th unless strings isEmpty profile location,0
+PostFormAdapter CreatePostTests private MemberProfile profile,show html a data th if strings isEmpty profile twitterUsername,0
+AbstractGuide private GuideHeader header,shapes html div data th fragment header reactive,0
+AbstractGuide private GuideHeader header,full post html header data sec authorize fullyAuthenticated style padding bottom px,0
+AbstractGuide private GuideHeader header,reactive html div id midshape data th insert svg shapes,0
+AbstractGuide private GuideHeader header,microservices html div id midshape data th insert svg shapes,0
+AbstractGuide private GuideHeader header,shapes html class header cloud,0
+AbstractGuide private GuideHeader header,full post html header,0
+AbstractGuide private GuideHeader header,sagan format xml setting id org eclipse jdt core formatter indent body declarations compare to type header value true,0
+AbstractGuide private GuideHeader header,metropolis bold demo html div id header,0
+AbstractGuide private GuideHeader header,index html header,0
+AbstractGuide private GuideHeader header,shapes html div data th fragment header serverless,0
+AbstractGuide private GuideHeader header,show html header,0
+AbstractGuide private GuideHeader header,serverless html div id midshape data th insert svg shapes,0
+AbstractGuide private GuideHeader header,shapes html class header cloud,0
+AbstractGuide private GuideHeader header,maintenance html header,0
+AbstractGuide private GuideHeader header,layout html header,0
+AbstractGuide private GuideHeader header,index html header class meta data container,0
+AbstractGuide private GuideHeader header,shapes html class header microservices,0
+AbstractGuide private GuideHeader header,full post html header,0
+AbstractGuide private GuideHeader header,sagan format xml setting id org eclipse jdt core formatter indent body declarations compare to enum constant header value true,0
+AbstractGuide private GuideHeader header,cloud html div id midshape data th insert svg shapes,0
+AbstractGuide private GuideHeader header,maintenance html header,0
+AbstractGuide private GuideHeader header,batch html div id midshape data th insert svg shapes,0
+AbstractGuide private GuideHeader header,show html div class project header,0
+AbstractGuide private GuideHeader header,sagan format xml setting id org eclipse jdt core formatter indent body declarations compare to annotation declaration header value true,0
+AbstractGuide private GuideHeader header,event driven html div id midshape data th insert svg shapes,0
+AbstractGuide private GuideHeader header,index html header,0
+AbstractGuide private GuideHeader header,thank you html img id midshape data th src images header microservices svg alt,0
+AbstractGuide private GuideHeader header,show html header,0
+AbstractGuide private GuideHeader header,layout html header,0
+AbstractGuide private GuideHeader header,shapes html class header microservices,0
+AbstractGuide private GuideHeader header,metropolis regular demo html div id header,0
+AbstractGuide private GuideHeader header,show html div class member twitter header,0
+AbstractGuide private GuideHeader header,index html header class meta data container,0
+AbstractGuide private GuideHeader header,shapes html div data th fragment header microservices,0
+AbstractGuide private GuideHeader header,web applications html div id midshape data th insert svg shapes,0
+AbstractGuide private GuideHeader header,full post html header class meta data container,0
+AbstractGuide private GuideHeader header,sagan format xml setting id org eclipse jdt core formatter comment format header value false,0
+AbstractGuide private GuideHeader header,sagan format xml setting id org eclipse jdt core formatter indent body declarations compare to enum declaration header value true,0
+AbstractGuide private GuideHeader header,metropolis extrabold demo html div id header,0
+AbstractGuide private GuideHeader header,shapes html div data th fragment header batch,0
+Repository private List String topics,event driven html div id hero class topics banner mb,0
+Repository private List String topics,show html explorations of enterprise application development topics leaving you ready to,0
+Repository private List String topics,microservices html div class topics half,0
+Repository private List String topics,thank you html div id hero class topics banner mb,0
+Repository private List String topics,cloud html div id hero class topics banner mb,0
+Repository private List String topics,web applications html section class topics resources mb,0
+Repository private List String topics,reactive html div class topics half,0
+Repository private List String topics,serverless html div id hero class topics banner mb,0
+Repository private List String topics,microservices html div class topics half,0
+Repository private List String topics,batch html section class topics resources mb,0
+Repository private List String topics,serverless html section class topics resources mb,0
+Repository private List String topics,batch html div class topics half,0
+Repository private List String topics,batch html div class topics half,0
+Repository private List String topics,microservices html section class topics resources mb,0
+Repository private List String topics,reactive html div id hero class topics banner mb,0
+Repository private List String topics,cloud html section class topics resources mb,0
+Repository private List String topics,index html p class guide description m Designed to be completed in hours these guides provide deeper in context explorations of enterprise application development topics leaving you ready to implement real world solutions p,0
+Repository private List String topics,reactive html div class topics half,0
+Repository private List String topics,web applications html div id hero class topics banner mb,0
+Repository private List String topics,microservices html div id hero class topics banner mb,0
+Repository private List String topics,event driven html section class topics resources mb,0
+Repository private List String topics,batch html div id hero class topics banner mb,0
+Repository private List String topics,event driven html p Spring Cloud Stream provides a second more specific binder solely for working with Kafka Streams This special binder still focuses on developer productivity but adds support for Kafka specific features like KStream KTable and GlobalKTable As with regular Spring Cloud Stream the binder also takes care of connecting to Kafka as well as creating configuring and maintaining the streams and topics a class blue link animate href https www confluent io blog spring for apache kafka deep dive part apache kafka spring cloud stream Learn more a p,0
+Repository private List String topics,reactive html section class topics resources mb,0
+ReleaseMetadata private boolean current,edit html li class is active a data th href admin tools platform id data th inline text aria current page Edit platform id a li,0
+ReleaseMetadata private boolean current,index html li class is active a data th href admin projects aria current page Projects a li,0
+ReleaseMetadata private boolean current,edit support html li class is active a data th href admin projects projectFormGenerations id aria current page Edit a li,0
+ReleaseMetadata private boolean current,show html span class version label current data th if currentRelease isPresent,0
+ReleaseMetadata private boolean current,show html div This page shows the current state of project releases and does not define the commercial support policy,0
+ReleaseMetadata private boolean current,show html span class version label current,0
+ReleaseMetadata private boolean current,why spring html p Our engineers care deeply about performance With Spring you ll notice fast startup fast shutdown and optimized execution by default Increasingly Spring projects also support the a class blue link animate href reactive reactive a nonblocking programming model for even greater efficiency Developer productivity is Spring s superpower Spring Boot helps developers build applications with ease and with far less toil than other competing paradigms Embedded web servers auto configuration and fat jars help you get started quickly and innovations like a class blue link animate href https docs spring io spring boot docs current reference html using spring boot html using boot devtools livereload LiveReload in Spring DevTools a mean developers can iterate faster than ever before You can even start a new Spring project in seconds with the Spring Initializr at a class blue link animate href https start spring io start spring io a p,0
+ReleaseMetadata private boolean current,edit samples html li class is active a data th href admin projects project id aria current page Edit a li,0
+ReleaseMetadata private boolean current,show html span class version label current,0
+ReleaseMetadata private boolean current,index html li class is active a data th href admin tools aria current page Spring Tools a li,0
+ReleaseMetadata private boolean current,new html li class is active a data th href admin projects project id aria current page Edit a li,0
+ReleaseMetadata private boolean current,index html li class is active a data th href admin team aria current page Team a li,0
+ReleaseMetadata private boolean current,edit html li class is active a data th href admin blog post id edit aria current page Edit Blog Post a li,0
+ReleaseMetadata private boolean current,edit html li class is active a data th href admin team profile username aria current page,0
+ReleaseMetadata private boolean current,edit releases html li class is active a data th href admin projects project id aria current page Edit a li,0
+ReleaseMetadata private boolean current,microservices html a class link animate blue href https docs spring io spring boot docs current reference htmlsingle production ready metrics Get started with Micrometer on Spring Boot a,0
+ReleaseMetadata private boolean current,edit metadata html li class is active a data th href admin projects project id aria current page Edit a li,0
+ReleaseMetadata private boolean current,edit info html li class is active a data th href admin projects project id aria current page Edit a li,0
+ReleaseMetadata private boolean current,index html li class is active a data th href admin blog aria current page Blog a li,0
+ReleaseMetadata private boolean current,event driven html a class link animate blue href https cloud spring io spring cloud static spring cloud stream current reference html spring cloud stream html quick start Getting Started with Stream Processing a,0
+ReleaseMetadata private boolean current,batch html a class blue link animate href https docs spring io spring batch docs current reference html index html Check out the docs a,0
+ReleaseMetadata private boolean current,new html li class is active a data th href admin blog new aria current page New Post a li,0
+Project private Display display new Display,show html span class release display name data th text release version,0
+Project private Display display new Display,maintenance html div style display none,0
+Project private Display display new Display,show html span class release display name data th text release version,0
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,list html data th each download theia downloads data th href download downloadUrl strong data th text download label download version Spring Tools strong br span class smaller thin tt none Installation for Theia span a,0
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,quickstart html p class mt mb Popular choices include a class blue link animate href https www jetbrains com idea IntelliJ IDEA a a class blue link animate data th href tools Spring Tools a a class blue link animate href https code visualstudio com docs languages java Visual Studio Code a or a class blue link animate href https www eclipse org downloads packages Eclipse a and many more p,0
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,support html h class h antialiased Binary downloads h,0
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,list html data th each download eclipse downloads,0
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,list html including downloads update site URLs references to the new and noteworthy pages and details of how to upgrade to a class blue link lighten href main Spring Tools a p,0
+SpringToolsPlatform private List SpringToolsDownload downloads new ArrayList,list html data th each download vscode downloads,0
+MemberProfile private String twitterUsername,show html data th content post author twitterUsername,0
+SiteProperties private final Disqus disqus new Disqus,full post html a class comments data th attr data disqus identifier post id data th href post path disqus thread Comment a,0
+SiteProperties private final Disqus disqus new Disqus,full post html a href http disqus com class dsq brlink comments powered by span class logo disqus Disqus span a,0
+SiteProperties private final Disqus disqus new Disqus,full post html var disqus shortname disqusShortname no shortname,0
+SiteProperties private final Disqus disqus new Disqus,index html data th href post path disqus thread Comment a,0
+SiteProperties private final Disqus disqus new Disqus,index html a class comments data th attr data disqus identifier newestPost id,0
+SiteProperties private final Disqus disqus new Disqus,full post html noscript Please enable JavaScript to view the a href http disqus com ref noscript comments powered by Disqus a noscript,0
+SiteProperties private final Disqus disqus new Disqus,index html a class comments data th attr data disqus identifier post id,0
+SiteProperties private final Disqus disqus new Disqus,full post html function disqus shortname document,0
+SiteProperties private final Disqus disqus new Disqus,full post html injectScript disqus shortname disqus com count js,0
+SiteProperties private final Disqus disqus new Disqus,full post html disqus shortname document,0
+SiteProperties private final Disqus disqus new Disqus,index html data th href newestPost path disqus thread Comment a,0
+SiteProperties private final Disqus disqus new Disqus,full post html var disqus identifier post id no id,0
+SiteProperties private final Disqus disqus new Disqus,full post html injectScript disqus shortname disqus com embed js,0
+SiteProperties private final Disqus disqus new Disqus,full post html section id disqus thread section,0
+EventDate private String date,full post html time class date pubdate data th datetime post publishAt data th text post formattedPublishDate June time,0
+EventDate private String date,community html p class date data th text temporals format event startTime yyyy MM dd p,0
+EventDate private String date,posts table html td Publication date td,0
+EventDate private String date,edit support html p class help is danger data th if generation invalidCommercialSupportEndDate Defined end date does not comply with policy p td,0
+EventDate private String date,index html time class date pubdate data th datetime newestPost publishAt,0
+EventDate private String date,list html p class date data th text temporals format event startTime yyyy MM dd p,0
+EventDate private String date,edit html Incorrect date p,0
+EventDate private String date,show html time class date pubdate data th datetime post publishAt,0
+EventDate private String date,index html time class date pubdate data th datetime post publishAt,0
+EventDate private String date,edit support html p class help is danger data th if generation invalidOssSupportEndDate Defined end date does not comply with policy p td,0
+EventDate private String date,index html time class date pubdate data th datetime newestPost publishAt,0
+EventDate private String date,index html time class date pubdate data th datetime newestPost publishAt,0
+BlogAtomFeedViewTests private Calendar calendar Calendar getInstance DateFactory DEFAULT TIME ZONE,full post html div class meta data icon icon blog icon calendar div,0
+BlogAtomFeedViewTests private Calendar calendar Calendar getInstance DateFactory DEFAULT TIME ZONE,show html div class meta data icon icon blog icon calendar div,0
+BlogAtomFeedViewTests private Calendar calendar Calendar getInstance DateFactory DEFAULT TIME ZONE,show html div class calendar releases,0
+BlogAtomFeedViewTests private Calendar calendar Calendar getInstance DateFactory DEFAULT TIME ZONE,edit info html span class icon is small i class far fa calendar check aria hidden true i span,0
+BlogAtomFeedViewTests private Calendar calendar Calendar getInstance DateFactory DEFAULT TIME ZONE,index html div class meta data icon icon blog icon calendar div,0
+BlogAtomFeedViewTests private Calendar calendar Calendar getInstance DateFactory DEFAULT TIME ZONE,edit samples html span class icon is small i class far fa calendar check aria hidden true i span,0
+BlogAtomFeedViewTests private Calendar calendar Calendar getInstance DateFactory DEFAULT TIME ZONE,index html div class meta data icon icon blog icon calendar div,0
+BlogAtomFeedViewTests private Calendar calendar Calendar getInstance DateFactory DEFAULT TIME ZONE,edit support html span class icon is small i class far fa calendar check aria hidden true i span,0
+BlogAtomFeedViewTests private Calendar calendar Calendar getInstance DateFactory DEFAULT TIME ZONE,edit metadata html span class icon is small i class far fa calendar check aria hidden true i span,0
+BlogAtomFeedViewTests private Calendar calendar Calendar getInstance DateFactory DEFAULT TIME ZONE,edit releases html span class icon is small i class far fa calendar check aria hidden true i span,0
+Project private MarkupDocument overview new MarkupDocument,show html a href overview data toggle tab,0
+Project private MarkupDocument overview new MarkupDocument,edit info html placeholder Documentation displayed in the overview tab on the project page,0
+Project private MarkupDocument overview new MarkupDocument,show html div class project overview,0
+Project private MarkupDocument overview new MarkupDocument,edit info html project overview p,0
+Project private MarkupDocument overview new MarkupDocument,list html p Understanding and quickly navigating source code is essential for coding The new Spring Tools understands your Spring based source code and allows you to quickly get an overview and navigate to the important pieces of your Spring apps Finding Spring elements and navigating to them has never been easier p,0
+Project private MarkupDocument overview new MarkupDocument,show html div class tab pane active id overview,0
+Display private boolean featured,index html section id featured class flex jc between mb data th each project featured,0
+Display private boolean featured,index html a class featured proj third rad shadow hover border dark bg white border box,0
+Display private boolean featured,reactive html p class mb Project Reactor is a fully non blocking foundation with back pressure support included It s the foundation of the reactive stack in the Spring ecosystem and is featured in projects such as Spring WebFlux Spring Data and Spring Cloud Gateway br br a class blue link animate href https projectreactor io Learn more a p,0
+Display private boolean featured,index html div id featured post data th if newestPost,0
+Display private boolean featured,index html section id featured class flex jc between mb,0
+Display private boolean featured,list html p The all new Spring Tools can be used in various coding environments ranging from Eclipse as a full featured integrated development environment to Visual Studio Code and Theia as lightweight code editors Continue to use your preferred environment and add great Spring tooling to it p,0
+Display private boolean featured,index html h class h small uppercase thin wide data th if not lists isEmpty featured Featured Projects h,0
+GuidesJsonTests private JacksonTester GettingStartedGuide json,layout html link rel manifest data th href manifest json,0
+GuidesJsonTests private JacksonTester GettingStartedGuide json,workspace xml entry file file PROJECT DIR sagan site src test resources sagan site events html event json,0
+GuidesJsonTests private JacksonTester GettingStartedGuide json,workspace xml entry file file PROJECT DIR sagan site src test resources sagan site events multi events json,0
+GuidesJsonTests private JacksonTester GettingStartedGuide json,workspace xml entry file file PROJECT DIR sagan site src test resources sagan site guides pushTopical json,0
+GuidesJsonTests private JacksonTester GettingStartedGuide json,workspace xml entry file file PROJECT DIR sagan site src test resources sagan site guides pushGettingStarted json,0
+GuidesJsonTests private JacksonTester GettingStartedGuide json,workspace xml entry file file PROJECT DIR sagan site src test resources sagan site guides rest service json,0
+Repository private String fullName,show html meta property og description data th content profile fullName profile jobTitle,0
+Repository private String fullName,show html h class team member name data th text fullName Member Name h,0
+Repository private String fullName,show html meta property og title data th content Spring Team profile fullName,0
+Repository private String fullName,edit html title data th inline text Admin Team Edit profile fullName title,0
+Repository private String fullName,show html title data th inline text Team profile fullName title,0
+Repository private String fullName,show html img data th alt fullName class team member avatar data th src avatarUrl s s,0
+RateLimit private final Integer used,serverless html p The code java util function code package from core Java serves as the foundation of the programming model used by Spring Cloud Function In a nutshell Spring Cloud Function provides p,0
+RateLimit private final Integer used,cloud html p class mb Debugging distributed applications can be complex and take a long time For any given failure you might need to piece together traces of information from several independent services a class blue link animate href projects spring cloud sleuth Spring Cloud Sleuth a can instrument your applications in a predictable and repeatable way And when used in conjunction with a class blue link animate href https zipkin io Zipkin a you can zero in on any latency problems you might have p,0
+RateLimit private final Integer used,trademarks html The trademark is used in a manner consistent with this policy,0
+RateLimit private final Integer used,trademarks html because we prefer that our marks not be used to be rude about the Spring open source project or its,0
+RateLimit private final Integer used,trademarks html license do not address trademarks Spring Marks need to be used in a way consistent with trademark,0
+RateLimit private final Integer used,list html p The all new Spring Tools can be used in various coding environments ranging from Eclipse as a full featured integrated development environment to Visual Studio Code and Theia as lightweight code editors Continue to use your preferred environment and add great Spring tooling to it p,0
+RepositoryMetadata private String identifier,index html a class comments data th attr data disqus identifier newestPost id,0
+RepositoryMetadata private String identifier,index html a class comments data th attr data disqus identifier post id,0
+RepositoryMetadata private String identifier,full post html a class comments data th attr data disqus identifier post id data th href post path disqus thread Comment a,0
+RepositoryMetadata private String identifier,full post html var disqus identifier post id no id,0
+AtomFeedControllerTests private HttpServletResponse response new MockHttpServletResponse,quickstart html p The code class no bg hello code method we ve added is designed to take a String parameter called code name code and then combine this parameter with the word code Hello code in the code This means that if you set your name to code Amy code in the request the response would be code Hello Amy code p,0
+AtomFeedControllerTests private HttpServletResponse response new MockHttpServletResponse,quickstart html p class mb The last couple of lines here tell us that Spring has started Spring Boot s embedded Apache Tomcat server is acting as a webserver and is listening for requests on code class no bg localhost code port code class no bg code Open your browser and in the address bar at the top enter a class blue link animate href http localhost hello http localhost hello a You should get a nice friendly response like this p,0
+AtomFeedControllerTests private HttpServletResponse response new MockHttpServletResponse,support html li class mb Fast response times li,0
+AtomFeedControllerTests private HttpServletResponse response new MockHttpServletResponse,urlrewrite xml to type temporary redirect last true https www vmware com support policies security response html to,0
+SupportPeriod private final String reason,metropolis bold demo html p The primary reason for this failure You are still using a version Firefox older than So upgrade already If that isn t it then you are very likely serving fonts from a different domain Firefox requires that all font assets be served from the same domain Lastly it is possible that you need to add WOFF to your list of MIME types if you are serving via IIS p,0
+SupportPeriod private final String reason,metropolis extrabold demo html p The primary reason for this failure You are still using a version Firefox older than So upgrade already If that isn t it then you are very likely serving fonts from a different domain Firefox requires that all font assets be served from the same domain Lastly it is possible that you need to add WOFF to your list of MIME types if you are serving via IIS p,0
+SupportPeriod private final String reason,metropolis regular demo html p The primary reason for this failure You are still using a version Firefox older than So upgrade already If that isn t it then you are very likely serving fonts from a different domain Firefox requires that all font assets be served from the same domain Lastly it is possible that you need to add WOFF to your list of MIME types if you are serving via IIS p,0
+BlogAdminControllerTests private Principal principal,layout html a class button is white data th href admin team authentication principal attributes login,0
+BlogAdminControllerTests private Principal principal,layout html span data th text authentication principal attributes login springcentral span,0
+BlogAdminControllerTests private Principal principal,show html Welcome span data th text authentication principal attributes name Emily Spring span,0
+AbstractGuide private String typeLabel,guide html title data th inline text guide typeLabel guide title title,0
+BlogService private String disqusShortname,full post html var disqus shortname disqusShortname no shortname,0
+LinksMatcher private String prefix,sagan format xml setting id org eclipse jdt core formatter insert space before prefix operator value do not insert,0
+LinksMatcher private String prefix,sagan format xml setting id org eclipse jdt core formatter insert space after prefix operator value do not insert,0
+ProjectMetadata private String slug,full post html data th href admin blog id slug edit id post id slug slug Edit blog post a span,0
+GuideRenderer private final List GuideContentContributor contributors,trademarks html strong False or Misleading Statements strong You may not make false or misleading statements regarding your use of Spring e g we wrote the majority of the code or we are major contributors or we are committers,0
+PostCategoryFormatter private static Map String PostCategory mapping new HashMap,vcs xml mapping directory vcs Git,0
+RateLimit private final Instant reset,workspace xml property name nodejs npm path reset for default project value true,0
+SaganRendererClient private final RestTemplate template,event driven html p Both include template as a high level message handling abstraction and support message driven POJOs with a listener container p,0

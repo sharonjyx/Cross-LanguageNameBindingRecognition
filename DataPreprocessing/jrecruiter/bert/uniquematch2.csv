@@ -1,0 +1,961 @@
+job detail jsp s if test job businessPhone null job businessPhone length,1
+jobsTable jsp s if test attr job usesMap,1
+job detail jsp a href mailto job businessEmail job businessEmail a,1
+logging jsp s select list logLevels listValue logLevelName value attr bean logLevel name newLogger newLogLevel,1
+user list table jsp s property value attr user username escape true,1
+applicationContext server xml property name bitlyPassword value bitly password,1
+applicationContext server xml property name twitterPassword value twitter password,1
+search jsp jmesa htmlColumn property businessName titleKey jsp show jobs table business name,1
+edit job jsp li label spring message code jsp admin edit job fieldset label page visits label s property value job statistic counter default N A li,1
+job detail jsp s if test job jobRestrictions null job jobRestrictions length,1
+job detail jsp s if test job usesMap,1
+edit job jsp li label spring message code jsp admin edit job fieldset label page visits label s property value job statistic counter default N A li,1
+loggingLoggerTable jsp s select list logLevels listValue logLevelName value attr bean logLevel name updatedLoggers attr rowcount newLogLevel,1
+job header jsp list industries headerKey headerValue getText jsp ALL marked fields please select,1
+search jsp jmesa htmlColumn property jobTitle titleKey jsp show jobs table job title,1
+edit job jsp li label spring message code jsp admin edit job fieldset label last access label fmt formatDate value job statistic lastAccess type date pattern datePattern li,1
+applicationContext server xml property name twitterUsername value twitter username,1
+job detail jsp s property value job jobTitle escape true,1
+job detail jsp job businessPhone,1
+job detail jsp s if test job salary null,1
+job detail jsp c if test fn contains job website http,1
+job detail jsp showJob map canvas job latitude job longitude job zoomLevel,1
+signup jsp src http api recaptcha net challenge k apiKeysHolder reCaptchaKey,1
+applicationContext server xml property name bitlyUsername value bitly username,1
+jobsTable jsp jmesa htmlColumn property usesMap title nbsp filterable false,1
+showStatisticsTable jsp jmesa htmlColumn styleClass column property statistic lastAccess titleKey jsp showStatistics last access pattern datePattern cellEditor org jmesa view editor DateCellEditor filterable false,1
+job detail jsp job latitude job longitude,1
+job detail jsp div style float right width px text align right Statistics job statistic counter hit s div,1
+user list table jsp jmesa htmlColumn styleClass userlist property lastName titleKey user lastName sortable true,1
+job detail jsp showJob map canvas job latitude job longitude job zoomLevel,1
+loggingLogFileTable jsp jmesa htmlColumn title nbsp property fileSize filterable false,1
+loggingLogFileTable jsp s property value attr logFileInfo fileSize Kb,1
+job detail jsp c set var restr c out value job jobRestrictions escapeXml true c set,1
+job detail jsp label spring message code jsp ALL job field state label s property value job businessState,1
+job detail jsp s if test job businessState null job businessState length,1
+job detail jsp label nbsp label job businessAddress,1
+loggingLogFileTable jsp jmesa tableFacade id loggingLogFileTable items logFileInfos var logFileInfo,1
+user list table jsp jmesa htmlColumn styleClass userlist property firstName titleKey user firstName sortable true,1
+job detail jsp s if test job offeredBy null,1
+search jsp a title Job Detail job jobTitle href jobDetailUrl,1
+job detail jsp s if test job businessEmail null job businessEmail length,1
+joblistTable jsp jmesa htmlColumn property region name titleKey jsp show jobs table job location filterable true,1
+job detail jsp s property value getText job offeredBy descriptionKey default N A,1
+loggingLoggerTable jsp jmesa tableFacade id loggingLoggerTable items configuredLoggers var bean stateAttr,1
+job detail jsp s if test job website null job website length,1
+add job jsp src http maps google com maps file api amp v amp key apiKeysHolder googleMapsKey,1
+jobsTable jsp jmesa htmlColumn property businessName titleKey jsp show jobs table business name,1
+job detail jsp div style float right width px text align right Statistics job statistic counter hit s div,1
+job mapDiv jsp s select name model job usesMap id usesMap list yesNoList tabindex,1
+job detail jsp job businessAddress,1
+joblistTable jsp jmesa htmlColumn property businessName titleKey jsp show jobs table business name,1
+job detail jsp s if test job businessZip null job businessZip length,1
+jobsTable jsp jmesa htmlColumn property jobTitle titleKey jsp show jobs table job title,1
+job detail jsp job latitude job longitude,1
+job detail jsp s if test job businessAddress null job businessAddress length,1
+joblistTable jsp jmesa htmlColumn property jobTitle titleKey jsp show jobs table job title,1
+user list table jsp jmesa htmlColumn styleClass userlist property username sortable true,1
+search jsp s if test attr job usesMap,1
+job header jsp list offeredBySet headerKey UNDEFINED headerValue getText jsp ALL marked fields please select,1
+loggingLoggerTable jsp jmesa htmlColumn title Logger property loggerName,1
+show users jsp s if test users null users size,1
+user list table jsp jmesa htmlColumn property company titleKey user company,1
+flex jobs jsp amfBrokerUrl s property value amfBrokerUrl escape false,1
+show users jsp s if test users null users size,1
+showStatisticsTable jsp jmesa htmlColumn styleClass column property statistic counter titleKey jsp showStatistics hits filterable false,1
+search jsp jmesa htmlColumn property usesMap title nbsp filterable false,1
+job detail jsp a href job website job website a,1
+job detail jsp label spring message code jsp ALL job field zip label s property value job businessZip,1
+job detail jsp label spring message code jsp ALL job field city label job businessCity,1
+edit job jsp li label spring message code jsp admin edit job fieldset label last access label fmt formatDate value job statistic lastAccess type date pattern datePattern li,1
+showStatisticsTable jsp jmesa htmlColumn styleClass column property jobTitle titleKey jsp show jobs job title filterable false,1
+job detail jsp s if test job businessAddress null job businessAddress length,1
+edit job jsp src http maps google com maps file api amp v amp key apiKeysHolder googleMapsKey,1
+job location jsp list regions headerKey headerValue getText jsp ALL marked fields please select,1
+job detail jsp a href http job website job website a,1
+job detail jsp c if test not fn contains job website http,1
+applicationContext server xml property name reCaptchaKey value key recaptcha public,1
+job detail jsp s if test job usesMap,1
+signup jsp iframe src http api recaptcha net noscript k apiKeysHolder reCaptchaKey,1
+job detail jsp showJob map canvas job latitude job longitude job zoomLevel,1
+applicationContext server xml property name googleMapsKey value key google maps,1
+job detail jsp job businessName,1
+job detail jsp src http maps google com maps file api amp v amp key apiKeysHolder googleMapsKey,1
+applicationContext server xml property name serverAddress value server address,1
+job detail jsp job salary,1
+loggingLogFileTable jsp jmesa htmlColumn title Last Updated property fileLastChanged,1
+showStatisticsTable jsp jmesa htmlColumn styleClass column property statistic counter titleKey jsp showStatistics hits filterable false,1
+showStatisticsTable jsp jmesa htmlColumn styleClass column property statistic lastAccess titleKey jsp showStatistics last access pattern datePattern cellEditor org jmesa view editor DateCellEditor filterable false,1
+jobsTable jsp a title Job Detail job jobTitle href jobDetailUrl,1
+job mapDiv jsp label for zoomLevel spring message code jsp ALL job field zoomLevel label,0
+job javascript jsp showJob map jQuery latitude val jQuery longitude val jQuery zoomLevel val,0
+job mapDiv jsp s textfield name model job zoomLevel id zoomLevel size tabindex,0
+job detail jsp legend spring message code jsp ALL job field jobRestrictions legend,0
+job description jsp label for jobRestrictions spring message code jsp ALL job field jobRestrictions label,0
+edit settings jsp jobRestrictions,0
+job description jsp s textarea name model job jobRestrictions id jobRestrictions rows tabindex cssStyle width px,0
+struts xml result name backTo type redirect,0
+struts xml param name location backTo param,0
+index jsp s param name backTo value adminIndexUrl,0
+show statistics jsp s hidden name backTo,0
+show jobs jsp s hidden name backTo,0
+job header jsp label for salary spring message code jsp ALL job field salary label,0
+job header jsp s textfield name model job salary id salary size tabindex,0
+job detail jsp div class optional label spring message code jsp ALL job field salary label,0
+error jsp link rel icon href c url value favicon ico type image x icon,0
+changes xml action dev Gunnar Hillert type add,0
+job javascript jsp script type text javascript,0
+error jsp link rel alternate href c url value rss jobs rss type application rss xml title jRecruiter RSS Feed,0
+changes xml action dev Gunnar Hillert type add,0
+default jsp meta http equiv content type content text html charset utf,0
+changes xml action dev Gunnar Hillert type add,0
+jsp meta http equiv content type content text html charset utf,0
+changes xml action dev Gunnar Hillert type add,0
+workspace xml provider selected true editor type id text editor,0
+joblist jsp script type text javascript,0
+index template html type application x shockwave flash,0
+show users jsp script type text javascript,0
+signup jsp script type text javascript,0
+changes xml action dev Gunnar Hillert type add,0
+pom xml type pom type,0
+workspace xml provider selected true editor type id text editor,0
+changes xml action dev Gunnar Hillert type add,0
+jsp link rel shortcut icon href c url value favicon ico type image x icon,0
+workspace xml provider selected true editor type id text editor,0
+index jsp script type text javascript,0
+default jsp script type text javascript,0
+site xml type text javascript,0
+workspace xml provider selected true editor type id text editor,0
+pom xml type dbunit operation type type,0
+logback xml logger name org hibernate type,0
+urlrewrite xml rule match type wildcard,0
+messages jsp script type text javascript,0
+index template html script language JavaScript type text javascript,0
+logging jsp script type text javascript,0
+flex jobs jsp style type text css media screen,0
+show jobs jsp script type text javascript,0
+user list table jsp fmt formatDate value user registrationDate type date pattern MM dd yy,0
+workspace xml window info anchor right id Commander internal type SLIDING order type SLIDING weight,0
+index template html link rel stylesheet type text css href history history css,0
+jsp link rel alternate href c url value rss jobs rss type application rss xml title jRecruiter RSS Feed,0
+struts xml result type name customChart class org jrecruiter web CustomChartResult,0
+workspace xml provider selected true editor type id text editor,0
+pom xml type swc type,0
+default jsp link rel icon href c url value favicon ico type image x icon,0
+job mapDiv jsp input id convertAddressButton type button value spring message code jsp job mapDiv button convert address,0
+jsp script type text javascript,0
+login jsp input type submit onClick location href c url value return false value spring message code jsp login button cancel,0
+edit job jsp type text javascript script,0
+login jsp script type text JavaScript language JavaScript,0
+jsp script type text javascript,0
+flex jobs jsp script type text javascript,0
+pom xml version version type swc type scope test scope,0
+jsp meta http equiv content type content text html charset utf,0
+jsp script type text javascript,0
+pom xml type jar type,0
+error jsp script type text javascript,0
+job detail jsp script type text javascript,0
+sitemesh xml parser content type text html,0
+index template html script language JavaScript type text javascript,0
+struts xml result name success type chart,0
+struts xml result name backTo type redirect,0
+show jobs jsp script type text javascript,0
+login jsp input type submit value spring message code jsp login button login,0
+index template html type application x shockwave flash,0
+misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+pom xml dbunit operation type INSERT dbunit operation type,0
+default jsp script type text javascript,0
+default jsp script type text javascript,0
+default jsp script type text javascript,0
+sitemesh xml parser content type text html charset utf,0
+jsp link rel icon href c url value favicon ico type image x icon,0
+index template html type application x shockwave flash,0
+changes xml action dev Gunnar Hillert type update,0
+get password jsp script type text javascript,0
+error jsp script type text javascript,0
+urlrewrite xml to type redirect context path job detail html query string to,0
+workspace xml provider selected true editor type id text editor,0
+changes xml action dev Gunnar Hillert type add,0
+workspace xml provider selected true editor type id text editor,0
+messages jsp script type text javascript,0
+default jsp link rel shortcut icon href c url value favicon ico type image x icon,0
+struts xml result type rss name success,0
+password tips jsp script type text javascript,0
+persistence xml persistence unit name base transaction type RESOURCE LOCAL,0
+jsp link rel icon href c url value favicon ico type image x icon,0
+default jsp link rel alternate href c url value rss jobs rss type application rss xml title jRecruiter RSS Feed,0
+changes xml action dev Gunnar Hillert type add,0
+error jsp link rel shortcut icon href c url value favicon ico type image x icon,0
+changes xml action dev Gunnar Hillert type add,0
+changes xml action dev Gunnar Hillert type fix,0
+signup jsp input type hidden name recaptcha response field,0
+changes xml action dev Gunnar Hillert type add,0
+show statistics jsp script type text javascript,0
+workspace xml provider selected true editor type id text editor,0
+web xml exception type java lang Throwable exception type,0
+jsp link rel alternate href c url value rss jobs rss type application rss xml title jRecruiter RSS Feed,0
+changes xml action dev Gunnar Hillert type fix,0
+changes xml action dev Gunnar Hillert type add,0
+error jsp meta http equiv content type content text html charset utf,0
+changes xml action dev Gunnar Hillert type add,0
+workspace xml provider selected true editor type id text editor,0
+changes xml action dev Gunnar Hillert type add,0
+job mapDiv jsp input id showCoordinatesButton type button value spring message code jsp job mapDiv button show coordinates,0
+changes xml action dev Gunnar Hillert type add,0
+edit user jsp script type text javascript,0
+add job jsp type text javascript script,0
+default jsp document write unescape Cscript src gaJsHost google analytics com ga js type text javascript E C script E,0
+account verification jsp script type text javascript,0
+changes xml action dev Gunnar Hillert type add,0
+pom xml dbunit operation type MSSQL CLEAN INSERT dbunit operation type,0
+struts xml result name success type customChart,0
+changes xml action dev Gunnar Hillert type add,0
+add user jsp script type text javascript,0
+jsp link rel shortcut icon href c url value favicon ico type image x icon,0
+changes xml action dev Gunnar Hillert type add,0
+user list table jsp input type checkbox name userIds rowcount value user id class checkbox,0
+site xml script type text javascript,0
+changes xml action dev Gunnar Hillert type add,0
+joblistTable jsp input type checkbox name jobsToDelete rowcount value job id class checkbox input,0
+search jsp script type text javascript,0
+changes xml action dev Gunnar Hillert type add,0
+web xml param name type param name,0
+pom xml dbunit operation type CLEAN INSERT dbunit operation type,0
+workspace xml provider selected true editor type id text editor,0
+job detail jsp type text javascript script,0
+logback xml logger name org hibernate type,0
+changes xml action dev Gunnar Hillert type add,0
+misc xml file type web url file PROJECT DIR jrecruiter web,0
+changes xml action dev Gunnar Hillert type add,0
+changes xml action dev Gunnar Hillert type add,0
+logback xml logger name org hibernate type,0
+decorators xml pattern admin logging ajax log file table pattern,0
+decorators xml pattern admin show users ajax pattern,0
+show users jsp s url id showUsersUrl action show users ajax includeParams none,0
+search jsp jQuery get s property value tableUrlAjax ajax true keyword keyword val parameterString function data,0
+decorators xml pattern admin logging ajax logger table pattern,0
+logging jsp s url id showLogFilesUrl action logging ajax log file table includeParams none,0
+show jobs jsp s url id showJobsUrl action show jobs ajax includeParams none,0
+show jobs jsp s form name jobsForm action show jobs ajax,0
+show jobs jsp jQuery get s property value tableUrlAjax ajax true parameterString function data,0
+show jobs jsp s url id tableUrlAjax action show jobs ajax includeParams none,0
+search jsp s url id tableUrlAjax action search ajax includeParams none,0
+decorators xml pattern show jobs ajax pattern,0
+logging jsp s url id showLoggersUrl action logging ajax logger table includeParams none,0
+show statistics jsp jQuery get s property value tableUrlAjax ajax true parameterString function data,0
+decorators xml pattern admin show jobs ajax pattern,0
+logging jsp s textfield id loggerName name newLogger loggerName required true tabindex size,0
+sample data xml column fax column,0
+add user jsp s textfield id fax name user fax required true maxlength tabindex,0
+add user jsp label for fax spring message code class user fax label,0
+edit user jsp label for fax spring message code class user fax label,0
+edit user jsp s textfield id fax name user fax required true maxlength tabindex,0
+signup jsp s textfield id fax name user fax required true maxlength tabindex,0
+seed data xml column fax column,0
+signup jsp label for fax spring message code class user fax label,0
+flex jobs jsp html body containerA containerB height,0
+index template html width width height height name application align middle,0
+edit user jsp div id passwordStrengthBarContainer style margin left px width px border px solid black height px overflow hidden div id passwordStrengthBar style width px background color green height px overflow div div,0
+add user jsp div style margin left px width px border px solid black height px overflow hidden div id passwordStrengthBar style width px background color green height px overflow div div,0
+job mapDiv jsp style clear both width px height px margin em auto auto border px solid black div,0
+show users jsp height px,0
+struts xml param name height param,0
+show jobs jsp height px,0
+workspace xml option name height value,0
+workspace xml frame x y width height extended state,0
+index template html height height,0
+index template html id application width width height height,0
+index template html height height,0
+index jsp img src jobCountUrl alt Job statistics graph Number of Jobs style width px height px,0
+signup jsp div style margin left px width px border px solid black height px overflow hidden div id passwordStrengthBar style width px background color green height px overflow div div,0
+signup jsp height width frameborder iframe br,0
+struts xml param name height param,0
+job detail jsp div id map canvas style width height px background color white,0
+edit settings jsp s textfield name mailingListEmail id mailingListEmail size tabindex,0
+edit settings jsp label for mailingListEmail spring message code jsp edit settings field jobposting to label,0
+struts xml param name feedName rssFeed param,0
+workspace xml find yesNoList find,0
+loggingLoggerTable jsp s hidden name updatedLoggers attr rowcount loggerName value attr bean loggerName,0
+signup jsp s textfield id phone name user phone required true maxlength tabindex,0
+add user jsp s textfield id phone name user phone required true maxlength tabindex,0
+edit user jsp s textfield id phone name user phone required true maxlength tabindex,0
+add user jsp label for phone spring message code class user phone label,0
+job detail jsp label spring message code jsp ALL job field phone label,0
+sample data xml column phone column,0
+seed data xml column phone column,0
+edit user jsp label for phone spring message code class user phone label,0
+signup jsp label for phone spring message code class user phone label,0
+job contact jsp label for businessPhone spring message code jsp ALL job field phone label,0
+job contact jsp s textfield name model job businessPhone id businessPhone size tabindex,0
+job contact jsp label for businessPhone spring message code jsp ALL job field phone label,0
+add user jsp label for lastName spring message code class user lastName label,0
+index jsp security authentication property principal lastName to the administrative area,0
+edit user jsp label for lastName spring message code class user lastName label,0
+signup jsp s textfield id lastName name user lastName required true maxlength tabindex,0
+edit user jsp s textfield id lastName name user lastName required true maxlength tabindex,0
+signup jsp label for lastName spring message code class user lastName label,0
+add user jsp s textfield id lastName name user lastName required true maxlength tabindex,0
+default jsp security authentication property principal firstName security authentication property principal lastName security authentication property principal email a href c url value logout html spring message code jsp decorators default logout a div,0
+pom xml role Admin role,0
+seed data xml row value value value MANAGER value value This role can post new jobs value row,0
+sample data xml row value value value MANAGER value value This role can post new jobs value row,0
+sample data xml table name regions,0
+seed data xml table name regions,0
+job location jsp s textfield name model job businessZip id businessZip size tabindex,0
+job location jsp label for businessZip spring message code jsp ALL job field zip label,0
+job mapDiv jsp label for longitude spring message code jsp ALL job field latitude label,0
+job mapDiv jsp s textfield name model job latitude id latitude size tabindex,0
+job javascript jsp showJob map jQuery latitude val jQuery longitude val jQuery zoomLevel val,0
+job header jsp label for industry spring message code jsp ALL job field industry label,0
+job javascript jsp value jQuery industry val,0
+job header jsp s select name model job industry id id industry tabindex,0
+job javascript jsp jQuery industry bind change function event,0
+job detail jsp label spring message code jsp ALL job field industry label,0
+pom xml enabled true enabled,0
+seed data xml column enabled column,0
+services config xml polling enabled true polling enabled,0
+compiler xml profile name Maven default annotation processors profile enabled true,0
+pom xml enabled false enabled,0
+pom xml enabled false enabled,0
+misc xml component name ExternalStorageConfigurationManager enabled true,0
+pom xml enabled false enabled,0
+pom xml enabled false enabled,0
+pom xml enabled false enabled,0
+applicationContext security xml security global method security secured annotations enabled,0
+pom xml enabled true enabled,0
+pom xml enabled true enabled,0
+pom xml enabled true enabled,0
+pom xml enabled true enabled,0
+logging jsp s url s if test showAll,0
+logging jsp s param name showAll value true,0
+logging jsp var showAll s property value showAll,0
+logging jsp jQuery get url showAll showAll parameterString function data,0
+signup jsp input type hidden name recaptcha response field,0
+loggingLoggerTable jsp jmesa htmlColumn title Current Log Level property logLevel logLevelName,0
+job location jsp s textfield name model job businessState id businessState size tabindex,0
+job location jsp label for businessState spring message code jsp ALL job field state label,0
+job header jsp s select name model job offeredBy id offeredBy tabindex,0
+edit settings jsp label for mailFrom spring message code jsp edit settings field mail from label,0
+edit settings jsp s textfield name mailFrom id mailFrom size tabindex,0
+seed data xml column email column,0
+get password jsp label for username spring message code class user email label,0
+signup jsp label for email spring message code class user email label,0
+sample data xml row value mail jobposting email value value n value row,0
+changes xml author email gunnar at hillert dot com Gunnar Hillert author,0
+default jsp security authentication property principal firstName security authentication property principal lastName security authentication property principal email a href c url value logout html spring message code jsp decorators default logout a div,0
+changes xml Implemented email account verification,0
+job contact jsp label for businessEmail spring message code jsp ALL job field email label,0
+password tips jsp jQuery email focus,0
+pom xml email gunnar at hillert dot com email,0
+edit user jsp label for email spring message code class user email label,0
+add user jsp email focus,0
+validators xml validator name email class com opensymphony xwork validator validators EmailValidator,0
+edit user jsp s textfield id email name user email required true maxlength tabindex,0
+signup jsp s textfield id email name user email required true maxlength tabindex,0
+seed data xml row value mail jobposting email value value jobs jrecruiter org value row,0
+changes xml Switched from username based logins to an email based system usernames are still supported on the,0
+add user jsp s textfield id email name user email required true maxlength tabindex,0
+add user jsp label for email spring message code class user email label,0
+job detail jsp label spring message code jsp ALL job field email label,0
+sample data xml column email column,0
+login jsp label for j username spring message code class user email label,0
+edit user jsp email focus,0
+applicationContext jpa xml prop key hibernate show sql hibernate show sql prop,0
+spring servlet xml prop key datetime format MM dd yyyy prop,0
+applicationContext server xml property name publicKey value key recaptcha public,0
+sample data xml column message key column,0
+spring servlet xml entry key xml escape value ref fmXmlEscape,0
+applicationContext jpa xml prop key hibernate cache provider class org hibernate cache EhCacheProvider prop,0
+applicationContext jpa xml prop key hibernate search default directory provider org hibernate search store FSDirectoryProvider prop,0
+applicationContext jpa xml prop key hibernate cache use second level cache true prop,0
+applicationContext jpa xml prop key hibernate search default indexBase jrecruiter home hibernate prop,0
+joblist jsp if confirm bean message key jsp joblist delete confirm,0
+seed data xml column message key column,0
+applicationContext server xml property name privateKey value key recaptcha private,0
+workspace xml state key ProjectJDKs UI,0
+applicationContext jpa xml prop key hibernate query substitutions true false prop,0
+account verification jsp s textfield id verificationKey name key required true maxlength tabindex size,0
+applicationContext jpa xml prop key hibernate format sql true prop,0
+spring servlet xml prop key number format prop,0
+applicationContext jpa xml prop key hibernate dialect database hibernate dialect prop,0
+job location jsp s textfield name model job businessAddress id businessAddress size tabindex,0
+job location jsp label for businessAddress spring message code jsp ALL job field address label,0
+pom xml id website id,0
+job contact jsp spring message code jsp ALL job field website note,0
+job contact jsp label for website spring message code jsp ALL job field website label,0
+job detail jsp label spring message code jsp ALL job field website label,0
+jsp title Main website of the jRecruiter project span j span Recruiter a,0
+jsp title Main website of the jRecruiter project span j span Recruiter a,0
+job contact jsp s textfield name model job website id website size tabindex,0
+default jsp title Main website of the jRecruiter project span j span Recruiter spring message code jrecruiter build version Revision spring message code jrecruiter build number a,0
+error jsp title Main website of the jRecruiter project span j span Recruiter a,0
+job location jsp s textfield name model job businessAddress id businessAddress size tabindex,0
+job location jsp label for businessAddress spring message code jsp ALL job field address label,0
+signup jsp textarea name recaptcha challenge field rows cols,0
+joblistTable jsp input type checkbox name jobsToDelete rowcount value job id class checkbox input,0
+user list table jsp s param name userId value attr user id,0
+show users jsp function checkDelete userId,0
+seed data xml table name industries,0
+sample data xml table name industries,0
+index template html width width height height name application align middle,0
+add user jsp div style margin left px width px border px solid black height px overflow hidden div id passwordStrengthBar style width px background color green height px overflow div div,0
+messages jsp table successMessages width content width,0
+struts xml param name width param,0
+job mapDiv jsp style clear both width px height px margin em auto auto border px solid black div,0
+jobsTable jsp img alt spring message code jsp show jobs table icon alt map title spring message code jsp show jobs table icon title map src ctx images icons crystal globe png style border width,0
+login jsp table errorMessages width content width,0
+search jsp img alt spring message code jsp show jobs table icon alt details title spring message code jsp show jobs table icon title details src ctx images icons crystal viewmag png style border width,0
+workspace xml frame x y width height extended state,0
+index jsp s submit value getText jsp index search button method search cssClass button cssStyle margin left em border style solid border width px,0
+index template html id application width width height height,0
+index jsp img src jobCountUrl alt Job statistics graph Number of Jobs style width px height px,0
+messages jsp table errorMessages width content width,0
+signup jsp div style margin left px width px border px solid black height px overflow hidden div id passwordStrengthBar style width px background color green height px overflow div div,0
+show statistics jsp div class center style width px,0
+add user jsp passwordStrengthBarContainer width password width,0
+user list table jsp a href editUserUrl img alt spring message code jsp admin user list table edit link title title spring message code jsp admin user list table edit link title src ctx images icons crystal edit png style border width a,0
+job detail jsp div id map canvas style width height px background color white,0
+index template html width width,0
+edit user jsp passwordStrengthBarContainer width password width,0
+edit user jsp div id passwordStrengthBarContainer style margin left px width px border px solid black height px overflow hidden div id passwordStrengthBar style width px background color green height px overflow div div,0
+signup jsp div style margin auto auto width px,0
+joblistTable jsp a href jobDetailUrl img alt Edit this Job title Edit this Job src ctx images icons crystal edit png style border width a,0
+search jsp img alt spring message code jsp show jobs table icon alt map title spring message code jsp show jobs table icon title map src ctx images icons crystal globe png style border width,0
+index jsp div class required style border px solid aaaaCC width padding top em margin left text align center background color FAFAFA,0
+edit job jsp statisticContainer label display block width em margin right em float left,0
+signup jsp height width frameborder iframe br,0
+struts xml param name width param,0
+jobsTable jsp img alt spring message code jsp show jobs table icon alt details title spring message code jsp show jobs table icon title details src ctx images icons crystal viewmag png style border width,0
+workspace xml option name width value,0
+edit job jsp statisticContainer float right border px solid aaaaaa width em margin right,0
+index template html width width,0
+job description jsp s textarea name model job description id description rows tabindex cssStyle width px,0
+job description jsp s textarea name model job jobRestrictions id jobRestrictions rows tabindex cssStyle width px,0
+index jsp ul class menuList style width em float left,0
+applicationContext xml context annotation config,0
+applicationContext resources xml bean id propertyConfigurer class org springframework beans factory config PropertyPlaceholderConfigurer,0
+applicationContextV jdbc xml context annotation config,0
+sitemesh xml param name config value decorators file,0
+web xml session config,0
+services config xml services config,0
+services config xml services config,0
+spring servlet xml flex config processor ref messageBrokerConfigProcessor,0
+web xml session config,0
+pom xml services basedir jrecruiter web src main webapp WEB INF flex services config xml services,0
+pom xml jdbc properties hibernate cfg xml sql map config xml web xml WEB INF classes META INF,0
+applicationContext security xml security http auto config true access decision manager ref accessDecisionManager,0
+applicationContext server xml context annotation config,0
+services config xml service include file path proxy config xml,0
+validators xml DOCTYPE validators PUBLIC OpenSymphony Group XWork Validator Config EN http www opensymphony com xwork xwork validator config dtd,0
+applicationContext xml bean id ajaxService class org jrecruiter web ajax DwrAction,0
+dwr xml param name beanName value ajaxService,0
+dwr xml create creator spring javascript ajaxService,0
+job header jsp s textfield name model job jobTitle id jobTitle size tabindex,0
+seed data xml row value mail jobposting subject value value CDATA ajug jobs jobTitle value row,0
+job detail jsp label spring message code jsp ALL job field jobTitle label,0
+job header jsp label for jobTitle spring message code jsp ALL job field jobTitle label,0
+edit settings jsp jobTitle,0
+edit settings jsp businessName,0
+job detail jsp label spring message code jsp ALL job field businessName label,0
+job header jsp s textfield name model job businessName id businessName size tabindex,0
+job header jsp label for businessName spring message code jsp ALL job field businessName label,0
+job location jsp label for businessCity spring message code jsp ALL job field city label,0
+job location jsp s textfield name model job businessCity id businessCity size tabindex,0
+logging jsp s textfield id loggerName name newLogger loggerName required true tabindex size,0
+loggingLoggerTable jsp s hidden name updatedLoggers attr rowcount loggerName value attr bean loggerName,0
+job header jsp s textfield name model job industryOther id job industryOther size tabindex,0
+job header jsp label for industryOther Other label,0
+job mapDiv jsp s textfield name model job longitude id longitude size tabindex,0
+job mapDiv jsp label for longitude spring message code jsp ALL job field latitude label,0
+job javascript jsp showJob map jQuery latitude val jQuery longitude val jQuery zoomLevel val,0
+job mapDiv jsp label for longitude spring message code jsp ALL job field longitude label,0
+job contact jsp s textfield name model job businessEmail id businessEmail size tabindex,0
+job contact jsp label for businessEmail spring message code jsp ALL job field email label,0
+applicationContext jpa xml prop key hibernate format sql true prop,0
+taglibs jsp c set var datePattern spring message code date format c set,0
+spring servlet xml prop key datetime format MM dd yyyy prop,0
+spring servlet xml prop key number format prop,0
+edit settings jsp label for mailingListSubject spring message code jsp edit settings field jobposting subject label,0
+edit settings jsp s textfield name mailingListSubject id mailingListSubject size tabindex,0
+user list table jsp items users,0
+seed data xml column users id column,0
+sample data xml table name users,0
+decorators xml pattern admin show users ajax pattern,0
+show users jsp s submit action show users method cancel value getText jsp ALL button cancel,0
+show users jsp s text name jsp admin show users message not found users,0
+sample data xml column users id column,0
+index jsp s url action show users id userListUrl,0
+applicationContext security xml security intercept url pattern admin show users html access ADMIN requires channel https,0
+show users jsp s url id showUsersUrl action show users ajax includeParams none,0
+seed data xml table name users,0
+job location jsp label for regionOther nbsp label,0
+job location jsp s textfield name model job regionOther id job regionOther size tabindex,0
+add user jsp s textfield id firstName name user firstName required true maxlength tabindex,0
+signup jsp s textfield id firstName name user firstName required true maxlength tabindex,0
+index jsp security authentication property principal firstName,0
+signup jsp label for firstName spring message code class user firstName label,0
+add user jsp label for firstName spring message code class user firstName label,0
+edit user jsp label for firstName spring message code class user firstName label,0
+edit user jsp s textfield id firstName name user firstName required true maxlength tabindex,0
+default jsp security authentication property principal firstName security authentication property principal lastName security authentication property principal email a href c url value logout html spring message code jsp decorators default logout a div,0
+edit settings jsp jobId,0
+search jsp s param name jobId value attr job id,0
+jobsTable jsp s param name jobId value attr job id,0
+job location jsp s select name model job region id id region tabindex,0
+job javascript jsp jQuery region bind change function event,0
+job javascript jsp value jQuery region val,0
+job location jsp label for region spring message code jsp ALL job field location label,0
+applicationContext server xml bean id reCaptcha class net tanesha recaptcha ReCaptchaImpl,0
+index jsp a id showJobsButton href showJobsUrl class button span class showJobs nbsp span spring message code jsp index showJobs a,0
+index jsp spring message code jsp admin index welcome,0
+index jsp li a href loggingUrl spring message code jsp admin index label logging settings a li,0
+signup jsp label for password spring message code class user password label,0
+edit settings jsp p style clear both spring message code jsp ALL marked fields are required p,0
+edit user jsp label for password spring message code class user password label,0
+index jsp title jRecruiter spring message code jsp admin index header title,0
+web xml error code error code,0
+jobsTable jsp img alt spring message code jsp show jobs table icon alt map title spring message code jsp show jobs table icon title map src ctx images icons crystal globe png style border width,0
+edit settings jsp label spring message code jsp edit settings label variable job description label,0
+edit user jsp label spring message code jsp signup label password strength label,0
+job location jsp label for businessAddress spring message code jsp ALL job field address label,0
+index jsp li a href searchIndexUrl spring message code jsp admin index label reindex search index a li,0
+job description jsp label for description spring message code jsp ALL job field jobDescription label,0
+job contact jsp label for website spring message code jsp ALL job field website label,0
+default jsp li class icon a href c url value rss jobs rss class icon title spring message code jsp decorators default menu rss title nbsp span spring message code jsp decorators default menu rss span a li,0
+account verification jsp h spring message code jsp registration account verification title h,0
+edit user jsp h spring message code jsp edit user title h,0
+edit user jsp label for email spring message code class user email label,0
+signup jsp h spring message code jsp signup title h,0
+add job jsp spring message code jsp ALL marked fields are required,0
+job detail jsp label spring message code jsp ALL job field address label,0
+get password jsp spring message code jsp get password user forgot password text,0
+user list table jsp a href editUserUrl img alt spring message code jsp admin user list table edit link title title spring message code jsp admin user list table edit link title src ctx images icons crystal edit png style border width a,0
+job header jsp label for jobTitle spring message code jsp ALL job field jobTitle label,0
+default jsp a href c url value search html spring message code jsp decorators default menu search jobs a li,0
+edit settings jsp label spring message code jsp edit settings label variable job business name label,0
+contact jsp p spring message code jsp contact introduction p p,0
+index jsp p spring message code jsp index introduction text top p,0
+add user jsp label for firstName spring message code class user firstName label,0
+edit user jsp label for company spring message code class user company label,0
+edit user jsp label for password spring message code class user password label,0
+add user jsp h spring message code jsp add user title h,0
+show jobs jsp h spring message code jsp show jobs title h,0
+index jsp li a href logoutUrl spring message code jsp admin index label logout a li,0
+job detail jsp label spring message code jsp ALL job field email label,0
+edit settings jsp label spring message code jsp edit settings label variable job restrictions label,0
+signup jsp label for company spring message code class user company label,0
+taglibs jsp c set var datePattern spring message code date format c set,0
+job mapDiv jsp label for longitude spring message code jsp ALL job field longitude label,0
+index jsp legend spring message code jsp admin index legend administration legend,0
+index jsp a id addUserButton href signupUrl class button span class addUser nbsp span spring message code jsp index createNewUser a,0
+job location jsp label for region spring message code jsp ALL job field location label,0
+job location jsp label for businessZip spring message code jsp ALL job field zip label,0
+default jsp title Main website of the jRecruiter project span j span Recruiter spring message code jrecruiter build version Revision spring message code jrecruiter build number a,0
+index jsp a id showJobsFlexButton href showFlexJobsUrl class button span class showJobsFlex nbsp span spring message code jsp index showJobs a,0
+edit user jsp span id passwordStrength spring message code jsp signup label insert password span,0
+password tips jsp li spring message code jsp signup text password tip li,0
+signup jsp span id passwordStrength spring message code jsp signup label insert password span,0
+edit settings jsp label for mailingListSubject spring message code jsp edit settings field jobposting subject label,0
+contact jsp p spring message code jsp contact introduction p p,0
+index jsp li a href userListUrl spring message code jsp admin index label edit user a li,0
+search jsp img alt spring message code jsp show jobs table icon alt details title spring message code jsp show jobs table icon title details src ctx images icons crystal viewmag png style border width,0
+job detail jsp legend spring message code jsp job detail label summary legend,0
+job detail jsp div class optional label spring message code jsp ALL job field salary label,0
+job mapDiv jsp label for usesMap spring message code jsp job mapDiv text uses map label,0
+add user jsp span id passwordStrength spring message code jsp signup label insert password span,0
+index jsp li a href editUserUrl spring message code jsp admin index label edit registration a li,0
+default jsp a href c url value admin index html spring message code jsp decorators default menu admin a li,0
+job mapDiv jsp input id convertAddressButton type button value spring message code jsp job mapDiv button convert address,0
+job description jsp spring message code jsp admin add job job fieldset job details,0
+login jsp input type submit onClick location href c url value return false value spring message code jsp login button cancel,0
+index jsp legend spring message code jsp admin index legend user task legend,0
+index jsp li a href showStatisticsUrl spring message code jsp admin index label show statistics a li,0
+password tips jsp li spring message code jsp signup text password tip li,0
+edit job jsp legend spring message code jsp admin edit job fieldset legend statistics legend,0
+password tips jsp li spring message code jsp signup text password tip li,0
+signup jsp p class info spring message code jsp signup text introduction p,0
+edit settings jsp h spring message code jsp edit settings title h,0
+index jsp label for keyword spring message code jsp index search term label,0
+job detail jsp label spring message code jsp ALL job field businessName label,0
+edit user jsp p style clear both spring message code jsp ALL marked fields are required p,0
+edit user jsp label for phone spring message code class user phone label,0
+default jsp a href id contact spring message code jsp decorators default menu about a li,0
+job detail jsp label spring message code jsp ALL job field website label,0
+job detail jsp legend spring message code jsp ALL job field jobDescription legend,0
+web xml error code error code,0
+job header jsp label for salary spring message code jsp ALL job field salary label,0
+add user jsp label for email spring message code class user email label,0
+contact jsp p spring message code jsp contact introduction p p,0
+default jsp ul li a href c url value spring message code jsp decorators default menu home a li,0
+job detail jsp label spring message code jsp ALL job field jobUpdateDate label,0
+job detail jsp label spring message code jsp ALL job field phone label,0
+job location jsp label for businessAddress spring message code jsp ALL job field address label,0
+signup jsp label for firstName spring message code class user firstName label,0
+signup jsp label spring message code jsp signup label password strength label,0
+job contact jsp spring message code jsp admin add job fieldset contact information,0
+jobsTable jsp img alt spring message code jsp show jobs table icon alt details title spring message code jsp show jobs table icon title details src ctx images icons crystal viewmag png style border width,0
+edit user jsp label for firstName spring message code class user firstName label,0
+signup jsp label for lastName spring message code class user lastName label,0
+password tips jsp li spring message code jsp signup text password tip li,0
+login jsp li spring message code jsp login error errorMessage li,0
+edit settings jsp label spring message code jsp edit settings label variable job business location label,0
+job mapDiv jsp spring message code jsp admin add job job fieldset geographic information,0
+job header jsp label for offered By spring message code jsp ALL job field offered by label,0
+login jsp input type submit value spring message code jsp login button login,0
+edit settings jsp label for mailingListEmail spring message code jsp edit settings field jobposting to label,0
+job location jsp label for businessCity spring message code jsp ALL job field city label,0
+login jsp label for j password spring message code class user password label,0
+index jsp li a href showJobsNotAdminUrl spring message code jsp admin index label view jobs a li,0
+get password jsp label for username spring message code class user email label,0
+index jsp li a href addUserUrl spring message code jsp admin index label add user a li,0
+signup jsp label for email spring message code class user email label,0
+index jsp p style clear both spring message code jsp index introduction text bottom p,0
+edit settings jsp label spring message code jsp edit settings label variable job title label,0
+signup jsp label for phone spring message code class user phone label,0
+edit settings jsp label spring message code jsp edit settings label variable job id label,0
+add user jsp label for lastName spring message code class user lastName label,0
+edit job jsp h spring message code jsp admin edit job title h,0
+edit user jsp label for fax spring message code class user fax label,0
+index jsp li a href addJobUrl spring message code jsp admin index label add job a li,0
+job detail jsp label spring message code jsp ALL job field industry label,0
+add user jsp label for company spring message code class user company label,0
+show jobs jsp p class info spring message code jsp show jobs description p,0
+edit settings jsp p class info spring message code jsp edit settings introduction text p,0
+job detail jsp label spring message code jsp ALL job field offered by label,0
+job location jsp spring message code jsp admin add job job fieldset job location,0
+index jsp h spring message code jsp admin index header h,0
+job detail jsp label spring message code jsp ALL job field jobTitle label,0
+password tips jsp li spring message code jsp signup text password tip li,0
+job description jsp label for jobRestrictions spring message code jsp ALL job field jobRestrictions label,0
+index jsp a id manageAccountButton href adminMainUrl class button span class manageAccount nbsp span spring message code jsp index manageJobsAccount a,0
+job contact jsp spring message code jsp ALL job field website note,0
+signup jsp label for fax spring message code class user fax label,0
+index jsp li a href showJobsForAdminUrl spring message code jsp admin index label edit jobs a li,0
+edit user jsp label for lastName spring message code class user lastName label,0
+default jsp li class icon a href c url value http www twitter com ajug jobs class icon twitter title spring message code jsp decorators default menu twitter title nbsp span spring message code jsp decorators default menu twitter span a li,0
+signup jsp label for password spring message code class user password label,0
+add job jsp h spring message code jsp admin add job title h,0
+job detail jsp label spring message code jsp ALL job field location label,0
+edit job jsp spring message code jsp ALL marked fields are required,0
+default jsp li a href c url value s indeed xml title spring message code jsp decorators default menu xml title spring message code jsp decorators default menu xml a li,0
+get password jsp h spring message code jsp get password title h,0
+web xml error code error code,0
+index jsp li a href editSettingsUrl spring message code jsp admin index label edit settings a li,0
+password tips jsp passwordStrength html spring message code jsp signup label insert password,0
+login jsp a href signupUrl spring message code jsp login addUser a,0
+edit settings jsp label for mailFrom spring message code jsp edit settings field mail from label,0
+default jsp security authentication property principal firstName security authentication property principal lastName security authentication property principal email a href c url value logout html spring message code jsp decorators default logout a div,0
+job contact jsp label for businessEmail spring message code jsp ALL job field email label,0
+job location jsp label for businessState spring message code jsp ALL job field state label,0
+job mapDiv jsp input id showCoordinatesButton type button value spring message code jsp job mapDiv button show coordinates,0
+login jsp a href getPasswordUrl spring message code jsp login forgotYourPassword a,0
+add user jsp label for phone spring message code class user phone label,0
+job description jsp spring message code jsp ALL job label texarea note,0
+signup jsp p style clear both spring message code jsp ALL marked fields are required p,0
+index jsp legend spring message code jsp admin index legend manage jobs legend,0
+edit settings jsp label spring message code jsp edit settings label variable job update date label,0
+add user jsp label for password spring message code class user password label,0
+account verification jsp label for validationKey spring message code jsp registration account verification form code label,0
+job header jsp label for businessName spring message code jsp ALL job field businessName label,0
+job detail jsp legend spring message code jsp ALL job field location legend,0
+taglibs jsp taglib uri http code google com p jmesa prefix jmesa,0
+job header jsp label for industry spring message code jsp ALL job field industry label,0
+password tips jsp li spring message code jsp signup text password tip li,0
+add user jsp label for password spring message code class user password label,0
+job detail jsp legend spring message code jsp ALL job field jobRestrictions legend,0
+job mapDiv jsp label for zoomLevel spring message code jsp ALL job field zoomLevel label,0
+password tips jsp li spring message code jsp signup text password tip li,0
+index jsp p spring message code jsp index introduction text support p,0
+job contact jsp label for businessPhone spring message code jsp ALL job field phone label,0
+job mapDiv jsp label for longitude spring message code jsp ALL job field latitude label,0
+index jsp li a href setupDemoUrl spring message code jsp admin index label setup demo jobs a li,0
+workspace xml dir E nuaa st Year code LocalGit jrecruiter jrecruiter web dir,0
+search jsp img alt spring message code jsp show jobs table icon alt map title spring message code jsp show jobs table icon title map src ctx images icons crystal globe png style border width,0
+add user jsp label for fax spring message code class user fax label,0
+add user jsp p style clear both spring message code jsp ALL marked fields are required p,0
+login jsp label for j username spring message code class user email label,0
+add user jsp label spring message code jsp signup label password strength label,0
+web xml org springframework security ui session HttpSessionEventPublisher listener class,0
+web xml session timeout session timeout,0
+web xml session config,0
+web xml session config,0
+applicationContext security xml security concurrent session control max sessions exception if maximum exceeded false,0
+applicationContext security xml security logout logout url logout html invalidate session true logout success url show jobs html,0
+job mapDiv jsp label for usesMap spring message code jsp job mapDiv text uses map label,0
+job javascript jsp jQuery usesMap bind change function event usesMapChange,0
+user list table jsp input type checkbox name userIds rowcount value user id class checkbox,0
+test applicationContext mail xml bean id mailSender class org jrecruiter mock MockJavaMailSender,0
+applicationContext mail xml bean id mailSender class org springframework mail javamail JavaMailSenderImpl,0
+edit user jsp label for company spring message code class user company label,0
+sample data xml column company column,0
+signup jsp s textfield id company name user company required true maxlength tabindex,0
+edit user jsp s textfield id company name user company required true maxlength tabindex,0
+signup jsp label for company spring message code class user company label,0
+seed data xml column company column,0
+add user jsp s textfield id company name user company required true maxlength tabindex,0
+add user jsp label for company spring message code class user company label,0
+applicationContext server xml bean id freemarkerConfiguration class org springframework ui freemarker FreeMarkerConfigurationFactoryBean,0
+account verification jsp s textfield id verificationKey name key required true maxlength tabindex size,0
+account verification jsp verificationKey focus,0
+index jsp a id showJobsButton href showJobsUrl class button span class showJobs nbsp span spring message code jsp index showJobs a,0
+index jsp spring message code jsp admin index welcome,0
+index jsp li a href loggingUrl spring message code jsp admin index label logging settings a li,0
+signup jsp label for password spring message code class user password label,0
+edit settings jsp p style clear both spring message code jsp ALL marked fields are required p,0
+edit user jsp label for password spring message code class user password label,0
+index jsp title jRecruiter spring message code jsp admin index header title,0
+jobsTable jsp img alt spring message code jsp show jobs table icon alt map title spring message code jsp show jobs table icon title map src ctx images icons crystal globe png style border width,0
+show users jsp p class message p,0
+edit settings jsp label spring message code jsp edit settings label variable job description label,0
+edit user jsp label spring message code jsp signup label password strength label,0
+job location jsp label for businessAddress spring message code jsp ALL job field address label,0
+index jsp li a href searchIndexUrl spring message code jsp admin index label reindex search index a li,0
+show jobs jsp s text name jsp admin show jobs message noAvailableJobs,0
+job description jsp label for description spring message code jsp ALL job field jobDescription label,0
+job contact jsp label for website spring message code jsp ALL job field website label,0
+default jsp li class icon a href c url value rss jobs rss class icon title spring message code jsp decorators default menu rss title nbsp span spring message code jsp decorators default menu rss span a li,0
+account verification jsp h spring message code jsp registration account verification title h,0
+edit user jsp h spring message code jsp edit user title h,0
+edit user jsp label for email spring message code class user email label,0
+signup jsp h spring message code jsp signup title h,0
+add job jsp spring message code jsp ALL marked fields are required,0
+job detail jsp label spring message code jsp ALL job field address label,0
+get password jsp spring message code jsp get password user forgot password text,0
+spring servlet xml flex message broker disable default mapping true,0
+user list table jsp a href editUserUrl img alt spring message code jsp admin user list table edit link title title spring message code jsp admin user list table edit link title src ctx images icons crystal edit png style border width a,0
+job header jsp label for jobTitle spring message code jsp ALL job field jobTitle label,0
+default jsp a href c url value search html spring message code jsp decorators default menu search jobs a li,0
+edit settings jsp label spring message code jsp edit settings label variable job business name label,0
+spring servlet xml flex message broker,0
+contact jsp p spring message code jsp contact introduction p p,0
+index jsp p spring message code jsp index introduction text top p,0
+add user jsp label for firstName spring message code class user firstName label,0
+edit user jsp label for company spring message code class user company label,0
+joblist jsp s text name message noAvailableJobs,0
+edit user jsp label for password spring message code class user password label,0
+add user jsp h spring message code jsp add user title h,0
+joblist jsp if confirm bean message key jsp joblist delete confirm,0
+show jobs jsp h spring message code jsp show jobs title h,0
+index jsp li a href logoutUrl spring message code jsp admin index label logout a li,0
+seed data xml column message key column,0
+job detail jsp label spring message code jsp ALL job field email label,0
+edit settings jsp label spring message code jsp edit settings label variable job restrictions label,0
+signup jsp label for company spring message code class user company label,0
+taglibs jsp c set var datePattern spring message code date format c set,0
+job mapDiv jsp label for longitude spring message code jsp ALL job field longitude label,0
+index jsp legend spring message code jsp admin index legend administration legend,0
+index jsp a id addUserButton href signupUrl class button span class addUser nbsp span spring message code jsp index createNewUser a,0
+job location jsp label for region spring message code jsp ALL job field location label,0
+job location jsp label for businessZip spring message code jsp ALL job field zip label,0
+default jsp title Main website of the jRecruiter project span j span Recruiter spring message code jrecruiter build version Revision spring message code jrecruiter build number a,0
+index jsp a id showJobsFlexButton href showFlexJobsUrl class button span class showJobsFlex nbsp span spring message code jsp index showJobs a,0
+edit user jsp span id passwordStrength spring message code jsp signup label insert password span,0
+password tips jsp li spring message code jsp signup text password tip li,0
+signup jsp span id passwordStrength spring message code jsp signup label insert password span,0
+edit settings jsp label for mailingListSubject spring message code jsp edit settings field jobposting subject label,0
+contact jsp p spring message code jsp contact introduction p p,0
+index jsp li a href userListUrl spring message code jsp admin index label edit user a li,0
+search jsp img alt spring message code jsp show jobs table icon alt details title spring message code jsp show jobs table icon title details src ctx images icons crystal viewmag png style border width,0
+show jobs jsp p class message p,0
+job detail jsp legend spring message code jsp job detail label summary legend,0
+job detail jsp div class optional label spring message code jsp ALL job field salary label,0
+job mapDiv jsp label for usesMap spring message code jsp job mapDiv text uses map label,0
+add user jsp span id passwordStrength spring message code jsp signup label insert password span,0
+index jsp li a href editUserUrl spring message code jsp admin index label edit registration a li,0
+default jsp a href c url value admin index html spring message code jsp decorators default menu admin a li,0
+job mapDiv jsp input id convertAddressButton type button value spring message code jsp job mapDiv button convert address,0
+job description jsp spring message code jsp admin add job job fieldset job details,0
+login jsp input type submit onClick location href c url value return false value spring message code jsp login button cancel,0
+index jsp legend spring message code jsp admin index legend user task legend,0
+index jsp li a href showStatisticsUrl spring message code jsp admin index label show statistics a li,0
+messaging config xml service id message service,0
+password tips jsp li spring message code jsp signup text password tip li,0
+edit job jsp legend spring message code jsp admin edit job fieldset legend statistics legend,0
+password tips jsp li spring message code jsp signup text password tip li,0
+signup jsp p class info spring message code jsp signup text introduction p,0
+edit settings jsp h spring message code jsp edit settings title h,0
+index jsp label for keyword spring message code jsp index search term label,0
+job detail jsp label spring message code jsp ALL job field businessName label,0
+edit user jsp p style clear both spring message code jsp ALL marked fields are required p,0
+edit user jsp label for phone spring message code class user phone label,0
+default jsp a href id contact spring message code jsp decorators default menu about a li,0
+sample data xml column message text column,0
+job detail jsp label spring message code jsp ALL job field website label,0
+job detail jsp legend spring message code jsp ALL job field jobDescription legend,0
+job header jsp label for salary spring message code jsp ALL job field salary label,0
+add user jsp label for email spring message code class user email label,0
+contact jsp p spring message code jsp contact introduction p p,0
+default jsp ul li a href c url value spring message code jsp decorators default menu home a li,0
+job detail jsp label spring message code jsp ALL job field jobUpdateDate label,0
+job detail jsp label spring message code jsp ALL job field phone label,0
+job location jsp label for businessAddress spring message code jsp ALL job field address label,0
+signup jsp label for firstName spring message code class user firstName label,0
+signup jsp label spring message code jsp signup label password strength label,0
+job contact jsp spring message code jsp admin add job fieldset contact information,0
+jobsTable jsp img alt spring message code jsp show jobs table icon alt details title spring message code jsp show jobs table icon title details src ctx images icons crystal viewmag png style border width,0
+edit user jsp label for firstName spring message code class user firstName label,0
+signup jsp label for lastName spring message code class user lastName label,0
+password tips jsp li spring message code jsp signup text password tip li,0
+login jsp li spring message code jsp login error errorMessage li,0
+edit settings jsp label spring message code jsp edit settings label variable job business location label,0
+job mapDiv jsp spring message code jsp admin add job job fieldset geographic information,0
+job header jsp label for offered By spring message code jsp ALL job field offered by label,0
+login jsp input type submit value spring message code jsp login button login,0
+edit settings jsp label for mailingListEmail spring message code jsp edit settings field jobposting to label,0
+job location jsp label for businessCity spring message code jsp ALL job field city label,0
+login jsp label for j password spring message code class user password label,0
+index jsp li a href showJobsNotAdminUrl spring message code jsp admin index label view jobs a li,0
+get password jsp label for username spring message code class user email label,0
+seed data xml column message text column,0
+index jsp li a href addUserUrl spring message code jsp admin index label add user a li,0
+signup jsp label for email spring message code class user email label,0
+index jsp p style clear both spring message code jsp index introduction text bottom p,0
+edit settings jsp label spring message code jsp edit settings label variable job title label,0
+signup jsp label for phone spring message code class user phone label,0
+edit settings jsp label spring message code jsp edit settings label variable job id label,0
+add user jsp label for lastName spring message code class user lastName label,0
+edit job jsp h spring message code jsp admin edit job title h,0
+edit user jsp label for fax spring message code class user fax label,0
+index jsp li a href addJobUrl spring message code jsp admin index label add job a li,0
+job detail jsp label spring message code jsp ALL job field industry label,0
+add user jsp label for company spring message code class user company label,0
+show jobs jsp p class info spring message code jsp show jobs description p,0
+edit settings jsp p class info spring message code jsp edit settings introduction text p,0
+job detail jsp label spring message code jsp ALL job field offered by label,0
+job location jsp spring message code jsp admin add job job fieldset job location,0
+index jsp h spring message code jsp admin index header h,0
+job detail jsp label spring message code jsp ALL job field jobTitle label,0
+password tips jsp li spring message code jsp signup text password tip li,0
+job description jsp label for jobRestrictions spring message code jsp ALL job field jobRestrictions label,0
+index jsp a id manageAccountButton href adminMainUrl class button span class manageAccount nbsp span spring message code jsp index manageJobsAccount a,0
+job contact jsp spring message code jsp ALL job field website note,0
+signup jsp label for fax spring message code class user fax label,0
+index jsp li a href showJobsForAdminUrl spring message code jsp admin index label edit jobs a li,0
+edit user jsp label for lastName spring message code class user lastName label,0
+default jsp li class icon a href c url value http www twitter com ajug jobs class icon twitter title spring message code jsp decorators default menu twitter title nbsp span spring message code jsp decorators default menu twitter span a li,0
+signup jsp label for password spring message code class user password label,0
+add job jsp h spring message code jsp admin add job title h,0
+job detail jsp label spring message code jsp ALL job field location label,0
+edit job jsp spring message code jsp ALL marked fields are required,0
+default jsp li a href c url value s indeed xml title spring message code jsp decorators default menu xml title spring message code jsp decorators default menu xml a li,0
+get password jsp h spring message code jsp get password title h,0
+index jsp li a href editSettingsUrl spring message code jsp admin index label edit settings a li,0
+password tips jsp passwordStrength html spring message code jsp signup label insert password,0
+login jsp a href signupUrl spring message code jsp login addUser a,0
+edit settings jsp label for mailFrom spring message code jsp edit settings field mail from label,0
+default jsp security authentication property principal firstName security authentication property principal lastName security authentication property principal email a href c url value logout html spring message code jsp decorators default logout a div,0
+sample data xml column message key column,0
+job contact jsp label for businessEmail spring message code jsp ALL job field email label,0
+job location jsp label for businessState spring message code jsp ALL job field state label,0
+job mapDiv jsp input id showCoordinatesButton type button value spring message code jsp job mapDiv button show coordinates,0
+login jsp a href getPasswordUrl spring message code jsp login forgotYourPassword a,0
+add user jsp label for phone spring message code class user phone label,0
+job description jsp spring message code jsp ALL job label texarea note,0
+signup jsp p style clear both spring message code jsp ALL marked fields are required p,0
+index jsp legend spring message code jsp admin index legend manage jobs legend,0
+edit settings jsp label spring message code jsp edit settings label variable job update date label,0
+add user jsp label for password spring message code class user password label,0
+account verification jsp label for validationKey spring message code jsp registration account verification form code label,0
+job header jsp label for businessName spring message code jsp ALL job field businessName label,0
+show users jsp s text name jsp admin show users message not found users,0
+job detail jsp legend spring message code jsp ALL job field location legend,0
+job header jsp label for industry spring message code jsp ALL job field industry label,0
+password tips jsp li spring message code jsp signup text password tip li,0
+add user jsp label for password spring message code class user password label,0
+job detail jsp legend spring message code jsp ALL job field jobRestrictions legend,0
+job mapDiv jsp label for zoomLevel spring message code jsp ALL job field zoomLevel label,0
+password tips jsp li spring message code jsp signup text password tip li,0
+index jsp p spring message code jsp index introduction text support p,0
+job contact jsp label for businessPhone spring message code jsp ALL job field phone label,0
+job mapDiv jsp label for longitude spring message code jsp ALL job field latitude label,0
+index jsp li a href setupDemoUrl spring message code jsp admin index label setup demo jobs a li,0
+search jsp img alt spring message code jsp show jobs table icon alt map title spring message code jsp show jobs table icon title map src ctx images icons crystal globe png style border width,0
+add user jsp label for fax spring message code class user fax label,0
+add user jsp p style clear both spring message code jsp ALL marked fields are required p,0
+login jsp label for j username spring message code class user email label,0
+add user jsp label spring message code jsp signup label password strength label,0
+add user jsp if changePassword is checked,0
+edit user jsp if changePassword is checked,0
+add user jsp changePassword click function,0
+edit user jsp if changePassword is checked,0
+edit user jsp s checkbox id changePassword name changePassword tabindex,0
+edit user jsp changePassword click function,0
+login jsp form name j spring security check id j acegi security check method POST action j spring security check,0
+add user jsp s form,0
+edit job jsp s form id editJobForm,0
+index jsp s form action search,0
+signup jsp s form id addUserForm action signup,0
+joblist jsp s form action editJob,0
+show statistics jsp s form action show statistics,0
+show jobs jsp s form name jobsForm action show jobs ajax,0
+account verification jsp s form,0
+signup jsp s form,0
+add job jsp s form id addJobForm,0
+taglibs jsp taglib prefix form uri http www springframework org tags form,0
+account verification jsp label for validationKey spring message code jsp registration account verification form code label,0
+logging jsp s form,0
+account verification jsp s submit value getText jsp registration account verification form submit method process,0
+show users jsp s form id userListForm action delete user,0
+edit user jsp s form,0
+edit user jsp s form id editUserForm,0
+login jsp form,0
+get password jsp s form id getPasswordForm action get password,0
+add job jsp s form,0
+index jsp s form,0
+search jsp s form action search,0
+joblist jsp s form,0
+search jsp s form,0
+applicationContext security xml security form login login page login html default target url admin index html,0
+add user jsp s form id addUserForm,0
+show users jsp s form,0
+edit settings jsp s form,0
+show jobs jsp s form id jobListForm action delete jobs,0
+show jobs jsp s form,0
+edit settings jsp s form action edit settings,0
+logging jsp s form,0
+edit job jsp s form,0
+account verification jsp s form,0
+show jobs jsp s form,0
+show statistics jsp s form,0
+get password jsp s form,0
+messaging config xml service id message service,0
+applicationContextV jdbc xml context component scan base package org jrecruiter service impl,0
+package html This package contains the service tier,0
+spring servlet xml bean id flexService class org jrecruiter service impl FlexServiceImpl,0
+proxy config xml service,0
+services config xml service include file path proxy config xml,0
+web xml description jRecruiter is a job posting service description,0
+applicationContext server xml context component scan base package org jrecruiter service impl,0
+applicationContextV jdbc xml context component scan base package org jrecruiter service migration impl,0
+package html This package contains the service tier,0
+messaging config xml service,0
+proxy config xml service id proxy service,0
+remoting config xml service,0
+remoting config xml service id remoting service,0
+applicationContext security xml security authentication provider user service ref userService,0
+logging jsp label for username Log Level label,0
+pom xml jdbc username sa jdbc username,0
+logback xml pattern d p t X sessionId X username logger m X requestUrl n pattern,0
+get password jsp label for username spring message code class user email label,0
+sample data xml column username column,0
+pom xml jdbc username jrecruiter jdbc username,0
+seed data xml column username column,0
+logback xml pattern d p t X sessionId X username logger m X requestUrl n pattern,0
+login jsp j username focus,0
+pom xml jdbc username root jdbc username,0
+pom xml jdbc username jrecruiter jdbc username,0
+pom xml jdbc username sa jdbc username,0
+applicationContext mail xml property name username value mail username,0
+pom xml jdbc username any jdbc username,0
+applicationContext jpa xml property name username value database username,0
+changes xml Switched from username based logins to an email based system usernames are still supported on the,0
+get password jsp jQuery username focus,0
+pom xml jdbc username sa jdbc username,0
+applicationContextV jdbc xml property name username value migration jdbc username,0
+pom xml username jdbc username username,0
+get password jsp s textfield id username name user username required true maxlength tabindex,0
+logback xml pattern d p t X sessionId X username logger m X requestUrl n pattern,0
+login jsp s textfield id j username name j username required true maxlength tabindex,0
+pom xml jdbc username system jdbc username,0
+login jsp label for j username spring message code class user email label,0
+logging jsp label for username Logger Name label,0

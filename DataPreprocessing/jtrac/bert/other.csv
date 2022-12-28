@@ -1,0 +1,465 @@
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id type name description
+id version type name description parent fields roles states fieldOrder
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+name label optional options NAMES_MAP
+id tag type
+id item relatedItem type RELATED DUPLICATE_OF DEPENDS_ON
+id user type
+id type name description
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version type prefixCode name description guestAllowed metadata
+id nextSeqNum
+id user space roleKey
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+id version type name description parent fields roles states fieldOrder
+id previous filePrefix fileName
+jtrac
+jtrac
+logger jtrac ldapUrl activeDirectoryDomain searchBase authenticationProvider
+param value PARAMS
+param value
+param value
+id item relatedItem type RELATED DUPLICATE_OF DEPENDS_ON
+id user type
+id version type prefixCode name description guestAllowed metadata
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+type comment actualEffort attachment
+id tag type
+id type name description
+id version type name description parent fields roles states fieldOrder
+type space sequenceNum history children attachments editReason
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version type prefixCode name description guestAllowed metadata
+id version type name description parent fields roles states fieldOrder
+logger driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+hide form url loginName password
+logger driverClassName url username password validationQuery dataSourceJndiName dataSource
+param value
+param value
+param value PARAMS
+previous space filter optionField field option
+previous space field key option
+id user space roleKey
+type space sequenceNum history children attachments editReason
+id user type
+id user space roleKey
+name label optional options NAMES_MAP
+name label optional options NAMES_MAP
+name label optional options NAMES_MAP
+name label optional options NAMES_MAP
+id version type name description parent fields roles states fieldOrder
+id version type name description parent fields roles states fieldOrder
+id version type name description parent fields roles states fieldOrder
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+serialVersionUID status transitions fields NEW OPEN CLOSED MASK_HIDDEN MASK_READONLY MASK_OPTIONAL MASK_MANDATORY
+serialVersionUID status transitions fields NEW OPEN CLOSED MASK_HIDDEN MASK_READONLY MASK_OPTIONAL MASK_MANDATORY
+logger driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+logger driverClassName url username password validationQuery dataSourceJndiName dataSource
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+logger loginName password rememberMe
+hide form url loginName password
+previous user password passwordConfirm sendNotifications filter
+id version type name description parent fields roles states fieldOrder
+id type name description
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version type name description parent fields roles states fieldOrder
+type comment actualEffort attachment
+type comment actualEffort attachment
+type comment actualEffort attachment
+refId type comment
+itemId itemItem comment
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+hide form url loginName password
+logger loginName password rememberMe
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version type prefixCode name description guestAllowed metadata
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+logger driverClassName url username password validationQuery dataSourceJndiName dataSource
+logger driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+refId type comment
+refId type comment
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version type name description parent fields roles states fieldOrder
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+previous user password passwordConfirm sendNotifications filter
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+logger dao passwordEncoder mailSender indexer indexSearcher messageSource locales defaultLocale releaseVersion releaseTimestamp jtracHome attachmentMaxSizeInMb sessionTimeoutInMinutes
+CONTENT_ID dialog
+CONTENT_ID dialog heading
+id user space roleKey
+id user space roleKey
+previous space roleKey roleKey
+id previous filePrefix fileName
+id version type prefixCode name description guestAllowed metadata
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+logger jtrac ldapUrl activeDirectoryDomain searchBase authenticationProvider
+previous userId selectedSpaceId user space roleAllocatePanel allocateButton
+previous spaceId selectedUserId space user roleAllocatePanel allocateButton
+logger jtrac ldapUrl activeDirectoryDomain searchBase authenticationProvider
+logger driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+logger driverClassName url username password validationQuery dataSourceJndiName dataSource
+logger driverClassName url username password validationQuery dataSourceJndiName dataSource
+logger driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+logger dao passwordEncoder mailSender indexer indexSearcher messageSource locales defaultLocale releaseVersion releaseTimestamp jtracHome attachmentMaxSizeInMb sessionTimeoutInMinutes
+type space sequenceNum history children attachments editReason
+logger jtrac ldapUrl activeDirectoryDomain searchBase authenticationProvider
+NAMES_MAP field name label visible processor filterCriteria
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id type name description
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id type name description
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+name label optional options NAMES_MAP
+id version type name description parent fields roles states fieldOrder
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id type name description
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+name label optional options NAMES_MAP
+id version type name description parent fields roles states fieldOrder
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id type name description
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+name label optional options NAMES_MAP
+id version type name description parent fields roles states fieldOrder
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id type name description
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+name label optional options NAMES_MAP
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+name label optional options NAMES_MAP
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+name label optional options NAMES_MAP
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+name label optional options NAMES_MAP
+id version type name description parent fields roles states fieldOrder
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id version type prefixCode name description guestAllowed metadata
+id type name description
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+name label optional options NAMES_MAP
+id version type name description parent fields roles states fieldOrder
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id version type prefixCode name description guestAllowed metadata
+id type name description
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+name label optional options NAMES_MAP
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+name dependencies fileset
+NAMES_MAP field name label visible processor filterCriteria
+id version type name description parent fields roles states fieldOrder
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id version type prefixCode name description guestAllowed metadata
+id type name description
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+name dependencies fileset
+logger jtrac ldapUrl activeDirectoryDomain searchBase searchKey displayNameKey mailKey otherReturningAttributes returningAttributes control
+logger jtrac ldapUrl activeDirectoryDomain searchBase authenticationProvider
+logger jtrac applicationContext jtracCasProxyTicketValidator
+jtrac dao
+logger jtrac ldapUrl activeDirectoryDomain searchBase searchKey displayNameKey mailKey otherReturningAttributes returningAttributes control
+logger jtrac ldapUrl activeDirectoryDomain searchBase authenticationProvider
+logger jtrac applicationContext jtracCasProxyTicketValidator
+jtrac dao
+logger jtrac ldapUrl activeDirectoryDomain searchBase searchKey displayNameKey mailKey otherReturningAttributes returningAttributes control
+jtrac
+logger jtrac applicationContext jtracCasProxyTicketValidator
+jtrac dao
+logger columns rows selectedColumns selectedRows label columnHeading value key
+EXPRESSIONS_MAP expression values value value2 previousExpression
+param value
+param value
+param value PARAMS
+logger columns rows selectedColumns selectedRows label columnHeading value key
+EXPRESSIONS_MAP expression values value value2 previousExpression
+param value PARAMS
+logger columns rows selectedColumns selectedRows label columnHeading value key
+EXPRESSIONS_MAP expression values value value2 previousExpression
+refId type comment
+space previous type
+refId type comment
+space previous type
+refId type comment
+space previous type
+refId type comment
+space previous type
+refId type comment
+space previous type
+refId type comment
+space previous type
+refId type comment
+space previous type
+refId type comment
+space previous type
+refId type comment
+space previous type
+filter fileUploadField editMode version
+groupId artifactId version resolve
+filter fileUploadField editMode version
+groupId artifactId version resolve
+filter fileUploadField editMode version
+groupId artifactId version resolve
+filter fileUploadField editMode version
+groupId artifactId version resolve
+logger sender prefix from url messageSource defaultLocale
+hide form url loginName password
+logger driverClassName url username password validationQuery dataSourceJndiName dataSource
+logger driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+logger sender prefix from url messageSource defaultLocale
+logger sender prefix from url messageSource defaultLocale
+hide form url loginName password
+param value PARAMS
+param value PARAMS
+param value
+param value
+previous space field key option
+previous space filter optionField field option
+space user pageSize currentPage resultCount sortFieldName sortDescending showHistory batchMode selectedItemId relatingItemRefId itemIds columnHeadings filterCriteriaMap defaultVisibleFlags parent
+column space excelFile index mappedKeys mappedDisplayValues columnCells choiceRenderer choicesModel
+excelFile action space CLASS_SELECTED
+space
+previous spaceId selectedUserId space user roleAllocatePanel allocateButton
+previous space filter optionField field option
+space previous type
+previous space field key option
+previous space copyFrom filter
+previous space
+previous space roleKey roleKey
+previous space stateKey stateName
+previous userId selectedSpaceId user space roleAllocatePanel allocateButton
+space user pageSize currentPage resultCount sortFieldName sortDescending showHistory batchMode selectedItemId relatingItemRefId itemIds columnHeadings filterCriteriaMap defaultVisibleFlags parent
+column space excelFile index mappedKeys mappedDisplayValues columnCells choiceRenderer choicesModel
+excelFile action space CLASS_SELECTED
+space
+previous spaceId selectedUserId space user roleAllocatePanel allocateButton
+previous space filter optionField field option
+space previous type
+previous space field key option
+previous space copyFrom filter
+previous space
+previous space roleKey roleKey
+previous space stateKey stateName
+previous userId selectedSpaceId user space roleAllocatePanel allocateButton
+space user pageSize currentPage resultCount sortFieldName sortDescending showHistory batchMode selectedItemId relatingItemRefId itemIds columnHeadings filterCriteriaMap defaultVisibleFlags parent
+logger user currentSpace itemSearch
+previous spaceId selectedUserId space user roleAllocatePanel allocateButton
+previous userId selectedSpaceId user space roleAllocatePanel allocateButton
+previous user password passwordConfirm sendNotifications filter
+space user pageSize currentPage resultCount sortFieldName sortDescending showHistory batchMode selectedItemId relatingItemRefId itemIds columnHeadings filterCriteriaMap defaultVisibleFlags parent
+logger user currentSpace itemSearch
+previous spaceId selectedUserId space user roleAllocatePanel allocateButton
+previous userId selectedSpaceId user space roleAllocatePanel allocateButton
+previous user password passwordConfirm sendNotifications filter
+NAMES_MAP field name label visible processor filterCriteria
+logger columns rows selectedColumns selectedRows label columnHeading value key
+NAMES_MAP field name label visible processor filterCriteria
+logger columns rows selectedColumns selectedRows label columnHeading value key
+NAMES_MAP field name label visible processor filterCriteria
+logger columns rows selectedColumns selectedRows label columnHeading value key
+NAMES_MAP field name label visible processor filterCriteria
+logger columns rows selectedColumns selectedRows label columnHeading value key
+serialVersionUID status transitions fields NEW OPEN CLOSED MASK_HIDDEN MASK_READONLY MASK_OPTIONAL MASK_MANDATORY
+serialVersionUID status transitions fields NEW OPEN CLOSED MASK_HIDDEN MASK_READONLY MASK_OPTIONAL MASK_MANDATORY
+serialVersionUID status transitions fields NEW OPEN CLOSED MASK_HIDDEN MASK_READONLY MASK_OPTIONAL MASK_MANDATORY
+serialVersionUID status transitions fields NEW OPEN CLOSED MASK_HIDDEN MASK_READONLY MASK_OPTIONAL MASK_MANDATORY
+serialVersionUID status transitions fields NEW OPEN CLOSED MASK_HIDDEN MASK_READONLY MASK_OPTIONAL MASK_MANDATORY
+serialVersionUID status transitions fields NEW OPEN CLOSED MASK_HIDDEN MASK_READONLY MASK_OPTIONAL MASK_MANDATORY
+serialVersionUID status transitions fields NEW OPEN CLOSED MASK_HIDDEN MASK_READONLY MASK_OPTIONAL MASK_MANDATORY
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+logger loginName password rememberMe
+hide form url loginName password
+previous user password passwordConfirm sendNotifications filter
+httpClient repoUrl username password proxy
+repositoryUrl username password proxy
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+logger loginName password rememberMe
+hide form url loginName password
+previous user password passwordConfirm sendNotifications filter
+httpClient repoUrl username password proxy
+repositoryUrl username password proxy
+logger driverClassName url username password validationQuery dataSourceJndiName dataSource
+logger driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+logger loginName password rememberMe
+hide form url loginName password
+previous user password passwordConfirm sendNotifications filter
+httpClient repoUrl username password proxy
+repositoryUrl username password proxy
+logger driverClassName url username password validationQuery dataSourceJndiName dataSource
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+logger driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+hide form url loginName password
+previous user password passwordConfirm sendNotifications filter
+httpClient repoUrl username password proxy
+repositoryUrl username password proxy
+logger driverClassName url username password validationQuery dataSourceJndiName dataSource
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+logger driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+logger loginName password rememberMe
+previous user password passwordConfirm sendNotifications filter
+httpClient repoUrl username password proxy
+repositoryUrl username password proxy
+logger driverClassName url username password validationQuery dataSourceJndiName dataSource
+logger driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+logger loginName password rememberMe
+hide form url loginName password
+httpClient repoUrl username password proxy
+repositoryUrl username password proxy
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id version type name description parent fields roles states fieldOrder
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id type name description
+id version type name description parent fields roles states fieldOrder
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id type name description
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+space user pageSize currentPage resultCount sortFieldName sortDescending showHistory batchMode selectedItemId relatingItemRefId itemIds columnHeadings filterCriteriaMap defaultVisibleFlags parent
+space user pageSize currentPage resultCount sortFieldName sortDescending showHistory batchMode selectedItemId relatingItemRefId itemIds columnHeadings filterCriteriaMap defaultVisibleFlags parent
+space user pageSize currentPage resultCount sortFieldName sortDescending showHistory batchMode selectedItemId relatingItemRefId itemIds columnHeadings filterCriteriaMap defaultVisibleFlags parent
+space user pageSize currentPage resultCount sortFieldName sortDescending showHistory batchMode selectedItemId relatingItemRefId itemIds columnHeadings filterCriteriaMap defaultVisibleFlags parent
+refId type comment
+itemId itemItem comment
+refId type comment
+itemId itemItem comment
+refId type comment
+itemId itemItem comment
+type comment actualEffort attachment
+itemId itemItem comment
+type comment actualEffort attachment
+refId type comment
+logger loginName password rememberMe
+hide form url loginName password
+logger loginName password rememberMe
+hide form url loginName password
+logger loginName password rememberMe
+hide form url loginName password
+logger loginName password rememberMe
+hide form url loginName password
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+logger loginName password rememberMe
+SEARCH_NAME SEARCH_LOGIN_NAME SEARCH_EMAIL id type parent loginName name password email metadata locale locked userSpaceRoles
+hide form url loginName password
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+sequenceNum prefixCode
+httpClient repoUrl username password proxy
+repositoryUrl username password proxy
+httpClient repoUrl username password proxy
+repositoryUrl username password proxy
+refId summary detail loggedBy assignedTo
+refId summary detail loggedBy assignedTo
+refId type comment
+refId type comment
+refId type comment
+refId type comment
+refId type comment
+refId type comment
+serialVersionUID name description states ROLE_ADMIN ROLE_GUEST
+id version parent summary detail loggedBy assignedTo timeStamp plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 itemUsers relatedItems relatingItems itemTags sendNotifications
+previous user password passwordConfirm sendNotifications filter
+previous user password passwordConfirm sendNotifications filter
+jtrac dao
+previous space roleKey roleKey
+previous space roleKey roleKey
+previous space roleKey roleKey
+previous space roleKey roleKey
+id user space roleKey
+previous
+previous spaceId selectedUserId space user roleAllocatePanel allocateButton
+previous space filter optionField field option
+space previous type
+previous space field key option
+previous space copyFrom filter
+previous space
+previous space roleKey roleKey
+previous space stateKey stateName
+previous userId selectedSpaceId user space roleAllocatePanel allocateButton
+previous user password passwordConfirm sendNotifications filter
+logger jtrac ldapUrl activeDirectoryDomain searchBase searchKey displayNameKey mailKey otherReturningAttributes returningAttributes control
+previous spaceId selectedUserId space user roleAllocatePanel allocateButton
+previous userId selectedSpaceId user space roleAllocatePanel allocateButton
+logger jtrac ldapUrl activeDirectoryDomain searchBase searchKey displayNameKey mailKey otherReturningAttributes returningAttributes control
+logger sender prefix from url messageSource defaultLocale
+sequenceNum prefixCode
+sequenceNum prefixCode
+logger jtrac ldapUrl activeDirectoryDomain searchBase searchKey displayNameKey mailKey otherReturningAttributes returningAttributes control

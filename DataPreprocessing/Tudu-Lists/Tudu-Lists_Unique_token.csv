@@ -1,0 +1,54 @@
+todo completed todoId dueDate hasNotes description priority  assignedUser
+todo completed todoId dueDate hasNotes description priority  assignedUser
+todo completed todoId dueDate hasNotes description priority  assignedUser
+todo completed todoId dueDate hasNotes description priority  assignedUser
+todo completed todoId dueDate hasNotes description priority  assignedUser
+todo todoId todoList dueDate priority
+todo completed todoId dueDate hasNotes description priority  assignedUser
+todo completed todoId dueDate hasNotes description priority  assignedUser
+user login firstName lastName email password verifyPassword
+user firstName lastName email dateFormat password verifyPassword
+user login firstName lastName email password verifyPassword
+user firstName lastName email dateFormat password verifyPassword
+administrationModel user login  firstName  lastName  enabled  enabled login
+administrationModel user login  firstName  lastName  enabled  enabled login
+administrationModel user login  firstName  lastName  enabled  enabled login
+todoList name  users  rssAllowed eq true  tudu rss listId   tudu backup listId   tudu restore
+tudu domain TodoList todos users
+user login firstName lastName email password verifyPassword
+user firstName lastName email dateFormat password verifyPassword
+user firstName lastName email dateFormat password verifyPassword
+user login firstName lastName email password verifyPassword
+todo completed todoId dueDate hasNotes description priority  assignedUser
+user firstName lastName email dateFormat password verifyPassword
+todo completed todoId dueDate hasNotes description priority  assignedUser
+todo completed todoId dueDate hasNotes description priority  assignedUser
+user login firstName lastName email password verifyPassword
+user login firstName lastName email password verifyPassword
+user firstName lastName email dateFormat password verifyPassword
+user firstName lastName email dateFormat password verifyPassword
+administrationModel user login  firstName  lastName  enabled  enabled login
+administrationModel user login  firstName  lastName  enabled  enabled login
+user login firstName lastName email password verifyPassword
+user firstName lastName email dateFormat password verifyPassword
+user firstName lastName email dateFormat password verifyPassword
+user login firstName lastName email password verifyPassword
+restoreTodoListModel listId backupFile restoreChoice
+restoreTodoListModel listId backupFile restoreChoice
+restoreTodoListModel listId backupFile restoreChoice
+restoreTodoListModel listId backupFile restoreChoice
+user login firstName lastName email password verifyPassword
+user firstName lastName email dateFormat password verifyPassword
+user login firstName lastName email password verifyPassword
+user firstName lastName email dateFormat password verifyPassword
+restoreTodoListModel listId backupFile restoreChoice
+administrationModel propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom
+administrationModel propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom
+tudu domain User roles todoLists
+administrationModel propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom
+tudu domain User roles todoLists
+administrationModel propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom
+administrationModel propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom
+administrationModel searchLogin
+administrationModel propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom
+Constants Tudu Lists v tudu VERSION

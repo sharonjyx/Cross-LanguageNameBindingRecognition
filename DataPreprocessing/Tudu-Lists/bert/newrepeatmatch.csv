@@ -1,0 +1,1368 @@
+restore jsp fmt param value todoList name,1
+restore jsp fmt param value todoList name,1
+todos table filter jsp a href javascript renderTableListId todo todoList listId todo todoList name a,1
+todos table jsp div style font px em Arial Helvetica sans serif todoList name div,1
+todos table jsp a href ctx tudu restore todoList listId Restore img width height alt Restore src staticContent images desc gif border a,1
+todos table filter jsp a href javascript renderTableListId todo todoList listId todo todoList name a,1
+todos table jsp a href ctx tudu rss listId todoList listId,1
+todos table jsp link rel alternate title RSS feed href ctx tudu rss listId todoList listId TYPE application rss xml,1
+todos table jsp a href ctx tudu backup listId todoList listId Backup img width height alt Backup src staticContent images asc gif border a,1
+restore jsp form hidden path listId,1
+administration jsp user login,1
+register ok jsp fmt param value user login,1
+administration jsp onclick document forms elements action value disableUser document forms elements login value user login,1
+administration jsp onclick document forms elements action value enableUser document forms elements login value user login,1
+todos table jsp todo assignedUser login,1
+recover password jsp form errors path login cssClass error htmlEscape false,1
+recover password jsp form input path login size maxlength,1
+register jsp form input path login size maxlength,1
+register jsp form errors path login cssClass error htmlEscape false,1
+todos table jsp div id edit todo todoId style display none input id edit in todo todoId type text size value todo description onblur quickEditTodo todo todoId this value div,1
+todos table filter jsp todo description,1
+todos table jsp todo description,1
+todos jsp document forms editTodoForm description value todo description,1
+todos table jsp todo priority,1
+todos jsp document forms editTodoForm priority value todo priority,1
+todos table filter jsp todo priority,1
+todos jsp document forms editTodoForm notes value todo notes,1
+todos jsp if todo notes null,1
+todos table filter jsp c if test todo dueDate time le now time,1
+todos table jsp fmt formatDate value todo dueDate type date pattern dateFormat,1
+todos table filter jsp fmt formatDate value todo dueDate type date pattern MM dd yyyy,1
+todos jsp document forms editTodoForm dueDate value todo dueDate,1
+todos table jsp c if test not todo completed and todo dueDate time le now time,1
+todos table jsp c if test todoList rssAllowed eq true,1
+todos table filter jsp a href javascript renderTableListId todo todoList listId todo todoList name a,1
+administration jsp form input path googleAnalyticsKey size maxlength,1
+header head jsp String googleAnalytics ConfigurationServiceImpl googleAnalyticsKey,1
+todos table jsp c if test todo hasNotes nbsp img src staticContent images note png alt c if,1
+administration jsp input name action type hidden value configuration,0
+todos menu jsp Delete the current todo list,0
+header body jsp menu displayMenu name Todos,0
+welcome jsp a href context tudu register fmt message key login register link a fmt message,0
+header head jsp meta name author content Julien Dubois,0
+todos jsp todos editTodo todoId description priority dueDate notes assignedUser replyRenderTable,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+todos jsp input type hidden name listId value defaultList,0
+todos menu jsp document forms shareListForm login focus,0
+todos jsp var description document forms quickAddNewTodoForm description value,0
+web xml param name debug param name,0
+workspace xml option name LAST RESOLUTION value IGNORE,0
+log j xml class org apache log j ConsoleAppender,0
+todos jsp document forms editListForm rssAllowed checked false,0
+web xml filter name SimpleCachingHeadersPageCachingFilter filter name,0
+todos menu jsp a href javascript deleteTodoList img src staticContent images bin closed png border fmt message key todo lists actions delete a,0
+register jsp fmt message key user info verifypassword,0
+workspace xml option name x value,0
+todos jsp Render the main todo table with the todos assigned to the current user,0
+ehcache xml cache name tudu domain TodoList users,0
+license jsp h a name section a Conveying Verbatim Copies h,0
+todos table jsp c if test not empty todoList,0
+todos jsp todos showOlderTodos listId replyRenderTable,0
+register jsp fmt message key user info first name,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+account jsp fmt message key user info first name,0
+todos menu jsp todo lists getTodoListUsers listId replyShareTodoListUsers,0
+workspace xml property name nodejs npm path reset for default project value true,0
+compiler xml module name tudu,0
+web xml param value WEB INF log j xml param value,0
+todos jsp document forms editTodoForm description focus,0
+administration jsp fmt message key administration user login,0
+todos table filter jsp div style font px em Arial Helvetica sans serif,0
+todos table jsp input type text name description size maxlength onkeydown if event keyCode quickAddTodo,0
+application context infrastructure xml property name database value jpavendoradapter database,0
+workspace xml option name number value Default,0
+todos jsp todos showOlderTodos listId replyRenderTable,0
+log j xml priority value debug priority,0
+log j xml layout class org apache log j PatternLayout,0
+workspace xml component name TypeScriptGeneratedFilesManager,0
+todos menu jsp document forms editListForm rssAllowed checked true,0
+todos menu jsp todo lists getTodoList listId replyEditTodoList,0
+license jsp h a name section a No Surrender of Others Freedom h,0
+log j xml class org apache log j RollingFileAppender,0
+todos jsp fmt message key todo lists name,0
+todos jsp document forms editTodoForm dueDate value,0
+ehcache xml cache name tudu domain TodoList todos,0
+menu config xml description My Todos,0
+todos table jsp c if test fn length todoList users,0
+web xml servlet name rss servlet name,0
+welcome jsp p fmt message key login description p,0
+todos menu jsp todo lists addTodoListUser listId login replyAddTodoListUser,0
+ehcache xml cache name tudu domain TodoList,0
+todos jsp alert fmt message key todos error priority,0
+todos jsp a href javascript addTodoListUser fmt message key todo lists share submit a,0
+workspace xml component name ProjectView,0
+administration jsp input name login type hidden value,0
+log j xml class org apache log j DailyRollingFileAppender,0
+todos jsp document forms addNewTodoForm description focus,0
+todos jsp todos forceRenderTodos listId replyRenderTable,0
+todos jsp todos deleteAllCompletedTodos listId replyRenderTable,0
+misc xml component name MavenProjectsManager,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+todos jsp var description document forms quickAddNewTodoForm description value,0
+todos jsp var replyGetTodoById function todo,0
+todos table filter jsp fmt message key todos priority,0
+log j xml logger name org springframework security,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+todos jsp fmt message key todos notes,0
+log j xml class org apache log j ConsoleAppender,0
+todos menu jsp todo lists editTodoList listId name rssAllowed,0
+administration jsp fmt message key administration user enabled,0
+misc xml option name originalFiles,0
+log j xml layout class org apache log j PatternLayout,0
+todos jsp document forms editTodoForm description focus,0
+application context infrastructure xml property name jdbcUrl value dataSource url,0
+log j xml log j configuration,0
+ehcache xml user dir User s current working directory,0
+workspace xml component name Git Settings,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+administration jsp input name login type hidden value,0
+administration jsp c if test not user enabled,0
+web xml param value WEB INF log j xml param value,0
+workspace xml property name settings editor selected configurable value reference settings project maven importing,0
+license jsp of the particular user or of the way in which the particular user,0
+index html todo lists ul listview,0
+log j xml param name File value messages log,0
+license jsp h a name section a Revised Versions of this License h,0
+todos menu jsp Show the edit a todo list layer,0
+todos menu jsp todo lists deleteTodoListUser listId login,0
+ehcache xml cache name tudu domain User todoLists,0
+todos jsp script type text javascript src ctx ajax interface todo lists js script,0
+todos menu jsp todo lists getTodoList listId replyEditTodoList,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+restore jsp input type file name backupFile,0
+menu config xml description Welcome,0
+log j xml param name Threshold value DEBUG,0
+todos menu jsp todo lists addTodoList name rssAllowed,0
+administration jsp c forEach var user items users,0
+todos menu jsp Show the share a todo list layer,0
+license jsp Copyright C lt year gt lt name of author gt,0
+todos jsp todos editTodo todoId description priority dueDate notes assignedUser replyRenderTable,0
+todos jsp fmt message key todo lists name,0
+todos table filter jsp div style font px em Arial Helvetica sans serif,0
+workspace xml find user lastName find,0
+log j xml class org apache log j DailyRollingFileAppender,0
+todos jsp var description document forms addNewTodoForm description value,0
+todos jsp fmt message key todos notes,0
+todos jsp Show the add a new todo layer,0
+account jsp fmt message key user info email,0
+todos jsp div class box head h fmt message key todo lists actions add h div,0
+pom xml artifactId slf j log j artifactId,0
+log j xml priority value debug priority,0
+welcome jsp input type checkbox name spring security remember me,0
+welcome jsp a href context tudu recoverPassword fmt message key login forgotten password link a,0
+todos menu jsp todo lists editTodoList listId name rssAllowed,0
+workspace xml option name presentableId value Default,0
+todos menu jsp div class message fmt message key todo lists delete ok div,0
+workspace xml component name FileEditorManager,0
+license jsp h a name terms a TERMS AND CONDITIONS h,0
+misc xml option name originalFiles,0
+workspace xml property name settings editor selected configurable value reference settings project maven importing,0
+web xml param value WEB INF log j xml param value,0
+account jsp fmt message key user info date format,0
+todos jsp fmt message key todo lists share add,0
+todos menu jsp todo lists editTodoList listId name rssAllowed,0
+log j xml param name DatePattern value yyyy MM dd,0
+todos menu jsp document forms editListForm rssAllowed checked false,0
+license jsp h a name section a Definitions h,0
+account jsp fmt message key user info first name,0
+administration jsp fmt message key user info last name,0
+license jsp h a name section a Disclaimer of Warranty h,0
+todos jsp Validate the priority and the date,0
+account jsp fmt message key user info last name,0
+log j xml class org apache log j DailyRollingFileAppender,0
+recover password jsp fmt message key user info login,0
+todos jsp todo lists getTodoListUsers listId reply,0
+license jsp the interface presents a list of user commands or options such as a,0
+todos table jsp th class assignedUserClass style width px onclick sortTable assigned user,0
+log j xml class org apache log j ConsoleAppender,0
+web xml display name Tudu Lists display name,0
+todos jsp todos editTodo todoId description priority dueDate notes assignedUser replyRenderTable,0
+account jsp fmt message key user info subtitle,0
+application context infrastructure xml property name showSql value jpavendoradapter showsql,0
+todos menu jsp todo lists getTodoList listId replyEditTodoList,0
+todos jsp document forms addNewTodoForm notes value,0
+welcome jsp onclick this blur span fmt message key login submit span a,0
+vcs xml component name VcsDirectoryMappings,0
+todos jsp Sort the main todo table,0
+todos jsp document forms todoForm listId value listId,0
+todos jsp todos editTodo todoId description priority dueDate notes assignedUser replyRenderTable,0
+ehcache xml cache name tudu domain User roles,0
+workspace xml option name width value,0
+todos jsp input type text name priority size maxlength,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+todos jsp Validate the priority and the date,0
+todos jsp if description,0
+workspace xml component name ChangeListManager,0
+license jsp h a name section a Patents h,0
+todos menu jsp var sure confirm fmt message key todo lists delete confirm,0
+register jsp fmt message key user info password,0
+todos menu jsp todo lists addTodoListUser listId login replyAddTodoListUser,0
+log j xml log j configuration,0
+todos jsp Common function for adding a todo,0
+todos menu jsp Edit the current todo list,0
+todos menu jsp todo lists getTodoList listId replyEditTodoList,0
+todos menu jsp if rssAllowed,0
+dispatcher servlet xml property name suffix value jsp,0
+todos table jsp fmt message key todos description span class completed fmt message key common click to edit span,0
+todos menu jsp Add a TodoList user,0
+todos jsp var description document forms editTodoForm description value,0
+workspace xml list default true id ad d b fef b dace c name Default Changelist comment,0
+todos jsp form name addNewListForm onsubmit addTodoList return false action,0
+application context infrastructure xml property name user value dataSource username,0
+log j xml class org apache log j ConsoleAppender,0
+welcome jsp form action context tudu login method post,0
+todos menu jsp var name document forms addNewListForm name value,0
+workspace xml component name MavenImportPreferences,0
+pom xml artifactId slf j log j artifactId,0
+register jsp fmt message key user info password,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+register jsp fmt message key user info login,0
+account jsp fmt message key user info verifypassword,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+register jsp fmt message key user info verifypassword,0
+todos table jsp c if test fn length todoList users,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+log j xml param name File value messages log,0
+todos jsp document forms editTodoForm priority value,0
+todos jsp Edit a todo,0
+todos table jsp a href javascript deleteTodo todo todoId img src staticContent images bin closed png border a,0
+application context infrastructure xml property name showSql value jpavendoradapter showsql,0
+todos menu jsp data listId data description a,0
+account jsp h fmt message key user info title h,0
+account jsp fmt message key user info last name,0
+license jsp h a name section a Patents h,0
+todos jsp input type hidden name listId value defaultList,0
+log j xml layout class org apache log j PatternLayout,0
+log j xml logger name org directwebremoting,0
+todos jsp if priority priority match d,0
+account jsp form form commandName user,0
+license jsp h a name section a Automatic Licensing of Downstream Recipients h,0
+recover password jsp form form commandName user,0
+log j xml layout class org apache log j PatternLayout,0
+recover password jsp fmt message key user info login,0
+workspace xml option name name value ConfigurationTypeDashboardGroupingRule,0
+account jsp form form commandName user,0
+log j xml layout class org apache log j PatternLayout,0
+license jsp parties to make or receive copies Mere interaction with a user through,0
+log j xml layout class org apache log j PatternLayout,0
+pom xml artifactId slf j log j artifactId,0
+register jsp form form commandName user,0
+ehcache xml cache name tudu domain Todo subTodos,0
+todos jsp document forms editTodoForm dueDate value,0
+todos jsp todos forceRenderTodos listId replyRenderTable,0
+account jsp fmt message key user info email,0
+log j xml logger name net sf,0
+workspace xml option name SHOW DIALOG value false,0
+todos jsp input type text name dueDate id addDueDateId size maxlength,0
+administration jsp fmt message key user info last name,0
+todos jsp document forms editTodoForm priority value,0
+todos jsp select id editTodoAssignedUser name assignedUser option option select,0
+todos jsp var description document forms editTodoForm description value,0
+log j xml logger name tudu,0
+todos table jsp td class tdStyle onclick showQuickEditTodo todo todoId,0
+todos menu jsp todo lists deleteTodoListUser listId login,0
+web xml param name log jConfigLocation param name,0
+todos jsp document forms todoForm listId value listId,0
+recover password jsp fmt message key user info login,0
+workspace xml find user find,0
+log j xml param name File value messages log,0
+account jsp fmt message key user info date format,0
+ehcache xml user home User s home directory,0
+workspace xml component name ProjectView,0
+workspace xml property name WebServerToolWindowFactoryState value false,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml param name debug param name,0
+todos jsp document forms addNewListForm rssAllowed checked false,0
+pom xml artifactId slf j log j artifactId,0
+workspace xml find user find,0
+log j xml class org apache log j RollingFileAppender,0
+ehcache xml user home User s home directory,0
+todos jsp var listId document forms todoForm listId value,0
+todos table filter jsp fmt message key todos description,0
+todos jsp document forms addNewListForm name value,0
+license jsp h a name section a Disclaimer of Warranty h,0
+administration jsp user lastName,0
+application context infrastructure xml property name jpaVendorAdapter,0
+web xml param name,0
+todos jsp function validateForm priority dueDate notes,0
+todos menu jsp todo lists editTodoList listId name rssAllowed,0
+workspace xml changelist id ad d b fef b dace c name Default Changelist comment,0
+todos menu jsp data listId data description a,0
+application context security xml authentication provider user service ref userDetailsService,0
+todos menu jsp Add a TodoList user,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+welcome jsp input type checkbox name spring security remember me,0
+welcome jsp img src staticContent images feed png class icon alt Web nbsp nbsp fmt message key login advantages,0
+todos menu jsp document forms todoForm listId value null,0
+register jsp fmt message key user info password,0
+compiler xml sourceTestOutputDir name target generated test sources test annotations,0
+todos menu jsp a href javascript showEditTodoList img src staticContent images pencil png border fmt message key todo lists actions edit a,0
+todos jsp Render the main todo table with the todos assigned to the current user,0
+todos table filter jsp tr class trStyle id todo todoId,0
+dispatcher servlet xml property name suffix value jsp,0
+todos jsp Show the edit a todo layer,0
+administration jsp input name action type hidden value userSearch,0
+application context infrastructure xml property name maxPoolSize value dataSource maxActive,0
+log j xml param name File value messages log,0
+log j xml param name File value requests log,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+todos jsp input type text name description size maxlength,0
+todos jsp document forms quickAddNewTodoForm description focus,0
+todos table filter jsp div style font px em Arial Helvetica sans serif,0
+todos table filter jsp div style font px em Arial Helvetica sans serif,0
+administration jsp user enabled,0
+ehcache xml user dir User s current working directory,0
+welcome jsp fmt message key login advantages,0
+workspace xml component name PropertiesComponent,0
+workspace xml option name proportions,0
+workspace xml component name RunDashboard,0
+todos jsp Sort the main todo table,0
+todos menu jsp Show the share a todo list layer,0
+todos menu jsp Show the edit a todo list layer,0
+web xml param value WEB INF log j xml param value,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+todos menu jsp todo lists deleteTodoListUser listId login,0
+todos jsp var priority document forms editTodoForm priority value,0
+log j xml class org apache log j ConsoleAppender,0
+license jsp tells the user that there is no warranty for the work except to the,0
+todos menu jsp document forms editListForm rssAllowed checked false,0
+web xml param name,0
+web xml param name cacheName param name,0
+todos table filter jsp fmt message key todos filter list description,0
+application context security xml authentication provider user service ref userDetailsService,0
+recover password jsp fmt message key user info login,0
+workspace xml option name isMigrated value true,0
+workspace xml option name jdkForImporter value,0
+todos jsp var notes document forms addNewTodoForm notes value,0
+log j xml class org apache log j DailyRollingFileAppender,0
+menu config xml Menu name Administration,0
+welcome jsp form action context tudu login method post,0
+account jsp fmt message key user info date format,0
+recover password jsp fmt message key user info login,0
+administration jsp user firstName,0
+todos jsp Add a todo,0
+todos table filter jsp fmt message key todos description,0
+application context infrastructure xml property name entityManagerFactory ref entityManagerFactory,0
+todos jsp todo lists getTodoListUsers listId reply,0
+todos permission denied jsp div class message fmt message key permission denied description div,0
+todos jsp Render the main todo table with the todos assigned to the current user,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+todos menu jsp if listId null listId null listId,0
+todos jsp var priority document forms addNewTodoForm priority value,0
+log j xml appender name consoleAppender,0
+todos table jsp fmt message key todos assigned user,0
+ehcache xml cache name tudu domain Todo,0
+license jsp li d If the work has interactive user interfaces each must display,0
+ehcache xml cache name tudu domain User todoLists,0
+workspace xml option name EXCLUDED CONVERTED TO IGNORED value true,0
+log j xml class org apache log j RollingFileAppender,0
+account jsp fmt message key user info first name,0
+web xml servlet name dwr servlet name,0
+log j xml param name File value messages log,0
+rss not allowed jsp description This list is not accessible via RSS description,0
+application context infrastructure xml property name generateDdl value jpavendoradapter generateddl,0
+todos jsp textarea name notes rows cols onfocus keyboardListener off onblur keyboardListener on textarea,0
+todos menu jsp a href javascript showAddTodoList img src staticContent images page add png border fmt message key todo lists actions add a,0
+menu config xml description Log out,0
+account jsp h fmt message key user info title h,0
+todos jsp Show the quick edit function for editing a todo,0
+dispatcher servlet xml property name menuConfig value WEB INF menu config xml,0
+web xml filter name encodingFilter filter name,0
+administration jsp fmt message key administration configuration email user,0
+todos jsp todo lists getTodoListUsers listId reply,0
+application context infrastructure xml property name password value dataSource password,0
+todos jsp if validateForm priority dueDate notes ok,0
+todos table jsp input type text name description size maxlength onkeydown if event keyCode quickAddTodo,0
+log j xml class org apache log j RollingFileAppender,0
+todos jsp function validateForm priority dueDate notes,0
+todos table jsp th class assignedUserClass style width px onclick sortTable assigned user,0
+menu config xml Menu name Administration,0
+todos jsp form name addNewTodoForm action,0
+todos jsp var priority document forms editTodoForm priority value,0
+todos jsp createAssignedUserList addNewTodoAssignedUser listId,0
+log j xml param name File value messages log,0
+workspace xml option name generalSettings,0
+workspace xml component name FindInProjectRecents,0
+todos jsp select id addNewTodoAssignedUser name assignedUser option option select,0
+recover password jsp fmt message key user info login,0
+license jsp h a name section a Additional Terms h,0
+todos jsp form name shareListForm action,0
+todos table jsp hiddenTodos fmt message key todos hidden description,0
+todos menu jsp var sure confirm fmt message key todo lists delete confirm,0
+todos table jsp a href javascript showEditTodo todo todoId img src staticContent images pencil png border a,0
+workspace xml component name TimeTrackingManager,0
+ehcache xml cache name tudu domain Role,0
+todos menu jsp todo lists getTodoList listId replyEditTodoList,0
+object retrieval failure jsp div class message fmt message key object retrieval failure description div,0
+todos jsp input type text name description size maxlength,0
+menu config xml Menu name Welcome,0
+todos jsp Show the add a new todo layer,0
+todos table jsp fmt message key todos description span class completed fmt message key common click to edit span,0
+register jsp fmt message key user info login,0
+workspace xml find user find,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+workspace xml find user find,0
+todos jsp input type text name priority size maxlength,0
+misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+todos jsp todos editTodo todoId description priority dueDate notes assignedUser replyRenderTable,0
+todos jsp if validateForm priority dueDate notes ok,0
+todos jsp todos renderTodos listId tableDate replyRenderTable,0
+header head jsp content Tudu Lists is a free non commercial on line application for managing todo lists,0
+todos jsp fmt message key todos description,0
+welcome jsp h fmt message key login welcome h,0
+log j xml param name Threshold value DEBUG,0
+todos jsp var description document forms editTodoForm description value,0
+log j xml param name File value requests log,0
+license jsp product received by a particular user ldquo normally used rdquo refers to a,0
+application context infrastructure xml property name acquireIncrement value,0
+account jsp fmt message key user info subtitle,0
+todos menu jsp function addTodoList name,0
+license jsp h a name section a No Surrender of Others Freedom h,0
+dispatcher servlet xml property name basename value WEB INF messages,0
+todos table filter jsp c forEach var todo items todos,0
+welcome jsp fmt message key login auto login,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+ehcache xml user home User s home directory,0
+administration jsp input name action type hidden value userSearch,0
+account jsp fmt message key user info password,0
+license jsp h a name section a Conveying Non Source Forms h,0
+todos table filter jsp fmt message key todos priority,0
+todos menu jsp var login document forms shareListForm login value,0
+administration jsp fmt message key user info login,0
+todos jsp var notes document forms editTodoForm notes value,0
+license jsp li d If the work has interactive user interfaces each must display,0
+todos jsp fmt message key todo lists name,0
+index html append li a href alert this name a li,0
+todos jsp Reopen a todo,0
+log j xml param name File value requests log,0
+register jsp fmt message key user info login,0
+persistence xml property name hibernate cache region factory class,0
+log j xml param name File value requests log,0
+todos jsp todos editTodo todoId description priority dueDate notes assignedUser replyRenderTable,0
+todos jsp form name todoForm action,0
+dispatcher servlet xml property name basename value WEB INF messages,0
+account jsp fmt message key user info last name,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+index html var append ul id todo lists ul data role listview data inset true data filter true,0
+log j xml logger name org hibernate,0
+todos jsp fmt message key todos description,0
+administration jsp fmt message key administration configuration email user,0
+workspace xml component name TimeTrackingManager,0
+log j xml param name threshold value debug,0
+todos jsp Render the main todo table with the todos assigned to the current user,0
+todos jsp var listId document forms todoForm listId value,0
+todos table jsp div id show todo todoId,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+todos jsp Quick edit a todo,0
+workspace xml component name FileEditorManager,0
+log j xml param name File value requests log,0
+application context infrastructure xml property name initialPoolSize value,0
+header body jsp menu displayMenu name Administration,0
+todos jsp fmt message key todos assigned user,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+menu config xml description My Todos,0
+workspace xml component name MavenImportPreferences,0
+menu config xml description Administration,0
+license jsp of the particular user or of the way in which the particular user,0
+welcome jsp p fmt message key login description p,0
+todos jsp todos hideOlderTodos listId replyRenderTable,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+todos menu jsp document forms shareListForm login focus,0
+todos menu jsp Add a TodoList user,0
+todos menu jsp todo lists addTodoList name rssAllowed,0
+administration jsp fmt message key administration user login,0
+workspace xml component name ProjectFrameBounds extendedState,0
+header body jsp menu displayMenu name Info,0
+todos jsp if notes length,0
+log j xml class org apache log j RollingFileAppender,0
+web xml param name log jConfigLocation param name,0
+log j xml class org apache log j ConsoleAppender,0
+restore jsp input type file name backupFile,0
+todos jsp Delete a todo,0
+todos jsp input type text name name size maxlength,0
+todos table jsp tr class trStyle id todo todoId,0
+account jsp fmt message key user info email,0
+workspace xml option name EXCLUDED CONVERTED TO IGNORED value true,0
+log j xml log j configuration,0
+application context infrastructure xml property name databasePlatform value jpavendoradapter databaseplatform,0
+account jsp fmt message key user info first name,0
+todos jsp input type text name login id login size maxlength,0
+license jsp h a name preamble a Preamble h,0
+administration jsp fmt message key user info last name,0
+license jsp pre lt one line to give the program s name and a brief idea of what it does gt,0
+license jsp h a name section a Interpretation of Sections and h,0
+license jsp tells the user that there is no warranty for the work except to the,0
+workspace xml property name WebServerToolWindowFactoryState value false,0
+log j xml param name File value requests log,0
+workspace xml option name presentableId value Default,0
+application context infrastructure xml property name maxStatements value,0
+log j xml layout class org apache log j PatternLayout,0
+pom xml artifactId slf j log j artifactId,0
+license jsp h a name section a Protecting Users Legal Rights From Anti Circumvention Law h,0
+todos jsp var description document forms addNewTodoForm description value,0
+log j xml param name File value messages log,0
+todos table jsp fmt message key todos priority,0
+application context infrastructure xml property name databasePlatform value jpavendoradapter databaseplatform,0
+rss not allowed jsp description This list is not accessible via RSS description,0
+administration jsp c if test not user enabled,0
+todos jsp Render the main todo table with the todos due in the next days,0
+web xml servlet name dwr servlet name,0
+pom xml artifactId slf j log j artifactId,0
+license jsp h a name howto a How to Apply These Terms to Your New Programs h,0
+todos jsp fmt message key todo lists name,0
+todos jsp select id addNewTodoAssignedUser name assignedUser option option select,0
+administration jsp user enabled,0
+application context dwr xml dwr remote javascript todo lists,0
+todos jsp document forms addNewTodoForm description value,0
+web xml param name forceEncoding param name,0
+welcome jsp fmt message key login forgotten password,0
+header body jsp menu useMenuDisplayer name TabbedMenu,0
+todos menu jsp a href javascript showAddTodoList img src staticContent images page add png border fmt message key todo lists actions add a,0
+administration jsp fmt message key administration user login,0
+todos menu jsp var rssAllowed list rssAllowed,0
+log j xml class org apache log j RollingFileAppender,0
+log j xml logger name org springframework,0
+pom xml artifactId slf j log j artifactId,0
+todos jsp form name todoForm action,0
+application context infrastructure xml property name maxPoolSize value dataSource maxActive,0
+web xml param value WEB INF log j xml param value,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+pom xml artifactId slf j log j artifactId,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+workspace xml component name DefaultGradleProjectSettings,0
+header head jsp meta name Keywords,0
+welcome jsp img src staticContent images cart png class icon alt Web nbsp nbsp fmt message key login advantages,0
+welcome jsp img src staticContent images page white wrench png class icon alt Web nbsp nbsp fmt message key login advantages,0
+license jsp h a name section a Conveying Modified Source Versions h,0
+todos menu jsp todo lists addTodoList name rssAllowed,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+ehcache xml cache name tudu domain Property,0
+account jsp fmt message key user info verifypassword,0
+pom xml artifactId slf j log j artifactId,0
+todos menu jsp if document forms addNewListForm rssAllowed checked,0
+menu config xml Menu name Logout,0
+welcome jsp fmt message key login register,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+license jsp h a name section a Source Code h,0
+todos table jsp c if test todo completed,0
+register jsp fmt message key user info last name,0
+pom xml artifactId slf j log j artifactId,0
+pom xml artifactId slf j log j artifactId,0
+menu config xml Menu name Todos,0
+todos menu jsp Edit the current todo list,0
+administration jsp fmt message key user info last name,0
+header body jsp menu displayMenu name Logout,0
+ehcache xml cache name tudu domain TodoList users,0
+todos jsp todos quickEditTodo todoId description replyRenderTable,0
+workspace xml component name masterDetails,0
+log j xml layout class org apache log j PatternLayout,0
+administration jsp fmt message key user info first name,0
+account jsp fmt message key user info date format,0
+todos menu jsp Add a todo list,0
+todos jsp document forms editTodoForm notes value,0
+application context infrastructure xml property name minPoolSize value,0
+todos jsp Edit a todo,0
+license jsp tells the user that there is no warranty for the work except to the,0
+administration jsp user lastName,0
+log j xml logger name org springframework security,0
+workspace xml component name FindInProjectRecents,0
+menu config xml description Log out,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+todos jsp document forms editListForm name value,0
+todos menu jsp function deleteTodoListUser login,0
+web xml filter name Open Session In View Filter filter name,0
+application context security xml authentication provider user service ref userDetailsService,0
+todos jsp todos quickEditTodo todoId description replyRenderTable,0
+dispatcher servlet xml property name viewResolvers,0
+todos menu jsp todo lists editTodoList listId name rssAllowed,0
+todos jsp input type checkbox name rssAllowed,0
+log j xml param name File value requests log,0
+workspace xml component name ToolWindowManager,0
+register jsp fmt message key user info email,0
+register jsp fmt message key user info verifypassword,0
+todos jsp document forms todoForm listId value listId,0
+administration jsp fmt message key administration user enabled,0
+todos menu jsp if rssAllowed,0
+license jsp h a name section a Termination h,0
+todos menu jsp todo lists addTodoList name rssAllowed,0
+license jsp h a name section a Basic Permissions h,0
+todos table jsp c if test fn length todoList users,0
+todos jsp document forms addNewListForm rssAllowed checked false,0
+todos menu jsp todo lists editTodoList listId name rssAllowed,0
+header head jsp content Tudu Lists tudu free Open Source todo Todo List Todo Lists Spring Spring Framework Java J EE AJAX JQuery,0
+welcome jsp img src staticContent images group png class icon alt Web nbsp nbsp fmt message key login advantages,0
+administration jsp c forEach var user items users,0
+todos jsp if description,0
+todos jsp function validateForm priority dueDate notes,0
+web xml param name suppressStackTraces param name,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+license jsp the interface presents a list of user commands or options such as a,0
+todos table jsp div id show todo todoId,0
+header body jsp menu displayMenu name Logout,0
+welcome jsp name j username,0
+todos menu jsp document forms addNewListForm name focus,0
+application context infrastructure xml property name user value dataSource username,0
+license jsp h a name section a Conveying Modified Source Versions h,0
+recover password jsp form form commandName user,0
+workspace xml option name HIGHLIGHT CONFLICTS value true,0
+todos jsp fmt message key todos assigned user,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+todos menu jsp document forms todoForm listId value null,0
+welcome jsp onclick this blur span fmt message key login submit span a,0
+todos jsp input type checkbox name rssAllowed,0
+application context infrastructure xml property name maxStatements value,0
+administration jsp fmt message key administration configuration email user,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+menu config xml description My account,0
+todos jsp var dueDate document forms addNewTodoForm dueDate value,0
+log j xml log j configuration,0
+web xml param value WEB INF log j xml param value,0
+todos menu jsp todo lists deleteTodoList listId,0
+application context security xml login page tudu welcome,0
+todos jsp commonAddTodo listId description null request getRemoteUser,0
+workspace xml option name width value,0
+todos jsp function createAssignedUserList id listId,0
+todos jsp document forms editListForm name value,0
+license jsp product received by a particular user ldquo normally used rdquo refers to a,0
+todos menu jsp todo lists addTodoList name rssAllowed,0
+todos table filter jsp div style font px em Arial Helvetica sans serif,0
+todos jsp if validateForm priority dueDate notes ok,0
+log j xml class org apache log j DailyRollingFileAppender,0
+todos table jsp th class assignedUserClass style width px onclick sortTable assigned user,0
+log j xml param name File value messages log,0
+register jsp fmt message key user info first name,0
+license jsp h a name section a Use with the GNU Affero General Public License h,0
+todos jsp input type text name dueDate id editDueDateId size maxlength,0
+web xml filter name springSecurityFilterChain filter name,0
+welcome jsp a href context tudu register fmt message key login advantages link a,0
+log j xml class org apache log j DailyRollingFileAppender,0
+administration jsp fmt message key user info login,0
+license jsp h a name section a Source Code h,0
+administration jsp fmt message key user info last name,0
+log j xml class org apache log j RollingFileAppender,0
+workspace xml option name name value ConfigurationTypeDashboardGroupingRule,0
+log j xml logger name org apache,0
+dispatcher servlet xml property name paramName value lang,0
+log j xml logger name org directwebremoting,0
+todos menu jsp function addTodoList name,0
+todos jsp Add a todo,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+todos jsp input type hidden name todoId,0
+todos menu jsp document forms editListForm name focus,0
+log j xml logger name com mchange,0
+misc xml component name ExternalStorageConfigurationManager enabled true,0
+license jsp Copyright C lt year gt lt name of author gt,0
+todos menu jsp Delete a TodoList user,0
+dispatcher servlet xml property name viewClass value org springframework web servlet view JstlView,0
+application context security xml login page tudu welcome,0
+todos jsp todos hideOlderTodos listId replyRenderTable,0
+todos jsp if validateForm priority dueDate notes ok,0
+todos jsp document forms todoForm listId value null,0
+workspace xml option name y value,0
+log j xml param name bufferSize value,0
+log j xml param name ConversionPattern,0
+application context infrastructure xml property name dataSource ref dataSource,0
+todos jsp var dueDate document forms addNewTodoForm dueDate value,0
+todos permission denied jsp div class message fmt message key permission denied description div,0
+todos table jsp tr class trStyle id todo todoId,0
+administration jsp c if test user enabled,0
+administration jsp input name login type hidden value,0
+log j xml class org apache log j DailyRollingFileAppender,0
+log j xml log j configuration,0
+todos menu jsp data listId data description a,0
+todos jsp todos deleteAllCompletedTodos listId replyRenderTable,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+todos jsp input type text name description size maxlength,0
+index html meta name viewport content width device width initial scale,0
+license jsp pre lt one line to give the program s name and a brief idea of what it does gt,0
+todos jsp Delete a todo,0
+todos jsp input type text name dueDate id addDueDateId size maxlength,0
+welcome jsp a href context tudu recoverPassword fmt message key login forgotten password link a,0
+application context infrastructure xml property name acquireIncrement value,0
+workspace xml option name jdkForImporter value,0
+register jsp fmt message key user info last name,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+todos menu jsp todo lists deleteTodoList listId,0
+log j xml param name threshold value debug,0
+welcome jsp th style text align left fmt message key login password th,0
+todos jsp Render the main todo table,0
+todos jsp input type checkbox name rssAllowed,0
+todos jsp Render the main todo table with the todos assigned to the current user,0
+todos jsp Common function for adding a todo,0
+web xml param value WEB INF log j xml param value,0
+register jsp fmt message key user info login,0
+register jsp form form commandName user,0
+log j xml class org apache log j DailyRollingFileAppender,0
+log j xml class org apache log j DailyRollingFileAppender,0
+log j xml param name File value messages log,0
+log j xml param name File value messages log,0
+register jsp fmt message key user info verifypassword,0
+log j xml log j configuration,0
+todos jsp function validateForm priority dueDate notes,0
+workspace xml component name editorHistoryManager,0
+license jsp h a name section a Protecting Users Legal Rights From Anti Circumvention Law h,0
+todos menu jsp todo lists deleteTodoList listId,0
+todos jsp input type text name dueDate id editDueDateId size maxlength,0
+todos jsp if dueDate dueDate match d d d,0
+ehcache xml user dir User s current working directory,0
+license jsp li d If the work has interactive user interfaces each must display,0
+workspace xml component name TypeScriptGeneratedFilesManager,0
+dispatcher servlet xml property name interceptors,0
+todos menu jsp var listId document forms todoForm listId value,0
+workspace xml find user enabled find,0
+todos table jsp c if test not empty todoList,0
+todos menu jsp a href javascript showShareTodoList img src staticContent images group png border fmt message key todo lists actions share a,0
+workspace xml option name mavenHome value D apache maven,0
+log j xml class org apache log j RollingFileAppender,0
+todos jsp alert fmt message key todos error notes length,0
+administration jsp fmt message key administration user login,0
+administration jsp fmt message key administration user enabled,0
+welcome jsp td style text align left input type password name j password size,0
+web xml display name Tudu Lists display name,0
+todos jsp Reopen a todo,0
+logout jsp fmt message key logout description,0
+todos jsp fmt message key todos priority,0
+todos jsp document forms addNewTodoForm dueDate value,0
+misc xml component name FrameworkDetectionExcludesConfiguration,0
+administration jsp fmt message key administration user login,0
+administration jsp fmt message key user info first name,0
+administration jsp user enabled,0
+object retrieval failure jsp div class message fmt message key object retrieval failure description div,0
+todos table jsp fmt message key todos assigned user,0
+log j xml appender name monitoringAppender,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+workspace xml component name masterDetails,0
+administration jsp fmt message key administration configuration email user,0
+todos menu jsp todo lists addTodoList name rssAllowed,0
+web xml param name forceEncoding param name,0
+log j xml param name File value messages log,0
+todos jsp document forms quickAddNewTodoForm description focus,0
+license jsp h a name section a Definitions h,0
+log j xml logger name org hibernate,0
+dispatcher servlet xml property name paramName value lang,0
+log j xml class org apache log j DailyRollingFileAppender,0
+application context infrastructure xml property name idleConnectionTestPeriod value,0
+log j xml param name File value requests log,0
+log j xml class org apache log j RollingFileAppender,0
+application context infrastructure xml property name initialPoolSize value,0
+compiler xml sourceOutputDir name target generated sources annotations,0
+vcs xml component name VcsDirectoryMappings,0
+todos menu jsp function deleteTodoListUser login,0
+todos menu jsp document forms editListForm rssAllowed checked true,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+license jsp pre lt program gt Copyright C lt year gt lt name of author gt,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+todos jsp createAssignedUserList editTodoAssignedUser listId,0
+todos jsp todo lists getTodoListUsers listId reply,0
+administration jsp fmt message key user info last name,0
+todos jsp if notes length,0
+todos menu jsp data listId data description a,0
+log j xml class org apache log j ConsoleAppender,0
+todos jsp var replyGetTodoById function todo,0
+log j xml param name File value messages log,0
+log j xml class org apache log j RollingFileAppender,0
+compiler xml component name CompilerConfiguration,0
+welcome jsp onclick this blur span fmt message key login reset span a,0
+dispatcher servlet xml property name prefix value WEB INF views,0
+workspace xml option name generalSettings,0
+todos jsp if dueDate dueDate match d d d,0
+todos jsp Quick edit a todo,0
+account jsp fmt message key user info first name,0
+log j xml param name File value requests log,0
+todos menu jsp document forms todoForm listId value null,0
+log j xml class org apache log j ConsoleAppender,0
+todos jsp form name addNewTodoForm action,0
+todos table jsp fmt message key todos assigned user,0
+welcome jsp td style text align left input type password name j password size,0
+license jsp of the particular user or of the way in which the particular user,0
+administration jsp fmt message key administration user enabled,0
+log j xml param name File value messages log,0
+application context infrastructure xml property name numHelperThreads value,0
+todos menu jsp Delete a TodoList user,0
+welcome jsp a href context tudu register fmt message key login register link a fmt message,0
+todos table jsp hiddenTodos fmt message key todos hidden description,0
+log j xml log j configuration,0
+log j xml param name File value requests log,0
+dispatcher servlet xml property name mediaTypes,0
+ehcache xml cache name tudu domain User,0
+administration jsp input name action type hidden value configuration,0
+account jsp fmt message key user info email,0
+todos jsp fmt message key todos assigned user,0
+application context infrastructure xml property name minPoolSize value,0
+workspace xml option name name value StatusDashboardGroupingRule,0
+log j xml appender name messagesAppender,0
+application context infrastructure xml property name generateDdl value jpavendoradapter generateddl,0
+todos table jsp fmt message key todos description span class completed fmt message key common click to edit span,0
+workspace xml find user enabled find,0
+compiler xml sourceTestOutputDir name target generated test sources test annotations,0
+todos jsp document forms editTodoForm description value,0
+todos jsp Complete a todo,0
+header body jsp menu displayMenu name Todos,0
+administration jsp user lastName,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+administration jsp fmt message key user info login,0
+todos menu jsp todo lists addTodoListUser listId login replyAddTodoListUser,0
+web xml param name suppressStackTraces param name,0
+menu config xml description Administration,0
+register jsp fmt message key user info login,0
+welcome jsp key login register,0
+todos menu jsp document forms editListForm name value list name,0
+todos jsp todo lists getTodoListUsers listId reply,0
+todos jsp function createAssignedUserList id listId,0
+todos jsp document forms addNewTodoForm description focus,0
+ehcache xml cache name tudu domain Todo subTodos,0
+workspace xml option name mavenHome value D apache maven,0
+rss not allowed jsp description This list is not accessible via RSS description,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+menu config xml Menu name Logout,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+todos menu jsp Delete a TodoList user,0
+license jsp of the particular user or of the way in which the particular user,0
+misc xml component name MavenProjectsManager,0
+todos jsp fmt message key todo lists share currentusers,0
+todos jsp document forms addNewTodoForm description value,0
+log j xml log j configuration,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+welcome jsp img src staticContent images world png class icon alt Web nbsp nbsp fmt message key login advantages,0
+log j xml logger name net sf,0
+menu config xml description Log out,0
+web xml param name contextConfigLocation param name,0
+register jsp fmt message key user info first name,0
+todos jsp fmt message key todo lists edit rss,0
+license jsp h a name section a Termination h,0
+todos table filter jsp div style font px em Arial Helvetica sans serif,0
+register jsp fmt message key user info last name,0
+todos jsp todos forceRenderTodos listId replyRenderTable,0
+license jsp h a name howto a How to Apply These Terms to Your New Programs h,0
+log j xml class org apache log j ConsoleAppender,0
+todos menu jsp todo lists getTodoListUsers listId replyShareTodoListUsers,0
+todos table jsp c if test not empty todoList,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+todos jsp input type hidden name listId value defaultList,0
+todos table jsp c if test not empty todoList,0
+index html append li a href alert this name a li,0
+log j xml appender name consoleAppender,0
+administration jsp fmt message key user info first name,0
+dispatcher servlet xml property name viewClass value org springframework web servlet view JstlView,0
+todos jsp function createAssignedUserList id listId,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+todos jsp dwr util setValue editTodoAssignedUser todo assignedUserLogin,0
+log j xml param name File value requests log,0
+log j xml appender name messagesAppender,0
+logout jsp fmt message key logout description,0
+persistence xml property name hibernate cache region factory class,0
+todos table jsp hiddenTodos fmt message key todos hidden description,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+log j xml param name ConversionPattern,0
+welcome jsp fmt message key login register,0
+log j xml log j configuration,0
+menu config xml description My account,0
+todos jsp commonAddTodo listId description null request getRemoteUser,0
+ehcache xml cache name tudu domain TodoList,0
+administration jsp fmt message key user info login,0
+web xml filter name SimpleCachingHeadersPageCachingFilter filter name,0
+misc xml component name ExternalStorageConfigurationManager enabled true,0
+todos menu jsp a href javascript deleteTodoList img src staticContent images bin closed png border fmt message key todo lists actions delete a,0
+pom xml artifactId slf j log j artifactId,0
+todos jsp todos editTodo todoId description priority dueDate notes assignedUser replyRenderTable,0
+workspace xml component name TaskManager,0
+log j xml class org apache log j DailyRollingFileAppender,0
+log j xml class org apache log j ConsoleAppender,0
+menu config xml Menu name Todos,0
+workspace xml option name RECENT GIT ROOT PATH value PROJECT DIR,0
+todos jsp function validateForm priority dueDate notes,0
+todos menu jsp var name document forms editListForm name value,0
+web xml servlet name backup servlet name,0
+license jsp h a name section a Additional Terms h,0
+license jsp h a name section a Use with the GNU Affero General Public License h,0
+workspace xml component name TaskManager,0
+menu config xml description My Todos,0
+recover password jsp form form commandName user,0
+todos table jsp input type text name description size maxlength onkeydown if event keyCode quickAddTodo,0
+log j xml logger name tudu,0
+workspace xml find user lastName find,0
+register jsp fmt message key user info last name,0
+todos menu jsp todo lists addTodoListUser listId login replyAddTodoListUser,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+log j xml param name File value messages log,0
+welcome jsp p fmt message key login description p,0
+encodings xml component name Encoding,0
+account jsp fmt message key user info last name,0
+todos jsp fmt message key todo lists share currentusers,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+todos jsp input type text name description size maxlength,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+todos menu jsp todo lists deleteTodoListUser listId login,0
+todos menu jsp todo lists deleteTodoList listId,0
+log j xml param name File value messages log,0
+log j xml class org apache log j RollingFileAppender,0
+todos jsp todos sortAndRenderTodos listId sorter replyRenderTable,0
+workspace xml option name number value Default,0
+todos menu jsp function deleteTodoList listId,0
+license jsp h a name section a Revised Versions of this License h,0
+todos jsp Show the quick edit function for editing a todo,0
+todos menu jsp if listId null listId null listId,0
+log j xml layout class org apache log j PatternLayout,0
+log j xml param name File value messages log,0
+application context infrastructure xml property name password value dataSource password,0
+workspace xml option name SHOW DIALOG value false,0
+compiler xml sourceOutputDir name target generated sources annotations,0
+workspace xml component name DefaultGradleProjectSettings,0
+log j xml param name File value requests log,0
+log j xml logger name org apache,0
+log j xml param name blocking value false,0
+todos jsp a href javascript addTodoListUser fmt message key todo lists share submit a,0
+todos jsp dwr util setValue editTodoAssignedUser todo assignedUserLogin,0
+web xml param value WEB INF log j xml param value,0
+todos menu jsp todo lists getTodoListUsers listId replyShareTodoListUsers,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+welcome jsp img src staticContent images world png class icon alt Web nbsp nbsp fmt message key login advantages,0
+todos jsp var listId document forms todoForm listId value,0
+header head jsp content Tudu Lists tudu free Open Source todo Todo List Todo Lists Spring Spring Framework Java J EE AJAX JQuery,0
+todos menu jsp Show the add a new todo list layer,0
+todos menu jsp data listId data description a,0
+workspace xml find user lastName find,0
+todos jsp todos renderTodos listId tableDate replyRenderTable,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+application context infrastructure xml property name user value dataSource username,0
+index html meta name viewport content width device width initial scale,0
+log j xml class org apache log j ConsoleAppender,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+administration jsp c forEach var user items users,0
+application context infrastructure xml property name user value dataSource username,0
+log j xml appender name monitoringAppender,0
+license jsp h a name section a Acceptance Not Required for Having Copies h,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+ehcache xml cache name tudu domain User roles,0
+todos jsp input type hidden name todoId,0
+workspace xml option name version value,0
+todos permission denied jsp div class message fmt message key permission denied description div,0
+todos jsp form name editTodoForm action,0
+welcome jsp h fmt message key login welcome h,0
+workspace xml property name nodejs npm path reset for default project value true,0
+todos menu jsp rssAllowed,0
+todos table jsp c if test fn length todoList users,0
+todos jsp if validateForm priority dueDate notes ok,0
+log j xml param name File value requests log,0
+register jsp fmt message key user info last name,0
+workspace xml component name SvnConfiguration,0
+log j xml param name File value messages log,0
+todos jsp var notes document forms editTodoForm notes value,0
+welcome jsp img src staticContent images page white wrench png class icon alt Web nbsp nbsp fmt message key login advantages,0
+administration jsp user firstName,0
+web xml param value WEB INF log j xml param value,0
+todos menu jsp alert fmt message key todo lists share add error,0
+administration jsp fmt message key user info first name,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+web xml param value WEB INF log j xml param value,0
+todos menu jsp a href javascript showEditTodoList img src staticContent images pencil png border fmt message key todo lists actions edit a,0
+register jsp form form commandName user,0
+license jsp h a name terms a TERMS AND CONDITIONS h,0
+dispatcher servlet xml property name viewResolvers,0
+todos jsp Render the main todo table,0
+todos jsp form name editListForm onsubmit editTodoList return false action,0
+log j xml class org apache log j RollingFileAppender,0
+workspace xml option name importingSettings,0
+log j xml class org apache log j ConsoleAppender,0
+log j xml log j configuration,0
+application context infrastructure xml property name jpaVendorAdapter,0
+todos jsp input type hidden name listId value defaultList,0
+todos menu jsp todo lists deleteTodoListUser listId login,0
+todos menu jsp div class message fmt message key todo lists delete ok div,0
+welcome jsp h fmt message key login title h,0
+todos jsp alert fmt message key todos error notes length,0
+workspace xml option name HIGHLIGHT CONFLICTS value true,0
+persistence xml persistence unit name default,0
+log j xml log j configuration,0
+pom xml artifactId slf j log j artifactId,0
+log j xml class org apache log j RollingFileAppender,0
+todos jsp document forms addNewTodoForm notes value,0
+web xml param value WEB INF log j xml param value,0
+todos jsp document forms shareListForm login value,0
+log j xml class org apache log j ConsoleAppender,0
+todos jsp commonAddTodo listId description null request getRemoteUser,0
+log j xml param name bufferSize value,0
+todos jsp createAssignedUserList addNewTodoAssignedUser listId,0
+todos menu jsp document forms editListForm name value list name,0
+todos jsp fmt message key todos assigned user,0
+todos jsp todos editTodo todoId description priority dueDate notes assignedUser replyRenderTable,0
+todos table jsp onClick method todo todoId checked,0
+todos table filter jsp fmt message key todos description,0
+log j xml class org apache log j ConsoleAppender,0
+workspace xml option name totallyTimeSpent value,0
+todos jsp document forms addNewTodoForm description focus,0
+account jsp h fmt message key user info title h,0
+log j xml class org apache log j ConsoleAppender,0
+log j xml log j configuration,0
+application context infrastructure xml property name user value dataSource username,0
+web xml param value WEB INF log j xml param value,0
+log j xml class org apache log j DailyRollingFileAppender,0
+administration jsp user enabled,0
+todos jsp fmt message key todo lists edit rss,0
+menu config xml description My account,0
+web xml filter name GZipFilter filter name,0
+todos jsp var description document forms addNewTodoForm description value,0
+log j xml param name DatePattern value yyyy MM dd,0
+welcome jsp p fmt message key login description p,0
+workspace xml option name vmOptionsForImporter value Xmx m,0
+log j xml logger name monitoring,0
+header head jsp meta name author content Julien Dubois,0
+welcome jsp fmt message key login auto login,0
+todos jsp document forms editTodoForm description value,0
+todos menu jsp var listId document forms todoForm listId value,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+ehcache xml user dir User s current working directory,0
+administration jsp user firstName,0
+license jsp the interface presents a list of user commands or options such as a,0
+log j xml logger name org springframework,0
+log j xml param name File value requests log,0
+log j xml class org apache log j ConsoleAppender,0
+workspace xml component name Git Settings,0
+todos menu jsp Add a todo list,0
+workspace xml option name LAST RESOLUTION value IGNORE,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+workspace xml option name userSettingsFile value D apache maven conf settings xml,0
+log j xml class org apache log j RollingFileAppender,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+workspace xml option name height value,0
+welcome jsp img src staticContent images group png class icon alt Web nbsp nbsp fmt message key login advantages,0
+todos jsp todos sortAndRenderTodos listId sorter replyRenderTable,0
+todos jsp document forms editTodoForm description value,0
+workspace xml list default true id ad d b fef b dace c name Default Changelist comment,0
+register jsp fmt message key user info first name,0
+license jsp tells the user that there is no warranty for the work except to the,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+todos jsp todos deleteAllCompletedTodos listId replyRenderTable,0
+todos menu jsp todo lists deleteTodoList listId,0
+administration jsp c if test not user enabled,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+administration jsp c if test user enabled,0
+log j xml layout class org apache log j PatternLayout,0
+todos table filter jsp div style font px em Arial Helvetica sans serif,0
+todos menu jsp var rssAllowed list rssAllowed,0
+dispatcher servlet xml property name prefix value WEB INF views,0
+license jsp h a name section a Automatic Licensing of Downstream Recipients h,0
+application context dwr xml dwr remote javascript todo lists,0
+todos menu jsp function deleteTodoList listId,0
+license jsp h a name section a Limitation of Liability h,0
+todos jsp document forms quickAddNewTodoForm description focus,0
+todos menu jsp var login document forms shareListForm login value,0
+todos jsp createAssignedUserList editTodoAssignedUser listId,0
+todos menu jsp todo lists editTodoList listId name rssAllowed,0
+ehcache xml user home User s home directory,0
+workspace xml option name ruleStates,0
+todos jsp document forms editTodoForm notes value,0
+header head jsp meta name Description,0
+todos menu jsp alert fmt message key todo lists share add error,0
+todos jsp input type text name priority size maxlength,0
+welcome jsp fmt message key login forgotten password,0
+application context infrastructure xml property name user value dataSource username,0
+log j xml param name File value requests log,0
+todos menu jsp todo lists addTodoListUser listId login replyAddTodoListUser,0
+workspace xml option name ruleStates,0
+todos menu jsp data listId data description a,0
+register jsp form form commandName user,0
+administration jsp c if test user enabled,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+todos menu jsp todo lists editTodoList listId name rssAllowed,0
+license jsp h a name section a Limitation of Liability h,0
+register jsp fmt message key user info first name,0
+todos menu jsp Show the add a new todo list layer,0
+menu config xml Menu name Welcome,0
+ehcache xml cache name tudu domain Property,0
+todos jsp textarea name notes rows cols onfocus keyboardListener off onblur keyboardListener on textarea,0
+todos jsp input type text name dueDate id editDueDateId size maxlength,0
+workspace xml find user enabled find,0
+todos jsp form name shareListForm action,0
+todos jsp input type text name login id login size maxlength,0
+web xml servlet name dispatcher servlet name,0
+license jsp product received by a particular user ldquo normally used rdquo refers to a,0
+log j xml class org apache log j DailyRollingFileAppender,0
+todos jsp input type hidden name listId value defaultList,0
+register jsp fmt message key user info email,0
+todos jsp function validateForm priority dueDate notes,0
+workspace xml component name RunDashboard,0
+administration jsp c if test not user enabled,0
+todos jsp input type text name dueDate id editDueDateId size maxlength,0
+todos jsp if priority priority match d,0
+todos jsp todos hideOlderTodos listId replyRenderTable,0
+workspace xml component name PropertiesComponent,0
+workspace xml component name ChangeListManager,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+account jsp fmt message key user info verifypassword,0
+todos table filter jsp fmt message key todos filter list description,0
+todos jsp input type text name login id login size maxlength,0
+todos jsp textarea name notes rows cols onfocus keyboardListener off onblur keyboardListener on textarea,0
+todos jsp Show the edit a todo layer,0
+workspace xml changelist id ad d b fef b dace c name Default Changelist comment,0
+welcome jsp img src staticContent images feed png class icon alt Web nbsp nbsp fmt message key login advantages,0
+ehcache xml cache name web cache,0
+administration jsp fmt message key user info login,0
+log j xml logger name monitoring,0
+account jsp fmt message key user info password,0
+administration jsp fmt message key user info login,0
+todos jsp commonAddTodo listId description null request getRemoteUser,0
+pom xml name Tudu Lists Web application name,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+workspace xml option name userSettingsFile value D apache maven conf settings xml,0
+web xml param name encoding param name,0
+license jsp parties to make or receive copies Mere interaction with a user through,0
+administration jsp input name login type hidden value,0
+todos table jsp fmt message key todos priority,0
+welcome jsp p fmt message key login description p,0
+todos jsp todos editTodo todoId description priority dueDate notes assignedUser replyRenderTable,0
+todos menu jsp todo lists deleteTodoListUser listId login,0
+account jsp fmt message key user info last name,0
+register jsp fmt message key user info last name,0
+todos jsp var priority document forms addNewTodoForm priority value,0
+header body jsp menu displayMenu name Administration,0
+menu config xml Displayer name TabbedMenu,0
+application context infrastructure xml property name entityManagerFactory ref entityManagerFactory,0
+menu config xml description Welcome,0
+logout jsp fmt message key logout description,0
+welcome jsp th style text align left fmt message key login login th,0
+log j xml layout class org apache log j PatternLayout,0
+account jsp form form commandName user,0
+welcome jsp fmt message key login advantages,0
+workspace xml option name vmOptionsForImporter value Xmx m,0
+account jsp fmt message key user info subtitle,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+todos table jsp input type text name description size maxlength onkeydown if event keyCode quickAddTodo,0
+workspace xml find user enabled find,0
+todos jsp div class box head h fmt message key todo lists edit title h div,0
+administration jsp c forEach var user items users,0
+todos jsp var description document forms quickAddNewTodoForm description value,0
+log j xml log j configuration,0
+todos jsp commonAddTodo listId description priority dueDate notes assignedUser,0
+log j xml layout class org apache log j PatternLayout,0
+header head jsp content Tudu Lists is a free non commercial on line application for managing todo lists,0
+ehcache xml cache name tudu domain User,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+log j xml log j configuration,0
+register jsp fmt message key user info email,0
+log j xml class org apache log j DailyRollingFileAppender,0
+license jsp parties to make or receive copies Mere interaction with a user through,0
+todos jsp Complete a todo,0
+todos jsp document forms todoForm listId value null,0
+todos jsp Render the main todo table with the todos due in the next days,0
+web xml param value WEB INF log j xml param value,0
+todos jsp input type text name description size maxlength,0
+account jsp fmt message key user info password,0
+license jsp li d If the work has interactive user interfaces each must display,0
+todos menu jsp var rssAllowed,0
+dispatcher servlet xml property name interceptors,0
+todos menu jsp todo lists getTodoListUsers listId replyShareTodoListUsers,0
+todos menu jsp Delete the current todo list,0
+todos jsp var notes document forms addNewTodoForm notes value,0
+workspace xml option name totallyTimeSpent value,0
+log j xml class org apache log j DailyRollingFileAppender,0
+web xml servlet name dispatcher servlet name,0
+log j xml layout class org apache log j PatternLayout,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+application context infrastructure xml property name driverClass value datasource driverclassname,0
+log j xml log j configuration,0
+todos jsp document forms addNewTodoForm dueDate value,0
+todos jsp todos quickEditTodo todoId description replyRenderTable,0
+account jsp fmt message key user info password,0
+web xml param value WEB INF log j xml param value,0
+license jsp the interface presents a list of user commands or options such as a,0
+todos menu jsp function deleteTodoList listId,0
+todos jsp input type text name priority size maxlength,0
+todos jsp fmt message key todos description,0
+log j xml class org apache log j RollingFileAppender,0
+todos jsp textarea name notes rows cols onfocus keyboardListener off onblur keyboardListener on textarea,0
+application context infrastructure xml property name idleConnectionTestPeriod value,0
+workspace xml component name ToolWindowManager,0
+todos jsp div class box head h fmt message key todo lists share title h div,0
+todos table filter jsp div style font px em Arial Helvetica sans serif,0
+persistence xml persistence unit name default,0
+todos jsp input type text name dueDate id addDueDateId size maxlength,0
+workspace xml property name nodejs interpreter path stuck in default project value undefined stuck path,0
+welcome jsp img src staticContent images cart png class icon alt Web nbsp nbsp fmt message key login advantages,0
+todos jsp if validateForm priority dueDate notes ok,0
+application context infrastructure xml property name jdbcUrl value dataSource url,0
+log j xml layout class org apache log j PatternLayout,0
+license jsp product received by a particular user ldquo normally used rdquo refers to a,0
+log j xml param name blocking value false,0
+workspace xml component name SvnConfiguration,0
+web xml filter name GZipFilter filter name,0
+application context infrastructure xml property name numHelperThreads value,0
+header head jsp meta name Description,0
+welcome jsp th style text align left fmt message key login login th,0
+todos menu jsp Add a TodoList user,0
+log j xml layout class org apache log j PatternLayout,0
+welcome jsp key login register,0
+application context security xml form login login processing url tudu login,0
+misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+todos menu jsp var listId document forms todoForm listId value,0
+log j xml param name File value requests log,0
+welcome jsp c if test not empty param login error,0
+todos menu jsp document forms addNewListForm name focus,0
+todos menu jsp Delete a TodoList user,0
+todos jsp div class box head h fmt message key todo lists edit title h div,0
+menu config xml Displayer name TabbedMenu,0
+workspace xml option name RECENT GIT ROOT PATH value PROJECT DIR,0
+todos jsp div class box head h fmt message key todo lists actions add h div,0
+todos jsp todos renderTodos listId tableDate replyRenderTable,0
+todos menu jsp var name document forms addNewListForm name value,0
+todos table filter jsp tr class trStyle id todo todoId,0
+todos table jsp c forEach var todo items todos,0
+todos jsp input type text name login id login size maxlength,0
+todos table jsp th class assignedUserClass style width px onclick sortTable assigned user,0
+application context infrastructure xml property name dataSource ref dataSource,0
+workspace xml option name height value,0
+menu config xml description Welcome,0
+application context infrastructure xml property name database value jpavendoradapter database,0
+todos jsp form name editListForm onsubmit editTodoList return false action,0
+web xml servlet name backup servlet name,0
+todos jsp todos sortAndRenderTodos listId sorter replyRenderTable,0
+ehcache xml cache name tudu domain Todo,0
+dispatcher servlet xml property name mediaTypes,0
+workspace xml option name y value,0
+todos table filter jsp fmt message key todos filter list description,0
+workspace xml option name HIGHLIGHT NON ACTIVE CHANGELIST value false,0
+encodings xml component name Encoding,0
+license jsp pre lt program gt Copyright C lt year gt lt name of author gt,0
+web xml filter name encodingFilter filter name,0
+register jsp fmt message key user info login,0
+todos jsp alert fmt message key todos error priority,0
+web xml param value WEB INF log j xml param value,0
+todos menu jsp var name document forms editListForm name value,0
+dispatcher servlet xml property name menuConfig value WEB INF menu config xml,0
+todos menu jsp todo lists addTodoListUser listId login replyAddTodoListUser,0
+pom xml artifactId slf j log j artifactId,0
+license jsp h a name section a Basic Permissions h,0
+administration jsp user lastName,0
+welcome jsp h fmt message key login title h,0
+todos table jsp a href javascript deleteTodo todo todoId img src staticContent images bin closed png border a,0
+header body jsp menu useMenuDisplayer name TabbedMenu,0
+todos jsp commonAddTodo listId description null request getRemoteUser,0
+license jsp h a name section a Acceptance Not Required for Having Copies h,0
+todos jsp div class box head h fmt message key todo lists share title h div,0
+compiler xml module name tudu,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+compiler xml component name CompilerConfiguration,0
+todos jsp document forms addNewListForm name value,0
+todos table jsp form name quickAddNewTodoForm onSubmit return false,0
+log j xml logger name com mchange,0
+todos table jsp c forEach var todo items todos,0
+todos menu jsp todo lists deleteTodoListUser listId login,0
+todos table jsp input type text name description size maxlength onkeydown if event keyCode quickAddTodo,0
+ehcache xml cache name tudu domain Role,0
+todos jsp document forms editListForm rssAllowed checked false,0
+todos menu jsp rssAllowed,0
+ehcache xml cache name tudu domain TodoList todos,0
+account jsp form form commandName user,0
+workspace xml option name name value StatusDashboardGroupingRule,0
+license jsp h a name section a Conveying Non Source Forms h,0
+todos menu jsp var rssAllowed,0
+workspace xml property name aspect path notification shown value true,0
+license jsp h a name section a Conveying Verbatim Copies h,0
+todos menu jsp if document forms addNewListForm rssAllowed checked,0
+todos jsp fmt message key todos priority,0
+todos jsp script type text javascript src ctx ajax interface todo lists js script,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+log j xml appender class org apache log j AsyncAppender name asyncMonitoringAppender,0
+workspace xml option name isMigrated value true,0
+workspace xml component name ProjectFrameBounds extendedState,0
+todos jsp document forms editTodoForm description focus,0
+todos jsp form name editTodoForm action,0
+object retrieval failure jsp div class message fmt message key object retrieval failure description div,0
+header head jsp meta name Keywords,0
+todos table jsp fmt message key todos assigned user,0
+compiler xml profile name Maven default annotation processors profile enabled true,0
+pom xml artifactId slf j log j artifactId,0
+register jsp fmt message key user info password,0
+register jsp fmt message key user info first name,0
+todos jsp document forms shareListForm login value,0
+account jsp fmt message key user info first name,0
+todos table jsp onClick method todo todoId checked,0
+menu config xml Menu name Info,0
+web xml filter name Open Session In View Filter filter name,0
+recover password jsp form form commandName user,0
+log j xml layout class org apache log j PatternLayout,0
+workspace xml option name x value,0
+log j xml class org apache log j DailyRollingFileAppender,0
+administration jsp fmt message key administration user login,0
+todos table jsp c if test todo completed,0
+pom xml artifactId slf j log j artifactId,0
+account jsp fmt message key user info last name,0
+todos jsp form name addNewListForm onsubmit addTodoList return false action,0
+account jsp h fmt message key user info title h,0
+todos jsp document forms addNewTodoForm description value,0
+license jsp h a name preamble a Preamble h,0
+todos menu jsp todo lists getTodoListUsers listId replyShareTodoListUsers,0
+welcome jsp c if test not empty param login error,0
+todos table jsp form name quickAddNewTodoForm onSubmit return false,0
+log j xml param name File value requests log,0
+workspace xml component name editorHistoryManager,0
+application context infrastructure xml property name persistenceXmlLocation value classpath META INF persistence xml,0
+todos jsp fmt message key todo lists share add,0
+license jsp parties to make or receive copies Mere interaction with a user through,0
+web xml servlet name rss servlet name,0
+todos menu jsp todo lists addTodoListUser listId login replyAddTodoListUser,0
+workspace xml option name version value,0
+administration jsp c if test user enabled,0
+welcome jsp onclick this blur span fmt message key login reset span a,0
+todos menu jsp document forms editListForm name focus,0
+todos table filter jsp c forEach var todo items todos,0
+web xml param value WEB INF log j xml param value,0
+todos jsp todos addTodo listId description priority dueDate notes assignedUser replyRenderTable,0
+workspace xml property name nodejs interpreter path stuck in default project value undefined stuck path,0
+account jsp fmt message key user info subtitle,0
+log j xml param name File value requests log,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+workspace xml option name importingSettings,0
+todos jsp Render the main todo table with the todos assigned to the current user,0
+application context infrastructure xml property name persistenceXmlLocation value classpath META INF persistence xml,0
+ehcache xml cache name web cache,0
+web xml param name cacheName param name,0
+workspace xml property name aspect path notification shown value true,0
+welcome jsp a href context tudu register fmt message key login advantages link a,0
+application context security xml form login login processing url tudu login,0
+menu config xml Menu name Info,0
+todos jsp if description,0
+todos jsp input type text name dueDate id addDueDateId size maxlength,0
+web xml param name contextConfigLocation param name,0
+compiler xml profile name Maven default annotation processors profile enabled true,0
+welcome jsp th style text align left fmt message key login password th,0
+misc xml component name FrameworkDetectionExcludesConfiguration,0
+workspace xml option name HIGHLIGHT NON ACTIVE CHANGELIST value false,0
+application context security xml authentication provider user service ref userDetailsService,0
+todos jsp todos showOlderTodos listId replyRenderTable,0
+log j xml DOCTYPE log j configuration SYSTEM log j dtd,0
+license jsp h a name section a Interpretation of Sections and h,0
+pom xml name Tudu Lists Web application name,0
+todos menu jsp todo lists editTodoList listId name rssAllowed,0
+todos jsp function commonAddTodo listId description priority dueDate notes assignedUser,0
+menu config xml description Administration,0
+todos jsp input type text name name size maxlength,0
+administration jsp fmt message key user info first name,0
+todos jsp createAssignedUserList addNewTodoAssignedUser listId,0
+todos jsp document forms todoForm listId value null,0
+web xml param name encoding param name,0
+index html todo lists ul listview,0
+log j xml param name File value messages log,0
+log j xml log j configuration,0
+todos table jsp a href javascript showEditTodo todo todoId img src staticContent images pencil png border a,0
+header body jsp menu displayMenu name Info,0
+todos table jsp td class tdStyle onclick showQuickEditTodo todo todoId,0
+account jsp fmt message key user info verifypassword,0
+index html var append ul id todo lists ul data role listview data inset true data filter true,0
+todos jsp input type checkbox name rssAllowed,0
+todos jsp select id editTodoAssignedUser name assignedUser option option select,0
+todos menu jsp if listId null listId null listId,0
+todos jsp commonAddTodo listId description null request getRemoteUser,0
+todos menu jsp a href javascript showShareTodoList img src staticContent images group png border fmt message key todo lists actions share a,0
+register jsp fmt message key user info email,0
+todos jsp createAssignedUserList editTodoAssignedUser listId,0
+administration jsp user firstName,0
+log j xml class org apache log j RollingFileAppender,0
+workspace xml find user lastName find,0
+administration jsp fmt message key user info first name,0
+application context infrastructure xml property name driverClass value datasource driverclassname,0
+welcome jsp name j username,0
+workspace xml option name proportions,0

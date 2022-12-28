@@ -1,0 +1,88 @@
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu web dwr bean RemoteTodoList long serialVersionUID String listId name description boolean rssAllowed
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu service impl TodoListsServiceImplTest String todoListBackup TodoList todoList User user EntityManager em UserService userService TodoListsServiceImpl todoListsService
+tudu service impl TodosServiceImplTest Todo todo TodoList todoList User user TodoListsService todoListsService UserService userService EntityManager em TodosServiceImpl todosService
+tudu web dwr impl TodoListsDwrImplTest TodoList todoList TodoListsService todoListsService UserService userService TodoListsDwrImpl todoListsDwr
+tudu service impl ConfigurationServiceImpl String staticContent googleAnalyticsKey Log log EntityManager em UserService userService PlatformTransactionManager transactionManager
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu service impl ConfigurationServiceImpl String staticContent googleAnalyticsKey Log log EntityManager em UserService userService PlatformTransactionManager transactionManager
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu web dwr bean RemoteTodo long serialVersionUID String description int priority dueDate boolean hasNotes notes assignedUserLogin

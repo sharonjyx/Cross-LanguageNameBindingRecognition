@@ -1,0 +1,153 @@
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Tag long id int type String name description
+info jtrac domain Metadata long id int version Integer type String name description parent MapFieldNameField fields MapStringRole roles MapIntegerString states ListFieldName fieldOrder
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac domain Field Name name String label boolean optional MapStringString options MapStringName NAMES MAP
+info jtrac domain ItemTag long id Tag tag int type
+info jtrac domain ItemItem long id Item item relatedItem int type RELATED DUPLICATE OF DEPENDS ON
+info jtrac domain ItemUser long id User user int type
+info jtrac domain Tag long id int type String name description
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain SpaceSequence long id nextSeqNum
+info jtrac domain UserSpaceRole long id User user Space space String roleKey
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac domain Metadata long id int version Integer type String name description parent MapFieldNameField fields MapStringRole roles MapIntegerString states ListFieldName fieldOrder
+info jtrac domain Attachment long id previous filePrefix String fileName
+info jtrac web AbstractMultiActionController Jtrac JtracTestBase JtracDao dao
+info jtrac web AbstractMultiActionController Jtrac JtracTestBase JtracDao dao
+info jtrac config ProviderManagerFactoryBean Logger logger Jtrac acegi JtracLdapAuthenticationProvider JtracTestBase JtracDao dao String ldapUrl activeDirectoryDomain searchBase searchKey displayNameKey mailKey otherReturningAttributes returningAttributes Control control AuthenticationProvider authenticationProvider
+info jtrac domain Config String param value SetString PARAMS
+info jtrac wicket ConfigPasswordFormPage ConfigPasswordForm String param value BasePage Logger logger
+info jtrac wicket ConfigFormPage ConfigForm String param value BasePage Logger logger
+info jtrac domain ItemItem long id Item item relatedItem int type RELATED DUPLICATE OF DEPENDS ON
+info jtrac domain ItemUser long id User user int type
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac domain History Integer type String comment Double actualEffort Attachment attachment AbstractItem long id int version Item parent summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain ItemTag long id Tag tag int type
+info jtrac domain Tag long id int type String name description
+info jtrac domain Metadata long id int version Integer type String name description parent MapFieldNameField fields MapStringRole roles MapIntegerString states ListFieldName fieldOrder
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Metadata long id int version Integer type String name description parent MapFieldNameField fields MapStringRole roles MapIntegerString states ListFieldName fieldOrder
+info jtrac hibernate SchemaHelper Logger logger String driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+info jtrac wicket SvnStatsPage SvnForm WebMarkupContainer hide Form form String url loginName password BasePage Logger logger
+info jtrac config DataSourceFactoryBean Logger logger String driverClassName url username password validationQuery dataSourceJndiName DataSource dataSource
+info jtrac wicket ConfigPasswordFormPage ConfigPasswordForm String param value BasePage Logger logger
+info jtrac wicket ConfigFormPage ConfigForm String param value BasePage Logger logger
+info jtrac domain Config String param value SetString PARAMS
+info jtrac wicket SpaceFieldFormPage SpaceFieldForm WebPage previous Space space domain SpaceSequence long id nextSeqNum JtracFeedbackMessageFilter filter TextField optionField Field field FieldTest String option BasePage Logger logger
+info jtrac wicket SpaceFieldOptionPage SpaceFieldOptionForm SpaceFieldOptionModel WebPage previous Space space domain SpaceSequence long id nextSeqNum Field field FieldTest String key option BasePage Logger logger
+info jtrac domain UserSpaceRole long id User user Space space String roleKey
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac domain ItemUser long id User user int type
+info jtrac domain UserSpaceRole long id User user Space space String roleKey
+info jtrac domain Field Name name String label boolean optional MapStringString options MapStringName NAMES MAP
+info jtrac domain Field Name name String label boolean optional MapStringString options MapStringName NAMES MAP
+info jtrac domain Field Name name String label boolean optional MapStringString options MapStringName NAMES MAP
+info jtrac domain Field Name name String label boolean optional MapStringString options MapStringName NAMES MAP
+info jtrac domain Metadata long id int version Integer type String name description parent MapFieldNameField fields MapStringRole roles MapIntegerString states ListFieldName fieldOrder
+info jtrac domain Metadata long id int version Integer type String name description parent MapFieldNameField fields MapStringRole roles MapIntegerString states ListFieldName fieldOrder
+info jtrac domain Metadata long id int version Integer type String name description parent MapFieldNameField fields MapStringRole roles MapIntegerString states ListFieldName fieldOrder
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain State long serialVersionUID int status SetInteger transitions MapFieldNameInteger fields NEW OPEN CLOSED MASK HIDDEN READONLY OPTIONAL MANDATORY
+info jtrac domain State long serialVersionUID int status SetInteger transitions MapFieldNameInteger fields NEW OPEN CLOSED MASK HIDDEN READONLY OPTIONAL MANDATORY
+info jtrac hibernate SchemaHelper Logger logger String driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+info jtrac config DataSourceFactoryBean Logger logger String driverClassName url username password validationQuery dataSourceJndiName DataSource dataSource
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac wicket LoginPage LoginForm Logger logger String loginName password boolean rememberMe
+info jtrac wicket SvnStatsPage SvnForm WebMarkupContainer hide Form form String url loginName password BasePage Logger logger
+info jtrac wicket UserFormPage UserForm WebPage previous User user domain UserTest String password passwordConfirm boolean sendNotifications JtracFeedbackMessageFilter filter BasePage Logger logger
+info jtrac domain Metadata long id int version Integer type String name description parent MapFieldNameField fields MapStringRole roles MapIntegerString states ListFieldName fieldOrder
+info jtrac domain Tag long id int type String name description
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain Metadata long id int version Integer type String name description parent MapFieldNameField fields MapStringRole roles MapIntegerString states ListFieldName fieldOrder
+info jtrac domain History Integer type String comment Double actualEffort Attachment attachment AbstractItem long id int version Item parent summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain History Integer type String comment Double actualEffort Attachment attachment AbstractItem long id int version Item parent summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain History Integer type String comment Double actualEffort Attachment attachment AbstractItem long id int version Item parent summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat plannedEffort status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac wicket ItemRelatePanel RelateForm String refId int type comment BasePanel Logger logger
+info jtrac wicket ItemRelateRemovePage ConfirmForm long itemId ItemItem itemItem domain id Item item relatedItem int type RELATED DUPLICATE OF DEPENDS ON String comment BasePage Logger logger
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac wicket SvnStatsPage SvnForm WebMarkupContainer hide Form form String url loginName password BasePage Logger logger
+info jtrac wicket LoginPage LoginForm Logger logger String loginName password boolean rememberMe
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac config DataSourceFactoryBean Logger logger String driverClassName url username password validationQuery dataSourceJndiName DataSource dataSource
+info jtrac hibernate SchemaHelper Logger logger String driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+info jtrac wicket ItemRelatePanel RelateForm String refId int type comment BasePanel Logger logger
+info jtrac wicket ItemRelatePanel RelateForm String refId int type comment BasePanel Logger logger
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain Metadata long id int version Integer type String name description parent MapFieldNameField fields MapStringRole roles MapIntegerString states ListFieldName fieldOrder
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac wicket UserFormPage UserForm WebPage previous User user domain UserTest String password passwordConfirm boolean sendNotifications JtracFeedbackMessageFilter filter BasePage Logger logger
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac domain AbstractItem long id int version Item parent String summary detail User loggedBy assignedTo Date timeStamp util DateUtils SimpleDateFormat dateFormat dateTimeFormat Double plannedEffort Integer status severity priority cusInt01 cusInt02 cusInt03 cusInt04 cusInt05 cusInt06 cusInt07 cusInt08 cusInt09 cusInt10 cusDbl01 cusDbl02 cusDbl03 cusStr01 cusStr02 cusStr03 cusStr04 cusStr05 cusTim01 cusTim02 cusTim03 SetItemUser itemUsers SetItemItem relatedItems relatingItems SetItemTag itemTags boolean sendNotifications
+info jtrac JtracImpl Logger logger JtracDao dao PasswordEncoder passwordEncoder MailSender mailSender mail JavaMailSenderImpl sender String prefix from url MessageSource messageSource Locale defaultLocale Indexer indexer lucene IndexSearcher indexSearcher IndexSearcherTest ApplicationContext context MapStringString locales releaseVersion releaseTimestamp jtracHome int attachmentMaxSizeInMb sessionTimeoutInMinutes
+info jtrac wicket yui YuiPanel String CONTENT ID WebMarkupContainer dialog
+info jtrac wicket yui YuiDialog String CONTENT ID WebMarkupContainer dialog heading
+info jtrac domain UserSpaceRole long id User user Space space String roleKey
+info jtrac domain UserSpaceRole long id User user Space space String roleKey
+info jtrac wicket SpaceRolePage SpaceRoleForm SpaceRoleModel WebPage previous Space space domain SpaceSequence long id nextSeqNum String roleKey BasePage Logger logger
+info jtrac domain Attachment long id previous filePrefix String fileName
+info jtrac domain Space long id int version Integer type String prefixCode name description boolean guestAllowed Metadata metadata
+info jtrac domain User int SEARCH NAME LOGIN EMAIL long id Integer type parent String loginName name password email Metadata metadata locale boolean locked SetUserSpaceRole userSpaceRoles
+info jtrac config ProviderManagerFactoryBean Logger logger Jtrac acegi JtracLdapAuthenticationProvider JtracTestBase JtracDao dao String ldapUrl activeDirectoryDomain searchBase searchKey displayNameKey mailKey otherReturningAttributes returningAttributes Control control AuthenticationProvider authenticationProvider
+info jtrac wicket UserAllocatePage UserAllocateForm WebPage previous long userId selectedSpaceId User user domain UserSpaceRole id Space space String roleKey RoleAllocatePanel roleAllocatePanel Button allocateButton BasePage Logger logger
+info jtrac wicket SpaceAllocatePage SpaceAllocateForm WebPage previous long spaceId selectedUserId Space space domain UserSpaceRole id User user String roleKey RoleAllocatePanel roleAllocatePanel Button allocateButton BasePage Logger logger
+info jtrac config ProviderManagerFactoryBean Logger logger Jtrac acegi JtracLdapAuthenticationProvider JtracTestBase JtracDao dao String ldapUrl activeDirectoryDomain searchBase searchKey displayNameKey mailKey otherReturningAttributes returningAttributes Control control AuthenticationProvider authenticationProvider
+info jtrac hibernate SchemaHelper Logger logger String driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+info jtrac config DataSourceFactoryBean Logger logger String driverClassName url username password validationQuery dataSourceJndiName DataSource dataSource
+info jtrac config DataSourceFactoryBean Logger logger String driverClassName url username password validationQuery dataSourceJndiName DataSource dataSource
+info jtrac hibernate SchemaHelper Logger logger String driverClassName url username password hibernateDialect dataSourceJndiName mappingResources
+info jtrac JtracImpl Logger logger JtracDao dao PasswordEncoder passwordEncoder MailSender mailSender mail JavaMailSenderImpl sender String prefix from url MessageSource messageSource Locale defaultLocale Indexer indexer lucene IndexSearcher indexSearcher IndexSearcherTest ApplicationContext context MapStringString locales releaseVersion releaseTimestamp jtracHome int attachmentMaxSizeInMb sessionTimeoutInMinutes
+info jtrac mylyn domain Item String refId summary detail loggedBy assignedTo
+info jtrac config ProviderManagerFactoryBean Logger logger Jtrac acegi JtracLdapAuthenticationProvider JtracTestBase JtracDao dao String ldapUrl activeDirectoryDomain searchBase searchKey displayNameKey mailKey otherReturningAttributes returningAttributes Control control AuthenticationProvider authenticationProvider

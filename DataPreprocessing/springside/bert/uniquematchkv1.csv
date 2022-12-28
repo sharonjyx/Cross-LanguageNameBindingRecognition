@@ -1,0 +1,1499 @@
+applicationContext security xml property name enabled value security autologin enabled,1
+user input jsp td createBy fmt formatDate value createTime type both td,1
+user input jsp input type hidden name workingVersion value version,1
+user jsp input type hidden name page pageNo id pageNo value page pageNo,1
+user jsp s iterator value allUserList,1
+user jsp input type hidden name page order id order value symbol dollar page order,1
+applicationContext executor xml property name cronExpression value MON FRI,1
+applicationContext security xml property name defaultUserName value admin,1
+user jsp s iterator value page result,1
+user input jsp td shaPassword td,1
+web xml param name failureUrl param name,1
+web xml param name autoPassValue param name,1
+applicationContext log xml property name queueSize value,1
+jmx client jsp race span id traceStatus traceStarted span br,1
+user input jsp td lastModifyBy fmt formatDate value lastModifyTime type both td,1
+user jsp input type hidden name page orderBy id orderBy value symbol dollar page orderBy,1
+user jsp input type hidden name page pageNo id pageNo value symbol dollar page pageNo,1
+user input jsp td lastModifyBy fmt formatDate value lastModifyTime type both td,1
+role jsp s iterator value allRoleList,1
+applicationContext executor xml property name initialDelay value,1
+applicationContext email xml property name textTemplate,1
+user input jsp input type hidden name workingVersion value version,1
+user jsp input type hidden name page order id order value page order,1
+applicationContext jmx client xml property name port value jmx rmi port,1
+user jsp s iterator value page result,1
+applicationContext jdbc xml property name searchUserSql,1
+applicationContext log xml property name sql,1
+role jsp s iterator value allRoleList,1
+applicationContext jmx client xml property name host value server addr,1
+ehcache hibernate local xml cache name package entity account Role authorityList maxElementsInMemory,1
+web xml param name failureUrl param name,1
+web xml param name autoPassValue param name,1
+user jsp input type hidden name page orderBy id orderBy value page orderBy,1
+ehcache hibernate local xml cache name org springside examples miniweb entity account Role authorityList maxElementsInMemory,1
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter class org apache struts dispatcher ng filter StrutsPrepareAndExecuteFilter filter class,0
+web xml filter class org springframework orm hibernate support OpenSessionInViewFilter filter class,0
+web xml Struts filter,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter class org apache struts dispatcher ng filter StrutsPrepareAndExecuteFilter filter class,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter class org springframework web filter DelegatingFilterProxy filter class,0
+web xml filter mapping,0
+web xml filter mapping,0
+role jsp div id filter SpringSecurityUtils getCurrentUserName div,0
+web xml filter mapping,0
+user jsp value param filter LIKES name OR email size,0
+resource jsp div id filter SpringSecurityUtils getCurrentUserName div,0
+web xml filter,0
+web xml filter,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter class org springframework web filter DelegatingFilterProxy filter class,0
+web xml filter mapping,0
+web xml filter name struts Filter filter name,0
+web xml filter mapping,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter name struts Filter filter name,0
+web xml filter mapping,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter name encodingFilter filter name,0
+web xml filter mapping,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter name struts CleanupFilter filter name,0
+web xml filter class org apache struts dispatcher ActionContextCleanUp filter class,0
+web xml Hibernate Open Session In View filter,0
+web xml filter mapping,0
+web xml filter name cacheControlHeaderFilter filter name,0
+user jsp value symbol dollar param filter LIKES name OR email size,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter name struts Filter filter name,0
+web xml UrlRewrite filter,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter name cacheControlHeaderFilter filter name,0
+web xml filter name urlRewriteFilter filter name,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter,0
+web xml SpringSecurity filter,0
+web xml Struts filter,0
+web xml filter mapping,0
+web xml SpringSecurity filter,0
+web xml filter,0
+web xml SpringSecurity filter,0
+web xml filter mapping,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter class org springframework web filter CharacterEncodingFilter filter class,0
+web xml filter,0
+web xml filter name encodingFilter filter name,0
+web xml filter,0
+web xml filter name jcaptchaFilter filter name,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter mapping,0
+web xml Hibernate Open Session In View filter,0
+web xml filter name struts CleanupFilter filter name,0
+web xml Character Encoding filter,0
+web xml filter,0
+web xml UrlRewrite filter,0
+web xml filter name struts CleanupFilter filter name,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter,0
+web xml filter class org apache struts dispatcher ActionContextCleanUp filter class,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter class org springframework orm hibernate support OpenSessionInViewFilter filter class,0
+web xml filter,0
+web xml filter name jcaptchaFilter filter name,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter class org springframework orm hibernate support OpenSessionInViewFilter filter class,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter name struts CleanupFilter filter name,0
+web xml filter mapping,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter class org apache struts dispatcher ActionContextCleanUp filter class,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml Struts filter,0
+web xml filter mapping,0
+web xml filter name cacheControlHeaderFilter filter name,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter name struts Filter filter name,0
+web xml filter name jcaptchaFilter filter name,0
+web xml filter,0
+web xml filter name cacheControlHeaderFilter filter name,0
+web xml filter name cacheControlHeaderFilter filter name,0
+web xml filter name encodingFilter filter name,0
+web xml filter class org apache struts dispatcher ng filter StrutsPrepareAndExecuteFilter filter class,0
+web xml filter,0
+web xml filter class org apache struts dispatcher ng filter StrutsPrepareAndExecuteFilter filter class,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter name struts CleanupFilter filter name,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml SpringSecurity filter,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter,0
+web xml filter name struts Filter filter name,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter mapping,0
+web xml filter name jcaptchaFilter filter name,0
+web xml filter,0
+web xml filter name jcaptchaFilter filter name,0
+web xml filter,0
+user jsp div id filter,0
+web xml filter name struts Filter filter name,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter name struts Filter filter name,0
+web xml filter name struts CleanupFilter filter name,0
+web xml filter class org springframework web filter DelegatingFilterProxy filter class,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+jetty plugin xml filter name template value OBJECT NAME alias,0
+web xml filter,0
+web xml filter class org springside examples showcase web CacheControlHeaderFilter filter class,0
+web xml filter name struts CleanupFilter filter name,0
+web xml filter mapping,0
+applicationContext security xml s custom filter after SECURITY CONTEXT FILTER ref autoLoginFilter,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter name cacheControlHeaderFilter filter name,0
+web xml filter class org springframework orm hibernate support OpenSessionInViewFilter filter class,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter,0
+web xml filter,0
+web xml filter,0
+web xml filter name jcaptchaFilter filter name,0
+web xml filter name encodingFilter filter name,0
+web xml filter name struts Filter filter name,0
+web xml filter,0
+web xml Hibernate Open Session In View filter,0
+web xml filter,0
+web xml filter,0
+web xml filter,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter,0
+web xml filter,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter,0
+web xml filter,0
+web xml springSecurityFilter filter mapping,0
+web xml filter class org springside modules security jcaptcha JCaptchaFilter filter class,0
+web xml filter,0
+web xml filter name struts Filter filter name,0
+web xml filter,0
+user jsp Email input type text name filter LIKES name OR email,0
+web xml filter,0
+web xml Character Encoding filter,0
+web xml Hibernate Open Session In View filter,0
+user jsp div id filter,0
+web xml filter,0
+web xml filter class org springframework web filter CharacterEncodingFilter filter class,0
+web xml filter mapping,0
+web xml filter class org tuckey web filters urlrewrite UrlRewriteFilter filter class,0
+web xml filter name cacheControlHeaderFilter filter name,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter mapping,0
+web xml filter name cacheControlHeaderFilter filter name,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter name struts Filter filter name,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter mapping,0
+web xml filter class org springframework web filter DelegatingFilterProxy filter class,0
+web xml filter mapping,0
+web xml filter name struts CleanupFilter filter name,0
+web xml filter mapping,0
+web xml Character Encoding filter,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter name encodingFilter filter name,0
+hibernate reveng xml table filter match schema match name exclude true,0
+web xml filter class org springframework orm hibernate support OpenSessionInViewFilter filter class,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter class org tuckey web filters urlrewrite UrlRewriteFilter filter class,0
+web xml filter class org springframework web filter DelegatingFilterProxy filter class,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml Struts filter,0
+web xml springSecurityFilter filter mapping,0
+hibernate reveng xml table filter match schema match name exclude true,0
+web xml filter mapping,0
+web xml filter name struts CleanupFilter filter name,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter mapping,0
+web xml filter name encodingFilter filter name,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter mapping,0
+applicationContext security xml filter,0
+web xml filter mapping,0
+resource jsp div id filter SpringSecurityUtils getCurrentUserName div,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter class org springframework web filter CharacterEncodingFilter filter class,0
+web xml filter mapping,0
+web xml filter,0
+hibernate reveng xml table filter match schema match name ACCT package org springside examples miniweb entity account,0
+web xml filter mapping,0
+web xml filter name struts CleanupFilter filter name,0
+web xml filter name encodingFilter filter name,0
+web xml Character Encoding filter,0
+web xml filter mapping,0
+hibernate reveng xml table filter match schema match name ACCT package package entity account,0
+web xml filter class org apache struts dispatcher ng filter StrutsPrepareAndExecuteFilter filter class,0
+web xml filter,0
+web xml SpringSecurity filter,0
+jvm jmx metrics xml filter name template value OBJECT NAME alias,0
+web xml filter class org springside modules security jcaptcha JCaptchaFilter filter class,0
+hibernate reveng xml table filter match schema match name ACCT package org springside examples miniservice entity account,0
+web xml filter name encodingFilter filter name,0
+web xml filter,0
+user jsp input type text name filter EQS loginName value param filter EQS loginName size,0
+web xml Hibernate Open Session In View filter,0
+web xml filter,0
+hibernate reveng xml table filter match schema match name exclude true,0
+web xml filter,0
+web xml filter class org apache struts dispatcher ng filter StrutsPrepareAndExecuteFilter filter class,0
+web xml SpringSecurity filter,0
+web xml filter name hibernateOpenSessionInViewFilter filter name,0
+web xml filter class org apache struts dispatcher ActionContextCleanUp filter class,0
+web xml filter name struts Filter filter name,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml SpringSide s JCaptcha filter,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter class org springframework orm hibernate support OpenSessionInViewFilter filter class,0
+web xml SpringSide s JCaptcha filter,0
+web xml filter class org apache struts dispatcher ActionContextCleanUp filter class,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter name struts CleanupFilter filter name,0
+web xml Struts filter,0
+web xml filter name urlRewriteFilter filter name,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter name struts CleanupFilter filter name,0
+hibernate reveng xml table filter match schema match name SS LOG exclude true,0
+web xml filter name encodingFilter filter name,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter class org springframework web filter CharacterEncodingFilter filter class,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter class org springframework web filter DelegatingFilterProxy filter class,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter,0
+web xml filter,0
+web xml filter name urlRewriteFilter filter name,0
+web xml filter mapping,0
+web xml Character Encoding filter,0
+web xml filter class org springframework web filter CharacterEncodingFilter filter class,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+user jsp input type text name filter EQS loginName value symbol dollar param filter EQS loginName size,0
+web xml filter name struts Filter filter name,0
+web xml filter class org springside examples showcase web CacheControlHeaderFilter filter class,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml Struts filter,0
+web xml filter,0
+web xml filter name encodingFilter filter name,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter,0
+web xml Hibernate Open Session In View filter,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter name springSecurityFilterChain filter name,0
+web xml filter class org apache struts dispatcher ActionContextCleanUp filter class,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter name encodingFilter filter name,0
+hibernate reveng xml table filter match schema match name SS package org springside examples showcase common entity,0
+web xml filter name encodingFilter filter name,0
+role jsp div id filter SpringSecurityUtils getCurrentUserName div,0
+web xml filter,0
+web xml filter mapping,0
+web xml filter,0
+web xml filter name urlRewriteFilter filter name,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml filter class org springframework web filter CharacterEncodingFilter filter class,0
+user jsp Email input type text name filter LIKES name OR email,0
+web xml filter mapping,0
+web xml filter mapping,0
+web xml Character Encoding filter,0
+pom xml version version,0
+pom xml hibernate version Final hibernate version,0
+pom xml version version,0
+pom xml version version,0
+formatter profile xml xml version encoding UTF standalone no,0
+cleanup profile xml xml version encoding UTF standalone no,0
+hibernate reveng xml xml version encoding UTF,0
+pom xml xml version encoding UTF,0
+pom xml version spring version version,0
+pom xml cxf version cxf version,0
+showcase soapui project xml soapenv Envelope con request con credentials con username admin con username con password admin con password con credentials con wsaConfig mustUnderstand NONE version action http showcase examples springside org UserService getAllUser con call con call name RequestWithDigestPassword wssPasswordType PasswordDigest con settings con encoding UTF con encoding con endpoint http localhost showcase services UserServiceWithDigestPassword con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+jarRepositories xml project version,0
+pom xml xml version encoding UTF,0
+formatter profile xml profile kind CodeFormatterProfile name springside version,0
+web xml xml version encoding UTF,0
+pom xml version h version version,0
+applicationContext jmx server xml xml version encoding UTF,0
+pom xml selenium version a selenium version,0
+pom xml xml version encoding UTF,0
+pom xml jdbc driver version h version jdbc driver version,0
+pom xml version version,0
+pom xml version spring version version,0
+pom xml version version,0
+pom xml version version,0
+hibernate reveng xml xml version encoding UTF,0
+pom xml xml version encoding UTF,0
+report settings xml xml version encoding UTF,0
+vcs xml project version,0
+pom xml version jackson version version,0
+applicationContext test xml xml version encoding UTF,0
+web xml xml version encoding UTF,0
+showcase soapui project xml con soapui project name showcase resourceRoot soapui version xmlns con http eviware com soapui config con settings con setting id ProjectSettings projectRoot C Users ehuaxio Documents Springside examples showcase src test soapui con setting con settings con interface xsi type con WsdlInterface wsaVersion NONE name UserServiceSoapBinding type wsdl bindingName http showcase examples springside org UserServiceSoapBinding soapVersion anonymous optional definition http localhost showcase services UserServiceWithDigestPassword wsdl xmlns xsi http www w org XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost showcase services UserServiceWithDigestPassword wsdl con part con url http localhost showcase services UserServiceWithDigestPassword wsdl con url con content CDATA wsdl definitions name UserService targetNamespace http showcase examples springside org xmlns ns http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w org XMLSchema,0
+pom xml spring security version RELEASE spring security version,0
+pom xml jersey version jersey version,0
+applicationContext security xml xml version encoding UTF,0
+showcase soapui project xml xs schema elementFormDefault unqualified targetNamespace http showcase examples springside org version xmlns xs http www w org XMLSchema,0
+jetty plugin xml xml version,0
+applicationContext showcase xml xml version encoding UTF,0
+applicationContext log xml xml version encoding UTF,0
+build xml xml version encoding UTF,0
+hibernate cfg xml xml version encoding utf,0
+vcs xml xml version encoding UTF,0
+assembly xml directory project basedir target artifactId version directory,0
+applicationContext security xml xml version encoding UTF,0
+pom xml version jackson version version,0
+sonar backup xml key CDATA sonar core version key,0
+applicationContext jms simple xml xml version encoding UTF,0
+pom xml version jackson version version,0
+pom xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version version,0
+save wsdl build xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version h version version,0
+struts xml xml version encoding UTF,0
+pom xml version spring version version,0
+pom xml version version,0
+pom xml version jetty version version,0
+server xml xml version encoding utf,0
+pom xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version jetty version version,0
+hibernate reveng xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version jetty version version,0
+pom xml jdbc driver version jdbc driver version,0
+web xml xml version encoding UTF,0
+pom xml version slf j version version,0
+checkstyle springside xml xml version encoding UTF,0
+pom xml version scope exclusions groupId artifactId,0
+applicationContext test functional xml xml version encoding UTF,0
+cleanup profile xml setting id cleanup add generated serial version id value true,0
+web xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version version,0
+pom xml version slf j version version,0
+jarRepositories xml xml version encoding UTF,0
+pom xml version version,0
+applicationContext jms advanced xml xml version encoding UTF,0
+pom xml jackson version jackson version,0
+workspace xml option name version value,0
+pom xml version selenium version version,0
+pom xml jdbc driver version jdbc driver version,0
+pom xml version cxf version version,0
+pom xml version version,0
+compiler xml project version,0
+compiler xml xml version encoding UTF,0
+pom xml version version,0
+assembly xml xml version encoding UTF,0
+urlrewrite xml xml version encoding UTF,0
+hibernate reveng xml xml version encoding UTF,0
+pom xml jdbc driver version jdbc driver version,0
+formatter profile xml profiles version,0
+default data xml xml version encoding UTF,0
+pom xml version version,0
+jetty xml xml version,0
+pom xml version version,0
+workspace xml navigator proportions version,0
+misc xml xml version encoding UTF,0
+default data xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version version,0
+showcase soapui project xml xs schema elementFormDefault unqualified targetNamespace http showcase examples springside org version xmlns xs http www w org XMLSchema,0
+build xml xml version encoding UTF,0
+applicationContext cxf client xml xml version encoding UTF,0
+pom xml version version,0
+ehcache hibernate local xml xml version encoding UTF,0
+pom xml version jdbc driver version version,0
+pom xml quartz version quartz version,0
+applicationContext security xml xml version encoding UTF,0
+pom xml xml version encoding UTF,0
+web xml web app version xmlns http java sun com xml ns j ee xmlns xsi http www w org XMLSchema instance,0
+jetty xml xml version,0
+pom xml version version,0
+pom xml version version,0
+pom xml version version,0
+pom xml version cxf version version,0
+archetype metadata xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version beta version,0
+pom xml version version,0
+build xml xml version encoding UTF,0
+pom xml springside version springside version,0
+pom xml version version version,0
+applicationContext quartz cron local xml xml version encoding UTF,0
+pom xml version struts version version,0
+ehcache hibernate local xml xml version encoding UTF,0
+pom xml version version,0
+ehcache xml xml version encoding UTF,0
+pom xml version version,0
+pom xml jetty version jetty version,0
+sonar backup xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version cxf version version,0
+pom xml version version,0
+pom xml version version,0
+workspace xml xml version encoding UTF,0
+build xml xml version encoding UTF,0
+showcase soapui project xml soapenv Envelope con request con wsaConfig mustUnderstand NONE version action http showcase examples springside org LargeImageWebService getImage con call con operation con interface con properties con wssContainer con soapui project,0
+showcase soapui project xml soapenv Envelope con request con wsaConfig mustUnderstand NONE version action http showcase examples springside org LittleImageWebService getImage con call con operation con interface con interface xsi type con WsdlInterface wsaVersion NONE name LargeImageServiceSoapBinding type wsdl bindingName http showcase examples springside org LargeImageServiceSoapBinding soapVersion anonymous optional definition http localhost showcase services LargeImageService wsdl xmlns xsi http www w org XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost showcase services LargeImageService wsdl con part con url http localhost showcase services LargeImageService wsdl con url con content CDATA wsdl definitions name LargeImageService targetNamespace http showcase examples springside org xmlns ns http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w org XMLSchema,0
+pom xml version version,0
+pom xml version version,0
+applicationContext xml xml version encoding UTF,0
+web xml web app version xmlns http java sun com xml ns j ee xmlns xsi http www w org XMLSchema instance,0
+pom xml version hibernate version version,0
+pom xml version jersey version version,0
+misc xml project version,0
+pom xml version version,0
+pom xml version struts version version,0
+pom xml version jersey version version,0
+pom xml version version,0
+misc xml component name ProjectRootManager version languageLevel JDK project jdk name project jdk type JavaSDK,0
+pom xml version struts version version,0
+pom xml version version,0
+pom xml version version,0
+pom xml version version,0
+pom xml version cxf version version,0
+pom xml version version,0
+pom xml version alpha version,0
+applicationContext xml xml version encoding UTF,0
+pom xml version version,0
+sonar backup xml version CDATA version,0
+pom xml version version,0
+pom xml version hibernate version version,0
+pom xml h version h version,0
+pom xml version spring version version,0
+showcase soapui project xml soapenv Envelope con request con credentials con username admin con username con password admin con password con credentials con wsaConfig mustUnderstand NONE version action http showcase examples springside org UserService getAllUser con call con operation con interface con interface xsi type con WsdlInterface wsaVersion NONE name LittleImageServiceSoapBinding type wsdl bindingName http showcase examples springside org LittleImageServiceSoapBinding soapVersion anonymous optional definition http localhost showcase services LittleImageService wsdl xmlns xsi http www w org XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost showcase services LittleImageService wsdl con part con url http localhost showcase services LittleImageService wsdl con url con content CDATA wsdl definitions name LittleImageService targetNamespace http showcase examples springside org xmlns ns http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w org XMLSchema,0
+pom xml version spring version version,0
+pom xml version jersey version version,0
+pom xml version version,0
+pom xml version hibernate version version,0
+pom xml version jdbc driver version version,0
+pom xml version version,0
+hibernate cfg xml xml version encoding utf,0
+pom xml version selenium version version,0
+applicationContext ws client xml xml version encoding UTF,0
+pom xml struts version struts version,0
+applicationContext ws server xml xml version encoding UTF,0
+default data xml xml version encoding UTF,0
+pom xml version spring version version,0
+web xml web app version xmlns http java sun com xml ns j ee xmlns xsi http www w org XMLSchema instance,0
+jetty xml xml version,0
+build xml xml version encoding UTF,0
+pom xml version version,0
+applicationContext memcached xml xml version encoding UTF,0
+pom xml version spring version version,0
+pom xml version jdbc driver version version,0
+applicationContext jmx client xml xml version encoding UTF,0
+build xml xml version encoding UTF,0
+build xml xml version encoding UTF,0
+showcase soapui project xml xml version encoding UTF,0
+pom xml version spring version version,0
+web xml xml version encoding UTF,0
+web xml web app version xmlns http java sun com xml ns j ee xmlns xsi http www w org XMLSchema instance,0
+showcase soapui project xml xs schema elementFormDefault unqualified targetNamespace http showcase examples springside org version xmlns xs http www w org XMLSchema,0
+pom xml version activemq version version,0
+pom xml version version,0
+pom xml version selenium version version,0
+pom xml jdbc driver version jdbc driver version,0
+struts xml xml version encoding UTF,0
+jetty jmx xml xml version,0
+pom xml version spring version version,0
+web xml web app xmlns http java sun com xml ns j ee xmlns xsi http www w org XMLSchema instance version,0
+applicationContext ehcache xml xml version encoding UTF,0
+pom xml jdbc driver version jdbc driver version,0
+context xml xml version encoding utf,0
+pom xml version spring version version,0
+workspace xml project version,0
+hibernate cfg xml xml version encoding utf,0
+pom xml spring version RELEASE spring version,0
+web xml web app version xmlns http java sun com xml ns j ee xmlns xsi http www w org XMLSchema instance,0
+applicationContext executor xml xml version encoding UTF,0
+pom xml activemq version activemq version,0
+applicationContext extension test security xml xml version encoding UTF,0
+log j perf j xml xml version encoding UTF,0
+pom xml xml version encoding UTF,0
+applicationContext jdbc xml xml version encoding UTF,0
+pom xml version jetty version version,0
+pom xml jdbc driver version jdbc driver version,0
+pom xml version version,0
+applicationContext email xml xml version encoding UTF,0
+ehcache hibernate local xml xml version encoding UTF,0
+pom xml version GA version,0
+pom xml jdbc driver version h version jdbc driver version,0
+pom xml version selenium version version,0
+cleanup profile xml setting id cleanup add serial version id value false,0
+applicationContext quartz timer cluster xml xml version encoding UTF,0
+pom xml version version,0
+default data xml xml version encoding UTF,0
+pom xml version version,0
+applicationContext test xml xml version encoding UTF,0
+web xml xml version encoding UTF,0
+pom xml xml version encoding UTF,0
+jetty jmx xml xml version,0
+pom xml slf j version slf j version,0
+cleanup profile xml setting id cleanup add default serial version id value false,0
+web xml web app xmlns http java sun com xml ns j ee xmlns xsi http www w org XMLSchema instance version,0
+web xml xml version encoding UTF,0
+applicationContext core test xml xml version encoding UTF,0
+pom xml version version,0
+struts xml xml version encoding UTF,0
+pom xml version jetty version version,0
+pom xml version spring version version,0
+pom xml version version,0
+cleanup profile xml profiles version,0
+pom xml version version,0
+pom xml version version,0
+web xml web app version xmlns http java sun com xml ns j ee xmlns xsi http www w org XMLSchema instance,0
+pom xml version GA version,0
+hibernate cfg xml xml version encoding utf,0
+pom xml newest version in jboss repository,0
+jetty plugin xml server name Jetty version x,0
+pom xml version springside version version,0
+pom xml version springside version version,0
+pom xml version spring security version version,0
+pom xml version r version,0
+pom xml version alpha version,0
+pom xml version jdbc driver version version,0
+pom xml version version,0
+encodings xml project version,0
+web xml xml version encoding UTF,0
+pom xml jdbc driver version h version jdbc driver version,0
+cleanup profile xml profile kind CleanUpProfile name springside version,0
+pom xml version spring security version version,0
+encodings xml xml version encoding UTF,0
+applicationContext cxf server xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version version,0
+pom xml version version,0
+applicationContext xml xml version encoding UTF,0
+pom xml version quartz version version,0
+build xml xml version encoding UTF,0
+applicationContext test xml xml version encoding UTF,0
+applicationContext test xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version version,0
+pom xml version version,0
+pom xml jdbc driver version h version jdbc driver version,0
+pom xml version spring security version version,0
+pom xml version version,0
+pom xml version version,0
+applicationContext xml xml version encoding UTF,0
+pom xml version version,0
+test data xml xml version encoding UTF,0
+pom xml version version,0
+pom xml version spring security version version,0
+jetty jmx xml xml version,0
+pom xml version version,0
+pom xml xml version encoding UTF,0
+encodings xml file url file PROJECT DIR modules core src main java charset UTF,0
+role input jsp include file common header jsp,0
+applicationContext test xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+user input jsp include file common taglibs jsp,0
+activemq network broker xml Allows us to use system properties as variables in this configuration file,0
+resource jsp include file common header jsp,0
+activemq network broker xml Licensed to the Apache Software Foundation ASF under one or more contributor license agreements See the NOTICE file,0
+login jsp include file common taglibs jsp,0
+encodings xml file url file PROJECT DIR modules parent src main resources charset UTF,0
+index jsp include file common taglibs jsp,0
+report settings xml labels can also be added in data xml file using exactly the same structure like it is here,0
+index jsp include file common footer jsp,0
+resource jsp include file common taglibs jsp,0
+resource jsp include file common meta jsp,0
+index jsp include file common left jsp,0
+login jsp include file common footer jsp,0
+index jsp include file common header jsp,0
+server xml The ASF licenses this file to You under the Apache License Version,0
+mashup client jsp include file common meta jsp,0
+index jsp include file common taglibs jsp,0
+context xml The contents of this file will be loaded for each web application,0
+index jsp include file common footer jsp,0
+index jsp include file common taglibs jsp,0
+misc xml file type web url file PROJECT DIR examples mini service,0
+user jsp include file common taglibs jsp,0
+build xml property file src main resources application properties,0
+jetty xml some demos Include this file in your configuration to enable ActiveMQ web components,0
+index jsp include file common left jsp,0
+applicationContext xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+user input jsp include file common header jsp,0
+user jsp include file common meta jsp,0
+activemq network broker xml value file activemq base conf credentials properties value,0
+index jsp include file common footer jsp,0
+encodings xml file url file PROJECT DIR modules parent charset UTF,0
+index jsp include file common footer jsp,0
+header jsp include file common taglibs jsp,0
+report settings xml if graph settings are defined both here and in data file the ones from data file are used,0
+user input jsp include file common left jsp,0
+role jsp include file common meta jsp,0
+report settings xml angle of rotation If you want to rotate by degree from to you must have font swf file in fonts folder,0
+activemq xml distributed with this work for additional information regarding copyright ownership The ASF licenses this file to You,0
+index jsp include file common header jsp,0
+compiler xml directory url file PROJECT DIR tools maven archetype src main resources archetype resources includeSubdirectories true,0
+encodings xml file url file PROJECT DIR modules extension src main java charset UTF,0
+report settings xml The chart will look for this file in path folder path is set in HTML,0
+jmx client jsp include file common left jsp,0
+report drilldown jsp include file common taglibs jsp,0
+encodings xml file url file PROJECT DIR examples mini service src main resources charset UTF,0
+encodings xml file url file PROJECT DIR tools maven archetype src main resources charset UTF,0
+applicationContext xml value file var mini service application server properties value,0
+index jsp include file common header jsp,0
+login jsp include file common taglibs jsp,0
+encodings xml file url file PROJECT DIR examples showcase src main java charset UTF,0
+build xml pom file pom xml,0
+role jsp include file common taglibs jsp,0
+role jsp include file common meta jsp,0
+jetty xml information regarding copyright ownership The ASF licenses this file to You under,0
+mashup client jsp include file common footer jsp,0
+applicationContext xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+login jsp include file common header jsp,0
+user input jsp include file common header jsp,0
+user input jsp include file common meta jsp,0
+header jsp include file common taglibs jsp,0
+jetty xml the Apache License Version the License you may not use this file except in,0
+user input jsp include file common meta jsp,0
+activemq xml value file activemq base conf credentials properties value,0
+index jsp include file common left jsp,0
+index jsp include file common left jsp,0
+report drilldown jsp include file common footer jsp,0
+applicationContext test xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+context xml contributor license agreements See the NOTICE file distributed with,0
+login jsp include file common taglibs jsp,0
+index jsp include file common taglibs jsp,0
+user jsp include file common footer jsp,0
+report settings xml ss mm hh DD In case you want your axis to display formatted durations instead of numbers you have to set the unit of the duration in your data file For example if your values in data file represents seconds set ss here,0
+report settings xml graph gid if you are using XML data file graph gid must match graph gid in data file,0
+formatter profile xml setting id org eclipse jdt core formatter insert new line at end of file if missing value do not insert,0
+user jsp include file common left jsp,0
+encodings xml file url file PROJECT DIR modules extension charset UTF,0
+index jsp include file common header jsp,0
+mashup client jsp include file common left jsp,0
+login jsp include file common meta jsp,0
+index jsp include file common header jsp,0
+role jsp include file common footer jsp,0
+activemq xml under the Apache License Version the License you may not use this file except in compliance with the,0
+index jsp so addVariable settings file encodeURIComponent ctx amcharts report settings xml,0
+applicationContext test xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+jetty xml license agreements See the NOTICE file distributed with this work for additional,0
+report drilldown jsp include file common left jsp,0
+jetty plugin xml Add this line to the top of the lt jetty home gt bin jetty sh file,0
+encodings xml file url file PROJECT DIR modules parent src main java charset UTF,0
+misc xml file type web url file PROJECT DIR examples mini web,0
+role input jsp include file common footer jsp,0
+report settings xml path to the pattern file Pattern file can be swf jpg gif or png The chart looks for the file in the path folder the pattern can be also set for individual columns in the data xml file,0
+index jsp include file common left jsp,0
+login jsp include file common header jsp,0
+role input jsp include file common taglibs jsp,0
+index jsp include file common left jsp,0
+index jsp include file common header jsp,0
+user jsp include file common footer jsp,0
+user jsp include file common meta jsp,0
+build xml property file src main resources application properties,0
+index jsp include file common taglibs jsp,0
+index jsp include file common taglibs jsp,0
+build xml property file src main resources application properties,0
+jmx client jsp include file common header jsp,0
+index jsp include file common left jsp,0
+report settings xml guide there can be any number of quides guides can also be set in data xml file using the same syntax as here,0
+index jsp include file common left jsp,0
+user jsp include file common header jsp,0
+index jsp include file common footer jsp,0
+index jsp include file common header jsp,0
+index jsp include file common header jsp,0
+user jsp include file common header jsp,0
+encodings xml file url file PROJECT DIR tools maven archetype src main java charset UTF,0
+report settings xml string csv file data separator you need it only if you are using csv file for your data,0
+mashup client jsp include file common header jsp,0
+login jsp include file common meta jsp,0
+index jsp include file common left jsp,0
+report settings xml file file,0
+index jsp include file common header jsp,0
+role input jsp include file common meta jsp,0
+report settings xml graphs GRAPHS SETTINGS These settings can also be specified in data file as attributes of graph in this case you can delete everything from graphs to graphs including,0
+index jsp include file common left jsp,0
+index jsp include file common left jsp,0
+build xml pom file pom xml,0
+applicationContext xml value file var showcase application server properties value,0
+server xml the License you may not use this file except in compliance with,0
+user input jsp include file common footer jsp,0
+encodings xml file url file PROJECT DIR examples mini web src main java charset UTF,0
+user input jsp include file common taglibs jsp,0
+index jsp include file common taglibs jsp,0
+activemq xml Licensed to the Apache Software Foundation ASF under one or more contributor license agreements See the NOTICE file,0
+role input jsp include file common meta jsp,0
+activemq network broker xml distributed with this work for additional information regarding copyright ownership The ASF licenses this file to You,0
+context xml The ASF licenses this file to You under the Apache License Version,0
+login jsp include file common meta jsp,0
+role jsp include file common header jsp,0
+index jsp include file common footer jsp,0
+encodings xml file url file PROJECT DIR modules core src main resources charset UTF,0
+role input jsp include file common header jsp,0
+role jsp include file common taglibs jsp,0
+encodings xml file url file PROJECT DIR examples mini service charset UTF,0
+build xml pom file pom xml,0
+login jsp include file common footer jsp,0
+resource jsp include file common footer jsp,0
+encodings xml file url file PROJECT DIR tools maven archetype charset UTF,0
+index jsp include file common footer jsp,0
+build xml property file src main resources application properties,0
+user jsp include file common taglibs jsp,0
+index jsp include file common left jsp,0
+report settings xml DATA can also be set in settings file Just place data in CSV or XML format between data data,0
+index jsp include file common left jsp,0
+report settings xml string decimal separator Note that this is for displaying data only Decimals in data xml file must be separated with a dot,0
+report settings xml you can have any number of custom menus Uncomment the line below to enable this menu and add apropriate JS function to your html file,0
+index jsp include file common header jsp,0
+index jsp include file common left jsp,0
+mashup client jsp include file common taglibs jsp,0
+index jsp include file common header jsp,0
+index jsp include file common header jsp,0
+index jsp include file common footer jsp,0
+index jsp include file common left jsp,0
+resource jsp include file common header jsp,0
+report settings xml blank top target of a window in which export file must be called,0
+report settings xml file file,0
+index jsp include file common taglibs jsp,0
+encodings xml file url file PROJECT DIR examples showcase charset UTF,0
+index jsp include file common header jsp,0
+index jsp include file common left jsp,0
+applicationContext xml value file var artifactId application server properties value,0
+jmx client jsp include file common meta jsp,0
+role input jsp include file common taglibs jsp,0
+encodings xml file url file PROJECT DIR examples mini service src main java charset UTF,0
+user input jsp include file common meta jsp,0
+activemq network broker xml under the Apache License Version the License you may not use this file except in compliance with the,0
+index jsp include file common header jsp,0
+user jsp include file common meta jsp,0
+index jsp include file common footer jsp,0
+index jsp include file common header jsp,0
+login jsp include file common left jsp,0
+index jsp include file common taglibs jsp,0
+misc xml output url file PROJECT DIR out,0
+workspace xml entry file file PROJECT DIR modules extension src main java org springside modules security jcaptcha JCaptchaFilter java,0
+encodings xml file url file PROJECT DIR examples mini web src main resources charset UTF,0
+index jsp include file common footer jsp,0
+user input jsp include file common header jsp,0
+encodings xml file url file PROJECT DIR examples mini web charset UTF,0
+build xml pom file pom xml,0
+report settings xml angle of rotation If you want to rotate by degree from to you must have font swf file in fonts folder,0
+activemq xml Allows us to use system properties as variables in this configuration file,0
+report settings xml error messages error messages settings will be applied for all error messages except the one which is showed if settings file wasn t found,0
+index jsp include file common taglibs jsp,0
+index jsp include file common taglibs jsp,0
+build xml pom file pom xml,0
+index jsp include file common taglibs jsp,0
+left jsp include file common taglibs jsp,0
+index jsp include file common header jsp,0
+index jsp include file common taglibs jsp,0
+index jsp include file common left jsp,0
+index jsp include file common header jsp,0
+index jsp include file common footer jsp,0
+jmx client jsp include file common footer jsp,0
+user input jsp include file common footer jsp,0
+encodings xml file url file PROJECT DIR modules extension src main resources charset UTF,0
+index jsp include file common taglibs jsp,0
+workspace xml entry file file PROJECT DIR examples showcase src main webapp WEB INF web xml,0
+index jsp so addVariable data file encodeURIComponent ctx report flashchart chart data report action,0
+assembly xml file,0
+footer jsp include file common taglibs jsp,0
+index jsp include file common footer jsp,0
+assembly xml file,0
+index jsp include file common left jsp,0
+login jsp include file common footer jsp,0
+save wsdl build xml replace file wsdlfile,0
+index jsp include file common footer jsp,0
+context xml the License you may not use this file except in compliance with,0
+user jsp include file common taglibs jsp,0
+user input jsp include file common footer jsp,0
+index jsp include file common footer jsp,0
+user jsp include file common header jsp,0
+user input jsp include file common taglibs jsp,0
+index jsp include file common footer jsp,0
+misc xml file type web url file PROJECT DIR examples showcase,0
+build xml pom file pom xml,0
+index jsp include file common taglibs jsp,0
+index jsp include file common header jsp,0
+role input jsp include file common footer jsp,0
+resource jsp include file common taglibs jsp,0
+index jsp include file common footer jsp,0
+role jsp include file common footer jsp,0
+index jsp so addVariable data file encodeURIComponent ctx report flashchart chart data report action,0
+encodings xml file url file PROJECT DIR examples showcase src main resources charset UTF,0
+applicationContext xml value file var mini web application server properties value,0
+resource jsp include file common meta jsp,0
+build xml pom file pom xml,0
+index jsp include file common footer jsp,0
+index jsp include file common taglibs jsp,0
+build xml pom file pom xml,0
+report settings xml This means that if you are happy with this value you can delete this line at all and reduce file size,0
+header jsp include file common taglibs jsp,0
+index jsp include file common taglibs jsp,0
+server xml contributor license agreements See the NOTICE file distributed with,0
+jmx client jsp include file common taglibs jsp,0
+login jsp include file common header jsp,0
+log j perf j xml Nest file appender for Perf j,0
+index jsp include file common taglibs jsp,0
+role jsp include file common header jsp,0
+user jsp include file common footer jsp,0
+report drilldown jsp include file common header jsp,0
+index jsp include file common footer jsp,0
+resource jsp include file common footer jsp,0
+encodings xml file url file PROJECT DIR modules core charset UTF,0
+applicationContext xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+jetty xml Set name war path to project war file or webapp dir Set,0
+index jsp so addVariable settings file encodeURIComponent ctx amcharts report settings xml,0
+build xml sql driver jdbc driver url jdbc url userid jdbc username password jdbc password src sql dir schema sql onerror continue,0
+applicationContext test xml jdbc script location classpath sql h quartz sql,0
+build xml include name sql,0
+build xml replace dir src main resources sql h includes sql token ENGINE InnoDB value,0
+applicationContext xml prop key hibernate format sql hibernate format sql prop,0
+build xml sql driver jdbc driver url jdbc url userid jdbc username password jdbc password src sql dir schema sql onerror continue,0
+build xml fileset dir src main resources sql h,0
+build xml sql,0
+build xml property name sql type value mysql,0
+build xml property name sql dir value src main resources sql sql type,0
+build xml sql,0
+build xml include name sql,0
+build xml sql driver quartz jdbc driver url quartz jdbc url userid quartz jdbc username password quartz jdbc password src sql dir quartz sql onerror continue,0
+build xml replace dir src main resources sql h includes sql token ENGINE MyISAM value,0
+applicationContext xml prop key hibernate show sql hibernate show sql prop,0
+applicationContext xml prop key hibernate format sql symbol dollar hibernate format sql prop,0
+build xml copy todir src main resources sql h overwrite true,0
+applicationContext xml prop key hibernate show sql hibernate show sql prop,0
+build xml fileset dir src main resources sql h,0
+build xml replace dir src main resources sql h includes sql token drop foreign key value drop constraint,0
+build xml property name sql dir value src main resources sql symbol dollar sql type,0
+applicationContext test xml prop key hibernate format sql hibernate format sql prop,0
+build xml copy todir src main resources sql h overwrite true,0
+applicationContext test xml prop key hibernate format sql hibernate format sql prop,0
+applicationContext core test xml prop key hibernate show sql true prop,0
+applicationContext core test xml prop key hibernate format sql true prop,0
+applicationContext test xml prop key hibernate show sql symbol dollar hibernate show sql prop,0
+build xml replace dir src main resources sql h includes sql token bigint not null auto increment value bigint generated by default as identity,0
+applicationContext test xml jdbc script location classpath sql h schema sql,0
+build xml include name sql,0
+build xml replace dir src main resources sql h includes sql token bigint not null auto increment value bigint generated by default as identity,0
+applicationContext test xml jdbc script location classpath sql h schema sql,0
+build xml property name sql dir value src main resources sql sql type,0
+build xml sql,0
+build xml property name sql type value mysql,0
+build xml sql driver jdbc driver url jdbc url userid jdbc username password jdbc password src sql dir schema sql onerror continue,0
+build xml replace dir src main resources sql h includes sql token ENGINE MyISAM value,0
+applicationContext test xml prop key hibernate show sql hibernate show sql prop,0
+archetype metadata xml include sql include,0
+build xml property name sql type value h,0
+build xml property name sql type value h,0
+applicationContext test functional xml prop key hibernate format sql hibernate format sql prop,0
+build xml sql,0
+build xml replace dir src main resources sql h includes sql token ENGINE InnoDB value,0
+build xml copy todir src main resources sql h overwrite true,0
+build xml include name sql,0
+build xml fileset dir src main resources sql mysql,0
+build xml replace dir src main resources sql h includes sql token ENGINE MyISAM value,0
+build xml property name sql type value oracle,0
+build xml property name sql type value h,0
+build xml fileset dir src main resources sql h,0
+build xml sql driver symbol dollar jdbc driver url symbol dollar jdbc url userid symbol dollar jdbc username password symbol dollar jdbc password src symbol dollar sql dir schema sql onerror continue,0
+build xml property name sql type value oracle,0
+build xml fileset dir src main resources sql mysql,0
+build xml replace dir src main resources sql h includes sql token drop foreign key value drop constraint,0
+applicationContext xml prop key hibernate show sql hibernate show sql prop,0
+build xml sql,0
+build xml property name sql dir value src main resources sql sql type,0
+build xml replace dir src main resources sql h includes sql token ENGINE InnoDB value,0
+build xml replace dir src main resources sql h includes sql token drop foreign key value drop constraint,0
+applicationContext test functional xml jdbc script location classpath sql h quartz sql,0
+build xml include name sql,0
+applicationContext test xml prop key hibernate format sql symbol dollar hibernate format sql prop,0
+server xml Resource name jdbc ExampleDB auth Container type javax sql DataSource,0
+build xml property name sql type value mysql,0
+applicationContext test xml prop key hibernate show sql hibernate show sql prop,0
+build xml fileset dir src main resources sql mysql,0
+build xml include name sql,0
+context xml ResourceLink name jdbc ExampleDB global jdbc ExampleDB type javax sql DataSource,0
+build xml property name sql type value h,0
+applicationContext xml prop key hibernate format sql hibernate format sql prop,0
+applicationContext test xml prop key hibernate show sql hibernate show sql prop,0
+applicationContext xml prop key hibernate format sql hibernate format sql prop,0
+applicationContext test xml jdbc script location classpath sql h schema sql,0
+applicationContext xml prop key hibernate show sql symbol dollar hibernate show sql prop,0
+build xml replace dir src main resources sql h includes sql token bigint not null auto increment value bigint generated by default as identity,0
+applicationContext test xml prop key hibernate format sql hibernate format sql prop,0
+applicationContext test functional xml jdbc script location classpath sql h schema sql,0
+applicationContext test xml jdbc script location classpath sql h schema sql,0
+build xml property name sql type value oracle,0
+applicationContext test functional xml prop key hibernate show sql hibernate show sql prop,0
+user jsp div id content,0
+pom xml url http repository jboss org nexus content groups public jboss url,0
+meta jsp meta http equiv Content Type content text html charset utf,0
+showcase soapui project xml wsdl definitions con content con type http schemas xmlsoap org wsdl con type con part con definitionCache con endpoints con endpoint http localhost showcase services LittleImageService con endpoint con endpoints con operation isOneWay false action name getImage bindingOperationName getImage type Request Response outputName getImageResponse inputName getImage receivesAttachments false sendsAttachments false anonymous optional con settings con call name Request con settings con encoding UTF con encoding con endpoint http localhost showcase services LittleImageService con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+showcase soapui project xml wsdl definitions con content con type http schemas xmlsoap org wsdl con type con part con definitionCache con endpoints con endpoint http localhost showcase services UserServiceWithPlainPassword con endpoint con endpoint http localhost showcase services UserServiceWithDigestPassword con endpoint con endpoints con operation isOneWay false action name getAllUser bindingOperationName getAllUser type Request Response outputName getAllUserResponse inputName getAllUser receivesAttachments false sendsAttachments false anonymous optional con settings con call name RequestWithPlainPassword wssPasswordType PasswordText con settings con encoding UTF con encoding con endpoint http localhost showcase services UserServiceWithPlainPassword con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+pom xml url http localhost nexus content repositories snapshots url,0
+index jsp meta http equiv Content Type content text html charset utf,0
+showcase soapui project xml soapenv Envelope con request con wsaConfig mustUnderstand NONE version action http showcase examples springside org LittleImageWebService getImage con call con operation con interface con interface xsi type con WsdlInterface wsaVersion NONE name LargeImageServiceSoapBinding type wsdl bindingName http showcase examples springside org LargeImageServiceSoapBinding soapVersion anonymous optional definition http localhost showcase services LargeImageService wsdl xmlns xsi http www w org XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost showcase services LargeImageService wsdl con part con url http localhost showcase services LargeImageService wsdl con url con content CDATA wsdl definitions name LargeImageService targetNamespace http showcase examples springside org xmlns ns http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w org XMLSchema,0
+index jsp meta http equiv Content Type content text html charset utf,0
+index jsp meta http equiv Content Type content text html charset utf,0
+index jsp meta http equiv Content Type content text html charset utf,0
+pom xml url http localhost nexus content repositories snapshots url,0
+meta jsp meta http equiv Expires content,0
+index jsp meta http equiv Content Type content text html charset utf,0
+pom xml url http localhost nexus content groups public url,0
+pom xml url http localhost nexus content groups public url,0
+index jsp li Servlet img src ctx remote content contentUrl encodedImageUrl li,0
+meta jsp meta http equiv Cache Control content no store,0
+resource jsp div id content,0
+pom xml url http localhost nexus content groups public url,0
+index jsp li Servlet img src ctx static content contentPath img logo jpg a href ctx static content contentPath img logo jpg download true a li,0
+user jsp div id content,0
+index jsp meta http equiv Content Type content text html charset utf,0
+index jsp meta http equiv Content Type content text html charset utf,0
+meta jsp meta http equiv Pragma content no cache,0
+web xml url pattern remote content url pattern,0
+resource jsp div id content,0
+index jsp link href ctx static content contentPath css style css type text css rel stylesheet,0
+pom xml url http localhost nexus content repositories releases url,0
+index jsp meta http equiv Content Type content text html charset utf,0
+role jsp div id content,0
+index jsp meta http equiv Content Type content text html charset utf,0
+showcase soapui project xml soapenv Envelope con request con credentials con username admin con username con password admin con password con credentials con wsaConfig mustUnderstand NONE version action http showcase examples springside org UserService getAllUser con call con operation con interface con interface xsi type con WsdlInterface wsaVersion NONE name LittleImageServiceSoapBinding type wsdl bindingName http showcase examples springside org LittleImageServiceSoapBinding soapVersion anonymous optional definition http localhost showcase services LittleImageService wsdl xmlns xsi http www w org XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost showcase services LittleImageService wsdl con part con url http localhost showcase services LittleImageService wsdl con url con content CDATA wsdl definitions name LittleImageService targetNamespace http showcase examples springside org xmlns ns http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w org XMLSchema,0
+meta jsp meta http equiv Cache Control content no store,0
+showcase soapui project xml wsdl definitions con content con type http schemas xmlsoap org wsdl con type con part con definitionCache con endpoints con endpoint http localhost showcase services LargeImageService con endpoint con endpoints con operation isOneWay false action name getImage bindingOperationName getImage type Request Response outputName getImageResponse inputName getImage receivesAttachments false sendsAttachments false anonymous optional con settings con call name Request con settings con encoding UTF con encoding con endpoint http localhost showcase services LargeImageService con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+meta jsp meta http equiv Cache Control content no store,0
+jarRepositories xml option name url value http repository jboss org nexus content groups public jboss,0
+workspace xml window info anchor right content ui combo id Hierarchy order weight,0
+index jsp meta http equiv Content Type content text html charset utf,0
+pom xml url http localhost nexus content groups public url,0
+meta jsp meta http equiv Content Type content text html charset utf,0
+meta jsp meta http equiv Pragma content no cache,0
+meta jsp meta http equiv Expires content,0
+showcase soapui project xml con soapui project name showcase resourceRoot soapui version xmlns con http eviware com soapui config con settings con setting id ProjectSettings projectRoot C Users ehuaxio Documents Springside examples showcase src test soapui con setting con settings con interface xsi type con WsdlInterface wsaVersion NONE name UserServiceSoapBinding type wsdl bindingName http showcase examples springside org UserServiceSoapBinding soapVersion anonymous optional definition http localhost showcase services UserServiceWithDigestPassword wsdl xmlns xsi http www w org XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost showcase services UserServiceWithDigestPassword wsdl con part con url http localhost showcase services UserServiceWithDigestPassword wsdl con url con content CDATA wsdl definitions name UserService targetNamespace http showcase examples springside org xmlns ns http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w org XMLSchema,0
+meta jsp meta http equiv Content Type content text html charset utf,0
+web xml url pattern static content url pattern,0
+web xml url pattern static content url pattern,0
+index jsp meta http equiv Content Type content text html charset utf,0
+pom xml url http localhost nexus content repositories releases url,0
+workspace xml window info active true content ui combo id Project order visible true weight,0
+index jsp meta http equiv Content Type content text html charset utf,0
+jarRepositories xml option name url value https repository jboss org nexus content repositories public,0
+index jsp meta http equiv Content Type content text html charset utf,0
+index jsp meta http equiv Content Type content text html charset utf,0
+jarRepositories xml option name url value http maven aliyun com nexus content groups public,0
+jarRepositories xml option name url value http localhost nexus content groups public,0
+index jsp meta http equiv Content Type content text html charset utf,0
+index jsp meta http equiv Content Type content text html charset utf,0
+role jsp div id content,0
+index jsp meta http equiv Content Type content text html charset utf,0
+meta jsp meta http equiv Expires content,0
+web xml url pattern remote content url pattern,0
+index jsp meta http equiv Content Type content text html charset utf,0
+report drilldown jsp meta http equiv Content Type content text html charset utf,0
+meta jsp meta http equiv Pragma content no cache,0
+index jsp title Showcase title,0
+report settings xml values value inside whether to place title inside plot area,0
+user jsp title Mini Web title,0
+index jsp title WebService title,0
+mashup client jsp title Mashup title,0
+header jsp div id title,0
+report settings xml CDATA series value C Please click for details column line balloon text title value series description percents You can format any balloon text title will be replaced with real title value with value and so on You can add your own text or html code too,0
+user input jsp title title,0
+index jsp title XML title,0
+report settings xml CDATA title value series percents start difference total You can format any data label title will be replaced with real title value with value and so on You can add your own text or html code too,0
+resource jsp title Mini Web title,0
+login jsp title Mini Web title,0
+report drilldown jsp title Flash Chart title,0
+index jsp title Dojo Base title,0
+jsp title title,0
+index jsp title title,0
+user jsp title Mini Web title,0
+index jsp title Mini Service title,0
+report settings xml menu function name printChart title Print chart menu,0
+user jsp title title,0
+index jsp title Cache title,0
+report settings xml title sets menu item text Do not use for title Show all Zoom in Zoom out Print Settings,0
+report settings xml CDATA title value series percents start difference total You can format any data label title will be replaced with real title value with value and so on You can add your own text or html code too,0
+index jsp title title,0
+report settings xml values value rotate angle of rotation of title,0
+index jsp title Web title,0
+jsp title title,0
+jsp title title,0
+report settings xml title Anomaly title,0
+index jsp title title,0
+jsp title title,0
+index jsp title title,0
+index jsp title title,0
+role jsp title Mini Web title,0
+user input jsp title Mini Web title,0
+report settings xml CDATA title value series percents start difference total You can format any data label title will be replaced with real title value with value and so on You can add your own text or html code too,0
+report settings xml title title,0
+jmx client jsp title JMX title,0
+header jsp div id title,0
+report settings xml CDATA Smoothed Anomaly in series value C column line balloon text title value series description percents You can format any balloon text title will be replaced with real title value with value and so on You can add your own text or html code too,0
+index jsp title title,0
+index jsp title title,0
+index jsp title WebService title,0
+jsp title title,0
+report settings xml title Smoothed title,0
+report settings xml title Anomaly title,0
+index jsp title JMS title,0
+report settings xml graph title,0
+report settings xml CDATA column data labels line data labels title value series percents start difference total You can format any data label title will be replaced with real title value with value and so on You can add your own text or html code too,0
+role input jsp title Mini Web title,0
+login jsp title Mini Web title,0
+index jsp title Ajax title,0
+role input jsp title Mini Web title,0
+index jsp title Restful Service title,0
+report settings xml true true false if you have start and end values defined title can be placed in the middle between these values If false it will be placed near start value,0
+resource jsp title Mini Web title,0
+user input jsp title Mini Web title,0
+index jsp title Flash Chart title,0
+report settings xml title Smoothed title,0
+login jsp title Showcase title,0
+jsp title title,0
+role jsp title Mini Web title,0
+jsp title title,0
+hibernate cfg xml property name hibernate connection password property,0
+hibernate cfg xml property name hibernate connection url jdbc h tcp localhost mini service property,0
+hibernate cfg xml property name hibernate connection driver class com mysql jdbc Driver property,0
+hibernate cfg xml property name hibernate connection username sa property,0
+hibernate cfg xml property name hibernate connection driver class oracle jdbc driver OracleDriver property,0
+hibernate cfg xml property name hibernate connection username artifactId property,0
+hibernate cfg xml property name hibernate connection driver class com mysql jdbc Driver property,0
+hibernate cfg xml property name hibernate connection password property,0
+applicationContext jms simple xml bean id cachingConnectionFactory class org springframework jms connection CachingConnectionFactory,0
+hibernate cfg xml property name hibernate connection driver class org h Driver property,0
+hibernate cfg xml property name hibernate connection password property,0
+hibernate cfg xml property name hibernate connection url jdbc oracle thin XE property,0
+hibernate cfg xml property name hibernate connection password artifactId property,0
+hibernate cfg xml property name hibernate connection password property,0
+context xml Uncomment this to enable Comet connection tacking provides events,0
+hibernate cfg xml property name hibernate connection username root property,0
+hibernate cfg xml property name hibernate connection driver class oracle jdbc driver OracleDriver property,0
+pom xml dbcp connection pool,0
+hibernate cfg xml property name hibernate connection username miniservice property,0
+hibernate cfg xml property name hibernate connection password property,0
+hibernate cfg xml property name hibernate connection url jdbc h tcp localhost artifactId property,0
+hibernate cfg xml property name hibernate connection username sa property,0
+hibernate cfg xml property name hibernate connection password property,0
+hibernate cfg xml property name hibernate connection driver class org h Driver property,0
+hibernate cfg xml property name hibernate connection url jdbc mysql localhost mini service useUnicode true amp characterEncoding utf property,0
+hibernate cfg xml property name hibernate connection url jdbc mysql localhost mini service useUnicode true amp characterEncoding utf property,0
+hibernate cfg xml property name hibernate connection url jdbc h tcp localhost showcase property,0
+hibernate cfg xml property name hibernate connection url jdbc mysql localhost mini service useUnicode true amp characterEncoding utf property,0
+hibernate cfg xml property name hibernate connection url jdbc h tcp localhost mini web property,0
+hibernate cfg xml property name hibernate connection username root property,0
+pom xml dbcp connection pool,0
+hibernate cfg xml property name hibernate connection driver class com mysql jdbc Driver property,0
+hibernate cfg xml property name hibernate connection username miniweb property,0
+hibernate cfg xml property name hibernate connection driver class org h Driver property,0
+hibernate cfg xml property name hibernate connection password miniweb property,0
+hibernate cfg xml property name hibernate connection url jdbc oracle thin XE property,0
+hibernate cfg xml property name hibernate connection url jdbc oracle thin XE property,0
+hibernate cfg xml property name hibernate connection driver class oracle jdbc driver OracleDriver property,0
+hibernate cfg xml property name hibernate connection password miniservice property,0
+hibernate cfg xml property name hibernate connection username root property,0
+hibernate cfg xml property name hibernate connection driver class org h Driver property,0
+hibernate cfg xml property name hibernate connection username sa property,0
+hibernate cfg xml property name hibernate connection username sa property,0
+hibernate cfg xml property name hibernate connection password property,0
+applicationContext jms advanced xml bean id advancedCachingConnectionFactory class org springframework jms connection CachingConnectionFactory,0
+applicationContext xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+jetty xml property name config value activemq base conf jetty realm properties,0
+applicationContext security xml s http auto config true use expressions true,0
+web xml session config,0
+activemq network broker xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+server xml Documentation at docs config valve html,0
+applicationContext test xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+server xml Java HTTP Connector docs config http html blocking non blocking,0
+server xml docs config cluster html reference documentation,0
+applicationContext security xml s http auto config true use expressions true,0
+activemq xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+applicationContext xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+web xml session config,0
+applicationContext xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+server xml Java AJP Connector docs config ajp html,0
+web xml session config,0
+jetty plugin xml config,0
+server xml Documentation at docs config valve html,0
+jetty plugin xml config include jmx,0
+pom xml artifactId spring security config artifactId,0
+pom xml artifactId spring security config artifactId,0
+applicationContext security xml s http auto config true use expressions true,0
+web xml session config,0
+sonar backup xml sonar config,0
+applicationContext log xml bean id log jConfigurer class org springframework beans factory config MethodInvokingFactoryBean,0
+pom xml artifactId spring security config artifactId,0
+applicationContext test xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+server xml Documentation at docs config valve html,0
+showcase soapui project xml con soapui project name showcase resourceRoot soapui version xmlns con http eviware com soapui config con settings con setting id ProjectSettings projectRoot C Users ehuaxio Documents Springside examples showcase src test soapui con setting con settings con interface xsi type con WsdlInterface wsaVersion NONE name UserServiceSoapBinding type wsdl bindingName http showcase examples springside org UserServiceSoapBinding soapVersion anonymous optional definition http localhost showcase services UserServiceWithDigestPassword wsdl xmlns xsi http www w org XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost showcase services UserServiceWithDigestPassword wsdl con part con url http localhost showcase services UserServiceWithDigestPassword wsdl con url con content CDATA wsdl definitions name UserService targetNamespace http showcase examples springside org xmlns ns http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w org XMLSchema,0
+server xml Documentation at docs config service html,0
+applicationContext xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+server xml Documentation at docs config engine html,0
+applicationContext test xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+server xml Documentation at docs config server html,0
+web xml session config,0
+pom xml artifactId spring security config artifactId,0
+pom xml artifactId spring security config artifactId,0
+web xml session config,0
+pom xml artifactId spring security config artifactId,0
+web xml session config,0
+applicationContext test xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+sonar backup xml sonar config,0
+web xml session config,0
+applicationContext test functional xml bean class org springframework beans factory config PropertyPlaceholderConfigurer,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account User roleList maxElementsInMemory,0
+ehcache hibernate local xml cache name package entity account Role maxElementsInMemory,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Resource maxElementsInMemory,0
+applicationContext test xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+applicationContext test xml prop key hibernate cache provider class org hibernate cache EhCacheProvider prop,0
+applicationContext xml prop key hibernate cache provider class org hibernate cache EhCacheProvider prop,0
+ehcache hibernate local xml cache name org springside examples miniservice entity account User maxElementsInMemory,0
+applicationContext test xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+ehcache hibernate local xml cache name package entity account User roleList maxElementsInMemory,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Resource authorityList maxElementsInMemory,0
+pom xml cache usually for orm,0
+applicationContext test xml prop key hibernate cache provider class org hibernate cache EhCacheProvider prop,0
+applicationContext showcase xml import resource cache applicationContext ehcache xml,0
+ehcache hibernate local xml cache name package entity account User maxElementsInMemory,0
+ehcache hibernate local xml cache name package entity account Resource maxElementsInMemory,0
+ehcache hibernate local xml cache name org springside examples miniservice entity account User roleList maxElementsInMemory,0
+meta jsp meta http equiv Pragma content no cache,0
+applicationContext test xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+ehcache hibernate local xml cache name package entity account Authority maxElementsInMemory,0
+applicationContext showcase xml import resource cache applicationContext memcached xml,0
+ehcache hibernate local xml cache name package entity account Resource authorityList maxElementsInMemory,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Role maxElementsInMemory,0
+applicationContext xml prop key hibernate cache provider class org hibernate cache EhCacheProvider prop,0
+meta jsp meta http equiv Pragma content no cache,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account User maxElementsInMemory,0
+left jsp a href ctx cache index action Cache a,0
+applicationContext xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+applicationContext test xml prop key hibernate cache provider class org hibernate cache EhCacheProvider prop,0
+ehcache hibernate local xml cache name package entity account Role authorityList maxElementsInMemory,0
+ehcache xml cache name contentInfoCache overflowToDisk false eternal false diskPersistent false timeToLiveSeconds timeToIdleSeconds maxElementsInMemory memoryStoreEvictionPolicy LRU,0
+applicationContext xml prop key hibernate cache provider class org hibernate cache EhCacheProvider prop,0
+ehcache hibernate local xml cache name org springside examples miniservice entity account Role maxElementsInMemory,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Authority maxElementsInMemory,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Role authorityList maxElementsInMemory,0
+applicationContext xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+meta jsp meta http equiv Pragma content no cache,0
+applicationContext xml prop key hibernate cache provider configuration file resource path ehcache ehcache hibernate local xml prop,0
+applicationContext ehcache xml property name configLocation value classpath cache ehcache xml,0
+pom xml artifactId springside parent artifactId,0
+pom xml artifactId springside parent artifactId,0
+pom xml artifactId springside parent artifactId,0
+struts xml CRUD Action parent package,0
+pom xml parent,0
+struts xml constant name struts convention default parent package value crud default,0
+struts xml constant name struts convention default parent package value crud default,0
+pom xml parent,0
+pom xml artifactId springside parent artifactId,0
+pom xml parent,0
+pom xml parent,0
+encodings xml file url file PROJECT DIR modules parent src main resources charset UTF,0
+pom xml parent,0
+struts xml CRUD Action parent package,0
+encodings xml file url file PROJECT DIR modules parent charset UTF,0
+pom xml parent,0
+pom xml parent,0
+pom xml artifactId springside parent artifactId,0
+pom xml parent,0
+pom xml parent,0
+pom xml parent,0
+pom xml artifactId springside parent artifactId,0
+pom xml parent,0
+pom xml parent,0
+pom xml parent,0
+pom xml relativePath modules parent pom xml relativePath,0
+pom xml parent,0
+pom xml artifactId springside parent artifactId,0
+pom xml module modules parent module,0
+pom xml artifactId springside parent artifactId,0
+encodings xml file url file PROJECT DIR modules parent src main java charset UTF,0
+pom xml parent,0
+pom xml artifactId springside parent artifactId,0
+pom xml parent,0
+applicationContext security xml s global method security secured annotations enabled,0
+test data xml SS USER ID CREATE TIME EMAIL sawyer springside org cn LOGIN NAME user NAME Sawyer PLAIN PASSWORD user STATUS enabled,0
+default data xml SS USER ID CREATE BY admin CREATE TIME EMAIL kate springside org cn LOGIN NAME user NAME Kate PLAIN PASSWORD user SHA PASSWORD b f d d a cd STATUS enabled VERSION,0
+report settings xml js enabled js enabled,0
+report settings xml enabled true enabled,0
+default data xml SS USER ID CREATE BY admin CREATE TIME EMAIL sawyer springside org cn LOGIN NAME user NAME Sawyer PLAIN PASSWORD user SHA PASSWORD e eef adf e f ea c c d d f e STATUS enabled VERSION,0
+report settings xml enabled true enabled,0
+pom xml enabled false enabled,0
+pom xml enabled false enabled,0
+formatter profile xml setting id org eclipse jdt core compiler codegen inlineJsrBytecode value enabled,0
+compiler xml profile name Maven default annotation processors profile enabled true,0
+pom xml enabled false enabled,0
+applicationContext cxf server xml entry key mtom enabled value true,0
+pom xml enabled false enabled,0
+default data xml SS USER ID CREATE BY admin CREATE TIME EMAIL jack springside org cn LOGIN NAME user NAME Jack PLAIN PASSWORD user SHA PASSWORD a c eec db c bbfe c a f e cb STATUS enabled VERSION,0
+default data xml SS USER ID CREATE BY admin CREATE TIME EMAIL ben springside org cn LOGIN NAME user NAME Ben PLAIN PASSWORD user SHA PASSWORD d b dd a ff fa cf STATUS enabled VERSION,0
+misc xml component name ExternalStorageConfigurationManager enabled true,0
+test data xml SS USER ID CREATE TIME EMAIL admin springside org cn LOGIN NAME admin NAME Admin PLAIN PASSWORD admin STATUS enabled,0
+report settings xml enabled enabled,0
+report settings xml enabled enabled,0
+pom xml enabled false enabled,0
+default data xml SS USER ID CREATE BY admin CREATE TIME EMAIL admin springside org cn LOGIN NAME admin NAME Admin PLAIN PASSWORD admin SHA PASSWORD d e ae aeb fc aec c da STATUS enabled VERSION,0
+test data xml SS USER ID CREATE TIME EMAIL jack springside org cn LOGIN NAME user NAME Jack PLAIN PASSWORD user STATUS enabled,0
+test data xml SS USER ID CREATE TIME EMAIL ben springside org cn LOGIN NAME user NAME Ben PLAIN PASSWORD user STATUS enabled,0
+test data xml SS USER ID CREATE TIME EMAIL user springside org cn LOGIN NAME user NAME Calvin PLAIN PASSWORD user STATUS enabled,0
+test data xml SS USER ID CREATE TIME EMAIL kate springside org cn LOGIN NAME user NAME Kate PLAIN PASSWORD user STATUS enabled,0
+report settings xml enabled enabled,0
+default data xml SS USER ID CREATE BY admin CREATE TIME LAST MODIFY BY admin LAST MODIFY TIME EMAIL user springside org cn LOGIN NAME user NAME Calvin PLAIN PASSWORD user SHA PASSWORD dea fec ab c adc STATUS enabled VERSION,0
+pom xml enabled false enabled,0
+showcase soapui project xml wsdl definitions con content con type http schemas xmlsoap org wsdl con type con part con definitionCache con endpoints con endpoint http localhost showcase services LittleImageService con endpoint con endpoints con operation isOneWay false action name getImage bindingOperationName getImage type Request Response outputName getImageResponse inputName getImage receivesAttachments false sendsAttachments false anonymous optional con settings con call name Request con settings con encoding UTF con encoding con endpoint http localhost showcase services LittleImageService con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+showcase soapui project xml wsdl definitions con content con type http schemas xmlsoap org wsdl con type con part con definitionCache con endpoints con endpoint http localhost showcase services UserServiceWithPlainPassword con endpoint con endpoint http localhost showcase services UserServiceWithDigestPassword con endpoint con endpoints con operation isOneWay false action name getAllUser bindingOperationName getAllUser type Request Response outputName getAllUserResponse inputName getAllUser receivesAttachments false sendsAttachments false anonymous optional con settings con call name RequestWithPlainPassword wssPasswordType PasswordText con settings con encoding UTF con encoding con endpoint http localhost showcase services UserServiceWithPlainPassword con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+showcase soapui project xml soapenv Envelope con request con wsaConfig mustUnderstand NONE version action http showcase examples springside org LargeImageWebService getImage con call con operation con interface con properties con wssContainer con soapui project,0
+showcase soapui project xml soapenv Envelope con request con credentials con username admin con username con password admin con password con credentials con wsaConfig mustUnderstand NONE version action http showcase examples springside org UserService getAllUser con call con call name RequestWithDigestPassword wssPasswordType PasswordDigest con settings con encoding UTF con encoding con endpoint http localhost showcase services UserServiceWithDigestPassword con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+showcase soapui project xml soapenv Envelope con request con wsaConfig mustUnderstand NONE version action http showcase examples springside org LittleImageWebService getImage con call con operation con interface con interface xsi type con WsdlInterface wsaVersion NONE name LargeImageServiceSoapBinding type wsdl bindingName http showcase examples springside org LargeImageServiceSoapBinding soapVersion anonymous optional definition http localhost showcase services LargeImageService wsdl xmlns xsi http www w org XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost showcase services LargeImageService wsdl con part con url http localhost showcase services LargeImageService wsdl con url con content CDATA wsdl definitions name LargeImageService targetNamespace http showcase examples springside org xmlns ns http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w org XMLSchema,0
+index jsp String remoteImageUrl http request getServerName request getServerPort showcase img logo jpg,0
+jsp ex Throwable request getAttribute javax servlet error exception,0
+taglibs jsp c set var ctx value pageContext request contextPath,0
+jsp ex Throwable request getAttribute javax servlet error exception,0
+server xml The request dumper valve dumps useful debugging information about,0
+taglibs jsp c set var ctx value pageContext request contextPath,0
+showcase soapui project xml soapenv Envelope con request con credentials con username admin con username con password admin con password con credentials con wsaConfig mustUnderstand NONE version action http showcase examples springside org UserService getAllUser con call con operation con interface con interface xsi type con WsdlInterface wsaVersion NONE name LittleImageServiceSoapBinding type wsdl bindingName http showcase examples springside org LittleImageServiceSoapBinding soapVersion anonymous optional definition http localhost showcase services LittleImageService wsdl xmlns xsi http www w org XMLSchema instance con settings con definitionCache type TEXT rootPart http localhost showcase services LittleImageService wsdl con part con url http localhost showcase services LittleImageService wsdl con url con content CDATA wsdl definitions name LittleImageService targetNamespace http showcase examples springside org xmlns ns http cxf apache org bindings xformat xmlns soap http schemas xmlsoap org wsdl soap xmlns tns http showcase examples springside org xmlns wsdl http schemas xmlsoap org wsdl xmlns xsd http www w org XMLSchema,0
+jsp if request getAttribute javax servlet error exception null,0
+server xml every request The Engine implementation for Tomcat stand alone,0
+server xml analyzes the HTTP headers included with the request and passes them,0
+jsp if request getAttribute javax servlet error exception null,0
+login jsp if equals request getParameter error,0
+jsp ex Throwable request getAttribute javax servlet error exception,0
+taglibs jsp c set var ctx value symbol dollar pageContext request contextPath,0
+login jsp if equals request getParameter error,0
+server xml the request and response data received and sent by Tomcat,0
+report drilldown jsp p Integer parseInt request getParameter id AmCharts DrillDown p,0
+login jsp if equals request getParameter error,0
+showcase soapui project xml wsdl definitions con content con type http schemas xmlsoap org wsdl con type con part con definitionCache con endpoints con endpoint http localhost showcase services LargeImageService con endpoint con endpoints con operation isOneWay false action name getImage bindingOperationName getImage type Request Response outputName getImageResponse inputName getImage receivesAttachments false sendsAttachments false anonymous optional con settings con call name Request con settings con encoding UTF con encoding con endpoint http localhost showcase services LargeImageService con endpoint con request CDATA soapenv Envelope xmlns soapenv http schemas xmlsoap org soap envelope xmlns show http showcase examples springside org,0
+mashup client jsp var remoteUrl http pageContext request serverName pageContext request serverPort pageContext request contextPath,0
+jsp if request getAttribute javax servlet error exception null,0
+applicationContext jmx server xml property name serviceUrl value service jmx rmi jndi rmi server addr jmx rmi port jmxrmi,0
+server xml Connector port protocol AJP redirectPort,0
+jetty xml property name port value,0
+jetty xml Set name port,0
+server xml Define a SSL HTTP Connector on port,0
+jetty plugin xml Dcom sun management jmxremote port,0
+server xml Define an AJP Connector on port,0
+showcase soapui project xml wsdl port binding tns LittleImageServiceSoapBinding name LittleImageServicePort,0
+showcase soapui project xml wsdl port,0
+showcase soapui project xml wsdl port binding tns LargeImageServiceSoapBinding name LargeImageServicePort,0
+jetty xml SystemProperty name jetty port default,0
+server xml Server port shutdown SHUTDOWN,0
+server xml Connector port protocol HTTP redirectPort,0
+showcase soapui project xml wsdl port,0
+server xml Define a non SSL HTTP Connector on port,0
+jetty xml Set name port,0
+jetty xml SystemProperty name jetty port default,0
+showcase soapui project xml wsdl port binding tns UserServiceSoapBinding name UserServicePort,0
+applicationContext jmx server xml property name port value jmx rmi port,0
+jetty xml Set name port,0
+server xml Connector port protocol HTTP SSLEnabled true,0
+showcase soapui project xml wsdl port,0
+jetty xml SystemProperty name jetty port default,0
+workspace xml window info anchor right content ui combo id Hierarchy order weight,0
+workspace xml window info anchor bottom id Inspection order weight,0
+workspace xml window info active true content ui combo id Project order visible true weight,0
+workspace xml window info anchor bottom id Message order,0
+workspace xml window info anchor bottom id Run order,0
+report settings xml reverse order reverse order,0
+workspace xml window info anchor bottom id TODO order,0
+workspace xml window info anchor bottom id Debug order weight,0
+workspace xml window info anchor right id Ant Build order weight,0
+report settings xml false true false whether to sort legend entries in a reverse order,0
+workspace xml window info anchor bottom id Cvs order weight,0
+workspace xml window info id Structure order side tool true weight,0
+workspace xml window info anchor bottom id Find order,0
+workspace xml window info anchor right id Commander internal type SLIDING order type SLIDING weight,0
+jetty xml Set name host,0
+jetty xml Set name host,0
+jetty xml SystemProperty name jetty host,0
+server xml Define the default virtual host,0
+jetty xml Set name host,0
+jetty xml SystemProperty name jetty host,0
+jetty xml SystemProperty name jetty host,0
+applicationContext email xml property name host value smtp gmail com,0
+server xml on to the appropriate Host virtual host,0
+jarRepositories xml option name url value http repository jboss org nexus content groups public jboss,0
+jarRepositories xml option name url value http maven aliyun com nexus content groups public,0
+jarRepositories xml option name url value http localhost nexus content groups public,0
+pom xml url http localhost nexus content groups public url,0
+formatter profile xml setting id org eclipse jdt core formatter blank lines between import groups value,0
+pom xml url http repository jboss org nexus content groups public jboss url,0
+pom xml url http localhost nexus content groups public url,0
+pom xml url http localhost nexus content groups public url,0
+pom xml url http localhost nexus content groups public url,0
+pom xml artifactId jmemcached core artifactId,0
+pom xml artifactId jmemcached core artifactId,0
+applicationContext memcached xml bean id jmemcached class org springside modules memcached JmemcachedServer lazy init false,0
+pom xml artifactId jmemcached core artifactId,0
+pom xml groupId com thimbleware jmemcached groupId,0
+applicationContext memcached xml bean id spyMemcachedClient class org springside modules memcached SpyMemcachedClient depends on jmemcached,0
+pom xml groupId com thimbleware jmemcached groupId,0
+pom xml groupId com thimbleware jmemcached groupId,0
+formatter profile xml setting id org eclipse jdt core formatter comment line length value,0
+report settings xml dash length dash length,0
+report settings xml tick length tick length,0
+report settings xml dash length dash length,0
+report settings xml dash length dash length,0
+report settings xml tick length tick length,0
+server xml connector should be using the OpenSSL style configuration,0
+pom xml jdbc driver artifactId mysql connector java jdbc driver artifactId,0
+activemq network broker xml Configure network connector to use multicast protocol For more information see,0
+pom xml jdbc driver artifactId mysql connector java jdbc driver artifactId,0
+pom xml jdbc driver artifactId mysql connector java jdbc driver artifactId,0
+server xml This connector uses the JSSE configuration when using APR the,0
+activemq xml Configure message persistence for the broker The default persistence mechanism is the KahaDB store identified by,0
+activemq network broker xml Configure message persistence for the broker The default persistence mechanism is the KahaDB store identified by,0
+activemq network broker xml the kahaDB tag For more information see http activemq apache org persistence html,0
+activemq xml the kahaDB tag For more information see http activemq apache org persistence html,0
+context xml Uncomment this to disable session persistence across Tomcat restarts,0
+user jsp page pageNo page totalPages,0
+user jsp symbol dollar page pageNo symbol dollar page totalPages,0
+user input jsp s checkboxlist name checkedRoleIds list allRoleList listKey id listValue name theme custom,0
+user input jsp s checkboxlist name checkedRoleIds list allRoleList listKey id listValue name theme custom,0
+user input jsp checkedRoleIds required,0
+user input jsp s checkboxlist name checkedRoleIds list allRoleList listKey id listValue name theme custom,0
+user input jsp s checkboxlist name checkedRoleIds list allRoleList listKey id listValue name theme custom,0
+user input jsp checkedRoleIds required,0
+ehcache hibernate local xml cache name package entity account Resource authorityList maxElementsInMemory,0
+ehcache hibernate local xml cache name org springside examples miniweb entity account Resource authorityList maxElementsInMemory,0
+server xml The connectors can use a shared executor you can define one or more named thread pools,0
+server xml executor tomcatThreadPool,0
+applicationContext showcase xml import resource schedule applicationContext executor xml,0
+server xml executor tomcatThreadPool,0
+jvm jmx metrics xml filter name template value OBJECT NAME alias,0
+jetty plugin xml filter name template value OBJECT NAME alias,0
+pom xml template engine,0
+jetty plugin xml metric name Availability template sigar Type ProcState Arg process query State indicator true,0
+jetty plugin xml property name DEFAULT LOG FILE value logs jetty log,0
+server xml Valve className org apache catalina valves AccessLogValve directory logs,0
+log j perf j xml param name File value logs showcase log,0
+log j perf j xml param name File value logs perfStats log,0
+report settings xml Number legend margins space between legend border and legend entries recommended to use only if legend border is visible or background color is different from chart area background color,0
+report settings xml left left center right alignment of legend entries,0
+report settings xml false true false whether to sort legend entries in a reverse order,0
+report settings xml Number vertical and horizontal gap between legend entries,0
+applicationContext security xml s password encoder hash plaintext,0
+applicationContext security xml s password encoder hash sha,0
+applicationContext security xml s password encoder hash plaintext,0
+applicationContext test functional xml bean class org hibernate event def DefaultSaveOrUpdateEventListener,0
+applicationContext test xml bean class org hibernate event def DefaultSaveOrUpdateEventListener,0
+applicationContext xml bean class org hibernate event def DefaultSaveOrUpdateEventListener,0
+applicationContext jms advanced xml property name destination ref advancedNotifyTopic,0
+applicationContext jms advanced xml bean id advancedNotifyTopic class org apache activemq command ActiveMQTopic,0
+applicationContext jms advanced xml property name notifyTopic ref advancedNotifyTopic,0
+index jsp response sendRedirect account user action,0
+server xml the request and response data received and sent by Tomcat,0
+index jsp response sendRedirect account user action,0
+report settings xml CDATA b Temperature anomaly b,0
+report settings xml CDATA b Temperature anomaly b,0
+jetty plugin xml Configure Jetty s JMX statistics collection follow the instructions on,0
+server xml A Service is a collection of one or more Connectors that share,0
+applicationContext jms advanced xml bean id advancedJmsTemplate class org springframework jms core JmsTemplate,0
+applicationContext jms advanced xml property name jmsTemplate ref advancedJmsTemplate,0
+jetty plugin xml metric name Jetty Queue Size alias queueSize category THROUGHPUT indicator false,0
+applicationContext quartz cron local xml property name cronExpression value MON FRI,0
+index jsp link href ctx static content contentPath css style css type text css rel stylesheet,0
+index jsp li ervlet img src ctx static content contentPath img logo jpg a href ctx static content contentPath img logo jpg download true a li,0
+applicationContext extension test security xml bean id captchaService class com octo captcha service image DefaultManageableImageCaptchaService,0
+applicationContext security xml bean id captchaService class com octo captcha service image DefaultManageableImageCaptchaService,0
+role input jsp s checkboxlist name checkedAuthIds list allAuthorityList listKey id,0
+role input jsp s checkboxlist name checkedAuthIds list allAuthorityList listKey id,0
+applicationContext jmx server xml bean id serverConfig class org springside examples showcase jmx server ServerConfig,0
+index jsp li DES ES ryptoUtils li,0
+jetty xml property name roles value admin,0
+applicationContext ehcache xml bean id ehcacheManager class org springframework cache ehcache EhCacheManagerFactoryBean,0
+server xml Executor name tomcatThreadPool namePrefix catalina exec,0
+user jsp td input type checkbox name checkedUserIds value id td,0
+index jsp li HMAC SHA ryptoUtils li,0
+index jsp li SHA D igestUtils li,0
+applicationContext email xml bean id simpleMailService class org springside examples showcase email SimpleMailService,0
+index jsp li DES ryptoUtils li,0

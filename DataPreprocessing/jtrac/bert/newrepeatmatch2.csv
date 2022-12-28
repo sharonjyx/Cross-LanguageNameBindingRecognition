@@ -1,0 +1,1975 @@
+SpaceFieldListPage html td wicket id name td,1
+SpaceFieldListPage html span wicket id name span span wicket id prefixCode span,1
+SpaceListPage html td wicket id name td,1
+DashboardRowPanel html span wicket id name span,1
+DashboardRowExpandedPanel html span wicket id name span,1
+jtrac hbm xml property name name column name length 50,1
+jtrac hbm xml property name name column name not null true unique true,1
+jtrac hbm xml property name name column name length 50,1
+SpaceAllocatePage html td wicket id name td,1
+UserListPage html td wicket id name td,1
+jtrac hbm xml property name name column name length 50,1
+SpaceFieldFormPage html span wicket id name span,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac hbm xml id name id column id,1
+jtrac api servlet xml property name jtrac ref jtrac,1
+jtrac api servlet xml property name jtrac ref jtrac,1
+applicationContext acegi xml property name jtrac ref jtrac,1
+jtrac hbm xml property name value column value,1
+ConfigPasswordFormPage html input type password wicket id value,1
+ConfigFormPage html input wicket id value,1
+jtrac hbm xml property name type column type,1
+jtrac hbm xml property name type column type,1
+jtrac hbm xml property name type column type,1
+jtrac hbm xml property name type column type,1
+jtrac hbm xml property name type column type,1
+jtrac hbm xml property name type column type,1
+jtrac hbm xml property name type column type,1
+jtrac hbm xml property name type column type,1
+jtrac hbm xml property name type column type,1
+jtrac hbm xml version name version column version,1
+jtrac hbm xml version name version column version,1
+jtrac hbm xml version name version column version,1
+jtrac hbm xml version name version column version,1
+applicationContext xml property name url value database url,1
+SvnStatsPage html td input wicket id url size 35 td,1
+applicationContext xml property name url value database url,1
+ConfigPasswordFormPage html td wicket id param class label td,1
+ConfigFormPage html td wicket id param class label td,1
+jtrac hbm xml id name param column param,1
+SpaceFieldFormPage html input wicket id option,1
+SpaceFieldOptionPage html input wicket id option,1
+jtrac hbm xml many to one name space column space id,1
+jtrac hbm xml many to one name space column space id not null true index idx items space id,1
+jtrac hbm xml many to one name user column user id not null true,1
+jtrac hbm xml many to one name user column user id,1
+SpaceFieldOptionPage html span wicket id label span,1
+CustomFieldsFormPanel html span wicket id label span,1
+ItemViewPanel html td class label wicket id label td,1
+SpaceFieldListPage html td wicket id label td,1
+SpaceFieldListPage html tr wicket id fields,1
+ItemViewPanel html tr wicket id fields,1
+ItemViewPanel html td wicket id fields span wicket id field span td,1
+ItemViewPanel html td wicket id status td,1
+jtrac hbm xml property name status column status,1
+jtrac hbm xml property name status column status index idx items status,1
+ItemViewPanel html td wicket id status td,1
+DashboardRowExpandedPanel html td wicket id status td,1
+ItemViewFormPanel html td select wicket id status td,1
+applicationContext xml property name password value database password,1
+applicationContext xml property name password value database password,1
+jtrac hbm xml property name password column password,1
+LoginPage html td input type password wicket id password size 20 td,1
+SvnStatsPage html td input type password wicket id password td,1
+UserFormPage html input type password wicket id password size 15,1
+jtrac hbm xml property name description column description type text,1
+jtrac hbm xml property name description column description type text,1
+SpaceListPage html td wicket id description td,1
+SpaceFormPage html textarea wicket id space description rows 3 cols 40 textarea,1
+jtrac hbm xml property name description column description type text,1
+jtrac hbm xml many to one name parent column parent,1
+jtrac hbm xml many to one name parent column parent id,1
+jtrac hbm xml many to one name parent column item id not null true,1
+jtrac hbm xml many to one name parent column parent id,1
+ItemViewPanel html td wicket id comment span wicket id attachment style padding right 0 5em span span wicket id comment span td,1
+jtrac hbm xml property name comment column comment type text,1
+ItemViewFormPanel html td textarea wicket id comment rows 6 cols 70 textarea td,1
+ItemRelatePanel html textarea wicket id comment rows 2 cols 40 textarea,1
+ItemRelateRemovePage html textarea wicket id comment rows 2 cols 40 textarea,1
+ItemFormPage html input wicket id summary style width 49 7em maxlength 255,1
+ItemViewPanel html td wicket id summary colspan 5 td,1
+jtrac hbm xml property name summary column summary,1
+jtrac hbm xml property name summary column summary,1
+UserFormPage html input wicket id user loginName size 15,1
+UserListPage html td wicket id loginName td,1
+SpaceAllocatePage html td wicket id loginName a href wicket id loginName a td,1
+jtrac hbm xml property name loginName column login name unique true not null true index idx users login name length 50,1
+SvnStatsPage html td input wicket id loginName td,1
+LoginPage html td colspan 2 input wicket id loginName size 35 td,1
+SpaceListPage html td wicket id prefixCode td,1
+SpaceFieldListPage html span wicket id name span span wicket id prefixCode span,1
+jtrac hbm xml property name prefixCode column prefix code unique true length 10,1
+SpaceFormPage html input wicket id space prefixCode size 10,1
+DashboardRowExpandedPanel html font size 1 span wicket id prefixCode span font,1
+DashboardRowPanel html font size 1 span wicket id prefixCode span font,1
+UserAllocatePage html a href wicket id prefixCode span wicket id prefixCode span a,1
+HeaderPanel html wicket enclosure child spaceName td img src resources space gif span wicket id spaceName span nbsp font size 1 span wicket id prefixCode span font td wicket enclosure,1
+ItemListPanel html wicket fragment wicket id detail span wicket id attachment span span wicket id detail span wicket fragment,1
+jtrac hbm xml property name detail column detail type text,1
+ItemFormPage html textarea wicket id detail rows 10 style width 51em textarea,1
+ItemViewPanel html td wicket id detail colspan 5 td,1
+jtrac hbm xml property name detail column detail type text,1
+applicationContext xml property name username value database username,1
+applicationContext xml property name username value database username,1
+ItemRelatePanel html span wicket id link a href wicket id refId a span,1
+ItemRelatePanel html span wicket id link a href wicket id refId a span,1
+ItemViewPanel html span wicket id link a href wicket id refId a span,1
+ItemViewPanel html td wicket id refId td,1
+ItemViewPanel html span wicket id link a href wicket id refId a span,1
+ItemRelateRemovePage html span wicket id related a href wicket id refId a span,1
+ItemListPanel html wicket fragment wicket id refId a href wicket id refId span wicket id refId span a span wicket id index span wicket fragment,1
+ItemRelateRemovePage html span wicket id relating a href wicket id refId a span,1
+jtrac hbm xml many to one name assignedTo column assigned to index idx items assigned to,1
+ItemViewPanel html td wicket id assignedTo width 15 td,1
+ItemViewPanel html td wicket id assignedTo td,1
+jtrac hbm xml many to one name assignedTo column assigned to,1
+SpacePermissionsPage html tbody wicket id states class roles,1
+ItemViewPanel html td wicket id loggedBy td,1
+jtrac hbm xml many to one name loggedBy column logged by not null true index idx items logged by,1
+ItemViewPanel html td wicket id loggedBy td,1
+jtrac hbm xml many to one name loggedBy column logged by not null true,1
+UserFormPage html input type checkbox wicket id sendNotifications,1
+ItemFormPage html input type checkbox wicket id sendNotifications,1
+ItemViewFormPanel html input type checkbox wicket id sendNotifications,1
+applicationContext xml property name dao ref dao,1
+YuiPanel html div wicket id dialog style visibility hidden,1
+YuiDialog html div wicket id dialog,1
+RoleDeAllocatePanel html span wicket id roleKey span,1
+jtrac hbm xml property name roleKey column role key not null true,1
+SpaceRolePage html input wicket id roleKey,1
+jtrac hbm xml many to one name previous column previous id,1
+jtrac hbm xml many to one name metadata column metadata id cascade all,1
+jtrac hbm xml many to one name metadata column metadata id,1
+applicationContext acegi xml property name activeDirectoryDomain value ldap activeDirectoryDomain,1
+UserAllocatePage html td wicket id roleAllocatePanel td,1
+SpaceAllocatePage html td wicket id roleAllocatePanel td,1
+applicationContext acegi xml property name searchBase value ldap searchBase,1
+applicationContext xml property name dataSourceJndiName value database datasource jndiname,1
+applicationContext xml property name dataSourceJndiName value database datasource jndiname,1
+applicationContext xml property name driverClassName value database driver,1
+applicationContext xml property name driverClassName value database driver,1
+applicationContext xml property name messageSource ref messageSource,1
+jtrac hbm xml property name sequenceNum column sequence num index idx items sequence num,1
+applicationContext acegi xml property name ldapUrl value ldap url,1
+UserFormPage html span wicket id feedback span,0
+DashboardRowExpandedPanel html td wicket id assignedToMe a href wicket id assignedToMe a td,0
+webdefault xml ieClassId The class id value to be sent to Internet,0
+ConfigListPage html tr wicket id configs,0
+SpaceFieldOptionPage html wicket message key space field option edit editOption,0
+DashboardPage html span wicket id dashboardRows,0
+project freeform xml action name redeploy,0
+ExcelImportSpacePage html select wicket id space,0
+checkstyle xml property name ignoreConstructorParameter value true,0
+ConfigListPage html th wicket message key config list edit th,0
+OptionsPage html div wicket id users,0
+index xml sect1 id interim overview,0
+index xml switching the language for any user can easily be done anytime from the Edit Your Profile link on the,0
+SpaceFormPage html input type checkbox wicket id space guestAllowed,0
+index xml In a future version of JTrac the ability to even hide fields depending on the role and status,0
+jtrac hbm xml property name cusInt10 column cus int 10,0
+YuiDialog html div class hd wicket id heading div,0
+index xml sect1 id features related,0
+index xml ulink url http www hsqldb org HSQLDB ulink to make it easy for you to evaluate JTrac,0
+checkstyle xml module name JavadocStyle,0
+SpaceFieldListPage html form wicket id form,0
+UserListPage html wicket message key user list filterBy select wicket id searchOn,0
+build xml arg value delimiter,0
+applicationContext xml bean id dao class info jtrac hibernate HibernateJtracDao init method createSchema,0
+index xml sect1 id features navigation,0
+SpaceFieldListPage html input type submit wicket id back wicket message value back,0
+index xml them only if you want to use Tomcat instead of Jetty or use the ulink url http jakarta apache org jmeter JMeter ulink,0
+UserAllocatePage html span wicket id label span,0
+index xml sect1 id installation database,0
+build xml target name pmd cpd depends pmd init,0
+workspace xml window info anchor bottom id Event Log order 13 side tool true,0
+ItemViewPanel html a href wicket id relate wicket message title item view form addRelatedItem img src resources add gif a,0
+HeaderPanel html td a href wicket id dashboard img src resources dashboard gif wicket message key header dashboard a td,0
+index xml sect1 id features customfields,0
+SpacePermissionsPage html img src resources field mandatory gif wicket message key space roles mandatory,0
+applicationContext xml property name target,0
+DashboardPage html th wicket message key dashboard space th,0
+ConfigListPage html td wicket id param td,0
+build xml replace file target war name WEB INF web xml,0
+index xml and the file name will be of the form jtrac src X Y Z zip,0
+web xml param name log4jConfigLocation param name,0
+index xml para Feature Requests ulink url http sourceforge net tracker atid 825944 amp group id 162983 ulink para,0
+LoginPage html input type checkbox wicket id rememberMe,0
+applicationContext acegi cas xml property name key value jtrac cas,0
+jetty xml Call class org mortbay jetty webapp WebAppContext name addWebApplications,0
+index xml If you explode unzip the WAR file you can edit the WEB INF classes jtrac init properties file,0
+build xml arg value project name,0
+applicationContext acegi cas xml bean id authenticationManager class org acegisecurity providers ProviderManager,0
+ExcelImportRowPage html tr wicket id cells,0
+workspace xml option name EXCLUDED CONVERTED TO IGNORED value true,0
+HeaderPanel html wicket enclosure td a href wicket id options img src resources options gif wicket message key header options a td wicket enclosure,0
+SpacePermissionsPage html th wicket id fieldsColspan,0
+index xml You can also read this forum thread for more details ulink url http sourceforge net forum forum php thread id 1971135 amp forum id 552477 link ulink,0
+index xml database url jdbc mysql localhost jtrac useEncoding true amp characterEncoding utf8,0
+workspace xml window info anchor bottom id Debug order 3 weight 0 4,0
+LogoutPage html link rel icon type image x icon href favicon ico,0
+build xml jvmarg value Xrunjdwp transport dt socket address jpda address,0
+workspace xml component name FindInProjectRecents,0
+UserFormPage html input type password wicket id passwordConfirm size 15,0
+DashboardRowExpandedPanel html td wicket id loggedByMeTotal a href wicket id loggedByMe a td,0
+index xml sect1 id faq contribute,0
+workspace xml window info anchor bottom id Message order 0,0
+index xml database url jdbc mysql localhost jtrac,0
+DashboardRowExpandedPanel html td wicket id search class icon,0
+SpacePermissionsPage html th wicket id statesColspan wicket message key space roles nextAllowedState th,0
+web xml res type javax sql DataSource res type,0
+UserListPage html a href wicket id create wicket message key user list createNewUser a,0
+webdefault xml param name org mortbay jetty servlet MaxAge param name,0
+build xml target name javadoc,0
+index xml and then create a version properties file This process is just to make the JTrac release process easier,0
+pom xml value home value,0
+ExcelImportPage html th wicket id headings,0
+jtrac hbm xml class name Config table config,0
+applicationContext acegi cas xml property name logoutUrl value https localhost 8443 cas logout,0
+build xml property name dist doc dir value target site doc,0
+UserListPage html td wicket id allocate align center a href img src resources spaces gif a td,0
+plugin xml class info jtrac mylyn ui JtracTaskListFactory,0
+SpaceFieldOptionPage html input type submit wicket id delete wicket message value delete,0
+ItemSearchFormPanel html wicket fragment wicket id multiSelect span wicket id values span wicket fragment,0
+build xml target name compile,0
+index xml jtrac war the HTML files used by JTrac can be found in the folder jtrac WEB INF classes info jtrac wicket,0
+ItemViewPanel html a href wicket id remove wicket message title item view remove img src resources remove gif a,0
+jetty xml Set name virtualHosts,0
+web xml servlet name jtrac api servlet name,0
+index xml To customize the location of jtrac home you have the following three options On startup JTrac tries to,0
+UserAllocatePage html span class info wicket id makeAdmin,0
+webdefault xml param name useFileMappedBuffer param name,0
+index xml sect2 id installation quick linux,0
+workspace xml window info id Designer order 3,0
+build xml replace file app java token project name value project name,0
+checkstyle xml module name FinalParameters,0
+SpaceFormPage html input type submit wicket id delete wicket message value delete,0
+site xml item name Latest Build href doc html interim builds html,0
+DashboardRowExpandedPanel html td class selected style text align left wicket id space,0
+workspace xml find wicket id quot his find,0
+ItemRelateRemovePage html span wicket id message span,0
+SpacePermissionsPage html td input type image wicket id editRole src resources edit gif td,0
+checkstyle xml module name ParameterNumber,0
+SpaceFieldFormPage html td a href wicket id up img src resources up gif a td,0
+index xml The presentation layer is using the ulink url http wicket apache org Apache Wicket ulink framework,0
+SpaceFieldFormPage html td wicket id key td,0
+jtrac hbm xml set name itemUsers cascade all,0
+index xml JTrac has complete internationalization support and you can change the user interface language instantly,0
+jtrac hbm xml property name cusInt08 column cus int 08,0
+workspace xml entry file file PROJECT DIR jtrac src main resources jtrac hbm xml,0
+LogoutPage html link rel shortcut icon type image x icon href favicon ico,0
+SpaceFieldFormPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+index xml jtrac in the user home directory and proceed to use that as jtrac home,0
+applicationContext acegi cas xml property name statelessTicketCache ref statelessTicketCache,0
+web xml filter name jtrac app filter name,0
+webdefault xml when using an NIO connector Setting this value,0
+build xml jvmarg value Djava compiler none,0
+build xml target name checkstyle init depends mvn init xmlns artifact urn maven artifact ant,0
+ItemSearchFormPanel html span wicket id feedback span,0
+build xml attribute name arg1 default,0
+index xml are behind an HTTP proxy This has been reported to work even when the proxy requires NTLM authentication,0
+build xml target name dist site clean,0
+ExcelImportSpacePage html input type submit wicket message value submit,0
+jetty xml arg 4 extract arg 5 parent priority class loading,0
+build xml property name src dir value target project name src main java,0
+web xml filter name openSessionInView filter name,0
+workspace xml window info anchor right id Commander internal type SLIDING order 0 type SLIDING weight 0 4,0
+index xml having to check out and compile from version control binaries in WAR form are periodically uploaded,0
+applicationContext scheduler xml property name scheduledTimerTasks,0
+UserAllocatePage html th wicket message key user allocate space space th,0
+SpaceAllocatePage html select wicket id user,0
+SpaceFormPage html wicket message key space form spaceKey,0
+UserListPage html wicket message key user list usersAndSpaces,0
+build xml taskdef name jmeter classname org programmerplanet ant taskdefs jmeter JMeterTask,0
+ItemViewFormPanel html span wicket id fields span,0
+ItemRelateRemovePage html input type submit wicket message value submit,0
+SpaceFieldListPage html input type image wicket id edit src resources edit gif,0
+RoleAllocatePanel html input type checkbox wicket id checkBox,0
+jtrac hbm xml id,0
+index xml chapter id interim builds,0
+applicationContext acegi cas xml property name defaultTargetUrl value app,0
+UserAllocatePage html form wicket id form,0
+build xml arg value stop,0
+workspace xml option name version value 1,0
+UserFormPage html wicket message key user form password,0
+applicationContext acegi cas xml bean id casProxyDecider class org acegisecurity providers cas proxy AcceptAnyCasProxy,0
+workspace xml window info anchor right id Ant Build order 1 weight 0 25,0
+index xml Apart from using the ulink url http sourceforge net forum forum php forum id 552477 forums ulink,0
+site xml item name Tracker href http sourceforge net tracker group id 162983,0
+SpacePermissionsPage html wicket message key space roles spaceRoles,0
+SpaceFieldOptionPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+applicationContext acegi xml bean id authenticationManager class info jtrac config ProviderManagerFactoryBean,0
+ExcelImportSpacePage html form wicket id form,0
+LoginPage html link rel shortcut icon type image x icon href favicon ico,0
+SpaceAllocatePage html a href wicket id createNewUser wicket message key space allocate createNewUser a,0
+build xml target name all depends clean compile test checkstyle test coverage,0
+applicationContext acegi cas xml bean id authenticationFilter class org acegisecurity ui cas CasProcessingFilter,0
+jetty xml Set name maxIdleTime 30000 Set,0
+workspace xml option name y value 8,0
+SpaceFormPage html wicket message key space form spaceDetails,0
+IndexRebuildPage html form wicket id form,0
+index xml ulink url http ptrthomas wordpress com 2007 03 02 wicket impressions moving from spring mvc webflow switched to ulink,0
+misc xml xml version 1 0 encoding UTF 8,0
+UserFormPage html wicket message key user form passwordMessage,0
+UserListPage html td wicket id email td,0
+DashboardRowExpandedPanel html td wicket id loggedByMe a href wicket id loggedByMe a td,0
+jtrac hbm xml set name children order by id cascade all inverse true,0
+checkstyle xml property name cacheFile value checkstyle cache file,0
+OptionsPage html div wicket id spaces,0
+RoleDeAllocatePanel html input type image wicket id deallocate src resources delete gif,0
+jetty xml Array type org mortbay jetty security UserRealm,0
+index xml ulink url http sourceforge net forum forum php thread id 1919986 amp forum id 552477 this forum thread ulink,0
+ExcelImportPage html form wicket id uploadForm,0
+workspace xml option value 0 2,0
+LoginPage html i powered by a href http jtrac info target blank JTrac a span wicket id version span i,0
+ExcelImportRowPage html form wicket id form,0
+SpaceAllocatePage html form wicket id form,0
+workspace xml window info anchor bottom id Anonymous Apex order 14,0
+plugin xml eclipse version 3 2,0
+site xml item name Dependencies href dependencies html,0
+pom xml version 2 1 1 version,0
+workspace xml project version 4,0
+web xml param value https localhost 8443 jtrac casProxy param value,0
+jetty xml One of each type,0
+checkstyle xml property name allowMissingJavadoc value true,0
+index xml sect1 id features easytoinstall,0
+checkstyle xml module name NoWhitespaceAfter,0
+UserAllocatePage html td wicket id roleDeAllocatePanel td,0
+ConfigPasswordFormPage html form wicket id form,0
+UserListPage html input wicket id searchText input type submit wicket message value search,0
+build xml artifact localRepository id local repository path maven repo local,0
+jtrac hbm xml property name severity column severity index idx items severity,0
+index xml sect1 id roadmap screenshot,0
+UserFormPage html wicket message key user form loginId,0
+jetty xml Configure id Server class org mortbay jetty Server,0
+SpaceAllocatePage html th wicket message key space allocate fullName th,0
+index xml JTrac has built in support for authenticating user credentials against an LDAP or Active Directory server,0
+SpaceFieldFormPage html input wicket id field label,0
+UserFormPage html wicket message key user form confirmPassword,0
+index xml para Specify if read only anonymous access is allowed per space para,0
+jtrac hbm xml property name guestAllowed column guest allowed,0
+build xml target name jetty start debug depends jetty setup,0
+ItemViewPanel html td class label width 15 wicket message key item view status td,0
+workspace xml window info anchor bottom id Java Enterprise order 15,0
+ExcelImportColumnPage html td wicket id mapped td,0
+pom xml name ant build properties file generator name,0
+ItemRelateRemovePage html span wicket id relatedDialog span,0
+jtrac api servlet xml application context definition for jtrac Dispatcher Servlet Spring MVC front controller,0
+index xml title What is the username and password when you log in for the first time title,0
+jtrac hbm xml set name attachments cascade all inverse true,0
+ConfigListPage html td wicket id value td,0
+SpaceAllocatePage html input type submit wicket id allocate wicket message value space allocate allocate,0
+jtrac hbm xml many to one name relatedItem column related item id not null true,0
+web xml res ref name jdbc JTracDS res ref name,0
+SpacePermissionsPage html img src resources field readonly gif wicket message key space roles readonly,0
+ItemListPanel html span span wicket id nextOn a href wicket id nextOn a span span wicket id nextOff span,0
+SpaceListPage html th wicket message key space list name th,0
+build xml jvmarg value Dfile encoding UTF 8,0
+web xml param value applicationClassName param value,0
+web xml param name webAppRootKey param name,0
+ItemFormPage html tr wicket id hideAssignedTo,0
+workspace xml option name RECENT GIT ROOT PATH value PROJECT DIR,0
+checkstyle xml module name VisibilityModifier,0
+ItemViewPage html div wicket id itemViewPanel div,0
+misc xml option value PROJECT DIR pom xml,0
+site xml item name News href http sourceforge net news group id 162983,0
+applicationContext xml property name transactionManager ref transactionManager,0
+SpaceListPage html th wicket message key space list description th,0
+webdefault xml param name fork param name,0
+applicationContext xml bean class info jtrac JtracImpl init method init,0
+SpaceAllocatePage html th rowspan 2 wicket message key space allocate role th,0
+workspace xml option name userSettingsFile value D apache maven 3 6 1 conf settings xml,0
+jetty xml Set name maxIdleTime 50000 Set,0
+BasePage html link rel shortcut icon type image x icon href favicon ico,0
+project freeform xml type org netbeans modules ant freeform type,0
+SpacePermissionsPage html tr wicket id roles,0
+index xml sect1 id faq why,0
+index xml sect1 id dev lookandfeel,0
+jetty xml Set name ThreadPool,0
+ItemViewPanel html td class label wicket message key item view assignedTo td,0
+ConfirmPage html p wicket id lines span wicket id line span p,0
+workspace xml window info anchor bottom id Terminal order 12,0
+project javaee xml name project name name,0
+webdefault xml servlet mapping servlet name invoker servlet name url pattern servlet url pattern servlet mapping,0
+UserListPage html th wicket message key user list editProfile th,0
+project freeform xml action name test,0
+build xml jvmarg value DSTOP KEY jtrac,0
+applicationContext acegi cas xml bean id authenticationProvider class org acegisecurity providers cas CasAuthenticationProvider,0
+misc xml component name MavenProjectsManager,0
+UserAllocatePage html select wicket id space,0
+build xml exclude name doc,0
+SpaceFieldFormPage html td class label wicket message key space field form addOption td,0
+UserAllocatePage html wicket message key user allocate space makeUserAdmin,0
+applicationContext scheduler xml bean id pollingTimer class org springframework scheduling timer ScheduledTimerTask,0
+build xml include name wrapper conf,0
+LogoutPage html span wicket id individuel span br,0
+index xml create database jtrac charset utf8,0
+SpaceFieldListPage html input type image wicket id down src resources down gif,0
+build xml jvmarg value Demma coverage out merge true,0
+jtrac api servlet xml property name urlMap,0
+UserFormPage html form wicket id form,0
+build xml input message Please enter password addproperty password,0
+build xml property name war name value jtrac,0
+pom xml name wicket configuration name,0
+ItemRelateRemovePage html wicket message key item view form comment br,0
+SpacePermissionsPage html input type submit wicket id back wicket message value back,0
+build xml target name tomcat status,0
+applicationContext xml property name schemaHelper,0
+SpaceStatePage html input type submit wicket id delete wicket message value delete,0
+checkstyle xml module name RightCurly,0
+applicationContext xml property name sessionFactory ref sessionFactory,0
+ItemListPanel html tr wicket id itemList,0
+jtrac hbm xml class name History table history,0
+build xml target name jetty stop depends jetty status if jetty running,0
+checkstyle xml module name Translation,0
+ItemSearchFormPanel html tr valign top wicket id columns,0
+build xml target name copy images,0
+build xml arg line url jdbc hsqldb file home db jtrac,0
+build xml fileset dir src test java includes info jtrac test SingleMethodRunnerTestCase java,0
+SpaceFieldFormPage html wicket message key space field form label,0
+DashboardRowPanel html td class selected style text align left wicket id space,0
+site xml item name Statistics href http sourceforge net project stats group id 162983 amp ugn j trac,0
+pom xml id ptrthomas id,0
+index xml sect1 id dev translating,0
+ItemViewFormPanel html span wicket id feedback span,0
+web xml filter class org apache wicket protocol http WicketFilter filter class,0
+ExcelImportPage html wicket container wicket id colsCheckGroup,0
+index xml sect1 id features i18n,0
+ExcelImportPage html wicket container wicket id rowsCheckGroup,0
+ItemListPanel html img src resources excel gif class nav link a href wicket id exportToExcel wicket message key item list exportToExcel a,0
+index xml Logged By Me would immediately display the list of items initiated by the currently logged in user,0
+DashboardPage html tr wicket id total class nav table,0
+webdefault xml description,0
+UserListPage html td align center img src resources error gif wicket id locked td,0
+applicationContext acegi cas xml bean id ticketCacheBackend class org springframework cache ehcache EhCacheFactoryBean,0
+ExcelImportRowPage html span wicket id feedback span,0
+SpaceFieldFormPage html input type submit wicket id done wicket message value space field form done,0
+jtrac hbm xml property name xmlString column xml string type text,0
+SpaceAllocatePage html th wicket message key space allocate user th,0
+UserAllocatePage html input type submit wicket id allocate wicket message value space allocate allocate,0
+SpaceFieldFormPage html input type submit wicket id add wicket message value space field form update,0
+checkstyle xml property name format value s,0
+ItemViewPanel html td class label wicket message key item view id td,0
+SpaceFieldListPage html select wicket id type,0
+pom xml groupId project name groupId,0
+site xml src http sflogo sourceforge net sflogo php group id 162983 amp type 7 src,0
+index xml for the mail from and the jtrac url base properties also for things like the hyperlinks,0
+index xml sect1 id features customroles,0
+ConfigFormPage html div wicket id heading class heading div,0
+UserAllocatePage html input type submit wicket id makeAdmin wicket message value user allocate space makeAdmin,0
+applicationContext xml bean id jtrac class org springframework transaction interceptor TransactionProxyFactoryBean,0
+build xml nbjpdastart name files addressproperty jpda address transport dt socket,0
+applicationContext lucene xml property name indexFactory ref indexFactory,0
+project freeform xml format java name format,0
+site xml item name Forums href http sourceforge net forum forum php forum id 552477,0
+ItemViewFormPanel html input wicket id file size 15 type file,0
+SpaceFormPage html wicket message key space form copyExisting,0
+applicationContext scheduler xml property name timerTask ref local pollingTask property,0
+jetty xml Ref id requestLog,0
+SpacePermissionsPage html td wicket id stateHeads span wicket id state span td,0
+build xml arg value o,0
+applicationContext xml property name jtracHome value jtrac home,0
+SpaceFormPage html select wicket id copyFrom,0
+workspace xml window info id Web order 2 side tool true,0
+ItemViewPanel html th wicket message key item view comment th,0
+jetty xml Set name retainDays 90 Set,0
+SpaceFormPage html wicket message key space form description,0
+jtrac hbm xml property name cusTim03 column cus tim 03,0
+checkstyle xml module name SimplifyBooleanReturn,0
+ExcelImportColumnPage html input type submit wicket id submit wicket message value submit,0
+build xml jvmarg value arg2,0
+build xml jvmarg value arg1,0
+build xml input message enter method name addproperty method name,0
+ide targets xml property name jpda jvm args value Xdebug Xnoagent Djava compiler none Xrunjdwp transport dt socket address jpda address,0
+webdefault xml param name nonContextServlets param name,0
+checkstyle xml module name JavadocVariable,0
+pom xml id website id,0
+workspace xml window info anchor bottom id Cvs order 4 weight 0 25,0
+web xml param name configuration param name,0
+ExcelImportPage html select wicket id action,0
+SpaceAllocatePage html tr wicket id usrs,0
+workspace xml option value PROJECT DIR jtrac iml,0
+ExcelImportRowPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+index xml project space where Severity Module Type and Priority have been defined,0
+index xml java cp bsh 2 0b4 jar hsqldb 1 8 0 1 jar bsh Interpreter jtrac hsqldb 2 0rc3 to 2 0 bsh,0
+index xml sect1 id features excel,0
+ItemRelatePanel html input type submit wicket message value submit,0
+ExcelImportColumnPage html input type submit wicket id preview wicket message value excel view preview,0
+jetty xml Arg SystemProperty name jetty home default etc webdefault xml Arg,0
+build xml target name tomcat clean all,0
+index xml sect1 id installation windowsservice,0
+checkstyle xml property name allowMissingReturnTag value true,0
+SpaceListPage html a href wicket id create wicket message key space list createNewSpace a,0
+jetty xml Set name minThreads 10 Set,0
+webdefault xml param name maxCachedFileSize param name,0
+index xml sect1 id faq lookandfeel,0
+HomePage html div wicket id myLabel div,0
+pom xml version 2 5 1 final 20040804 version,0
+checkstyle xml module name SimplifyBooleanExpression,0
+pom xml version 0 9 0 version,0
+SvnStatsPage html img wicket id chart,0
+index xml sect2 id installation custom servletparams,0
+ExcelImportRowPage html textarea wicket id value cols 40 rows 2 textarea,0
+UserFormPage html span wicket id locked,0
+pom xml name selenium snapshot name,0
+workspace xml option,0
+jtrac api servlet xml property name methodNameResolver,0
+index xml sect1 id faq version,0
+ItemViewFormPanel html form wicket id form,0
+ItemRelatePanel html span wicket id itemWindow span,0
+site xml item name SourceForge href http sourceforge net projects j trac,0
+SpaceFormPage html form wicket id form,0
+workspace xml option name files,0
+applicationContext xml property name releaseVersion value jtrac version,0
+build xml nbbrowse url http localhost 8080 jtrac,0
+applicationContext acegi cas xml property name casAuthoritiesPopulator ref casAuthoritiesPopulator,0
+index xml This document is a reference guide for ulink url http jtrac info JTrac ulink,0
+index xml sect1 id upgrading jetty,0
+web xml param name applicationClassName param name,0
+misc xml option name originalFiles,0
+HeaderPanel html wicket enclosure td img src resources user gif span wicket id user span td wicket enclosure,0
+SpaceFieldFormPage html wicket message key space field form editField,0
+checkstyle xml module name EmptyForIteratorPad,0
+pom xml version 1 0 version,0
+jtrac hbm xml set name itemTags cascade all inverse true,0
+checkstyle xml module name MethodName,0
+ExcelImportColumnPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+jetty xml Set name port 8081 Set,0
+index xml username and password At the moment LDAP support is limited to authentication and not authorization,0
+ItemSearchFormPanel html wicket fragment wicket id textField input wicket id value input wicket id value2 wicket fragment,0
+jetty xml Get name SessionHandler,0
+ConfirmPage html form wicket id form,0
+workspace xml component name ProjectFrameBounds extendedState 6,0
+applicationContext scheduler xml property name targetObject ref jtrac,0
+project javase xml type org netbeans modules java j2seproject type,0
+SpaceFormPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+pom xml name Peter Thomas name,0
+index xml sect1 id features attachments,0
+workspace xml option name totallyTimeSpent value 2931000,0
+build xml formatter type plain toFile target reports checkstyle txt,0
+index xml sect1 id roadmap validation,0
+index xml para Sign on with the user name admin and password admin para,0
+applicationContext acegi cas xml bean id statelessTicketCache class org acegisecurity providers cas cache EhCacheBasedTicketCache,0
+applicationContext acegi cas xml property name authenticationManager ref authenticationManager,0
+UserListPage html td wicket id locale td,0
+build xml war exploded deployDir tomcat home webapps war name,0
+site xml xml version 1 0 encoding ISO 8859 1,0
+checkstyle xml module name NeedBraces,0
+ItemViewFormPanel html td wicket id itemUsers td,0
+jtrac hbm xml class name SpaceSequence table space sequence,0
+SpaceFieldOptionPage html div wicket id feedback div,0
+SpaceAllocatePage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+checkstyle xml module name AvoidNestedBlocks,0
+workspace xml find wicket id quot field quot find,0
+index xml Using a Java applet it should be possible for the user to upload a screenshot directly from the,0
+index xml sect2 id installation cas appcontext,0
+project freeform xml action name debug test single,0
+ItemViewPanel html td wicket id timeStamp td,0
+SpaceFormPage html wicket message key space form displayName,0
+ConfigListPage html table class jtrac,0
+applicationContext xml property name basename value messages,0
+checkstyle xml module name MemberName,0
+jetty xml New id handlers class org mortbay jetty handler HandlerCollection,0
+UserListPage html th wicket message key user list email th,0
+ItemSearchFormPanel html input type submit wicket message value search wicket id search,0
+index xml sect1 id faq tracker,0
+site xml item name PDF href http j trac sourceforge net doc pdf jtrac doc pdf,0
+BasePage html span wicket id header span br,0
+jtrac hbm xml property name filePrefix column file prefix,0
+ConfirmPage html input type submit wicket message value submit,0
+site xml src doc images jtrac logo png src,0
+UserAllocatePage html th rowspan 2 wicket message key user allocate space role th,0
+build xml arg value dist doc dir pdf docbook fop tmp,0
+index xml sect1 id features email,0
+checkstyle xml module name LeftCurly,0
+jtrac api servlet xml a custom MethodNameResolver is set which uses the value of the expected method request parameter,0
+ItemViewPanel html td wicket id value colspan 5 td,0
+plugin xml name JTrac TaskListFactory,0
+applicationContext scheduler xml bean id hourlyTask class org springframework scheduling timer MethodInvokingTimerTaskFactoryBean,0
+applicationContext xml property name localeList value jtrac locales,0
+build xml target name test single depends compile test if netbeans home,0
+YuiDialog html style type text css,0
+workspace xml component name FileEditorManager,0
+applicationContext acegi cas xml property name ticketValidator ref casProxyTicketValidator,0
+webdefault xml param value true param value,0
+build xml property name filter java value src pkg dir project name titleCase ReloadingWicketFilter java,0
+ItemListPanel html table class jtrac jtrac list width 100,0
+applicationContext xml property name transactionAttributes,0
+ItemFormPage html input wicket id file size 15 type file,0
+DashboardRowExpandedPanel html td wicket id link style padding 0pt valign top,0
+jetty xml New id requestLog class org mortbay jetty handler RequestLogHandler,0
+applicationContext xml property name releaseTimestamp value jtrac timestamp,0
+build xml formatter type xml,0
+applicationContext acegi xml property name userDetailsService ref jtrac,0
+applicationContext acegi cas xml bean id cacheManager class org springframework cache ehcache EhCacheManagerFactoryBean,0
+webdefault xml param value false param value,0
+index xml para The search screen which allows filtering on custom fields para,0
+CustomFieldsFormPanel html wicket fragment wicket id dropDown div wicket id border select wicket id field div wicket fragment,0
+project javase xml name project name name,0
+jtrac hbm xml property name cusInt07 column cus int 07,0
+workspace xml option name proportions,0
+LogoutPage html i powered by a href http jtrac info target blank JTrac a span wicket id version span i,0
+ItemFormPage html div wicket id border select wicket id assignedTo div,0
+applicationContext acegi xml property name authenticationProvider ref authenticationProvider,0
+ItemSearchFormPanel html table class jtrac,0
+site xml menu name Project,0
+UserFormPage html input type checkbox wicket id user locked,0
+ItemViewFormPanel html wicket message key item view form comment,0
+workspace xml option name height value 1056,0
+jtrac hbm xml property name cusStr04 column cus str 04,0
+build xml touch file tomcat home webapps war name WEB INF web xml,0
+index xml There are no database changes between version 2 1 0 and 2 2 0 Instructions on how to upgrade are,0
+index xml If you are using Windows we recommend ulink url http tortoisesvn tigris org TortoiseSVN ulink,0
+build xml mapper type merge to start jar,0
+IndexRebuildPage html span wicket id progress class selected span,0
+jtrac hbm xml many to one name attachment column attachment id,0
+ItemSearchFormPanel html td class alt select wicket id expression td,0
+DashboardRowExpandedPanel html a href wicket id new img src resources new gif wicket message title dashboard new a,0
+ConfigListPage html td wicket id description td,0
+build xml target name doc html single depends copy images,0
+index xml ulink url http sourceforge net project showfiles php group id 162983 amp package id 184104 SourceForge ulink,0
+index xml sect1 id features dashboard,0
+ItemViewPanel html td class label valign top wicket message key item view detail td,0
+SpaceRolePage html wicket message key space role form editRoleName,0
+index xml title Edit the jtrac init properties file title,0
+index xml sect1 id upgrading migrating,0
+ItemViewPage html span wicket id relate span,0
+index xml sect1 id features searchall,0
+workspace xml option name isMigrated value true,0
+workspace xml option name HIGHLIGHT NON ACTIVE CHANGELIST value false,0
+plugin xml repositoryKind jtrac,0
+jetty xml xml version 1 0,0
+applicationContext xml property name hibernateDialect value hibernate dialect,0
+applicationContext acegi xml bean id loggerListener class org acegisecurity event authentication LoggerListener,0
+ConfigListPage html td wicket id link align center a href img src resources edit gif a td,0
+CustomFieldsFormPanel html tr wicket id fields,0
+SpaceFieldFormPage html td a href wicket id edit img src resources edit gif a td,0
+UserAllocatePage html wicket message key user allocate space spacesAllocated,0
+ide targets xml target name nb jpdastart depends nb selection,0
+SpaceFieldListPage html th wicket message key space fields internalName th,0
+CustomFieldsFormPanel html wicket fragment wicket id textField input wicket id field wicket fragment,0
+build xml jvmarg value Xmx512m,0
+index xml that allows the user to create custom reports and even schedule reports to be sent out over e mail,0
+LoginPage html td class label wicket message key login loginName td,0
+applicationContext scheduler xml bean id hourlyTimer class org springframework scheduling timer ScheduledTimerTask,0
+applicationContext acegi cas xml property name casValidate value https localhost 8443 cas proxyValidate,0
+project freeform xml label test java label,0
+ItemViewPage html a href wicket id edit wicket message key edit a,0
+applicationContext lucene xml property name create value true,0
+SpacePermissionsPage html form wicket id form,0
+web xml param value jtrac root param value,0
+build xml target name tomcat clean,0
+ItemViewFormPanel html td class label,0
+index xml Then when customizing the roles and field level permissions all you need to do is specify that,0
+build xml arg value dist doc dir pdf jtrac doc pdf,0
+ConfigPasswordFormPage html table class jtrac,0
+webdefault xml param name org mortbay jetty servlet SessionPath param name,0
+SpacePermissionsPage html td wicket id state td,0
+workspace xml window info anchor bottom id Version Control order 8,0
+ItemRelatePanel html span wicket id message span,0
+build xml arg value output target schema sql,0
+index xml the driver and URL You can look up the Hibernate dialect corresponding to your database type,0
+checkstyle xml module name RedundantImport,0
+index xml If you want to stay updated about the status of JTrac development as well as contribute and brainstorm,0
+jetty xml Arg SystemProperty name jetty home default logs yyyy mm dd request log Arg,0
+workspace xml window info anchor right id Database order 3,0
+SvnStatsPage html td class label Login Name td,0
+index xml Please use the ulink url http sourceforge net forum forum php forum id 552477 JTrac forums ulink,0
+jetty xml Set name extended false Set,0
+build xml include name TEST xml,0
+applicationContext acegi cas xml property name service value http localhost 8080 jtrac auth j acegi cas security check,0
+jetty xml Arg type boolean False Arg,0
+ItemSearchFormPanel html td align center wicket message key item filter expression td,0
+RoleAllocatePanel html span wicket id roleKeys,0
+webdefault xml param name verbose param name,0
+index xml para From the lib folder copy wrapper jar and wrapper dll into the jtrac etc folder para,0
+build xml attribute name files default java properties,0
+build xml attribute name excludes default selenium,0
+applicationContext acegi cas xml property name cache ref ticketCacheBackend,0
+build xml macrodef name jetty start,0
+SpaceFieldListPage html td wicket id type td,0
+UserListPage html td wicket id edit align center a href img src resources edit gif a td,0
+applicationContext scheduler xml property name targetMethod value executeHourlyTask,0
+ConfigFormPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+build xml target name compile test depends compile,0
+DashboardRowExpandedPanel html tr class nav table wicket id rows,0
+SpaceFieldListPage html input type submit wicket id add wicket message value space fields addField,0
+CustomFieldsFormPanel html font color red wicket id star font,0
+checkstyle xml module name HiddenField,0
+SvnStatsPage html table class bdr collapse wicket id hide,0
+plugin xml type jtrac,0
+DashboardPage html table class jtrac wicket id table,0
+index xml so it does not really matter what you type You would typically need to do this only once in development mode,0
+ConfirmPage html img src resources warning gif class nav link span wicket id warning class error span,0
+jtrac hbm xml many to one name tag column tag id not null true,0
+workspace xml property name WebServerToolWindowFactoryState value false,0
+CasLoginErrorPage html link rel stylesheet type text css href resources jtrac css,0
+build xml target name mvn init unless mvn inited xmlns artifact urn maven artifact ant,0
+ItemSearchFormPanel html td select wicket id pageSize td,0
+YuiPanel html div class hd wicket id heading div,0
+pom xml version 1 2 4 version,0
+index xml When setting up a Space you can define whether this space can be viewed by users without,0
+SpaceFieldListPage html th wicket message key space fields label th,0
+build xml exclude name jtrac properties,0
+build xml copy todir target war name WEB INF file etc log4j properties overwrite true,0
+index xml You can provide a JNDI datasource name as an additional property called database datasource jndiname,0
+DashboardRowExpandedPanel html td wicket id assignedToMeTotal a href wicket id assignedToMe a td,0
+CasLoginErrorPage html a wicket id casLogin Retry a,0
+build xml attribute name arg2 default,0
+checkstyle xml xml version 1 0,0
+SpaceFieldFormPage html tbody wicket id hide,0
+checkstyle xml property name message value Line has trailing spaces,0
+ConfigPasswordFormPage html div wicket id heading class heading div,0
+SpaceRolePage html input type submit wicket id delete wicket message value delete,0
+pom xml value DEVELOPMENT value,0
+jtrac hbm xml property name cusDbl01 column cus dbl 01,0
+build xml formatter type brief usefile false,0
+checkstyle xml property name lineSeparator value lf,0
+SpaceAllocatePage html th wicket message key space allocate loginName th,0
+workspace xml navigator proportions version 1,0
+index xml sect2 id installation custom initprops,0
+SpaceFormPage html td class label,0
+build xml property name webapp dir value target project name src main webapp,0
+project javaee xml root id test src dir name test java,0
+SpacePermissionsPage html th wicket message key space roles state th,0
+LoginPage html link rel stylesheet type text css href resources jtrac css,0
+index xml sect1 id features customworkflow,0
+index xml chapter id faq,0
+OptionsPage html div wicket id indexes,0
+index xml sect1 id dev build properties,0
+SpacePermissionsPage html th wicket message key space roles role th,0
+build xml property name production mode value true,0
+DashboardPage html tbody wicket id dashboardRow tbody,0
+SpaceStatePage html input type submit wicket message value submit,0
+index xml sect1 id roadmap wiki,0
+SpacePermissionsPage html img src resources field optional gif wicket message key space roles optional,0
+pom xml version 1 4 version,0
+SpaceFormPage html table class jtrac,0
+build xml target name compile depends mvn init,0
+LoginPage html form wicket id form class content,0
+pom xml version 0 0 1 version,0
+index xml sect1 id features textsearch,0
+ItemRelatePanel html img src resources cancel gif class nav link a href wicket id cancel wicket message key cancel a,0
+jtrac hbm xml property name cusInt01 column cus int 01,0
+project javase xml root id test src dir name test java,0
+pom xml version 3 8 1 version,0
+jetty xml New id requestLogImpl class org mortbay jetty NCSARequestLog,0
+jtrac api servlet xml xml version 1 0 encoding UTF 8,0
+build xml property name mvn inited value true,0
+index xml translations directly from version control at this url,0
+index xml in the JTrac user interface You may want to also edit LoginPage html and LogoutPage html as well,0
+index xml sect1 id roadmap hide,0
+index xml chapter id upgrading,0
+applicationContext acegi cas xml property name configLocation value classpath ehcache failsafe xml,0
+DashboardPage html span wicket id message wicket message key dashboard noSpaces span,0
+jtrac hbm xml set name userSpaceRoles cascade all inverse true,0
+ExcelImportColumnPage html table class jtrac wicket id distinctCells,0
+applicationContext acegi cas xml bean id casProxyTicketValidator class info jtrac acegi JtracCasProxyTicketValidator,0
+index xml para Making a custom field editable when updating an item after new item has been created para,0
+jtrac api servlet xml property name interceptors,0
+SpaceFieldListPage html span class info wicket message key space fields chooseType span,0
+pom xml url http jtrac info url,0
+workspace xml changelist id 8966d35a 8dcf 40f7 a393 c277ad115cf2 name Default Changelist comment,0
+index xml support by going to the following url of your JTrac installation http hostname jtrac app svn,0
+applicationContext acegi cas xml property name sendRenew value false,0
+build xml exclude name ROOT,0
+SpaceFormPage html wicket message key space form makePublic,0
+applicationContext xml property name dataSource ref dataSource,0
+checkstyle xml module name ModifierOrder,0
+UserFormPage html input type submit wicket id delete wicket message value delete,0
+pom xml version 2 0 4 version,0
+SpaceFormPage html input type submit wicket message value next,0
+SpaceFieldListPage html th wicket message key space fields optionList th,0
+checkstyle xml module name WhitespaceAround,0
+ItemViewPage html a href wicket id back wicket message key back a,0
+applicationContext acegi cas xml property name trustStore value C peter opt apache tomcat 5 5 17 conf cacerts,0
+index xml sect1 id installation quick,0
+SpacePermissionsPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+ide targets xml target name nb test single depends nb selection compile test,0
+index xml sect1 id roadmap email,0
+SpaceListPage html wicket message key space list spaceList,0
+build xml target name test debug single depends compile test if netbeans home,0
+LoginPage html title wicket id title title,0
+index xml Parameter name jtrac home value C data jtrac home,0
+ItemViewPanel html br div class space below nbsp b wicket message key item view history b div,0
+applicationContext lucene xml bean id indexSearcher class info jtrac lucene IndexSearcher,0
+SpaceAllocatePage html wicket message key space allocate usersAllocatedToSpace,0
+SpaceRolePage html form wicket id form,0
+jtrac hbm xml property name fileName column file name,0
+index xml Remote users should be able to access JTrac over the network by using the machine name instead of localhost,0
+build xml property name src pkg dir value target project name src main java project name,0
+applicationContext xml property name eventListeners,0
+ItemViewPanel html span wicket id relatedItems,0
+ide targets xml target name nb selection,0
+pom xml version 2 4 version,0
+build xml target name pmd init depends mvn init xmlns artifact urn maven artifact ant,0
+build xml property name jmeter save saveservice output format value xml,0
+ItemSearchFormPanel html input type checkbox wicket id showHistory,0
+SpaceFieldFormPage html td class label wicket message key space field form options td,0
+checkstyle xml module name MissingSwitchDefault,0
+jtrac hbm xml key column related item id,0
+checkstyle xml module name IllegalInstantiation,0
+ExcelImportPage html td wicket id checks,0
+build xml zipfileset dir target includes war prefix jtrac,0
+HeaderPanel html wicket enclosure td a href wicket id logout img src resources logout gif wicket message key header logout a td wicket enclosure,0
+jtrac api servlet xml bean id defaultController class info jtrac web DefaultMultiActionController,0
+ItemViewFormPanel html wicket message key item view form sendNotifications,0
+workspace xml property name nodejs interpreter path stuck in default project value undefined stuck path,0
+checkstyle xml property name tabWidth value 4,0
+webdefault xml param value 254000 param value,0
+build xml arg value basedir doc src dir styles html chunk xsl,0
+workspace xml option name name value ConfigurationTypeDashboardGroupingRule,0
+applicationContext xml bean id transactionManager class org springframework orm hibernate3 HibernateTransactionManager,0
+index xml You can place any additional images you need such as a company logo at the top level or in jtrac resources,0
+applicationContext acegi cas xml xml version 1 0 encoding UTF 8,0
+workspace xml component name TypeScriptGeneratedFilesManager,0
+ItemSearchFormPage html span wicket id panel span,0
+index xml There was an earlier version of JTrac which used to be hosted at ulink url https jtrac dev java net,0
+build xml jvmarg value Demma coverage out file basedir target coverage emma,0
+checkstyle xml module name OperatorWrap,0
+site xml item name Upgrading href doc html upgrading html,0
+build xml replace file src dir log4j properties token project name value project name,0
+index xml para Point your web browser to ulink url http localhost jtrac para,0
+checkstyle xml property name allowMissingPropertyJavadoc value true,0
+workspace xml window info anchor bottom id Database Changes order 9,0
+build xml dependency groupId checkstyle artifactId checkstyle version 4 3,0
+SpaceListPage html tr wicket id spaces,0
+jtrac hbm xml property name email column email length 50,0
+site xml item name References href http j trac wiki sourceforge net references,0
+ExcelImportPage html input wicket id file type file,0
+SpaceFieldListPage html th wicket message key space fields type th,0
+jtrac hbm xml property name locale column locale length 20,0
+workspace xml component name RunDashboard,0
+misc xml project version 4,0
+applicationContext xml bean id messageSource class org springframework context support ResourceBundleMessageSource,0
+site xml item name Home href index html,0
+index xml A Beanshell script called jtrac hsqldb to mysql bsh is available in the etc folder of the,0
+SpaceAllocatePage html td wicket id roleDeAllocatePanel td,0
+index xml sect1 id roadmap import,0
+index xml how the corresponding line in jtrac properties will look like,0
+build xml concat destfile src main resources jtrac version properties version version line separator timestamp DSTAMP TSTAMP,0
+SpacePermissionsPage html th input type image wicket id addState src resources add gif th,0
+UserFormPage html wicket message key user form language,0
+checkstyle xml module name UpperEll,0
+build xml arg value basic imports unusedcode,0
+ConfigFormPage html input type submit wicket message value submit,0
+index xml to validate item data entered by a user Even conditional validation across fields should be possible,0
+index xml sect1 id installation cas,0
+webdefault xml param name maxCachedFiles param name,0
+SpaceFieldListPage html span wicket id options,0
+workspace xml change beforePath PROJECT DIR jtrac src main java info jtrac JtracImpl java beforeDir false afterPath PROJECT DIR jtrac src main java info jtrac JtracImpl java afterDir false,0
+workspace xml provider selected true editor type id text editor,0
+DashboardPage html th colspan 2 wicket message key dashboard status th,0
+build xml target name clean,0
+SpaceFieldListPage html span wicket id option span br,0
+jtrac hbm xml property name cusDbl03 column cus dbl 03,0
+pom xml version 1 0 0 version,0
+build xml arg value src main java,0
+index xml more details JTrac uses ulink url http www hibernate org Hibernate ulink and so it can,0
+jtrac hbm xml property name cusInt05 column cus int 05,0
+jetty xml Set name defaultsDescriptor SystemProperty name jetty home default etc webdefault xml Set,0
+index xml the user interface One of the reasons why many people choose JTrac over other open source,0
+SpacePermissionsPage html td wicket id editState input type image wicket id editState src resources edit gif td,0
+LoginPage html div wicket id feedback div,0
+checkstyle xml module name TreeWalker,0
+build xml jvmarg value DSTOP PORT 8079,0
+SvnStatsPage html td wicket id commits align right td,0
+DashboardPage html th wicket id hideLogged wicket message key dashboard loggedByMe th,0
+checkstyle xml module name InnerAssignment,0
+workspace xml option name jdkForImporter value 1 8,0
+UserFormPage html wicket message key user form mailPassword,0
+build xml target name doc depends clean doc html doc html single doc pdf,0
+SpaceStatePage html form wicket id form,0
+jtrac api servlet xml backwards compatibility with 2 0 and previous,0
+ItemRelateRemovePage html div class heading wicket message key item relate remove heading div,0
+ExcelImportColumnPage html input type submit wicket id update wicket message value excel view update,0
+workspace xml component name MavenImportPreferences,0
+jtrac hbm xml key column parent id,0
+web xml param value,0
+ItemListPage html span wicket id panel span,0
+SpacePermissionsPage html wicket message key space roles fieldLevelPermissions br,0
+index xml Integration with ulink url http subversion tigris org Subversion ulink has already been implemented,0
+build xml property name app java value src pkg dir project name titleCase Application java,0
+UserAllocatePage html wicket message key user allocate space chooseSpace,0
+build xml project name jtrac basedir,0
+ItemSearchFormPanel html form wicket id form,0
+HeaderPanel html wicket enclosure td a href wicket id new img src resources new gif wicket message key header new a td wicket enclosure,0
+project javase xml root id src resources dir name main resources,0
+applicationContext acegi cas xml property name cacheName value ticketCache,0
+plugin xml urlRepository http localhost 8080 jtrac,0
+DashboardPage html a href wicket id search,0
+jtrac hbm xml property name cusStr01 column cus str 01,0
+RoleAllocatePanel html span wicket id roleKey span,0
+SpaceStatePage html a href wicket id cancel wicket message key cancel a,0
+applicationContext xml bean id org springframework orm hibernate3 HibernateAccessor FLUSH COMMIT,0
+workspace xml component name ChangeListManager,0
+pom xml name jtrac home name,0
+workspace xml option name x value 8,0
+workspace xml option name presentableId value Default,0
+build xml password password trust true,0
+HeaderPanel html wicket enclosure td a href wicket id search img src resources search gif wicket message key header search a td wicket enclosure,0
+ItemViewFormPanel html select wicket id assignedTo select,0
+index xml ldap searchBase DC foo DC bar DC org,0
+workspace xml component name ProjectConfigurationFiles,0
+webdefault xml context param,0
+build xml target name war exploded depends compile,0
+jetty xml Set name append true Set,0
+build xml target name jetty status,0
+workspace xml xml version 1 0 encoding UTF 8,0
+project freeform xml xml version 1 0 encoding UTF 8,0
+jtrac hbm xml key column user id,0
+index xml find all items logged by or assigned to a user or users JTrac allows for filtering even,0
+SpaceAllocatePage html table class jtrac,0
+checkstyle xml module name NoWhitespaceBefore,0
+checkstyle xml module name FinalClass,0
+web xml servlet name casProxy servlet name,0
+checkstyle xml module name DesignForExtension,0
+applicationContext acegi cas xml bean id casAuthoritiesPopulator class org acegisecurity providers cas populator DaoCasAuthoritiesPopulator,0
+index xml sect1 id dev download,0
+jtrac hbm xml property name cusInt02 column cus int 02,0
+ConfirmPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+pom xml id manfredwolff id,0
+build xml nbjpdaconnect address 8000 host localhost name debug nb transport dt socket,0
+SpaceFieldListPage html input type submit wicket id next wicket message value next,0
+checkstyle xml module name TabCharacter,0
+build xml target name selenium start,0
+jetty xml Set name LogTimeZone GMT Set,0
+UserAllocatePage html th wicket message key user allocate space role th,0
+build xml property name doc src dir value doc,0
+build xml artifact pom file pom xml id maven project,0
+ItemListPanel html span wicket id prevOn a href wicket id prevOn a span span wicket id prevOff span nbsp,0
+checkstyle xml module name EmptyStatement,0
+project javaee xml xml version 1 0 encoding UTF 8,0
+index xml all or a sub set of projects that a user is mapped to For example in the screenshot of the,0
+ide targets xml nbjpdaconnect address 8000 host localhost name nb debug transport dt socket,0
+UserListPage html form wicket id form,0
+index xml For example if you have ulink url http tomcat apache org Apache Tomcat ulink 5 5 X,0
+jetty xml Set name Port 8443 Set,0
+checkstyle xml module name LocalFinalVariableName,0
+applicationContext acegi cas xml property name proxyCallbackUrl value https localhost 8443 jtrac casProxy receptor,0
+index xml sect1 id roadmap savedsearches,0
+applicationContext xml prop key remove PROPAGATION REQUIRED prop,0
+index xml by editing your user profile Adding a translation is very easy and does not require any,0
+pom xml name jetty jars name,0
+DashboardPage html th wicket id hideAssigned wicket message key dashboard assignedToMe th,0
+index xml say Japanese or Chinese text in the summary or description Verify that special characters,0
+SvnStatsPage html td wicket id user td,0
+ExcelImportPage html input type submit wicket message value submit,0
+webdefault xml param value 1 param value,0
+index xml For example you can specify the jtrac home using the Tomcat administration console or as,0
+applicationContext acegi cas xml property name authenticationFailureUrl value app cas error,0
+jetty xml Set name handler,0
+applicationContext scheduler xml property name targetMethod value executePollingTask,0
+applicationContext scheduler xml property name period value 3600000,0
+workspace xml option name SHOW DIALOG value false,0
+checkstyle xml module name AvoidInlineConditionals,0
+web xml init param,0
+checkstyle xml module name TypeName,0
+pom xml artifactId project name artifactId,0
+build xml arg value basedir doc src dir src index xml,0
+webdefault xml servlet name default servlet name,0
+checkstyle xml module name Header,0
+ExcelImportColumnPage html th wicket id index th,0
+index xml database password,0
+applicationContext acegi cas xml property name cacheManager ref cacheManager,0
+LoginPage html span wicket id individuel span br,0
+index xml option from the File menu browse to and select the jtrac folder You should be able to open it,0
+SpaceFieldFormPage html form wicket id form,0
+web xml param value WEB INF log4j properties param value,0
+UserAllocatePage html wicket enclosure child prefixCode,0
+jetty xml New id contexts class org mortbay jetty handler ContextHandlerCollection,0
+build xml zipfileset dir target jetty prefix jtrac,0
+jetty xml Call name addServlet,0
+ExcelImportPage html input type checkbox wicket id check,0
+SpaceListPage html th wicket message key space list key th,0
+site xml item name Screenshots href http sourceforge net project screenshots php group id 162983,0
+jtrac hbm xml class name ItemTag table item tags,0
+index xml sect1 id roadmap tags,0
+index xml chapter id installation,0
+SpaceRolePage html a href wicket id cancel wicket message key cancel a,0
+applicationContext xml bean id dataSource class info jtrac config DataSourceFactoryBean,0
+webdefault xml param name dirAllowed param name,0
+build xml replace file filter java token project name titleCase value project name titleCase,0
+misc xml option,0
+ItemFormPage html span wicket id fields span,0
+DashboardRowPanel html a href wicket id link style text align left,0
+applicationContext xml property name indexSearcher ref indexSearcher,0
+jtrac hbm xml class name ItemItem table item items,0
+UserFormPage html input wicket id user name size 35,0
+ExcelImportColumnPage html tr wicket id rows,0
+workspace xml window info id Structure order 1 side tool true weight 0 25,0
+build xml regexp pattern lt param name gt useFileMappedBuffer lt param name gt n lt param value gt true lt param value gt,0
+index xml If jtrac home has not been configured in any of the above ways JTrac will create a folder called,0
+index xml sect1 id roadmap scheduler,0
+SpaceFormPage html input wicket id space name,0
+workspace xml window info anchor bottom id Find order 1,0
+index xml custom fields and drop downs Features include customizable workflow field level permissions,0
+webdefault xml param value anyValue param value,0
+LoginPage html table class jtrac,0
+index xml by just deploying the WAR file JTrac creates a jtrac folder in the user home folder and,0
+site xml item name Roadmap href doc html roadmap html,0
+checkstyle xml property name max value 132,0
+SpacePermissionsPage html td wicket id stateHeads input type image wicket id state td,0
+site xml item name Mailing List href mail lists html,0
+UserFormPage html input wicket id user email size 35,0
+build xml replace file filter java token project name value project name,0
+SpaceFieldFormPage html td wicket id value class alt td,0
+ItemViewPanel html th wicket message key item view timeStamp th,0
+YuiCalendar html input wicket id field size 8,0
+applicationContext acegi cas xml bean id filterChainProxy class org acegisecurity util FilterChainProxy,0
+index xml and it is not mandatory that you re package zip the WAR file after editing jtrac init properties,0
+webdefault xml init param,0
+index xml sect1 id roadmap feeds,0
+index xml detect the value of jtrac home and checks the following configuration options in the order listed below,0
+webdefault xml mime type mymime type mime type,0
+workspace xml option name vmOptionsForImporter value Xmx768m,0
+index xml sect1 id dev check prerequisites,0
+UserFormPage html wicket message key user form locked,0
+SpaceFieldListPage html wicket message key space fields customFields,0
+checkstyle xml module name ParenPad,0
+workspace xml component name TimeTrackingManager,0
+project javaee xml root id src dir name main java,0
+workspace xml component name PropertiesComponent,0
+OptionsPage html img src resources user gif class nav link wicket message key options editYourProfile,0
+jtrac hbm xml many to one name item column item id not null true,0
+workspace xml component name editorHistoryManager,0
+index xml sect2 id installation quick othernotes,0
+build xml input message Enter Project Name lowercase no spaces addproperty project name,0
+pom xml id repository id,0
+index xml JTrac can be installed in a few minutes without having to type any commands and you don t even need,0
+build xml target name checkstyle single depends compile checkstyle init,0
+workspace xml option name LAST RESOLUTION value IGNORE,0
+build xml target name tomcat reload depends tomcat war exploded,0
+jtrac hbm xml property name cusInt06 column cus int 06,0
+index xml demonstrates how you can set up a drop down field called Complete,0
+workspace xml window info anchor bottom id Inspection order 5 weight 0 4,0
+checkstyle xml property name ignoreSetter value true,0
+index xml Edit the connection params jdbc URL username password to match your database For HSQLDB,0
+project javase xml root id src dir name main java,0
+project javase xml xml version 1 0 encoding UTF 8,0
+CustomFieldsFormPanel html td wicket id field td,0
+ItemViewFormPanel html input type submit wicket message value submit,0
+SpaceAllocatePage html span wicket id label span,0
+index xml sect1 id installation backup,0
+SpacePermissionsPage html input type submit wicket id save wicket message value save,0
+UserAllocatePage html span wicket id feedback span,0
+index xml database url jdbc hsqldb file jtrac home db jtrac,0
+ide targets xml target name nb debug fix depends nb selection compile,0
+index xml chapter id roadmap,0
+webdefault xml param name xpoweredBy param name,0
+checkstyle xml module name HideUtilityClassConstructor,0
+YuiPanel html div class bd wicket id content div,0
+workspace xml dir E nuaa 1st Year 1 code LocalGit jtrac dir,0
+index xml server called ulink url http jetty mortbay org Jetty ulink and an embedded database called,0
+index xml the embedded HSQLDB database backing up the contents of jtrac home will be sufficient,0
+UserFormPage html select wicket id user locale,0
+web xml url pattern app url pattern,0
+checkstyle xml module name JavadocMethod,0
+ItemSearchFormPanel html a href wicket id expandAll wicket message key item filter expandAll a,0
+project freeform xml action name debug,0
+ErrorPage html img src resources error gif class nav link span class error wicket id heading span,0
+checkstyle xml property name headerFile value checkstyle header file,0
+index xml sect1 id dev building,0
+ItemSearchFormPanel html span wicket id columnName span,0
+build xml arg value text,0
+ItemViewFormPanel html div wicket id border,0
+ExcelImportPage html a href wicket id selectSpace wicket message key excel view selectSpace a,0
+UserFormPage html wicket message key user form emailId,0
+web xml param value org acegisecurity util FilterChainProxy param value,0
+project freeform xml action name clean,0
+ExcelImportSpacePage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+ItemViewPage html div wicket id itemViewFormPanel style margin top 1em div,0
+webdefault xml of a request passed to the envoker is treated as a servlet name for,0
+jtrac hbm xml class name UserSpaceRole table user space roles,0
+index xml in the jtrac properties file JTrac will ignore the other database properties in this case,0
+build xml target name jmeter test,0
+SpaceFormPage html div wicket id feedback div,0
+index xml chapter id features,0
+applicationContext acegi cas xml value,0
+ItemListPanel html span wicket id pageOn a href wicket id pageOn a span span wicket id pageOff span nbsp,0
+compiler xml sourceOutputDir name target generated sources annotations,0
+ItemFormPage html input type submit wicket id delete wicket message value delete,0
+workspace xml option name number value Default,0
+plugin xml class info jtrac mylyn ui JtracRepositoryConnectorUi,0
+pom xml version 2 5 1 version,0
+index xml Anyway if you really really want more custom fields the JTrac code is very clean and you can,0
+ItemViewPanel html th wicket message key item view status th,0
+jetty xml Arg type boolean True Arg,0
+ConfigPasswordFormPage html input type submit wicket message value submit,0
+index xml para ulink url http maven apache org Maven 2 X ulink para,0
+SpaceListPage html th wicket message key space list edit th,0
+checkstyle xml module name Checker,0
+index xml sect1 id faq architecture,0
+jtrac hbm xml property name severity column severity,0
+build xml target name main,0
+workspace xml window info anchor right content ui combo id Hierarchy order 2 weight 0 25,0
+checkstyle xml module name RedundantThrows,0
+SpaceFieldFormPage html input type submit wicket id delete wicket message value delete,0
+index xml Also the ulink url http www acegisecurity org Acegi Security ulink,0
+ExcelImportColumnPage html quot span wicket id header span quot,0
+index xml Jetty web app server has been upgraded from version 6 0 2 to 6 1 1 but it is not mandatory that you,0
+webdefault xml param name maxCacheSize param name,0
+index xml sect1 id upgrading database,0
+build xml zipfileset dir nbproject prefix jtrac nbproject,0
+webdefault xml param name dynamicParam param name,0
+UserListPage html th wicket message key user list locked th,0
+IndexRebuildPage html input type submit wicket id start wicket message value submit,0
+jetty xml Set name port 8083 Set,0
+workspace xml option name name value StatusDashboardGroupingRule,0
+build xml target name checkstyle dump depends checkstyle,0
+build xml target name jetty set production mode,0
+site xml project name JTrac,0
+jtrac api servlet xml explicit URL mapper used by the jtrac DispatcherServlet,0
+jetty xml Set name handlers,0
+compiler xml component name CompilerConfiguration,0
+build xml jvmarg value Djtrac home basedir home,0
+plugin xml class info jtrac mylyn ui editor JtracTaskEditorFactory,0
+SpaceStatePage html div wicket id feedback div,0
+project freeform xml context path project name context path,0
+index xml database username root,0
+workspace xml component name ProjectView,0
+SvnStatsPage html tr wicket id users,0
+index xml java version,0
+workspace xml window info anchor bottom id SOQL Query order 10,0
+site xml href http jtrac info href,0
+ItemViewPanel html td class label wicket message key item view summary td,0
+build xml property name nbprof home value netbeans home profiler2 lib,0
+ItemViewPanel html th wicket id labels span wicket id label span th,0
+build xml attribute name wicketConfig default Dwicket configuration DEVELOPMENT,0
+build xml jvmarg value Dmethod name method name,0
+ExcelImportPage html span wicket id selectedSpace span,0
+site xml item name Author href http ptrthomas wordpress com,0
+build xml arg value src main resources hbm xml,0
+SvnStatsPage html td class label URL td,0
+LoginPage html table width 100 class jtrac alt,0
+project freeform xml action name run,0
+pom xml archive http sourceforge net mailarchive forum php forum name j trac users archive,0
+build xml project name jtrac doc basedir default doc,0
+BasePage html span wicket id individuel span br,0
+ItemFormPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+project freeform xml action name build,0
+UserFormPage html input type submit wicket message value submit,0
+build xml loadfile property project name titleCase srcFile target temp txt,0
+checkstyle xml module name GenericIllegalRegexp,0
+HeaderPanel html wicket enclosure td a href wicket id login wicket message key header login a td wicket enclosure,0
+index xml provide a JNDI name JTrac will ignore the SMTP server details provided,0
+ExcelImportPage html th wicket id index th,0
+web xml filter name wicketFilter filter name,0
+checkstyle xml property name ignoreLines value 3 7 9,0
+build xml compilerarg value Xlint unchecked,0
+DashboardPage html td wicket id assignedToMe a href wicket id assignedToMe a td,0
+workspace xml window info anchor right id Palette 9 order 5,0
+BasePage html i powered by a href http jtrac info target blank JTrac a span wicket id version span i,0
+build xml target name dist jtrac src,0
+build xml target name tomcat start debug depends tomcat war exploded,0
+checkstyle xml module name PackageHtml,0
+index xml by the MySQL team The ulink url http jakarta apache org commons dbcp Apache DBCP ulink,0
+ItemRelatePanel html select wicket id type,0
+build xml replace file app java token applicationClassName value project name titleCase Application,0
+ItemSearchFormPage html span wicket id relate span,0
+SpaceRolePage html input type submit wicket message value submit,0
+applicationContext scheduler xml xml version 1 0 encoding UTF 8,0
+jtrac hbm xml xml version 1 0 encoding UTF 8,0
+ItemFormPage html input type submit wicket message value submit,0
+jetty xml Set name config etc realm properties Set,0
+SpaceAllocatePage html th wicket message key space allocate role th,0
+build xml target name war depends war exploded,0
+ExcelImportColumnPage html td wicket id cell td,0
+index xml ulink url http sourceforge net project showfiles php group id 162983 amp package id 184104,0
+jtrac hbm xml property name plannedEffort column planned effort,0
+pom xml url http j trac svn sourceforge net viewvc j trac trunk jtrac url,0
+plugin xml name JTrac Connector,0
+jtrac hbm xml property name cusStr05 column cus str 05,0
+DashboardRowPanel html a href wicket id search,0
+ItemSearchFormPanel html td class label,0
+checkstyle xml module name ParameterName,0
+applicationContext acegi xml bean id authenticationProvider class org acegisecurity providers dao DaoAuthenticationProvider,0
+workspace xml property name settings editor selected configurable value reference settings project maven importing,0
+build xml attribute name haltonfailure default false,0
+IndexRebuildPage html div wicket id heading class heading div,0
+jtrac hbm xml set name history order by id cascade all inverse true,0
+build xml attribute name webapp default war name,0
+build xml target name emma init depends mvn init xmlns artifact urn maven artifact ant,0
+index xml You can refer the link linkend installation installation link section of this document for,0
+UserListPage html table class jtrac,0
+build xml value project name project name titleCase Application,0
+web xml res ref name mail Session res ref name,0
+SpacePermissionsPage html td wicket id fieldHeads class selected span wicket id field span td,0
+webdefault xml servlet mapping servlet name default servlet name url pattern url pattern servlet mapping,0
+ide targets xml project basedir name ide targets,0
+LogoutPage html table width 100 class jtrac,0
+pom xml version 1 2 2 version,0
+build xml property name agent path value nbprof home deployed jdk15 windows profilerinterface dll nbprof home 5140,0
+index xml chapter id introduction,0
+index xml sect1 id roadmap xmlapi,0
+build xml property name jmeter save saveservice assertion results value all,0
+applicationContext scheduler xml bean id pollingTask class org springframework scheduling timer MethodInvokingTimerTaskFactoryBean,0
+index xml JTrac will support nested items under a first level parent item and the design,0
+checkstyle xml module name EqualsHashCode,0
+jetty xml Arg SystemProperty name jetty home default SystemProperty name jtrac webapp default jtrac war Arg,0
+workspace xml task active true id Default summary Default task,0
+build xml jvmarg value Xdebug,0
+plugin xml name JTrac Connector UI,0
+build xml formatter type xml toFile target reports checkstyle xml,0
+ExcelImportColumnPage html wicket message key excel view selectedColumn,0
+index xml JTrac was completely re written to use Spring and Hibernate and the 2 0 version number reflects this,0
+pom xml url scp shell sourceforge net home groups j j j trac htdocs repository url,0
+index xml sect1 id faq dogfood,0
+ide targets xml include name selected files class,0
+index xml The jtrac home would still need to be backed up because this is where uploaded attachments are stored,0
+index xml You can easily add the following types of custom fields to a tracker Project Space,0
+UserFormPage html wicket message key user form userDetails,0
+site xml item name HTML href doc html index html,0
+applicationContext lucene xml bean id analyzer class org apache lucene analysis standard StandardAnalyzer,0
+index xml In the XML corresponding to bean id casProxyTicketValidator edit the following,0
+workspace xml window info anchor bottom id TODO order 6,0
+checkstyle xml module name MethodParamPad,0
+web xml param name targetClass param name,0
+webdefault xml servlet name invoker servlet name,0
+build xml target name tomcat stop depends tomcat status if tomcat running,0
+build xml target if netbeans home name debug nb,0
+project javase xml minimum ant version 1 6 5 minimum ant version,0
+index xml sect1 id features history,0
+vcs xml component name VcsDirectoryMappings,0
+webdefault xml param value DEBUG param value,0
+build xml target name dist war scp depends clean dist init war,0
+pom xml and drop downs Features include customizable workflow field level permissions e mail integration,0
+webdefault xml xml version 1 0 encoding ISO 8859 1,0
+BasePage html link rel stylesheet type text css href resources jtrac css,0
+index xml If you can easily set a system property called jtrac home within the environment of your,0
+ExcelImportPage html td wicket id cols span wicket id cell span td,0
+ItemFormPage html td align right wicket id hideNotifyList,0
+jtrac hbm xml class name User table users,0
+pom xml version 2 0b4 version,0
+SpaceRolePage html span wicket id label span,0
+vcs xml xml version 1 0 encoding UTF 8,0
+webdefault xml param value 2000000 param value,0
+ItemFormPage html textarea wicket id editReason rows 5 cols 40 textarea,0
+ide targets xml target name nb test debug single depends nb jpdastart compile test,0
+webdefault xml url pattern JSPX url pattern,0
+project javaee xml root id src resources dir name main resources,0
+RoleDeAllocatePanel html span wicket id roleKeys,0
+UserFormPage html tr wicket id hide,0
+index xml and customize the value for your environment,0
+SpacePermissionsPage html th input type image wicket id addRole src resources add gif th,0
+LoginPage html div wicket id hide style margin top 3 2em div,0
+applicationContext xml property name validationQuery value database validationQuery,0
+build xml taskdef name findbugs classname edu umd cs findbugs anttask FindBugsTask classpathref findbugs classpath,0
+UserAllocatePage html span wicket id name span,0
+applicationContext acegi cas xml property name serviceProperties ref serviceProperties,0
+jtrac hbm xml property name cusDbl02 column cus dbl 02,0
+index xml layer for version 2 0 was mainly using,0
+ItemFormPage html span wicket id feedback span,0
+build xml attribute name deployDir default target war name,0
+index xml server or a database JTrac embeds both of these ulink url http jetty mortbay org Jetty ulink and,0
+index xml sect1 id faq hsqldb,0
+build xml value info jtrac wicket devmode ReloadingWicketFilter,0
+pom xml name JTrac name,0
+applicationContext xml prop key hibernate dialect hibernate dialect prop,0
+ItemRelatePanel html form wicket id form,0
+ExcelImportColumnPage html table class jtrac wicket id columnCells,0
+index xml JTrac provides a very detailed history view that completely captures all comments or status,0
+index xml para From the bin folder copy wrapper exe to the jtrac root folder para,0
+jtrac hbm xml natural id,0
+build xml include name emma,0
+applicationContext acegi xml xml version 1 0 encoding UTF 8,0
+ExcelImportColumnPage html select wicket id key,0
+checkstyle xml module name JavadocType,0
+pom xml finalName project name finalName,0
+UserAllocatePage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+ConfirmPage html div class heading wicket id heading div,0
+jtrac hbm xml hibernate mapping package info jtrac domain,0
+ExcelImportColumnPage html form wicket id form,0
+build xml xml version 1 0 encoding UTF 8,0
+index xml All you need to do is introduce a translated version of the existing messages en properties file into,0
+build xml fail if do abort aborted by user fail,0
+index xml JTrac distribution You can execute this just like described in the previous section on upgrading,0
+ExcelImportRowPage html input type submit wicket message value submit,0
+UserAllocatePage html tr wicket id spaces,0
+ItemFormPage html td class label,0
+index xml sect1 id installation war,0
+checkstyle xml property name allowMissingThrowsTags value true,0
+DashboardRowPanel html td wicket id loggedByMe a href wicket id loggedByMe a td,0
+build xml arg value doc src dir styles html xsl,0
+pom xml version 1 4 2 version,0
+index xml from ulink url http www hibernate org hib docs reference en html session configuration html configuration optional dialects this list ulink,0
+workspace xml property name aspect path notification shown value true,0
+workspace xml window info anchor bottom id Log Analyzer order 11,0
+BasePage html table width 100 class jtrac,0
+pom xml version 6 1 1 version,0
+SpaceAllocatePage html wicket message key space allocate allocateUser,0
+project freeform xml label main resources label,0
+workspace xml option name HIGHLIGHT CONFLICTS value true,0
+index xml In very rare cases where people run out of custom fields it is invariably for free text fields,0
+jetty xml Set name stopAtShutdown true Set,0
+checkstyle xml module name MagicNumber,0
+SvnStatsPage html td input type submit value Submit td,0
+build xml replace file src pkg dir HomePage java token project name value project name,0
+index xml especially in the areas of workflow and field level permissions and compares well to even,0
+DashboardRowExpandedPanel html td class icon wicket id new,0
+workspace xml component name ToolWindowManager,0
+site xml item name Source Code href source repository html,0
+build xml target name checkstyle depends checkstyle init,0
+ide targets xml nbjpdastart name selected files addressproperty jpda address transport dt socket,0
+index xml use any database ulink url http www hibernate org 80 html supported by Hibernate ulink,0
+applicationContext xml bean id sessionFactory class org springframework orm hibernate3 LocalSessionFactoryBean,0
+jetty xml Set name Password OBF 1vny1zlo1x8e1vnw1vn61x8g1zlu1vn4 Set,0
+pom xml version 2 2 0 version,0
+index xml no binaries JAR files need to be checked into version control at all,0
+DashboardRowExpandedPanel html td wicket id totalTotal class selected a href wicket id total a td,0
+jtrac api servlet xml bean id restController class info jtrac web RestMultiActionController,0
+webdefault xml url pattern jspx url pattern,0
+jetty xml Array type org mortbay jetty Connector,0
+SpacePermissionsPage html td wicket id role class transition td,0
+CasLoginErrorPage html a href jtrac app Home a,0
+checkstyle xml module name RedundantModifier,0
+index xml title Why start with version 2 0 What about 1 0 title,0
+site xml item name Download href http sourceforge net project showfiles php group id 162983 amp package id 184104,0
+index xml using the ulink url http tmate org svn JavaSVN ulink library and this will enable effective,0
+index xml sect1 id introduction about,0
+pom xml version 1 3 7 version,0
+ItemRelateRemovePage html span wicket id relatingDialog span,0
+build xml replace file target project name pom xml token project name value project name,0
+index xml but as of early 2007 version 2 1 0 onwards JTrac,0
+ItemListPanel html table class jtrac width 100,0
+SpaceListPage html td wicket id edit align center,0
+CustomFieldsFormPanel html td class label,0
+index xml version 2 4 compliant servlet engine is sufficient for deployment,0
+webdefault xml param name acceptRanges param name,0
+index xml There is a limit to how many custom fields of each type that you can configure for a Space,0
+SpaceFieldFormPage html table class jtrac,0
+UserListPage html th wicket message key user list loginName th,0
+UserFormPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+index xml ulink url http www hsqldb org HSQLDB ulink Please refer to the,0
+build xml attribute name includes default Test java,0
+build xml xslt in target reports jtrac items jtl out target reports jtrac items html,0
+ExcelImportPage html span wicket id feedback span,0
+ItemViewFormPanel html span wicket id hide,0
+build xml project name project name basedir,0
+build xml path id test classpath,0
+ConfigListPage html th wicket message key config list parameter th,0
+build xml arg value dist doc dir html single index html,0
+build xml fileset dir tomcat home webapps war name,0
+applicationContext xml bean class info jtrac hibernate SchemaHelper,0
+index xml ulink url http dev mysql com doc connector j en connector j usagenotes j2ee html connector j usagenotes tomcat not recommended ulink,0
+site xml item name Developers href team list html,0
+ItemListPanel html span wicket id pages,0
+pom xml name The Apache Software License Version 2 0 name,0
+misc xml component name ProjectRootManager version 2 languageLevel JDK 1 8 project jdk name 1 8 project jdk type JavaSDK,0
+build xml target name pmd depends pmd init,0
+jetty xml New id defaultHandler class org mortbay jetty handler DefaultHandler,0
+ItemListPanel html td wicket id columns span wicket id column span td,0
+UserListPage html th wicket message key user list locale th,0
+build xml zipfileset dir etc includes bat prefix jtrac,0
+index xml sect2 id installation cas webxml,0
+jetty xml Set name requestLog,0
+compiler xml module name jtrac,0
+webdefault xml an existing servlet or as a class name of a new servlet,0
+workspace xml option value PROJECT DIR idea compiler xml,0
+build xml include name jar,0
+build xml target name jetty setup dev unless production mode,0
+DashboardPage html td wicket id loggedByMe a href wicket id loggedByMe a td,0
+index xml password admin,0
+build xml target name jetty start production mode depends jetty set production mode jetty setup,0
+index xml easily customize a version that meets your requirements A few people have reported having,0
+site xml menu name Documentation,0
+index xml sect1 id features ldap,0
+index xml sect1 id features search,0
+pom xml name jetty start name,0
+applicationContext xml property name mappingResources value jtrac hbm xml,0
+ItemRelatePanel html table class jtrac width 100,0
+index xml preface id preface,0
+index xml JTrac logo is shown If the jtrac edit item configuration item is set to true people may,0
+applicationContext scheduler xml property name period value 300000,0
+LoginPage html td class label wicket message key login password td,0
+UserFormPage html wicket message key user form fullName,0
+web xml url pattern url pattern,0
+site xml item name Fisheye href http fisheye3 cenqua com browse j trac,0
+build xml arg value doc src dir src index xml,0
+ItemViewPanel html td class label,0
+workspace xml component name masterDetails,0
+jtrac api servlet xml property name mappings,0
+checkstyle xml module name WhitespaceAfter,0
+webdefault xml param name redirectWelcome param name,0
+checkstyle xml module name AvoidStarImport,0
+IndividualHeadPanel html td align left b div wicket id message text goes here div b td,0
+project javaee xml type org netbeans modules web project type,0
+DashboardPage html td wicket id total class selected a href wicket id total a td,0
+applicationContext acegi xml property name passwordEncoder ref passwordEncoder,0
+index xml Context docBase catalina home jtrac jtrac war,0
+ItemFormPage html th align center wicket message key item form notifyByEmail th,0
+SpacePermissionsPage html span wicket id workflow span,0
+pom xml name JTrac Mailing List name,0
+applicationContext scheduler xml property name delay value 60000,0
+YuiDialog html div class bd wicket id content div,0
+build xml target name dist jtrac depends dist init war jetty setup,0
+pom xml artifactId jtrac artifactId,0
+index xml the Complete field is editable even when the status is Open,0
+project freeform xml name project name name,0
+build xml target name tomcat start debug depends war exploded tomcat,0
+SpaceFieldListPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+pom xml name Manfred Wolff name,0
+LogoutPage html td class info wicket message key logout message td,0
+index xml Of course it is recommended that you change the default password as soon as possible,0
+compiler xml project version 4,0
+DashboardRowExpandedPanel html td wicket id total a href wicket id total a td,0
+UserListPage html tr wicket id users,0
+workspace xml option name width value 1936,0
+ItemSearchFormPanel html wicket fragment wicket id dateField span wicket id value span span wicket id value2 span wicket fragment,0
+build xml condition property debug value false else true,0
+build xml target name hsqldb manager,0
+jtrac hbm xml class name Metadata table metadata,0
+build xml target name test depends compile test,0
+ConfigPasswordFormPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+build xml jvmarg value Dcatalina home tomcat home,0
+ExcelImportPage html form wicket id form,0
+UserFormPage html span wicket id hideSendNotifications,0
+build xml macrodef name test macro,0
+index xml sect1 id installation custom,0
+build xml include name jetty xml,0
+checkstyle xml module name TodoComment,0
+OptionsPage html img src resources spaces gif class nav link wicket message key options manageSpaces,0
+checkstyle xml module name LineLength,0
+jetty xml Array type java lang String,0
+index xml and you should try and have a separate user for the database used by JTrac,0
+index xml manage user stories or use cases for agile development teams,0
+index xml system clipboard The user should be able to annotate e g highlight a particular area of the,0
+build xml target name dist init,0
+index xml ulink url http jetty mortbay org Jetty ulink that has a very small footprint,0
+index xml sect1 id roadmap mylar,0
+index xml jdbc hsqldb file jtrac Otherwise replace the jtrac part in the URL with the relative or,0
+build xml target name tomcat reload depends war exploded tomcat,0
+ItemListPanel html span wicket id count img src resources search gif class nav link a href span wicket id count span span wicket id recordsFound span a span nbsp,0
+build xml target name tomcat stop,0
+applicationContext xml property name flushMode,0
+workspace xml list default true id 8966d35a 8dcf 40f7 a393 c277ad115cf2 name Default Changelist comment,0
+checkstyle xml module name InterfaceIsType,0
+build xml target name jetty start depends jetty setup,0
+SpaceFieldFormPage html td class label wicket message key space field form internalName td,0
+workspace xml window info anchor bottom id Docker order 7 show stripe button false,0
+jetty xml Set name port SystemProperty name jetty port default 8080 Set,0
+ItemViewPanel html wicket message key item view relatedItems,0
+applicationContext lucene xml property name location value file jtrac home indexes,0
+index xml In order to integrate JTrac with ulink url http www ja sig org products cas CAS ulink,0
+index xml sect2 id installation custom systemparams,0
+web xml url pattern casProxy url pattern,0
+web xml servlet class edu yale its tp cas proxy ProxyTicketReceptor servlet class,0
+index xml ulink url http ptrthomas wordpress com 2006 04 18 another way to integrate maven 2 with ant and netbeans this blog post ulink,0
+index xml with a status of Open Notice also how the Complete field is added as a column to the History,0
+SpacePermissionsPage html td wicket id fieldHeads class info input type image wicket id field td,0
+index xml imagedata align center fileref images percent complete field png,0
+OptionsPage html div wicket id profile,0
+build xml target name hbm export depends compile,0
+index xml called jtrac Using the default root user is obviously not advisable from a security point of view,0
+build xml property name debug value true,0
+index xml sect1 id roadmap reporting,0
+build xml target name clean db,0
+webdefault xml servlet id jsp,0
+index xml ldap activeDirectoryDomain MYDOMAIN,0
+jtrac api servlet xml property name sessionFactory ref sessionFactory,0
+jtrac hbm xml class name Space table spaces,0
+index xml sect1 id faq morecustomfields,0
+compiler xml outputRelativeToContentRoot value true,0
+UserAllocatePage html table class jtrac,0
+jtrac hbm xml class name ItemUser table item users,0
+ItemSearchFormPanel html td align center wicket message key item filter showColumn td,0
+index xml sect1 id installation ldap,0
+compiler xml profile name Maven default annotation processors profile enabled true,0
+pom xml url http ptrthomas wordpress com url,0
+jtrac hbm xml property name locked column locked,0
+webdefault xml param name org mortbay jetty servlet SessionDomain param name,0
+SpaceFieldOptionPage html input type submit wicket message value submit,0
+vcs xml project version 4,0
+applicationContext acegi cas xml http jtrac info doc html installation html installation cas,0
+build xml input message Release Version addproperty version,0
+jetty xml Set name resourceBase SystemProperty name jetty home default modules jetty target site apidocs Set,0
+build xml target name pmd console dump,0
+checkstyle xml module name IllegalImport defaults to sun packages,0
+web xml filter name acegi filter name,0
+SpaceFieldListPage html th wicket message key space fields move th,0
+applicationContext lucene xml bean id searcherFactory class org springmodules lucene search factory SimpleSearcherFactory,0
+build xml zipfileset dir target site doc prefix jtrac doc,0
+index xml the generic issue tracking web application This document is not only a user guide,0
+build xml target name findbugs console dump,0
+SpaceFieldFormPage html td class label,0
+jtrac hbm xml property name cusInt09 column cus int 09,0
+pom xml artifactId spring dao artifactId,0
+jetty xml Set name connectors,0
+compiler xml sourceTestOutputDir name target generated test sources test annotations,0
+web xml res type javax mail Session res type,0
+index xml sect1 id dev eclipse,0
+ExcelImportColumnPage html span wicket id feedback span,0
+SpacePermissionsPage html span wicket id label span,0
+checkstyle xml module name MethodLength,0
+ExcelImportSpacePage html wicket message key excel view selectSpace,0
+webdefault xml version 2 5,0
+SpaceFieldOptionPage html form wicket id form,0
+applicationContext acegi cas xml property name filterProcessesUrl value auth j acegi cas security check,0
+RoleAllocatePanel html span wicket id checkGroup,0
+applicationContext xml property name indexer ref indexer,0
+index xml sect1 id introduction releasenotes 2 2,0
+index xml para Experimental Subversion support commits per user report para,0
+ItemListPage html span wicket id relate span,0
+web xml xml version 1 0 encoding UTF 8,0
+LoginPage html table width 100 class jtrac,0
+build xml target name doc pdf depends copy images,0
+build xml copy tofile filter java file etc ReloadingWicketFilter java,0
+SpaceListPage html td wicket id allocate align center a href img src resources users gif a td,0
+index xml wrapper log file in the jtrac logs folder for troubleshooting,0
+index xml options screen and this takes effect the instant the user saves his profile,0
+SvnStatsPage html td class label Password td,0
+SpacePermissionsPage html table class jtrac style empty cells show,0
+index xml chapter id dev guide,0
+ItemFormPage html td wicket id itemUsers td,0
+index xml ulink url http www acegisecurity org guide springsecurity html cas client Acegi documentation on CAS integration ulink,0
+workspace xml window info id Favorites order 4 side tool true,0
+ItemViewPanel html span wicket id relatingItems,0
+UserListPage html th wicket message key user list allocateSpaceRole th,0
+build xml target name doc html depends copy images,0
+applicationContext lucene xml bean id indexFactory class org springmodules lucene index support SimpleIndexFactoryBean,0
+jetty xml Set name UserRealms,0
+ItemSearchFormPanel html input type checkbox wicket id visible,0
+ide targets xml xml version 1 0 encoding UTF 8,0
+index xml as custom fields,0
+index xml sect1 id installation upgrading,0
+index xml xml version 1 0 encoding UTF 8,0
+index xml https j trac svn sourceforge net svnroot j trac trunk jtrac,0
+index xml sect1 id interim notes,0
+build xml target name test coverage depends emma init compile test,0
+LogoutPage html td class info align center a href app login wicket message key logout login a td,0
+build xml target name war exploded tomcat depends compile,0
+web xml param value info jtrac wicket JtracApplication param value,0
+ExcelImportPage html tr wicket id rows,0
+jetty xml Set name Keystore SystemProperty name jetty home default etc keystore Set,0
+site xml item name Features href doc html features html,0
+SvnStatsPage html form wicket id form,0
+ItemViewPanel html span wicket id message span,0
+jtrac hbm xml property name cusStr02 column cus str 02,0
+web xml param value DEPLOYMENT param value,0
+ConfigListPage html div class heading wicket message key config list configurationSettings div,0
+OptionsPage html img src resources users gif class nav link wicket message key options manageUsers,0
+index xml In addition to be able to search within a single space project JTrac allows for searching across,0
+IndexRebuildPage html a href wicket id cancel img src resources cancel gif class nav link wicket message key cancel a,0
+index xml where all the other images used by JTrac are kept JTrac uses a single CSS file called jtrac css,0
+pom xml xml version 1 0 encoding UTF 8,0
+applicationContext lucene xml bean id indexer class info jtrac lucene Indexer,0
+applicationContext acegi cas xml bean id serviceProperties class org acegisecurity ui cas ServiceProperties,0
+project freeform xml action name rebuild,0
+ItemViewFormPanel html td class label wicket message key item view form assignTo td,0
+misc xml component name ExternalStorageConfigurationManager enabled true,0
+index xml and customize the location of jtrac home Note that you can choose to deploy JTrac as an exploded war,0
+build xml dependency groupId pmd artifactId pmd version 4 1 1,0
+index xml ulink url http www ja sig org products cas Central Authentication Service ulink CAS installation,0
+LoginPage html input type submit wicket message value login submit,0
+ItemFormPage html form wicket id form,0
+pom xml finalName jtrac finalName,0
+checkstyle xml property name protectedAllowed value true,0
+build xml zipfileset dir etc prefix jtrac etc,0
+compiler xml xml version 1 0 encoding UTF 8,0
+ItemSearchFormPanel html td wicket id fragParent td,0
+build xml compilerarg value Xlint deprecation,0
+pom xml name project name name,0
+BasePage html link rel icon type image x icon href favicon ico,0
+plugin xml label JTrac Repository,0
+DashboardRowPanel html td wicket id assignedToMe a href wicket id assignedToMe a td,0
+site xml item name F A Q href doc html faq html,0
+checkstyle xml module name FileLength,0
+pom xml url license txt url,0
+index xml You can download Java from here ulink url http www java com download,0
+checkstyle xml module name DoubleCheckedLocking,0
+build xml copy todir target project name file etc pom xml,0
+IndividualHeadPanel html table width 100 class jtrac alt padding 4,0
+project freeform xml action name debug single,0
+applicationContext xml xml version 1 0 encoding UTF 8,0
+jetty xml Set name name Test Realm Set,0
+plugin xml class info jtrac mylyn JtracRepositoryConnector,0
+UserFormPage html td class label,0
+index xml For security reasons it is best that you change the default admin password after installing,0
+index xml field that can be updated at any time during the life cycle of an item The screenshot below,0
+index xml sect1 id installation jndi datasource,0
+index xml In the latest version of JTrac it is possible to import items from an Excel sheet See this YouTube video for a demo,0
+pom xml exclude info jtrac selenium exclude,0
+checkstyle xml module name LocalVariableName,0
+project freeform xml action name test single,0
+pom xml exclude info jtrac test exclude,0
+project freeform xml type java type,0
+index xml sect1 id faq password,0
+index xml is an option available to admin users,0
+index xml ulink url http www acegisecurity org Acegi Security ulink framework for Spring The presentation,0
+build xml projectFile target jtrac fbp output xml withMessages outputFile target reports findbugs xml,0
+LogoutPage html link rel stylesheet type text css href resources jtrac css,0
+jetty xml Set name sendServerVersion true Set,0
+build xml zipfileset dir includes txt prefix jtrac,0
+index xml ulink url http sourceforge net forum forum php forum id 552477 JTrac forums ulink for help,0
+DashboardRowPanel html td wicket id total class selected a href wicket id total a td,0
+build xml attribute name emmaEnabled default false,0
+build xml target name findbugs depends compile,0
+index xml jtrac home The db folder will contain a jtrac script file There may also be a jtrac log,0
+index xml title Why does JTrac have a limit on custom fields I really need more title,0
+index xml ulink url http j trac svn sourceforge net viewvc j trac trunk jtrac src main resources,0
+index xml mean that at these points in the workflow a user with the given role can assign only to other roles,0
+jtrac hbm xml property name cusInt04 column cus int 04,0
+applicationContext xml prop key PROPAGATION SUPPORTS readOnly prop,0
+index xml sect1 id features guest,0
+index xml sect1 id roadmap sso,0
+checkstyle xml property name allowMissingParamTags value true,0
+SpaceFieldFormPage html tr wicket id options,0
+jtrac hbm xml property name timeStamp column time stamp,0
+web xml filter,0
+workspace xml option name mavenHome value D apache maven 3 6 1,0
+workspace xml option name generalSettings,0
+SpaceFormPage html tr wicket id hide,0
+build xml condition property maven repo local value maven repo local else user home m2 repository,0
+web xml param name contextConfigLocation param name,0
+jtrac hbm xml key column item id,0
+OptionsPage html div wicket id import,0
+index xml sect1 id upgrading war,0
+webdefault xml url pattern JSP url pattern,0
+build xml project name wicket qs basedir default main,0
+index xml sect1 id roadmap svn,0
+applicationContext acegi cas xml property name providers,0
+ItemListPanel html a href wicket id exportToXml wicket message key item list exportToXml a,0
+checkstyle xml module name NewlineAtEndOfFile,0
+plugin xml xml version 1 0 encoding UTF 8,0
+DashboardRowPanel html a href wicket id new,0
+ItemViewPanel html td class label wicket message key item view loggedBy td,0
+OptionsPage html table class jtrac,0
+LogoutPage html table class jtrac,0
+ItemRelatePanel html wicket message key item view form comment,0
+jtrac hbm xml property name priority column priority,0
+SpaceFieldListPage html input type image wicket id up src resources up gif,0
+index xml sect1 id roadmap timetracking,0
+index xml sect1 id installation settings,0
+index xml JTrac development used to be hosted at ulink url https jtrac dev java net but moved to SourceForge,0
+OptionsPage html img src resources import gif class nav link wicket message key options importFromExcel,0
+applicationContext xml property name hibernateProperties,0
+OptionsPage html td class menu option,0
+index xml ulink url http tomcat apache org Tomcat ulink you can just drop in the WAR file,0
+workspace xml option name ruleStates,0
+jtrac hbm xml set name relatedItems cascade all inverse true,0
+index html html head meta http equiv REFRESH content 0 url app head html,0
+index xml available in the link linkend upgrading upgrading link section of this document The bundled,0
+index xml para Example of a custom field that can be updated even when status is Open para,0
+web xml context param,0
+index xml customize the validation query by adding a database validationQuery property in jtrac properties,0
+SpaceFieldFormPage html span wicket id feedback span,0
+ExcelImportPage html span wicket id cell span,0
+ExcelImportPage html td input type checkbox wicket id check td,0
+applicationContext xml property name passwordEncoder ref passwordEncoder,0
+ide targets xml target name nb debug if netbeans home,0
+index xml JTrac uses the ulink url http www acegisecurity org Acegi Security ulink,0
+pom xml version 1 0 SNAPSHOT version,0
+webdefault xml param value 1000 param value,0
+ItemViewFormPanel html table class jtrac,0
+workspace xml window info anchor bottom id Run order 2,0
+ItemViewPage html table class jtrac width 100,0
+workspace xml entry file file PROJECT DIR jtrac src main java info jtrac wicket LoginPage html,0
+LogoutPage html title wicket id title title,0
+index xml the spaces assigned to the currently logged in user,0
+project freeform xml type doc root type,0
+web xml open session should be above the wicket filter,0
+web xml url pattern flow url pattern,0
+web xml param name edu yale its tp cas proxyUrl param name,0
+workspace xml window info content ui combo id Project order 0 weight 0 25,0
+checkstyle xml module name EmptyBlock,0
+ConfigFormPage html form wicket id form,0
+index xml database hsqldb x x x jar will be available in the jtrac war file within lib,0
+SpaceFieldListPage html table class jtrac,0
+build xml target name dist depends clean dist doc dist jtrac dist jtrac src,0
+jtrac hbm xml set name relatingItems inverse true,0
+index xml sect1 id faq references,0
+jetty xml Set name maxInactiveInterval 600 Set,0
+index xml and you can define custom fields to track almost anything you need,0
+pom xml version 3 2 5 ga version,0
+ItemViewFormPanel html th align center wicket message key item view form notifyByEmail th,0
+checkstyle xml module name TypecastParenPad,0
+pom xml version 1 0 1B rc4 version,0
+applicationContext xml bean id passwordEncoder class org acegisecurity providers encoding Md5PasswordEncoder,0
+OptionsPage html img src resources refresh gif class nav link wicket message key options rebuildIndexes,0
+web xml filter class org springframework orm hibernate3 support OpenSessionInViewFilter filter class,0
+jetty xml Set name Acceptors 1 Set,0
+build xml jvmarg value wicketConfig,0
+applicationContext acegi cas xml property name userDetailsService ref jtrac,0
+checkstyle xml module name PackageName,0
+SpaceRolePage html div wicket id feedback div,0
+build xml macrodef name war exploded,0
+AttachmentLinkPanel html span wicket id attachment a href target blank img src resources attachment gif class nav link span wicket id fileName span a span,0
+pom xml version 1 0 3 version,0
+index xml You can use this nice open source tool called ulink url https prbeditor dev java net PRBEditor ulink,0
+build xml zipfileset dir includes prefix jtrac,0
+index xml To install JTrac as a windows service open a command prompt change to the jtrac directory,0
+ItemFormPage html wicket message key item form detail,0
+jtrac hbm xml class name Item table items,0
+index xml You can even choose to use the ulink url http mortbay org maven plugin maven jetty plugin ulink by,0
+index xml Uncomment the filter and filter mapping XML for the acegi FilterToBeanProxy,0
+jtrac hbm xml class name Attachment table attachments,0
+ConfigFormPage html table class jtrac,0
+index xml para Setting up of a drop down custom field called Complete para,0
+build xml zip destfile target jtrac src zip,0
+ExcelImportPage html wicket message key excel upload uploadExcelFile,0
+workspace xml property name nodejs npm path reset for default project value true,0
+build xml target name jetty setup depends war exploded xmlns artifact urn maven artifact ant,0
+build xml scp file target jtrac war,0
+checkstyle xml module name UnusedImports,0
+index xml sect1 id dev antprops generate,0
+jtrac hbm xml class name Tag table tags,0
+build xml dependency groupId org mortbay jetty artifactId start version 6 1 1,0
+jtrac api servlet xml entry key value ref defaultController,0
+index xml For example if you are using ulink url http tomcat apache org Apache Tomcat ulink 5 5 X you can,0
+OptionsPage html div wicket id settings,0
+webdefault xml servlet name jsp servlet name,0
+index xml ulink url http wrapper tanukisoftware org Java Service Wrapper ulink project For convenience,0
+applicationContext acegi cas xml property name loginUrl value https localhost 8443 cas login,0
+misc xml output url file PROJECT DIR out,0
+index xml ldap url ldap myldaphost,0
+SpaceStatePage html input wicket id stateName,0
+index xml If the system responds with a java version that is 1 5 or greater you are ready to download and run JTrac,0
+index xml This would be ideal to track things such as mapping bugs to software release version numbers,0
+index xml ulink url http java sun com j2se 1 5 0 docs guide intl locale doc html here ulink Note that country,0
+workspace xml component name TaskManager,0
+jtrac hbm xml property name cusTim02 column cus tim 02,0
+applicationContext scheduler xml property name timerTask ref local hourlyTask property,0
+ItemFormPage html wicket message key item form assignTo,0
+pom xml groupId info jtrac groupId,0
+build xml target name confirm,0
+build xml zipfileset dir src prefix jtrac src,0
+jtrac hbm xml property name cusStr03 column cus str 03,0
+build xml fileset dir tomcat home work Catalina localhost war name,0
+workspace xml option name importingSettings,0
+index xml sect1 id introduction releasenotes,0
+workspace xml entry file file PROJECT DIR jtrac src main webapp WEB INF applicationContext xml,0
+build xml zipfileset dir etc includes jtrac hsqldb to mysql bsh prefix jtrac etc,0
+applicationContext xml property name hibernateTemplate,0
+build xml jvmarg value Xnoagent,0
+applicationContext lucene xml property name searcherFactory ref searcherFactory,0
+webdefault xml url pattern jspf url pattern,0
+jtrac api servlet xml property name alwaysUseFullPath value true,0
+jtrac hbm xml property name actualEffort column actual effort,0
+SpaceStatePage html span wicket id label span,0
+jetty xml Set name SessionManager,0
+index xml for single sign on As of version 2 1 0 JTrac supports LDAP authentication out of the box This needs to be,0
+site xml menu name JTrac,0
+ExcelImportRowPage html th wicket id heading th,0
+jetty xml Use this connector for few very active connections ONLY IF,0
+jtrac api servlet xml entry key api value ref restController,0
+ItemFormPage html wicket message key item form editReason,0
+pom xml url scp shell sourceforge net home groups j j j trac htdocs url,0
+ItemRelateRemovePage html form wicket id form,0
+web xml filter mapping,0
+jtrac hbm xml property name cusInt03 column cus int 03,0
+webdefault xml param value param value,0
+webdefault xml param name logVerbosityLevel param name,0
+workspace xml component name Git Settings,0
+ide targets xml target name nb run single depends nb selection compile test,0
+SpaceStatePage html wicket message key space state form editState,0
+ExcelImportPage html table class jtrac width 100 style font size 85,0
+UserFormPage html table class jtrac,0
+index xml using the ulink url http wicket apache org Apache Wicket ulink framework,0
+index xml This directory is logically called the jtrac home When you do a quick install of JTrac,0
+applicationContext lucene xml property name analyzer ref analyzer,0
+index xml You should also uncomment the associated context param called edu yale its tp cas proxyUrl,0
+index xml sect1 id installation prerequisites,0
+build xml target name test single method depends compile test,0
+build xml cannot be used when jtrac application is connected,0
+ItemFormPage html tr wicket id hideEditReason,0
+ItemViewPanel html table class jtrac jtrac view width 100,0
+checkstyle xml module name ArrayTypeStyle,0
+pom xml url http nexus openqa org content repositories releases url,0
+index xml within the jtrac home folder Note that if JTrac does not find a jtrac properties file in the,0
+LoginPage html td a href app wicket message key login home a td,0
+applicationContext lucene xml property name directory ref indexDirectory,0
+index xml Plenty Have a look at this page ulink url http j trac wiki sourceforge net references http j trac wiki sourceforge net references ulink,0
+site xml item name License href license html,0
+workspace xml component name DefaultGradleProjectSettings,0
+project freeform xml action name debug fix,0
+build xml target name tomcat war exploded depends war exploded,0
+pom xml JTrac is a generic issue tracking web application that can be easily customized by adding custom fields,0
+applicationContext lucene xml bean id indexDirectory class org springmodules lucene index support FSDirectoryFactoryBean,0
+build xml jvmarg value Xrunjdwp transport dt socket address 8000 server y suspend n,0
+ItemViewFormPanel html th align center wicket message key item view form attachment th,0
+build xml property key checkstyle header file file etc header txt,0
+pom xml connection scm svn https j trac svn sourceforge net svnroot j trac trunk jtrac connection,0
+build xml zip destfile target jtrac zip,0
+workspace xml find wicket id quot fields quot find,0
+web xml filter class org acegisecurity util FilterToBeanProxy filter class,0
+index xml There are no database changes between version 2 0 and 2 1 0 Instructions on how to upgrade are,0
+workspace xml component name SvnConfiguration,0
+LogoutPage html table width 100 class jtrac alt,0
+workspace xml change beforePath PROJECT DIR jtrac src main java info jtrac domain Metadata java beforeDir false afterPath PROJECT DIR jtrac src main java info jtrac domain Metadata java afterDir false,0
+ItemListPanel html th wicket id headings span wicket id heading a href wicket id heading a span th,0
+site xml item name Installation href doc html installation html,0
+OptionsPage html div class heading wicket message key options optionsMenu div,0
+DashboardPage html th style width 4 5em wicket message key dashboard all th,0
+web xml url pattern api url pattern,0
+build xml zip destfile target war name war basedir target war name,0
+ExcelImportRowPage html jtrac textarea font size 120,0
+index xml ulink url http ptrthomas wordpress com 2006 03 25 how to start and stop tomcat from ant Ant script ulink,0
+workspace xml entry file file PROJECT DIR jtrac src main java info jtrac wicket ItemViewPanel html,0
+index xml This appears towards the start of the file in the contextConfigLocation context param,0
+index xml ulink url http maven apache org plugins maven war plugin directly build the war file ulink without Ant,0
+workspace xml entry file file PROJECT DIR jtrac src main java info jtrac wicket RoleAllocatePanel html,0
+index xml form of a connector Eclipse plugin is currently being implemented The remote API mentioned above is,0
+index xml the development version,0
+pom xml version 1 1 beta 9 version,0
+build xml path id findbugs classpath,0
+index xml script for updating the database would then be provided It may also happen that upgrading the Jetty version would be,0
+index xml ulink url https lists sourceforge net lists listinfo j trac users mailing list ulink,0
+ConfigListPage html th wicket message key config list description th,0
+pom xml id openqa org id,0
+index xml ulink url http www hibernate org Hibernate ulink project Thanks go out to all those who,0
+build xml jvmarg value Dhibernate dialect dialect,0
+build xml bottom CDATA i JTrac i a href http jtrac info http jtrac info a bottom,0
+build xml arg value xml,0
+jetty xml Arg Ref id contexts Arg,0
+build xml arg value doc src dir styles fopdf xsl,0
+ItemListPanel html span wicket id pagination class page links,0
+SpaceFieldFormPage html td a href wicket id down img src resources down gif a td,0
+SpaceListPage html table class jtrac,0
+index xml A couple of extra entries in jtrac properties are required in order to configure LDAP authentication,0
+index xml configured database is not detected ulink url http www hsqldb org HSQLDB ulink is used by,0
+ExcelImportRowPage html table class jtrac style font size 85,0
+ExcelImportColumnPage html select wicket id column,0
+build xml target name dist doc,0
+build xml include name webdefault xml,0
+index xml with both Status and Role dependent field level permissions and you can do all this within a,0
+CasLoginErrorPage html div class error wicket message key login error div,0
+index xml ulink url http opensource atlassian com confluence spring display WEBFLOW Home Spring WebFlow ulink,0
+jetty xml Set name lowResourceMaxIdleTime 3000 Set,0
+ide targets xml target name nb debug single depends nb jpdastart compile test,0
+index xml Get the latest beanshell jar file 300 KB from here ulink url http www beanshell org bsh 2 0b4 jar,0
+webdefault xml url pattern JSPF url pattern,0
+workspace xml states,0
+build xml jmeter jmeterhome jmeter home testplan src test jmeter jtrac items jmx resultlog target reports jtrac items jtl,0
+index xml JTrac also has flexible workflow capabilities and offers a rare level of control over field level,0
+build xml target name selenium stop,0
+applicationContext acegi cas xml property name filterInvocationDefinitionSource,0
+ItemFormPage html wicket message key item form sendNotifications,0
+workspace xml entry file file PROJECT DIR jtrac src main webapp WEB INF applicationContext acegi xml,0
+ItemSearchFormPanel html th wicket message key item search form resultsPerPage th,0
+checkstyle xml module name ConstantName,0
+build xml jvmarg value Djtrac webapp webapp,0
+build xml property name war name value project name,0
+build xml property key checkstyle cache file file target checkstyle cache,0
+index xml You can configure the database that JTrac uses by editing the jtrac properties file that JTrac expects,0
+ItemViewFormPanel html select option wicket message key item view form chooseStatus option select,0
+index xml sect1 id roadmap nested,0
+project freeform xml label main java label,0
+ItemViewPanel html th wicket message key item view assignedTo th,0
+index xml para Expanded statistics for a Space showing counts by workflow status para,0
+pom xml version 1 8 0 1 version,0
+pom xml version 1 0 2 version,0
+build xml dependency groupId emma artifactId emma version 2 0 5312,0
+checkstyle xml module name StaticVariableName,0
+jtrac hbm xml property name cusTim01 column cus tim 01,0
+index xml the WEB INF lib folder of the jtrac exploded WAR itself,0
+index xml within the workflow and that too at a field level This flexibility allows for some,0
+ItemViewFormPanel html td class label wicket message key item view form newStatus td,0
+index xml Using ulink url http www beanshell org Beanshell ulink users should be able to introduce custom routines,0
+pom xml version 1 3 1 version,0
+index xml ulink url http ntlmaps sourceforge net NTLMAPS ulink to check out from Subversion,0
+project freeform xml action name run single,0
+webdefault xml url pattern jsp url pattern,0
+UserListPage html th wicket message key user list userName th,0
+pom xml description,0
+workspace xml window info anchor right id Maven order 4,0
+index xml section so that the complete history of changes to this custom field can be viewed,0
+index xml sect1 id dev prerequisites,0
+index xml Refer the ulink url http maven apache org guides mini guide ide eclipse html Maven 2 documentation ulink,0
+ItemViewPanel html tr wicket id history valign top,0
+index xml ulink url http www hibernate org Hibernate ulink is used for data persistence This allows for,0
+project freeform xml label webapp label,0
+site xml item name Dev Guide href doc html dev guide html,0
+jtrac hbm xml property name nextSeqNum column next seq num,0
+workspace xml entry file file PROJECT DIR jtrac src main java info jtrac wicket UserFormPage html,0
+workspace xml entry file file PROJECT DIR jtrac src main java info jtrac wicket UserListPage html,0
+index xml to the JTrac web site at this URL ulink url http j trac sourceforge net files,0
+applicationContext xml prop key update PROPAGATION REQUIRED prop,0
+SvnStatsPage html table class jtrac,0
+ItemFormPage html th align center wicket message key item form attachment th,0
+index xml All status changes for an item will trigger e mail notifications by default,0
+index xml If you edit the jtrac properties file ensure that there are no trailing spaces in the entries shown above,0
+applicationContext acegi cas xml property name casProxyDecider ref casProxyDecider,0
+index xml The downloaded source code should contain a sample build properties file or you can look at the XML comment,0
+webdefault xml url pattern xsp url pattern,0
+index xml username admin,0
+index xml JTrac will attempt LDAP authentication if an ldap url config entry is present,0
+ItemFormPage html table class jtrac,0
+pom xml url http pointers de url,0
+index xml available in the link linkend upgrading upgrading link section of this document,0
+build xml jvmarg value Xmx256M,0
+applicationContext lucene xml xml version 1 0 encoding UTF 8,0
+index xml Note that if your proxy port is different from the default 80 you will have to add an http proxyPort,0
+index xml ulink url http www youtube com watch v T6GxZn4gNYM http www youtube com watch v T6GxZn4gNYM ulink,0
+webdefault xml param value 127 0 0 1 param value,0
+index xml used by the ulink url http www springframework org Spring ulink development team,0
+index xml data cleanup needed identify and load custom fields drop down values and finally import the items,0
+ExcelImportPage html wicket message key excel view selectedSpace,0
+pom xml version 0 8 version,0
+index xml Given below is a sample jtrac properties file for MySQL It assumes that you have created a new database,0
+index xml ulink url http www hibernate org Hibernate ulink for persistence and the,0
+ItemViewPanel html th wicket message key item view loggedBy th,0
+index xml Java has been installed correctly i e java is in the PATH and it is the expected 1 5 or greater version,0
+jetty xml Set name KeyPassword OBF 1u2u1wml1z7s1z7a1wnl1u2g Set,0
+build xml macrodef name checkstyle macro,0
+OptionsPage html img src resources settings gif class nav link wicket message key options manageSettings,0
+index xml scripts from here ulink url http j trac svn sourceforge net viewvc j trac trunk jtrac etc Look for files,0
+workspace xml foldersAlwaysOnTop value true,0
+index xml section of this document,0
+index xml ulink url http www beanshell org Beanshell ulink scripts bsh and would be always released within,0
+jetty xml Array type org mortbay jetty Handler,0
+jetty xml Set name lowThreads 25 Set,0
+jtrac api servlet xml prop key flow item view itemViewHandler prop,0
+index xml For each Space you can also drill down to a finer level of detail by clicking on the right arrow,0
+build xml target name jetty start profile depends jetty set production mode jetty setup if netbeans home,0
+index xml The navigation is designed so that you have the option to execute a search before selecting an,0
+workspace xml state key ProjectJDKs UI,0
+build xml dependency groupId emma artifactId emma ant version 2 0 5312,0
+project javaee xml minimum ant version 1 6 minimum ant version,0
+index xml ulink url http sourceforge net tracker atid 825943 amp group id 162983 here ulink,0
+applicationContext xml bean class info jtrac config JtracConfigurer,0
+index xml Open a command prompt and change to the jtrac folder Run the following command,0
+index xml ulink url http sourceforge net tracker atid 825943 amp group id 162983 JTrac patches tracker ulink,0
+LoginPage html wicket message key login rememberMe,0
+index xml that end with bsh e g jtrac hsqldb 2 0rc3 to 2 0 bsh,0
+index xml time every day This would allow triggers for events such as slippage of a due date field,0
+index xml The limit on custom fields is primarily for performance reasons especially where filtered searches,0
+index xml para Setting up custom fields for a project para,0
+index xml ulink url http www eclipse org mylyn Mylyn ulink previously known as Mylar integration in the,0
+build xml dependency groupId org mortbay jetty artifactId jetty version 6 1 1,0
+jetty xml Use this connector if NIO is not available,0
+ExcelImportColumnPage html wicket message key excel view columnData,0
+DashboardPage html th colspan 2 wicket message key dashboard action th,0
+index xml a complex workflow involving multiple states,0
+index xml Please refer to the link linkend upgrading upgrading link section of this document,0
+applicationContext xml prop key hibernate show sql hibernate show sql prop,0
+index xml para Bugs ulink url http sourceforge net tracker atid 825941 amp group id 162983 ulink para,0
+SpaceListPage html th wicket message key space list users th,0
+index xml This can be combined with e mail notifications Also a daily dashboard summary could be mailed out once,0
+ConfigListPage html th wicket message key config list value th,0
+applicationContext xml prop key store PROPAGATION REQUIRED prop,0
+index xml If you choose to use the bundled ulink url http jetty mortbay org Jetty ulink web application,0
+ExcelImportColumnPage html th wicket message key excel view mapTo th,0
+index xml individual logo on the right side jtrac header text If no logo is set the original,0
+index xml the scheduler is in place As of version 2 1 0 the scheduler is already in place for those,0
+index xml For details see the ulink url https sourceforge net projects j trac different tracker at,0
+webdefault xml url pattern XSP url pattern,0
+web xml url pattern auth url pattern,0
+index xml absolute path of where the jtrac script file exists on your file system,0
+web xml version 2 4,0
+index xml also provided in the link linkend upgrading upgrading link section of this document,0
+index xml JTrac provides an ample number of custom fields which can be used for all kinds of tracking needs,0
+index xml within the root folder jtrac The data directory will contain the files needed by HSQLDB,0
+index xml The option to add related items is available when viewing an item after it is created,0
+index xml JTrac provides also other settings for an individual Headline jtrac header text and an,0
+jetty xml Arg jtrac Arg,0
+ExcelImportColumnPage html th wicket message key excel view distinctValues th,0
+applicationContext xml entry key merge,0
+index xml The service layer uses the ulink url http www springframework org Spring Framework ulink,0
+IndexRebuildPage html wicket message key index rebuild warning,0
+SpaceFieldListPage html th wicket message key edit th,0
+project freeform xml label Stop Tomcat label,0
+index xml two states Open and Closed However with just a few mouse clicks you can turn this into,0
+LogoutPage html td a href app wicket message key logout home a td,0
+index xml on custom fields,0
+ItemFormPage html wicket message key item form summary,0
+index xml This results in the Complete field being available for updating whenever anyone views an item,0
+applicationContext xml prop key bulkUpdate PROPAGATION REQUIRED prop,0

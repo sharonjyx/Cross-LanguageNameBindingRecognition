@@ -1,0 +1,88 @@
+serialVersionUID listId name rssAllowed lastUpdate todos users
+serialVersionUID listId name rssAllowed lastUpdate todos users
+serialVersionUID listId name rssAllowed lastUpdate todos users
+serialVersionUID listId name rssAllowed lastUpdate todos users
+serialVersionUID listId name rssAllowed lastUpdate todos users
+serialVersionUID listId name rssAllowed lastUpdate todos users
+serialVersionUID listId name rssAllowed lastUpdate todos users
+serialVersionUID listId name rssAllowed lastUpdate todos users
+serialVersionUID listId name rssAllowed lastUpdate todos users
+listId restoreChoice backupFile
+serialVersionUID login password verifyPassword firstName lastName email creationDate lastAccessDate enabled dateFormat roles todoLists
+serialVersionUID login password verifyPassword firstName lastName email creationDate lastAccessDate enabled dateFormat roles todoLists
+serialVersionUID login password verifyPassword firstName lastName email creationDate lastAccessDate enabled dateFormat roles todoLists
+serialVersionUID login password verifyPassword firstName lastName email creationDate lastAccessDate enabled dateFormat roles todoLists
+serialVersionUID login password verifyPassword firstName lastName email creationDate lastAccessDate enabled dateFormat roles todoLists
+serialVersionUID login password verifyPassword firstName lastName email creationDate lastAccessDate enabled dateFormat roles todoLists
+serialVersionUID login password verifyPassword firstName lastName email creationDate lastAccessDate enabled dateFormat roles todoLists
+serialVersionUID login password verifyPassword firstName lastName email creationDate lastAccessDate enabled dateFormat roles todoLists
+serialVersionUID login password verifyPassword firstName lastName email creationDate lastAccessDate enabled dateFormat roles todoLists
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID listId name rssAllowed lastUpdate todos users
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+staticContent googleAnalyticsKey log em userService transactionManager
+serialVersionUID todoId todoList creationDate description priority completed completionDate dueDate assignedUser notes hasNotes
+serialVersionUID listId name description rssAllowed
+serialVersionUID listId name description rssAllowed
+serialVersionUID listId name description rssAllowed
+serialVersionUID listId name description rssAllowed
+serialVersionUID listId name description rssAllowed
+listId restoreChoice backupFile
+serialVersionUID listId name description rssAllowed
+listId restoreChoice backupFile
+serialVersionUID listId name description rssAllowed
+listId restoreChoice backupFile
+serialVersionUID listId name description rssAllowed
+listId restoreChoice backupFile
+serialVersionUID listId name description rssAllowed
+listId restoreChoice backupFile
+serialVersionUID listId name rssAllowed lastUpdate todos users
+serialVersionUID listId name description rssAllowed
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID listId name description rssAllowed
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID listId name description rssAllowed
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID listId name description rssAllowed
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID listId name description rssAllowed
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin
+serialVersionUID listId name description rssAllowed
+todoListBackup todoList user em userService todoListsService
+todo todoList user todoListsService userService em todosService
+todoList todoListsService userService todoListsDwr
+staticContent googleAnalyticsKey log em userService transactionManager
+action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+serialVersionUID description priority dueDate hasNotes notes assignedUserLogin

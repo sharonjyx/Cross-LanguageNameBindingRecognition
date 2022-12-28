@@ -1,0 +1,549 @@
+show html p data th text jobTitle data th unless strings isEmpty profile jobTitle Rock,1
+edit info html p class help is danger data th if fields hasErrors bootConfigSource data th errors bootConfigSource,1
+edit html input class input data th classappend fields hasErrors lanyrdUsername is danger,1
+index html p class m data th text project display tagLine Very short one line description p,1
+edit html input class input data th classappend fields hasErrors jobTitle is danger,1
+index html img class proj icon data th src project display imagePath images projects spring svg,1
+edit html td input class input type text data th field downloads size downloadUrl td,1
+edit html td input class input type text data th field downloads size downloadUrl td,1
+index html img class proj icon data th src project display imagePath images projects spring svg,1
+show html div data th if strings isEmpty profile twitterUsername class twitter handle,1
+edit html td input class input type text data th field downloads size label td,1
+edit html td input class input type text data th field downloads size version td,1
+edit html data th errors speakerdeckUsername Incorrect Speakerdeck username p,1
+edit releases html td input class input type text data th field newRelease apiDocUrl td,1
+edit metadata html input class input data th classappend fields hasErrors parentProjectId is danger,1
+edit html td input class input type text data th field downloads downloadStat index variant td,1
+edit info html data th field bootConfigSource name bootConfigSource rows textarea,1
+edit html data th value downloads downloadStat index variant td,1
+index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible p,1
+project links html a href data th href project display siteUrl class project link,1
+edit info html textarea class textarea data th classappend fields hasErrors overviewSource is danger,1
+edit html type text data th field lanyrdUsername name lanyrdUsername placeholder username,1
+edit html p class help is danger data th if fields hasErrors twitterUsername,1
+edit html td input class input type text data th field downloads downloadStat index label td,1
+guide html li data th each project projects a data th href project display siteUrl data th text project name Spring Framework a li,1
+show html span data th if generation ossSupportEndDate null data th classappend generation ossSupportEndDate isBefore now past data th text generation ossSupportEndDate Jan span,1
+edit html tr data th each download downloadStat platform downloads,1
+list html p class date data th text temporals format event startTime yyyy MM dd p,1
+index html img class proj icon data th src project display imagePath images projects spring svg,1
+list html data th each download theia downloads data th href download downloadUrl strong data th text download label download version Spring Tools strong br span class smaller thin tt none Installation for Theia span a,1
+index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible p,1
+edit info html data th field overviewSource name overviewSource rows textarea,1
+edit html td input class input type text data th field downloads downloadStat index downloadUrl td,1
+edit html p class help is danger data th if fields hasErrors lanyrdUsername,1
+edit html p class help is danger data th if fields hasErrors speakerdeckUsername,1
+show html data th text profile twitterUsername div,1
+index html span data th text project display siteUrl projects spring framework span,1
+edit info html p class help is danger data th if fields hasErrors displaySiteUrl data th errors displaySiteUrl,1
+edit support html p class help is danger data th if fields hasErrors newGeneration initialReleaseDate,1
+show html span data th if generation ossSupportEndDate null class none span,1
+edit support html td input class input type text data th field newGeneration commercialSupportEnforcedEndDate placeholder Leave blank to use official policy,1
+edit html p class help is danger data th if fields hasErrors jobTitle data th errors name Incorrect,1
+new html p class help is danger data th if fields hasErrors parentProjectId data th errors parentProjectId,1
+new html input class input data th classappend fields hasErrors parentProjectId is danger,1
+edit info html type number min max data th field displaySortOrder name displaySortOrder,1
+edit html td input class input type text data th field downloads size variant td,1
+index html script id dsq count scr data th src disqusShortname disqus com count js async script,1
+community html p class date data th text temporals format event startTime yyyy MM dd p,1
+index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you,1
+edit info html type text data th field displaySiteUrl name displaySiteUrl placeholder projects spring boot,1
+edit samples html td input class input type number min max data th field newSample sortOrder td,1
+index html p class m data th text project display tagLine Very short one line description p,1
+show html data th attr data screen name profile twitterUsername data show replies false,1
+edit html data th classappend fields hasErrors speakerdeckUsername is danger,1
+guide html div class content title desktop only data th text guide typeLabel Getting Started div,1
+show html a data th if strings isEmpty profile twitterUsername,1
+edit info html p class help is danger data th if fields hasErrors displaySortOrder,1
+show html li class sidebar child data th each childProject proj subProjects,1
+show html div data th unless strings isEmpty profile twitterUsername class twitter handle,1
+edit releases html td input class input type text data th field newRelease version td,1
+edit support html p class help is danger data th if generation invalidCommercialSupportEndDate Defined end date does not comply with policy p td,1
+edit html data th value downloads downloadStat index variant td,1
+show html tr data th each generation project generationsInfo generations,1
+edit info html data th classappend fields hasErrors bootConfigSource is danger,1
+show html div data th utext project overview html div,1
+index html p class team member position data th text profile jobTitle Spring team member p,1
+edit samples html td textarea class textarea data th field newSample description textarea td,1
+show html div class content container wrapper data th unless strings isEmpty profile videoEmbeds,1
+show html div data th if strings isEmpty profile twitterUsername,1
+edit samples html td input class input type text data th field newSample url td,1
+edit html data th errors twitterUsername Incorrect Twitter username p,1
+edit html td input class input type text data th field downloads downloadStat index version td,1
+edit html data th errors lanyrdUsername Incorrect Lanyrd username p,1
+edit metadata html type text data th field parentProjectId name parentProjectId placeholder Parent project,1
+edit html type text data th field speakerdeckUsername name speakerdeckUsername,1
+edit html data th errors gravatarEmail Incorrect Gravatar email p,1
+show html span data th if generation commercialSupportEndDate null class none span,1
+edit info html type text data th field displayImagePath name displayImagePath,1
+show html data th if release isCurrent CURRENT span,1
+show html div data th if project bootConfig html and strings length project bootConfig html and strings length project overview html,1
+edit info html p class help is danger data th if fields hasErrors overviewSource data th errors overviewSource,1
+edit metadata html p class help is danger data th if fields hasErrors parentProjectId data th errors parentProjectId,1
+edit info html textarea class textarea data th classappend fields hasErrors displayTagLine is danger,1
+edit releases html td input class input type text data th field newRelease refDocUrl td,1
+edit support html td input class input type text data th field newGeneration ossSupportEnforcedEndDate placeholder Leave blank to use official policy,1
+edit info html input type checkbox data th field displayFeatured name displayFeatured Added to the Featured section on the projects page,1
+edit html td input class input type text data th field downloads downloadStat index downloadUrl td,1
+index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible p,1
+edit html td input class input type text data th field downloads downloadStat index variant td,1
+index html data th href project display siteUrl data th attr data groups project groups name,1
+edit html td input class input type text data th field downloads size variant td,1
+edit support html data th errors newGeneration name Name must end with x p td,1
+list html data th href download downloadUrl strong data th text download label download version Spring Tools strong br span class smaller thin tt none VSCode Marketplace span a,1
+edit support html td input class input type text data th field newGeneration initialReleaseDate placeholder,1
+edit html input class input data th classappend fields hasErrors twitterUsername is danger,1
+show html a data th href childProject display siteUrl,1
+show html span data th if generation commercialSupportEndDate null data th classappend generation commercialSupportEndDate isBefore now past data th text generation commercialSupportEndDate Jan span,1
+edit info html data th errors displayImagePath Incorrect path to project icon p,1
+edit info html input class input data th classappend fields hasErrors displaySortOrder is danger,1
+edit html data th classappend fields hasErrors gravatarEmail is danger,1
+index html a data th href project display siteUrl target blank,1
+show html i data th if isChildrenOpen proj subProjects null proj subProjects size,1
+edit samples html td input class input type text data th field newSample title value true td,1
+index html data th href project display siteUrl data th attr data groups project groups name,1
+list html data th href download downloadUrl data th text download version download label v STS Linux bit a,1
+show html data th if release isCurrent CURRENT span,1
+show html data th href https twitter com profile twitterUsername,1
+show html meta property og description data th content profile fullName profile jobTitle,1
+edit html p class help is danger data th if fields hasErrors gravatarEmail,1
+show html div class embedded video data th utext profile videoEmbeds div,1
+show html data th with isChildrenOpen proj equals project or proj equals project getParentProject and proj subProjects and proj subProjects size,1
+member html p class subtitle is has text link span data th text member twitterUsername Twitter span p,1
+show html i data th if isChildrenOpen proj subProjects null proj subProjects size,1
+edit html type text data th field gravatarEmail name gravatarEmail,1
+show html div data th unless strings isEmpty profile twitterUsername,1
+edit info html input class input data th classappend fields hasErrors displayImagePath is danger,1
+new html type text data th field parentProjectId name parentProjectId placeholder Parent project,1
+edit support html p class help is danger data th if generation invalidOssSupportEndDate Defined end date does not comply with policy p td,1
+edit html tr data th with size platform downloads size,1
+edit info html data th errors displaySortOrder Incorrect display order p,1
+edit support html data th errors newGeneration initialReleaseDate Date must use the format p td,1
+show html a data th unless strings isEmpty profile twitterUsername,1
+edit info html data th field displayTagLine name displayTagLine rows textarea,1
+index html img class proj icon data th src project display imagePath images projects spring svg,1
+show html div data th if project bootConfig html and strings length project bootConfig html and strings length project overview html,1
+index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you,1
+show html div data th utext project bootConfig html div,1
+edit support html p class help is danger data th if fields hasErrors newGeneration name,1
+show html data th href https twitter com intent user screen name profile twitterUsername,1
+edit support html td input class input type text data th field newGeneration name placeholder x or Name x,1
+edit info html p class help is danger data th if fields hasErrors displayImagePath,1
+edit info html p class help is danger data th if fields hasErrors displayTagLine data th errors displayTagLine,1
+show html a data th href proj display siteUrl data th text proj getName a,1
+edit html type text data th field twitterUsername name twitterUsername placeholder username,1
+edit html type text data th field jobTitle name jobTitle,1
+member html span data th text member jobTitle span,1
+index html p data th text project display tagLine Takes an opinionated view of building Spring applications and gets you up and running as quickly as possible p,1
+index html data th href project display siteUrl data th attr data groups project groups name,1
+edit info html input class input data th classappend fields hasErrors displaySiteUrl is danger,1
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+quickstart html p class mb Projects created by a href https start spring io class blue link animate start spring io a contain a href projects spring boot class blue link animate Spring Boot a a framework that makes Spring ready to work inside your app but without much code or configuration required Spring Boot is the quickest and most popular way to start Spring projects p,0
+quickstart html img data th src images icon guides start svg alt,0
+workspace xml caret line selection start line selection end line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+show html div class guide icon data th insert svg icons,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+quickstart html img data th src images icon guides start svg alt,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+index html div class guide icon data th insert svg icons,0
+icons html Guides start,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+layout html function setGTM w d s l i w l w l w l push gtm start new Date getTime event gtm js var f d getElementsByTagName s j d createElement s dl l dataLayer l l j async true j src https www googletagmanager com gtm js id i dl f parentNode insertBefore j f,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+layout html li a href https start spring io Spring Initializr svg class external link icon xmlns http www w org svg viewBox polyline points fill none stroke currentColor stroke miterlimit stroke width polyline points fill none stroke currentColor stroke miterlimit stroke width line x y x y fill none stroke currentColor stroke miterlimit stroke width svg a li,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+layout html li a tabindex href https start spring io Spring Initializr svg class external link icon xmlns http www w org svg viewBox polyline points fill none stroke currentColor stroke miterlimit stroke width polyline points fill none stroke currentColor stroke miterlimit stroke width line x y x y fill none stroke currentColor stroke miterlimit stroke width svg a li,0
+icons html div data th fragment icon guides start,0
+event driven html a class link animate blue href https cloud spring io spring cloud static spring cloud stream current reference html spring cloud stream html quick start Getting Started with Stream Processing a,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+quickstart html p class mb Use a class blue link animate href https start spring io start spring io a to create a web project In the Dependencies dialog search for and add the web dependency as shown in the screenshot Hit the Generate button download the zip and unpack it into a folder on your computer p,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+batch html a class button animate white uppercase href https start spring io span Start with Spring Initializr span a,0
+icons html class icon guides start,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+quickstart html img id init class mx auto block mb img dark data th src images quick img dark png alt The Spring Initializr start spring io being asked to generate a simple Spring Boot Web project Hitting the generate button will create an archive of a project which you can unpack and use to get started title The Spring Initializr start spring io being asked to generate a simple Spring Boot Web project Hitting the generate button will create an archive of a project which you can unpack and use to get started,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+microservices html p class mb With Spring Boot your microservices can start small and iterate fast That s why it has become the de facto standard for Java microservices Quickstart your project with Spring Initializr and then package as a JAR With Spring Boot s embedded server model you re ready to go in minutes p,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+index html p With a class blue link animate href projects spring boot Spring Boot a in your app just a few lines of code is all you need to start building services like a boss p p New to Spring Try our simple a class blue link animate href quickstart quickstart guide a p,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+layout html div class navbar start,0
+quickstart html img id init class mx auto block mb img light data th src images quick img png alt The Spring Initializr start spring io being asked to generate a simple Spring Boot Web project Hitting the generate button will create an archive of a project which you can unpack and use to get started title The Spring Initializr start spring io being asked to generate a simple Spring Boot Web project Hitting the generate button will create an archive of a project which you can unpack and use to get started,0
+serverless html a class button animate white uppercase href https start spring io span Start with Spring Initializr span a,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+cloud html a class button animate white uppercase antialiased href https start spring io span Start with Spring Initializr span a,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+quickstart html img data th src images icon guides start svg alt,0
+list html p The new generation of Spring Tools is largely built from scratch incorporating modern technologies and developer tooling architectures It runs in separate processes is built with performance in mind from the start and knows about the latest Spring technologies p,0
+workspace xml caret line selection start line selection end line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+icons html data icon icon guides start,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line selection start line selection end line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+layout html div class navbar end,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+layout html div end of main,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+sagan format xml setting id org eclipse jdt core formatter brace position for block in case value end of line,0
+sagan format xml setting id org eclipse jdt core formatter brace position for enum declaration value end of line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+sagan format xml setting id org eclipse jdt core formatter brace position for type declaration value end of line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+sagan format xml setting id org eclipse jdt core formatter brace position for anonymous type declaration value end of line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+sagan format xml setting id org eclipse jdt core formatter brace position for switch value end of line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+sagan format xml setting id org eclipse jdt core formatter insert new line at end of file if missing value do not insert,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+sagan format xml setting id org eclipse jdt core formatter brace position for enum constant value end of line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+sagan format xml setting id org eclipse jdt core formatter brace position for annotation type declaration value end of line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+quickstart html p What should happen if you add code name Amy code to the end of the URL p,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+sagan format xml setting id org eclipse jdt core formatter brace position for array initializer value end of line,0
+why spring html p Spring s flexible libraries are trusted by developers all over the world Spring delivers delightful experiences to millions of end users every day mdash whether that s a class blue link animate href https medium com netflix techblog netflix oss and spring boot coming full circle a streaming TV a a class blue link animate href https tech target com spring feign html online shopping a or countless other innovative solutions Spring also has contributions from all the big names in tech including Alibaba Amazon Google Microsoft and more p,0
+sagan format xml setting id org eclipse jdt core formatter brace position for method declaration value end of line,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+workspace xml caret line selection start line selection end line,0
+sagan format xml setting id org eclipse jdt core formatter brace position for block value end of line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+edit support html p class help months after end of OSS support or months after next generation whichever is last p td,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+sagan format xml setting id org eclipse jdt core formatter brace position for constructor declaration value end of line,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column selection start line selection start column selection end line selection end column,0
+workspace xml caret line column lean forward true selection start line selection start column selection end line selection end column,0
+guide html input id clone url ssh readonly readonly type text data th value guide sshUrl,0
+index html p class m With the a class blue link animate data th href quickstart Spring Quickstart a guide you ll build a classic Hello World endpoint p,0
+index html div class guide icon data th insert svg icons,0
+guide html a data th href guide githubUrl i class fab fa github i Go To Repo a,0
+guide html a class github download btn btn black uppercase data th href guide zipUrl Download ZIP a,0
+guide html html data th replace layout,0
+show html li data th each guide topicals,0
+index html div data th each tutorial tutorials class guide guide search half border box flex data th attr data filterable tutorial title tutorial description,0
+microservices html a class button animate uppercase mb data th href quickstart Try our quickstart guide a,0
+list html a class button transparent animate center ws nowrap px mb href https github com spring projects sts wiki strong class uppercase Project Wiki strong br span class smaller thin tt none User guide Installation FAQ etc span a,0
+show html div class guide icon data th insert svg icons,0
+index html p class guide description m Designed to be completed in hours these guides provide deeper in context explorations of enterprise application development topics leaving you ready to implement real world solutions p,0
+show html data th text guide getTitle strong,0
+guide html a class ci status desktop only data th href guide ciLatestUrl,0
+urlrewrite xml name Support renamed Spring XD guide name,0
+show html data th text guide getDescription span,0
+index html a class guide link bold blue link darken antialiased data th href guides gs guide name data th text guide title Building a RESTful Web Service a,0
+urlrewrite xml https urlrewritefilter googlecode com svn trunk src doc manual guide html,0
+index html script data th src js guide js script,0
+index html div id guide search no result class guide search no result No result found div,0
+guide html div class article body data th utext guide content Guide content,0
+guide html link rel stylesheet type text css data th href css guide css,0
+index html div data th each guide guides class guide guide search half border box flex data th attr data filterable guide title guide description guide projects,0
+index html div class guide icon data th insert svg icons,0
+index html p class guide description m Designed to be read and comprehended in an hour or less providing more wide ranging or subjective content than a getting started guide p,0
+show html data th text guide getDescription span,0
+show html li data th each guide tutorials,0
+index html div id guide search icon data th insert svg icons,0
+guide html button class copy button github data toggle tooltip data th attr data clipboard text guide cloneUrl button,0
+index html a class guide link bold blue link darken antialiased data th href guides topicals topical name data th text topical title Spring Security Architecture a,0
+urlrewrite xml name Renamed Circuit Breaker guide name,0
+index html p class guide description m Designed to be completed in minutes these guides provide quick hands on instructions for building the Hello World of any development task with Spring In most cases the only prerequisites are a JDK and a text editor p,0
+guide html img data th src guide ciStatusImageUrl,0
+show html li data th each guide guides,0
+index html a class guide link bold blue link darken antialiased data th href guides tutorials tutorial name data th text tutorial title Building REST services with Spring a,0
+show html div class guide icon data th insert svg icons,0
+index html div class guide icon data th insert svg icons,0
+index html div data th each topical topicals class guide guide search half border box flex data th attr data filterable topical title topical description,0
+show html data th text guide getTitle strong,0
+show html data th text guide getDescription span,0
+index html p class m data th text guide description Learn how to create a RESTful web service with Spring p,0
+index html input id guide search class border box placeholder Find a guide,0
+urlrewrite xml name Support renamed mongodb GS guide name,0
+show html wide ranging or subjective content than a getting started guide,0
+index html p class m data th text topical description Topical guide to Spring Security how the bits fit together and how they interact with Spring Boot p,0
+guide html input id clone url https readonly readonly type text data th value guide cloneUrl,0
+guide html a class gs guide import data th href guide cloneUrl Import into STS a,0
+show html div class guide icon data th insert svg icons,0
+guide html meta property og title data th content guide title,0
+show html div class guide icon data th insert svg icons,0
+guide html h class title data th text guide title Building a RESTful Web Service h,0
+guide html button class copy button github data toggle tooltip data th attr data clipboard text guide sshUrl button,0
+guide html title data th inline text guide typeLabel guide title title,0
+index html p With a class blue link animate href projects spring boot Spring Boot a in your app just a few lines of code is all you need to start building services like a boss p p New to Spring Try our simple a class blue link animate href quickstart quickstart guide a p,0
+guide html div data th utext guide tableOfContents TOC Content div,0
+show html data th text guide getTitle strong,0
+show html Designed to be completed in strong minutes strong a guide provides,0
+index html a data th href team profile username class team member avatar,0
+show html div class content container title data th inline text Blog Posts by profile name,0
+show html title data th inline text Team profile fullName title,0
+index html data th href profile twitterLink href data th if profile hasTwitterUsername,0
+show html div class container data th object profile data th attr data member id profile id,0
+edit html li class is active a data th href admin team profile username aria current page,0
+signin html this application to access your Github profile before you can use the,0
+index html a class team member social icon github small rel me data th href profile githubLink href,0
+show html link rel stylesheet type text css media all data th href css profile css,0
+show html meta property og image data th content profile avatarUrl s s,0
+show html div class content container title data th inline text Videos by profile name div,0
+show html script data th src js profile js script,0
+show html data th href profile githubLink href data th if profile hasGithubUsername,0
+sagan format xml profile,0
+index html section class team member container data th each profile profiles data member id profile id,0
+show html data th unless strings isEmpty profile avatarUrl,0
+edit html title data th inline text Admin Team Edit profile fullName title,0
+index html data th href profile speakerdeckLink href data th if profile hasSpeakerdeckUsername,0
+edit html form data th action formAction action method post data th object profile,0
+index html img data th src profile avatarUrl s s,0
+show html meta property og url data th content https www spring io team profile username,0
+show html div class member twitter wrapper data th object profile,0
+index html a data th href team profile username class team member name data th text profile name Member,0
+show html meta property og title data th content Spring Team profile fullName,0
+index html p class team member location data th text profile location Some hometown p,0
+show html data th href profile twitterLink href data th if profile hasTwitterUsername,0
+sagan format xml profile kind CodeFormatterProfile name sagan version,0
+show html div data th object profile data th attr data member id profile id,0
+signin html information like passwords from Github only the public profile,0
+edit html data th text profile username username a li,0
+index html data th if profile hasGithubUsername,0
+show html p data th text location data th unless strings isEmpty profile location,0
+shapes html div data th fragment header reactive,0
+full post html header data sec authorize fullyAuthenticated style padding bottom px,0
+reactive html div id midshape data th insert svg shapes,0
+microservices html div id midshape data th insert svg shapes,0
+shapes html class header cloud,0
+full post html header,0
+sagan format xml setting id org eclipse jdt core formatter indent body declarations compare to type header value true,0
+metropolis bold demo html div id header,0
+index html header,0
+shapes html div data th fragment header serverless,0
+show html header,0
+serverless html div id midshape data th insert svg shapes,0
+shapes html class header cloud,0
+maintenance html header,0
+layout html header,0
+index html header class meta data container,0
+shapes html class header microservices,0
+full post html header,0
+sagan format xml setting id org eclipse jdt core formatter indent body declarations compare to enum constant header value true,0
+cloud html div id midshape data th insert svg shapes,0
+maintenance html header,0
+batch html div id midshape data th insert svg shapes,0
+show html div class project header,0
+sagan format xml setting id org eclipse jdt core formatter indent body declarations compare to annotation declaration header value true,0
+event driven html div id midshape data th insert svg shapes,0
+index html header,0
+thank you html img id midshape data th src images header microservices svg alt,0
+show html header,0
+layout html header,0
+shapes html class header microservices,0
+metropolis regular demo html div id header,0
+show html div class member twitter header,0
+index html header class meta data container,0
+shapes html div data th fragment header microservices,0
+web applications html div id midshape data th insert svg shapes,0
+full post html header class meta data container,0
+sagan format xml setting id org eclipse jdt core formatter comment format header value false,0
+sagan format xml setting id org eclipse jdt core formatter indent body declarations compare to enum declaration header value true,0
+metropolis extrabold demo html div id header,0
+shapes html div data th fragment header batch,0
+event driven html div id hero class topics banner mb,0
+show html explorations of enterprise application development topics leaving you ready to,0
+microservices html div class topics half,0
+thank you html div id hero class topics banner mb,0
+cloud html div id hero class topics banner mb,0
+web applications html section class topics resources mb,0
+reactive html div class topics half,0
+serverless html div id hero class topics banner mb,0
+microservices html div class topics half,0
+batch html section class topics resources mb,0
+serverless html section class topics resources mb,0
+batch html div class topics half,0
+batch html div class topics half,0
+microservices html section class topics resources mb,0
+reactive html div id hero class topics banner mb,0
+cloud html section class topics resources mb,0
+index html p class guide description m Designed to be completed in hours these guides provide deeper in context explorations of enterprise application development topics leaving you ready to implement real world solutions p,0
+reactive html div class topics half,0
+web applications html div id hero class topics banner mb,0
+microservices html div id hero class topics banner mb,0
+event driven html section class topics resources mb,0
+batch html div id hero class topics banner mb,0
+event driven html p Spring Cloud Stream provides a second more specific binder solely for working with Kafka Streams This special binder still focuses on developer productivity but adds support for Kafka specific features like KStream KTable and GlobalKTable As with regular Spring Cloud Stream the binder also takes care of connecting to Kafka as well as creating configuring and maintaining the streams and topics a class blue link animate href https www confluent io blog spring for apache kafka deep dive part apache kafka spring cloud stream Learn more a p,0
+reactive html section class topics resources mb,0
+edit html li class is active a data th href admin tools platform id data th inline text aria current page Edit platform id a li,0
+index html li class is active a data th href admin projects aria current page Projects a li,0
+edit support html li class is active a data th href admin projects projectFormGenerations id aria current page Edit a li,0
+show html span class version label current data th if currentRelease isPresent,0
+show html div This page shows the current state of project releases and does not define the commercial support policy,0
+show html span class version label current,0
+why spring html p Our engineers care deeply about performance With Spring you ll notice fast startup fast shutdown and optimized execution by default Increasingly Spring projects also support the a class blue link animate href reactive reactive a nonblocking programming model for even greater efficiency Developer productivity is Spring s superpower Spring Boot helps developers build applications with ease and with far less toil than other competing paradigms Embedded web servers auto configuration and fat jars help you get started quickly and innovations like a class blue link animate href https docs spring io spring boot docs current reference html using spring boot html using boot devtools livereload LiveReload in Spring DevTools a mean developers can iterate faster than ever before You can even start a new Spring project in seconds with the Spring Initializr at a class blue link animate href https start spring io start spring io a p,0
+edit samples html li class is active a data th href admin projects project id aria current page Edit a li,0
+show html span class version label current,0
+index html li class is active a data th href admin tools aria current page Spring Tools a li,0
+new html li class is active a data th href admin projects project id aria current page Edit a li,0
+index html li class is active a data th href admin team aria current page Team a li,0
+edit html li class is active a data th href admin blog post id edit aria current page Edit Blog Post a li,0
+edit html li class is active a data th href admin team profile username aria current page,0
+edit releases html li class is active a data th href admin projects project id aria current page Edit a li,0
+microservices html a class link animate blue href https docs spring io spring boot docs current reference htmlsingle production ready metrics Get started with Micrometer on Spring Boot a,0
+edit metadata html li class is active a data th href admin projects project id aria current page Edit a li,0
+edit info html li class is active a data th href admin projects project id aria current page Edit a li,0
+index html li class is active a data th href admin blog aria current page Blog a li,0
+event driven html a class link animate blue href https cloud spring io spring cloud static spring cloud stream current reference html spring cloud stream html quick start Getting Started with Stream Processing a,0
+batch html a class blue link animate href https docs spring io spring batch docs current reference html index html Check out the docs a,0
+new html li class is active a data th href admin blog new aria current page New Post a li,0
+show html span class release display name data th text release version,0
+maintenance html div style display none,0
+show html span class release display name data th text release version,0
+quickstart html p class mt mb Popular choices include a class blue link animate href https www jetbrains com idea IntelliJ IDEA a a class blue link animate data th href tools Spring Tools a a class blue link animate href https code visualstudio com docs languages java Visual Studio Code a or a class blue link animate href https www eclipse org downloads packages Eclipse a and many more p,0
+support html h class h antialiased Binary downloads h,0
+list html data th each download eclipse downloads,0
+list html including downloads update site URLs references to the new and noteworthy pages and details of how to upgrade to a class blue link lighten href main Spring Tools a p,0
+list html data th each download vscode downloads,0
+show html data th content post author twitterUsername,0
+full post html a class comments data th attr data disqus identifier post id data th href post path disqus thread Comment a,0
+full post html a href http disqus com class dsq brlink comments powered by span class logo disqus Disqus span a,0
+full post html var disqus shortname disqusShortname no shortname,0
+index html data th href post path disqus thread Comment a,0
+index html a class comments data th attr data disqus identifier newestPost id,0
+full post html noscript Please enable JavaScript to view the a href http disqus com ref noscript comments powered by Disqus a noscript,0
+index html a class comments data th attr data disqus identifier post id,0
+full post html function disqus shortname document,0
+full post html injectScript disqus shortname disqus com count js,0
+full post html disqus shortname document,0
+index html data th href newestPost path disqus thread Comment a,0
+full post html var disqus identifier post id no id,0
+full post html injectScript disqus shortname disqus com embed js,0
+full post html section id disqus thread section,0
+full post html time class date pubdate data th datetime post publishAt data th text post formattedPublishDate June time,0
+posts table html td Publication date td,0
+index html time class date pubdate data th datetime newestPost publishAt,0
+edit html Incorrect date p,0
+show html time class date pubdate data th datetime post publishAt,0
+index html time class date pubdate data th datetime post publishAt,0
+index html time class date pubdate data th datetime newestPost publishAt,0
+index html time class date pubdate data th datetime newestPost publishAt,0
+full post html div class meta data icon icon blog icon calendar div,0
+show html div class meta data icon icon blog icon calendar div,0
+show html div class calendar releases,0
+edit info html span class icon is small i class far fa calendar check aria hidden true i span,0
+index html div class meta data icon icon blog icon calendar div,0
+edit samples html span class icon is small i class far fa calendar check aria hidden true i span,0
+index html div class meta data icon icon blog icon calendar div,0
+edit support html span class icon is small i class far fa calendar check aria hidden true i span,0
+edit metadata html span class icon is small i class far fa calendar check aria hidden true i span,0
+edit releases html span class icon is small i class far fa calendar check aria hidden true i span,0
+show html a href overview data toggle tab,0
+edit info html placeholder Documentation displayed in the overview tab on the project page,0
+show html div class project overview,0
+edit info html project overview p,0
+list html p Understanding and quickly navigating source code is essential for coding The new Spring Tools understands your Spring based source code and allows you to quickly get an overview and navigate to the important pieces of your Spring apps Finding Spring elements and navigating to them has never been easier p,0
+show html div class tab pane active id overview,0
+index html section id featured class flex jc between mb data th each project featured,0
+index html a class featured proj third rad shadow hover border dark bg white border box,0
+reactive html p class mb Project Reactor is a fully non blocking foundation with back pressure support included It s the foundation of the reactive stack in the Spring ecosystem and is featured in projects such as Spring WebFlux Spring Data and Spring Cloud Gateway br br a class blue link animate href https projectreactor io Learn more a p,0
+index html div id featured post data th if newestPost,0
+index html section id featured class flex jc between mb,0
+list html p The all new Spring Tools can be used in various coding environments ranging from Eclipse as a full featured integrated development environment to Visual Studio Code and Theia as lightweight code editors Continue to use your preferred environment and add great Spring tooling to it p,0
+index html h class h small uppercase thin wide data th if not lists isEmpty featured Featured Projects h,0
+layout html link rel manifest data th href manifest json,0
+workspace xml entry file file PROJECT DIR sagan site src test resources sagan site events html event json,0
+workspace xml entry file file PROJECT DIR sagan site src test resources sagan site events multi events json,0
+workspace xml entry file file PROJECT DIR sagan site src test resources sagan site guides pushTopical json,0
+workspace xml entry file file PROJECT DIR sagan site src test resources sagan site guides pushGettingStarted json,0
+workspace xml entry file file PROJECT DIR sagan site src test resources sagan site guides rest service json,0
+show html h class team member name data th text fullName Member Name h,0
+show html meta property og title data th content Spring Team profile fullName,0
+edit html title data th inline text Admin Team Edit profile fullName title,0
+show html title data th inline text Team profile fullName title,0
+show html img data th alt fullName class team member avatar data th src avatarUrl s s,0
+serverless html p The code java util function code package from core Java serves as the foundation of the programming model used by Spring Cloud Function In a nutshell Spring Cloud Function provides p,0
+cloud html p class mb Debugging distributed applications can be complex and take a long time For any given failure you might need to piece together traces of information from several independent services a class blue link animate href projects spring cloud sleuth Spring Cloud Sleuth a can instrument your applications in a predictable and repeatable way And when used in conjunction with a class blue link animate href https zipkin io Zipkin a you can zero in on any latency problems you might have p,0
+trademarks html The trademark is used in a manner consistent with this policy,0
+trademarks html because we prefer that our marks not be used to be rude about the Spring open source project or its,0
+trademarks html license do not address trademarks Spring Marks need to be used in a way consistent with trademark,0
+list html p The all new Spring Tools can be used in various coding environments ranging from Eclipse as a full featured integrated development environment to Visual Studio Code and Theia as lightweight code editors Continue to use your preferred environment and add great Spring tooling to it p,0
+index html a class comments data th attr data disqus identifier newestPost id,0
+index html a class comments data th attr data disqus identifier post id,0
+full post html a class comments data th attr data disqus identifier post id data th href post path disqus thread Comment a,0
+full post html var disqus identifier post id no id,0
+quickstart html p The code class no bg hello code method we ve added is designed to take a String parameter called code name code and then combine this parameter with the word code Hello code in the code This means that if you set your name to code Amy code in the request the response would be code Hello Amy code p,0
+quickstart html p class mb The last couple of lines here tell us that Spring has started Spring Boot s embedded Apache Tomcat server is acting as a webserver and is listening for requests on code class no bg localhost code port code class no bg code Open your browser and in the address bar at the top enter a class blue link animate href http localhost hello http localhost hello a You should get a nice friendly response like this p,0
+support html li class mb Fast response times li,0
+urlrewrite xml to type temporary redirect last true https www vmware com support policies security response html to,0
+metropolis bold demo html p The primary reason for this failure You are still using a version Firefox older than So upgrade already If that isn t it then you are very likely serving fonts from a different domain Firefox requires that all font assets be served from the same domain Lastly it is possible that you need to add WOFF to your list of MIME types if you are serving via IIS p,0
+metropolis extrabold demo html p The primary reason for this failure You are still using a version Firefox older than So upgrade already If that isn t it then you are very likely serving fonts from a different domain Firefox requires that all font assets be served from the same domain Lastly it is possible that you need to add WOFF to your list of MIME types if you are serving via IIS p,0
+metropolis regular demo html p The primary reason for this failure You are still using a version Firefox older than So upgrade already If that isn t it then you are very likely serving fonts from a different domain Firefox requires that all font assets be served from the same domain Lastly it is possible that you need to add WOFF to your list of MIME types if you are serving via IIS p,0
+layout html a class button is white data th href admin team authentication principal attributes login,0
+layout html span data th text authentication principal attributes login springcentral span,0
+show html Welcome span data th text authentication principal attributes name Emily Spring span,0
+guide html title data th inline text guide typeLabel guide title title,0
+full post html var disqus shortname disqusShortname no shortname,0
+sagan format xml setting id org eclipse jdt core formatter insert space before prefix operator value do not insert,0
+sagan format xml setting id org eclipse jdt core formatter insert space after prefix operator value do not insert,0
+full post html data th href admin blog id slug edit id post id slug slug Edit blog post a span,0
+trademarks html strong False or Misleading Statements strong You may not make false or misleading statements regarding your use of Spring e g we wrote the majority of the code or we are major contributors or we are committers,0
+vcs xml mapping directory vcs Git,0
+workspace xml property name nodejs npm path reset for default project value true,0
+event driven html p Both include template as a high level message handling abstraction and support message driven POJOs with a listener container p,0

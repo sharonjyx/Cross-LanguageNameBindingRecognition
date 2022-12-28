@@ -1,0 +1,308 @@
+resourceCache org powerstone acegi cache EhCacheBasedResourceCache
+org powerstone ca model RoleRight rightID role resource privilege inheritable
+select r from Role as left join rights rr where resource id
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+org powerstone workflow model WorkflowMeta flowMetaID flowFileInUse businessType flowProcessID flowFileVersions flowDeploies
+flowMeta businessType c out value flowMetaID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+flowMeta businessType c out value flowMetaID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+flowMeta businessType c out value flowMetaID
+org powerstone workflow model WorkflowMeta flowMetaID flowFileInUse businessType flowProcessID flowFileVersions flowDeploies
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+flowMeta businessType c out value flowMetaID
+flowMeta businessType c out value flowMetaID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+businessType typeID typeName tasksNum
+businessType typeID typeName
+org powerstone workflow model BusinessType typeID typeName workflowMetas
+businessType flowMetasNum 0 typeID typeName workflowMetas
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+businessType typeID typeName tasksNum
+businessType c out value typeID typeName
+org powerstone workflow model BusinessType typeID typeName workflowMetas
+businessType c out value typeID typeName
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+businessType typeID typeName tasksNum
+businessType c out value typeID typeName
+businessType typeID typeName tasksNum
+businessType typeID typeName tasksNum
+businessType1 typeID typeName tasksNum
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+businessType typeID typeName tasksNum
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+businessType1 typeID typeName tasksNum
+businessType c out value typeID typeName
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+businessType1 typeID typeName tasksNum
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+businessTypeForm error c out value status errorMessage Save Remove Cancel
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+user getContextPath group edit userName password confirmPass realName email
+user userName password realName email
+user getContextPath group edit userName password confirmPass realName email
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+userForm error c out value status errorMessage fmt message key global ok cancel ca change pass groupID pageTo user priv
+userForm error c out value status errorMessage fmt message key global ok cancel ca change pass groupID pageTo user priv
+org powerstone ca model Group groupID parentGroup groupName memo users rights childGroups
+org powerstone ca model Group groupID parentGroup groupName memo users rights childGroups
+org powerstone ca model Group groupID parentGroup groupName memo users rights childGroups
+org powerstone ca model Group groupID parentGroup groupName memo users rights childGroups
+group getContextPath user edit groupID groupName memo
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+user getContextPath group edit userName password confirmPass realName email
+user userName realName email
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+user userName password realName email
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+select theFP from FlowProc where flowProcID in fp FlowTask ft join flowProcTransaction flowProc flowDeploy flowDeployID and taskState not group by having count 0
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+workflowMeta flowMetaID flowProcessID flowFileInUse
+workflowMeta flowMetaID flowProcessID flowFileInUse
+flowMeta businessType c out value flowMetaID
+org powerstone workflow model WorkflowMeta flowMetaID flowFileInUse businessType flowProcessID flowFileVersions flowDeploies
+flowMeta businessType c out value flowMetaID
+flowMeta flowMetaID flowFileInUse
+workflowMeta flowMetaID flowProcessID flowFileInUse
+flowMeta flowMetaID flowFileInUse
+workflowMeta flowMetaID flowProcessID flowFileInUse
+org powerstone workflow model WorkflowMeta flowMetaID flowFileInUse businessType flowProcessID flowFileVersions flowDeploies
+workflowMeta flowMetaID flowProcessID flowFileInUse
+select theFP from FlowProc where flowProcID in fp FlowTask ft join flowProcTransaction flowProc flowDeploy flowDeployID and taskState not group by having count 0
+org powerstone workflow model FlowDeploy flowDeployID workflowMeta flowDeployName createTime currentState memo flowNodeBindings flowProcs
+flowDeploy flowDeployID flowDeployName memo
+select g from Group as left join rights gr where resource id
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+webModuleForm error c out value status errorMessage Save Cancel
+org powerstone ca model WebModule webModuleID webModuleName facePage status resources users
+webModule webModuleID webModuleName
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+user userName realName email
+currUser id userName realName
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+user getContextPath group edit userName password confirmPass realName email
+user userName password realName email
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+user getContextPath group edit userName password confirmPass realName email
+currUser id userName realName
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+user userName realName email
+user userName password realName email
+user getContextPath group edit userName password confirmPass realName email
+user getContextPath group edit userName password confirmPass realName email
+theDriver flowDriverID flowDriverName
+theDriver wfDriverInputParams wfDriverOutputParams flowDriverID
+driver getContextPath wf edit flowDriverID flowDriverName memo readURL writeURL contextPath
+org powerstone workflow model WorkflowDriver flowDriverID flowDriverName memo readURL writeURL contextPath wfDriverOutputParams wfDriverInputParams
+theDriver wfDriverInputParams wfDriverOutputParams flowDriverID
+org powerstone workflow model WorkflowDriver flowDriverID flowDriverName memo readURL writeURL contextPath wfDriverOutputParams wfDriverInputParams
+theDriver wfDriverInputParams wfDriverOutputParams flowDriverID
+theDriver wfDriverInputParams wfDriverOutputParams flowDriverID
+theDriver wfDriverInputParams wfDriverOutputParams flowDriverID
+select frp flowNodeBinding from FlowRolePerformer where roleID
+org powerstone workflow model FlowNodeBinding nodeBindingID flowDeploy workflowDriver flowNodeID performerRule performerDetail flowUserPerformers flowRolePerformers flowNodeOutputParamBindings flowNodeInputParamBindings
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+businessType typeID typeName tasksNum
+businessType typeID typeName tasksNum
+org powerstone workflow model BusinessType typeID typeName workflowMetas
+businessType typeName
+businessType c out value typeID typeName
+businessType1 typeID typeName tasksNum
+businessType typeID typeName
+businessType flowMetasNum 0 typeID typeName workflowMetas
+org powerstone ca model WebModule webModuleID webModuleName facePage status resources users
+currNode nodeID nodeName
+currNode nodeID nodeName
+currNode nodeID nodeName
+currNode nodeID nodeName
+theNode nodeName
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+org powerstone workflow model FlowProc flowProcID flowDeploy linkFlowProc startTime starterUserID flowProcRelativeDatas linkedFlowProcs flowProcTransactions
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+org powerstone workflow model FlowProc flowProcID flowDeploy linkFlowProc startTime starterUserID flowProcRelativeDatas linkedFlowProcs flowProcTransactions
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+org powerstone ca model Resource id webModule resourceID resourceName actionURL
+resource resourceID resourceName actionURL
+resource getContextPath manage edit resourceID resourceName actionURL
+org powerstone ca model Resource id webModule resourceID resourceName actionURL
+wFDriverOutputParamEnumeForm error status value c out errorMessage fmt message key global ok cancel
+driverOutput driverOutputParamID paramName paramAlias
+theOutputParam paramName paramAlias driverOutputParamID driverOutputParamEnumes
+theOutputParam paramName paramAlias driverOutputParamID driverOutputParamEnumes
+theOutputParam paramName paramAlias driverOutputParamID driverOutputParamEnumes
+org powerstone workflow model WFDriverOutputParam driverOutputParamID workflowDriver paramName paramAlias driverOutputParamEnumes
+wFDriverOutputParamEnumeForm error status value c out errorMessage fmt message key global ok cancel
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+nodeBinding nodeBindingID performerDetail isRule
+org powerstone workflow model FlowNodeBinding nodeBindingID flowDeploy workflowDriver flowNodeID performerRule performerDetail flowUserPerformers flowRolePerformers flowNodeOutputParamBindings flowNodeInputParamBindings
+org powerstone ca model Group groupID parentGroup groupName memo users rights childGroups
+group groupName
+group getContextPath user edit groupID groupName memo
+currRole
+role roleName
+role getContextPath manage edit roleID roleName memo
+org powerstone ca model Role roleID roleName memo users rights
+org powerstone ca model Resource id webModule resourceID resourceName actionURL
+org powerstone ca model Resource id webModule resourceID resourceName actionURL
+resource getContextPath manage edit resourceID resourceName actionURL
+resource resourceID resourceName actionURL
+org powerstone ca model Resource id webModule resourceID resourceName actionURL
+org powerstone workflow model WorkflowMeta flowMetaID flowFileInUse businessType flowProcessID flowFileVersions flowDeploies
+workflowMeta flowMetaID flowProcessID flowFileInUse
+flowMeta flowMetaID flowFileInUse
+flowMeta flowMetaID flowFileInUse
+workflowMeta flowMetaID flowProcessID flowFileInUse
+resource resourceID resourceName actionURL
+org powerstone ca model Resource id webModule resourceID resourceName actionURL
+resource getContextPath manage edit resourceID resourceName actionURL
+workflowDriver flowDriverName writeURL contextPath
+driver getContextPath wf edit flowDriverID flowDriverName memo readURL writeURL contextPath
+org powerstone workflow model WorkflowDriver flowDriverID flowDriverName memo readURL writeURL contextPath wfDriverOutputParams wfDriverInputParams
+theDriver flowDriverID flowDriverName
+theOutputParamEnume driverOutputParamEnumeID driverOutputParamEnumeValue
+wFDriverOutputParamEnume driverOutputParamEnumeValue
+org powerstone workflow model WFDriverOutputParamEnume driverOutputParamEnumeID wfDriverOutputParam driverOutputParamEnumeValue
+driverOutputEnume driverOutputParamEnumeID driverOutputParamEnumeValue
+nodeBinding nodeBindingID performerDetail isRule
+nodeBinding nodeBindingID performerDetail isRule
+nodeBinding nodeBindingID performerDetail isRule
+org powerstone workflow model FlowNodeBinding nodeBindingID flowDeploy workflowDriver flowNodeID performerRule performerDetail flowUserPerformers flowRolePerformers flowNodeOutputParamBindings flowNodeInputParamBindings
+nodeBinding nodeBindingID performerDetail isRule
+flowDeploy flowDeployName
+org powerstone workflow model FlowDeploy flowDeployID workflowMeta flowDeployName createTime currentState memo flowNodeBindings flowProcs
+flowDeploy flowDeployID flowDeployName memo
+flowFileInUse flowMetaName createdTime
+flowFileInUse flowMetaName
+flowFileInUse flowMetaName
+org powerstone workflow model FlowMetaFile flowFileID workflowMeta flowMetaName createdTime
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+acegiCacheManager org powerstone acegi cache AcegiCacheManagerFactoryBean targetBeanName
+driver getContextPath wf edit flowDriverID flowDriverName memo readURL writeURL contextPath
+org powerstone workflow model WorkflowDriver flowDriverID flowDriverName memo readURL writeURL contextPath wfDriverOutputParams wfDriverInputParams
+org powerstone workflow model WorkflowDriver flowDriverID flowDriverName memo readURL writeURL contextPath wfDriverOutputParams wfDriverInputParams
+workflowDriver flowDriverName writeURL contextPath
+org powerstone ca model UserToken logID token userID ipAddress logOnTime lastAccessTime
+org powerstone ca model UserToken logID token userID ipAddress logOnTime lastAccessTime
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+org powerstone workflow model NewTask id flowTask taskCandidateUserID
+select task from FlowTask join flowProcTransaction flowProc where flowProcID
+org powerstone workflow model WorkflowDriver flowDriverID flowDriverName memo readURL writeURL contextPath wfDriverOutputParams wfDriverInputParams
+flowDriver memo contextPath
+org powerstone workflow model WorkflowDriver flowDriverID flowDriverName memo readURL writeURL contextPath wfDriverOutputParams wfDriverInputParams
+driver getContextPath wf edit flowDriverID flowDriverName memo readURL writeURL contextPath
+webModule webModuleID webModuleName
+org powerstone ca model WebModule webModuleID webModuleName facePage status resources users
+webModule webModuleName
+acegiCacheManager org powerstone acegi cache AcegiCacheManagerFactoryBean targetBeanName
+org powerstone workflow service impl FlowMetaManagerImpl flowMetaDAO flowMetaFileDAO flowMetaFileStoreDAO businessTypeDAO
+org powerstone workflow service impl WorkflowDriverManagerImpl workflowDriverDAO
+businessType1 typeID typeName tasksNum
+businessType typeID typeName tasksNum
+businessType typeID typeName tasksNum
+theInputParam paramName paramAlias driverInputParamID
+driverInput driverInputParamID paramName paramAlias
+org powerstone workflow model WFDriverInputParam driverInputParamID workflowDriver paramName paramAlias
+theNode nodeName
+currNode nodeID nodeName
+currNode nodeID nodeName
+org powerstone workflow model WFDriverOutputParamEnume driverOutputParamEnumeID wfDriverOutputParam driverOutputParamEnumeValue
+theOutputParamEnume driverOutputParamEnumeID driverOutputParamEnumeValue
+driverOutputEnume driverOutputParamEnumeID driverOutputParamEnumeValue
+org powerstone ca model UserToken logID token userID ipAddress logOnTime lastAccessTime
+org powerstone ca model UserToken logID token userID ipAddress logOnTime lastAccessTime
+org powerstone ca model UserToken logID token userID ipAddress logOnTime lastAccessTime
+authenticationUtil org powerstone acegi util AuthenticationUtil accessDecisionVoter filterInvocationDefinitionSource
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model WorkflowDriver flowDriverID flowDriverName memo readURL writeURL contextPath wfDriverOutputParams wfDriverInputParams
+theDriver wfDriverInputParams wfDriverOutputParams flowDriverID
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+theDriver wfDriverInputParams wfDriverOutputParams flowDriverID
+org powerstone workflow model WorkflowDriver flowDriverID flowDriverName memo readURL writeURL contextPath wfDriverOutputParams wfDriverInputParams
+org powerstone workflow model FlowMetaFile flowFileID workflowMeta flowMetaName createdTime
+flowFileInUse flowMetaName createdTime
+theOutputParam paramName paramAlias driverOutputParamID driverOutputParamEnumes
+org powerstone workflow model WFDriverOutputParam driverOutputParamID workflowDriver paramName paramAlias driverOutputParamEnumes
+businessType flowMetasNum 0 typeID typeName workflowMetas
+org powerstone workflow model BusinessType typeID typeName workflowMetas
+org powerstone ca tags HasRightToDoTag hasRightToDo url alt
+org powerstone workflow model WorkflowMeta flowMetaID flowFileInUse businessType flowProcessID flowFileVersions flowDeploies
+org powerstone ca model UserToken logID token userID ipAddress logOnTime lastAccessTime
+org powerstone ca model UserToken logID token userID ipAddress logOnTime lastAccessTime
+org powerstone workflow model FlowProc flowProcID flowDeploy linkFlowProc startTime starterUserID flowProcRelativeDatas linkedFlowProcs flowProcTransactions
+org powerstone workflow model FlowNodeBinding nodeBindingID flowDeploy workflowDriver flowNodeID performerRule performerDetail flowUserPerformers flowRolePerformers flowNodeOutputParamBindings flowNodeInputParamBindings
+org powerstone workflow model FlowTaskRefuse id flowTask refuseFor refuseUser
+org powerstone workflow model WorkflowMeta flowMetaID flowFileInUse businessType flowProcessID flowFileVersions flowDeploies
+authenticationUtil org powerstone acegi util AuthenticationUtil accessDecisionVoter filterInvocationDefinitionSource
+org powerstone workflow model FlowNodeOutputParamBinding paramBindingID flowNodeBinding wfDriverOutputParam flowNodeParamID flowNodeOutputParamEnumeBindings
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+org powerstone workflow model FlowProcTransaction transactionID flowProc transactionState flowProcTransitions flowTasks
+org powerstone workflow model FlowProc flowProcID flowDeploy linkFlowProc startTime starterUserID flowProcRelativeDatas linkedFlowProcs flowProcTransactions
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowNodeOutputParamEnumeBinding paramEnumeBindingID flowNodeOutputParamBinding wfDriverOutputParamEnume nodeOutputParamEnume
+flowMetaFileStoreDAO org powerstone workflow dao jdbc FlowMetaFileDAOJDBC dataSource lobHandler
+org powerstone workflow model FlowNodeBinding nodeBindingID flowDeploy workflowDriver flowNodeID performerRule performerDetail flowUserPerformers flowRolePerformers flowNodeOutputParamBindings flowNodeInputParamBindings
+org powerstone workflow model FlowNodeBinding nodeBindingID flowDeploy workflowDriver flowNodeID performerRule performerDetail flowUserPerformers flowRolePerformers flowNodeOutputParamBindings flowNodeInputParamBindings
+org powerstone workflow model FlowProcRelativeData id flowProc flowNodeOutputParamBinding driverParamValue
+org powerstone ca model User id userName password realName sex email memo state groups roles rights webModules
+org powerstone workflow model FlowDeploy flowDeployID workflowMeta flowDeployName createTime currentState memo flowNodeBindings flowProcs
+from FlowMetaFile fmf order by flowFileID asc
+org powerstone workflow model FlowDeploy flowDeployID workflowMeta flowDeployName createTime currentState memo flowNodeBindings flowProcs
+org powerstone ca model UserToken logID token userID ipAddress logOnTime lastAccessTime
+org powerstone workflow service impl WorkflowEngineImpl procManager taskManager deployManager flowMetaManager flowDriverManager
+org powerstone workflow model FlowProcTransaction transactionID flowProc transactionState flowProcTransitions flowTasks
+acegiCacheManager org powerstone acegi cache AcegiCacheManagerFactoryBean targetBeanName
+org powerstone ca model Group groupID parentGroup groupName memo users rights childGroups
+org powerstone workflow model FlowProc flowProcID flowDeploy linkFlowProc startTime starterUserID flowProcRelativeDatas linkedFlowProcs flowProcTransactions
+org powerstone workflow model FlowProcTransaction transactionID flowProc transactionState flowProcTransitions flowTasks
+org powerstone ca model Group groupID parentGroup groupName memo users rights childGroups
+org powerstone workflow model FlowProc flowProcID flowDeploy linkFlowProc startTime starterUserID flowProcRelativeDatas linkedFlowProcs flowProcTransactions
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone ca model WebModule webModuleID webModuleName facePage status resources users
+authenticationService org powerstone acegi service DaoAuthenticationService dataSource loadUsersQuery authoritiesByUsernameQuery loadResourcesQuery authoritiesByResourceQuery
+org powerstone workflow model FlowMetaFileStore flowFileID previewImage workflowFile
+org powerstone workflow model FlowProcTransition id flowProcTransaction fromNodeID workflowTransitionID toNodeID
+org powerstone workflow model FlowProcTransition id flowProcTransaction fromNodeID workflowTransitionID toNodeID
+org powerstone workflow model FlowNodeOutputParamEnumeBinding paramEnumeBindingID flowNodeOutputParamBinding wfDriverOutputParamEnume nodeOutputParamEnume
+authenticationService org powerstone acegi service DaoAuthenticationService dataSource loadUsersQuery authoritiesByUsernameQuery loadResourcesQuery authoritiesByResourceQuery
+org powerstone workflow model FlowDeploy flowDeployID workflowMeta flowDeployName createTime currentState memo flowNodeBindings flowProcs
+org powerstone workflow model FlowTaskRefuse id flowTask refuseFor refuseUser
+org powerstone ca model UserToken logID token userID ipAddress logOnTime lastAccessTime
+org powerstone workflow model FlowNodeOutputParamEnumeBinding paramEnumeBindingID flowNodeOutputParamBinding wfDriverOutputParamEnume nodeOutputParamEnume
+authenticationService org powerstone acegi service DaoAuthenticationService dataSource loadUsersQuery authoritiesByUsernameQuery loadResourcesQuery authoritiesByResourceQuery
+org powerstone workflow model FlowProc flowProcID flowDeploy linkFlowProc startTime starterUserID flowProcRelativeDatas linkedFlowProcs flowProcTransactions
+org powerstone workflow service impl FlowMetaManagerImpl flowMetaDAO flowMetaFileDAO flowMetaFileStoreDAO businessTypeDAO
+authenticationService org powerstone acegi service DaoAuthenticationService dataSource loadUsersQuery authoritiesByUsernameQuery loadResourcesQuery authoritiesByResourceQuery
+org powerstone workflow model FlowNodeBinding nodeBindingID flowDeploy workflowDriver flowNodeID performerRule performerDetail flowUserPerformers flowRolePerformers flowNodeOutputParamBindings flowNodeInputParamBindings
+org powerstone workflow model FlowNodeBinding nodeBindingID flowDeploy workflowDriver flowNodeID performerRule performerDetail flowUserPerformers flowRolePerformers flowNodeOutputParamBindings flowNodeInputParamBindings
+org powerstone workflow model FlowTask taskID flowProcTransaction flowNodeBinding taskState createTime startTime overTime sendEmail taskUsers taskRoles taskAssigners newTasks taskRefuses
+org powerstone workflow model FlowProcTransition id flowProcTransaction fromNodeID workflowTransitionID toNodeID
+org powerstone workflow model FlowNodeInputParamBinding paramBindingID flowNodeBinding wfDriverInputParam flowNodeParamID
+filterDefinitionSource org powerstone acegi intercept web CacheBaseUrlDefinitionSource convertUrlToLowercaseBeforeComparison useAntPath acegiCacheManager
+filterDefinitionSource org powerstone acegi intercept web CacheBaseUrlDefinitionSource convertUrlToLowercaseBeforeComparison useAntPath acegiCacheManager
+org powerstone workflow model FlowProcTransaction transactionID flowProc transactionState flowProcTransitions flowTasks
+org powerstone workflow model FlowMetaFileStore flowFileID previewImage workflowFile

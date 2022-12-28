@@ -1,0 +1,54 @@
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu domain TodoList long serialVersionUID String listId name boolean rssAllowed Date lastUpdate SetTodo todos SetUser users
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain Todo long serialVersionUID String todoId TodoList todoList Date creationDate description int priority boolean completed completionDate dueDate User assignedUser notes hasNotes
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc RestoreTodoListModel String listId restoreChoice MultipartFile backupFile
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu domain User long serialVersionUID String login password verifyPassword firstName lastName email Date creationDate lastAccessDate boolean enabled dateFormat SetRole roles SetTodoList todoLists
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu web mvc AdministrationModel String action propertyStaticPath googleAnalyticsKey smtpHost smtpPort smtpUser smtpPassword smtpFrom searchLogin login
+tudu Constants String VERSION DATEFORMAT US SHORT FRENCH
